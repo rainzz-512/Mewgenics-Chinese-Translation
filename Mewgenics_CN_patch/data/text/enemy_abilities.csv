@@ -135,9 +135,13 @@ Wenn Zauberkonter bis zu deinem nächsten Zug nicht ausgelöst wurde, erhalte +2
 Se il controincantesimo non viene attivato entro il tuo prossimo turno, lo assorbi e ottieni +2 al Danno e +2 Aumento delle Statistiche.","Contra-ataca o próximo encantamento lançado por um inimigo.
 Se o contrafeitiço não for ativado no seu próximo turno, absorva-o para obter +2 de dano e +2 em todos os atributos.","反制敌人下一次施放的法术。
 如果反魔法术在你下一回合之前未被触发，
-则吸收该法术，获得+2伤害和+2所有属性提升。"
+
+则吸收该法术，
+获得+2伤害和+2所有属性提升。
+"
 EABILITY_BRAINMISSLE_NAME,Brain Missile,,Misil cerebral,Missile psy,Hirnrakete,Missile Mentale,Míssil Cerebral,脑导弹
-EABILITY_BRAINMISSLE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Feuere ein Geschoss mit unendlicher Reichweite ab, das nicht verfehlen kann.",Spara un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,发射一个不会失手的无限射程弹幕。
+EABILITY_BRAINMISSLE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Feuere ein Geschoss mit unendlicher Reichweite ab, das nicht verfehlen kann.",Spara un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,"发射一个不会失手的无限射程弹幕。
+"
 EABILITY_ACIDSHOT_NAME,Acid Shot,,Tiro ácido,Tir acide,Säureschuss,Colpo Acido,Disparo Ácido,酸液射击
 EABILITY_SUCK_NAME,Suck,,Succión,Aspiration,Sauger,Risucchio,Sugar,吸入
 EABILITY_SUCK_DESC,"Inhale a unit, then spit it out.",,Aspira a una unidad y luego la escupe.,"Aspire une unité, puis la recrache.",Atme eine Einheit ein und spucke sie anschließend aus.,Inala un'unita e poi la sputa via.,Inale uma unidade e então cuspa-a.,吸入一个单位，然后吐出。
