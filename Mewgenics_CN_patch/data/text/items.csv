@@ -2358,7 +2358,7 @@ ITEM_CLOVER_NAME,Clover,,Trébol,Trèfle,Kleeblatt,Trifoglio,Trevo,三叶草
 ITEM_CLOVER_DESC,Use: Gain +{aux} [img:lck] for the rest of the battle.,,Uso: Obtiene +{aux} [img:lck] durante el resto del combate.,Utilisation&nbsp;: [img:lck] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:lck].,Uso: Ottieni +{aux} alla [img:lck] per il resto della battaglia.,Uso: obtenha +{aux} de [img:lck] pelo resto da batalha.,"使用：
 在本次战斗中获得 +{aux} [img:lck]。"
 ITEM_COLORLESSSEAL_NAME,Void Seal,,Sello del vacío,Sceau du vide,Leerensiegel,Sigillo del Vuoto,Selo de Vácuo,虚空印章
-ITEM_COLORLESSSEAL_DESC,Use: Permanently turn into a Collarless cat.,,Uso: Se transforma para siempre en gato sin collar.,Utilisation&nbsp;: vous change en chat sans collier de façon permanente.,Benutzen: Werde dauerhaft zu einer klassenlosen Katze.,Uso: Ti trasformi permanentemente in un gatto Senza Collare.,Uso: torne-se permanentemente um gato sem coleira.,使用：永久变为无领猫。
+ITEM_COLORLESSSEAL_DESC,Use: Permanently turn into a Collarless cat.,,Uso: Se transforma para siempre en gato sin collar.,Utilisation&nbsp;: vous change en chat sans collier de façon permanente.,Benutzen: Werde dauerhaft zu einer klassenlosen Katze.,Uso: Ti trasformi permanentemente in un gatto Senza Collare.,Uso: torne-se permanentemente um gato sem coleira.,使用：永久变为无派系猫。
 ITEM_DEADHUMMINGBIRD_NAME,Dead Hummingbird,,Colibrí muerto,Colibri mort,Toter Kolibri,Colibrì Morto,Beija-Flor Morto,死蜂鸟
 ITEM_DEADHUMMINGBIRD_DESC,Use: Gain +20 [img:spd] and +50% Dodge Chance.,,Uso: Obtiene +20 [img:spd] y +50 % de probabilidad de esquiva.,Utilisation&nbsp;: [img:spd] +20&nbsp;et Chances d'esquive +50&nbsp;%.,Benutzen: Erhalte +20&nbsp;[img:spd] and +50&nbsp;% Ausweichchance.,Uso: Ottieni +20 alla [img:spd] e un +50% di probabilità di schivata.,Uso: obtenha +20 de [img:spd] e +50% de chance de esquiva.,"使用：
 获得 +20 [img:spd] 和 +50% 闪避几率。
@@ -3865,8 +3865,8 @@ ARMOR_CATWHISKERS_NAME,Ordinary Whiskers,,Bigotes corrientes,Moustaches ordinair
 ARMOR_CATWHISKERS_DESC,,,,,,,,
 ARMOR_CATCOLLAR_NAME,Mundane Collar,,Collar mundano,Collier ordinaire,Nichtssagendes Halsband,Collare Ordinario,Coleira Mundana,平凡的项圈
 ARMOR_CATCOLLAR_DESC,,,,,,,,
-SETBONUS_COLLARLESS_NAME,Collarless Set Bonus!,,¡Bonificación de conjunto sin collar!,Bonus d'ensemble&nbsp;: sans collier&nbsp;!,Setbonus: Klassenlos!,Bonus Set: Senza Collare!,Bônus de Conjunto Sem Coleira!,无领套装加成！
-SETBONUS_COLLARLESS_DESC,Collarless spells cost -1 mana to cast.,,Los hechizos sin collar cuestan -1 de maná.,Vos sorts sans collier coûtent -1&nbsp;mana.,Klassenlose Zauber kosten -1&nbsp;Mana.,Lanciare incantesimi Senza Collare costa -1 mana.,Encantamentos sem coleira custam -1 de mana para serem lançados.,"无领法术施放消耗减少1点法力值。
+SETBONUS_COLLARLESS_NAME,Collarless Set Bonus!,,¡Bonificación de conjunto sin collar!,Bonus d'ensemble&nbsp;: sans collier&nbsp;!,Setbonus: Klassenlos!,Bonus Set: Senza Collare!,Bônus de Conjunto Sem Coleira!,无派系套装加成！
+SETBONUS_COLLARLESS_DESC,Collarless spells cost -1 mana to cast.,,Los hechizos sin collar cuestan -1 de maná.,Vos sorts sans collier coûtent -1&nbsp;mana.,Klassenlose Zauber kosten -1&nbsp;Mana.,Lanciare incantesimi Senza Collare costa -1 mana.,Encantamentos sem coleira custam -1 de mana para serem lançados.,"无派系法术施放消耗减少1点法力值。
 "
 ,,,,,,,,
 ARMOR_COOLMASK_NAME,Cool Glasses,,Gafas molonas,Lunettes stylées,Coole Brille,Occhiali alla Moda,Óculos Maneiros,酷眼镜

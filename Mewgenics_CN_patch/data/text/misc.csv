@@ -270,7 +270,7 @@ HOUSEBOSS_COUNTDOWN_TOMORROW,Tomorrow!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!
 HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,！！！
 HOUSE_BUTTON_ENDDAY,End Day,,Terminar día,Fin de journée,Tag beenden,Fine giornata,Finalizar Dia,结束当天
 HOUSE_BUTTON_DEPART,Depart!,,Partir,À l'aventure&nbsp;!,Aufbrechen!,Partenza!,Partir!,出发！
-HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{weekday} {month} {day}
+HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{weekday} {month} {day}号
 HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}","{weekday} {month} {day}号, 年 {year}"
 HOUSE_DATE_MONDAY,Mo,,Lu,Lu,Mo,Lu,Seg,星期一
 HOUSE_DATE_TUESDAY,Tu,,Ma,Ma,Di,Ma,Ter,星期二
@@ -874,7 +874,7 @@ CAT_CLASS_TANK_DESC,Get in the way! Tanks are great at absorbing damage and push
 CAT_CLASS_THIEF_NAME,Thief,,Ladrón,Fourbe,Dieb,Ladro,Ladrão,盗贼
 CAT_CLASS_THIEF_DESC,"Attack from the shadows! Thiefs are great at evading hits, collecting coins, and striking from behind!",,"¡Ataca desde las sombras! Los ladrones se valen de su destreza para esquivar golpes, conseguir monedas y atacar por detrás.","Il attaque depuis les ombres&nbsp;! Les fourbes sont passés maîtres dans l'esquive, le vol et les attaques sournoises.","Greif aus den Schatten an! Diebe weichen am liebsten Treffern aus, sammeln Münzen aus und schlagen von hinten zu!","Attacca dall'ombra! I ladri sono bravissimi a schivare i colpi, raccogliere monete e colpire alle spalle!","Ataque pelas sombras! Ladrões são ótimos em evitar ataques, coletar moedas e atacar por trás!","从阴影中攻击！
 盗贼擅长躲避攻击、收集金币并从背后袭击！"
-CAT_CLASS_COLORLESS_NAME,Collarless,,Sin collar,Sans collier,Klassenlos,Senza Collare,Sem coleira,无领
+CAT_CLASS_COLORLESS_NAME,Collarless,,Sin collar,Sans collier,Klassenlos,Senza Collare,Sem coleira,无派系
 CAT_CLASS_COLORLESS_DESC,It's a cat!,,¡Es un gato!,C'est... juste un chat&nbsp;!,Eine normale Katze!,È un gatto!,É um gato!,它是一只猫！
 CAT_CLASS_MONK_NAME,Monk,,Monje,Moine,Mönch,Monaco,Monge,僧侣
 CAT_CLASS_MONK_DESC,A versatile combat master! Monks can switch between ranged and melee stances and attack twice per turn!,,¡Domina las artes marciales con versatilidad! Los monjes pueden alternar posturas a distancia con otras cuerpo a cuerpo y atacar dos veces por turno.,"Nul combattant n'est plus polyvalent&nbsp;! Les moines alternent entre attaques à distance et au corps-à-corps, et peuvent attaquer deux fois par tour.",Ein vielseitiger Kampfkünstler! Mönche können zwischen Fern- und Nahkampfhaltung wechseln und zweimal pro Zug angreifen!,Un maestro del combattimento versatile! I monaci possono passare dalla postura a distanza a quella corpo a corpo e attaccare due volte per turno!,Mestres do combate versátil! Monges podem alternar entre posturas à distância e corpo-a-corpo e atacar duas vezes por turno!,"多才多艺的战斗大师！
