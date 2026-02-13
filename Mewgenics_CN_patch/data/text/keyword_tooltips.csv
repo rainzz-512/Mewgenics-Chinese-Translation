@@ -357,8 +357,8 @@ KEYWORD_MARKED_DESC,"Incoming physical damage has 100% Crit Chance, ignores shie
 忽略护盾且不能闪避。"
 KEYWORD_MEATY_NAME,Meaty,,Carne jugosa,Bout de viande,Fleischig,Carnoso,Carnudo,多肉
 KEYWORD_MEATY_DESC,Turns into meat when it dies.,,Se transforma en carne al morir.,Se change en viande à sa mort.,"Einheit verwandelt sich in Fleisch, wenn sie stirbt.",Si trasforma in carne quando muore.,Transforma-se em carne ao morrer.,死亡时变成肉块。
-KEYWORD_MISSCHANCE_NAME,Miss Chance,,Probabilidad de fallo,Risques d'échec,Wahrscheinlichkeit zu verfehlen,Probabilità di mancare,Chance de Erro,闪避率
-KEYWORD_MISSCHANCE_DESC,Miss chance increased by {stacks}%.,,La probabilidad de fallo aumenta en un {stacks} %.,Risques d'échec +{stacks}&nbsp;%.,"Wahrscheinlichkeit, dass Angriffe verfehlen, ist um {stacks}&nbsp;% erhöht.",La probabilità di mancare aumenta del {stacks}%.,A chance de erro é aumentada em {stacks}%.,闪避率提高 {stacks}%。
+KEYWORD_MISSCHANCE_NAME,Miss Chance,,Probabilidad de fallo,Risques d'échec,Wahrscheinlichkeit zu verfehlen,Probabilità di mancare,Chance de Erro,失误率
+KEYWORD_MISSCHANCE_DESC,Miss chance increased by {stacks}%.,,La probabilidad de fallo aumenta en un {stacks} %.,Risques d'échec +{stacks}&nbsp;%.,"Wahrscheinlichkeit, dass Angriffe verfehlen, ist um {stacks}&nbsp;% erhöht.",La probabilità di mancare aumenta del {stacks}%.,A chance de erro é aumentada em {stacks}%.,失误率提高 {stacks}%。
 KEYWORD_MOVEMENTUP_NAME,Movement Up,,Movimiento aumentado,Déplacements (+),Bewegung hoch,Movimento +,Movimento Aumentado,移动提升
 KEYWORD_MOVEMENTUP_DESC,Basic movement range increased by {stacks}.,,El alcance del movimiento básico aumenta en {stacks}.,Portée de déplacement de base +{stacks}.,Bewegungsreichweite ist um {stacks} erhöht.,Il raggio di movimento base aumenta di {stacks}.,O alcance de movimento básico é aumentado em {stacks}.,基础移动范围增加 {stacks}。
 KEYWORD_MOVEMENTUP_DESC_STACKLESS,Increases your basic movement's range.,,Aumenta el alcance del movimiento básico.,Augmente votre portée de déplacement de base.,Erhöht deine Bewegungsreichweite.,Aumenta il raggio del tuo movimento base.,Aumenta seu alcance de movimento básico.,增加你的基础移动范围。

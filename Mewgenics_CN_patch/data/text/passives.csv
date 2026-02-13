@@ -3363,7 +3363,7 @@ You can't equip face armor. Gain an eyeball trinket.",,"+10 % de probabilidad d
 No se puede equipar armadura para la cara. Obtiene una baratija para el ojo.",Risques d'échec&nbsp;+10&nbsp;%. Vous ne pouvez pas porter d'équipement de visage. Vous gagnez un accessoire de globe oculaire.,"+10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.
 Du kannst keine Gesichtsbedeckung ausrüsten. Du erhältst einen Augapfel.","+10% di probabilità di mancare il bersaglio.
 Non puoi equipaggiare armatura facciale. Ottieni un ciondolo a forma di bulbo oculare.","+10% de chance de erro.
-Você não pode equipar armaduras de rosto. Obtenha um acessório de globo ocular.","+10% 闪避率。
+Você não pode equipar armaduras de rosto. Obtenha um acessório de globo ocular.","+10% 失误率。
 你无法装备面部护甲。
 获得眼球饰品。"
 DISORDER_OCD_NAME,Obsessive Compulsive Disorder,,Trastorno obsesivo compulsivo,Trouble obsessionnel compulsif,Zwangsstörung,Disturbo Ossessivo Compulsivo,Transtorno Obsessivo Compulsivo,强迫症
@@ -3383,7 +3383,7 @@ Du kannst keine Gesichtsbedeckungen ausrüsten.","Alla fine di ogni battaglia ot
 Non puoi equipaggiare un'armatura facciale.","No início de cada batalha, obtenha +10% de chance de crítico, +25% de dano crítico e 5% de chance de erro. Permanentemente.
 Você não pode equipar armaduras de rosto.","每场战斗结束时，
 永久获得+10%暴击率，
-+25%暴击伤害，和+5%闪避率。
++25%暴击伤害，和+5%失误率。
 
 你无法装备面部护甲。"
 DISORDER_DISTEMPERMAX_DESC,"+50% Miss Chance, +100% Crit Chance, +250% Crit Damage.
@@ -3391,7 +3391,7 @@ Your movement action is used randomly each turn.",,"+50 % de probabilidad de fa
 La acción de movimiento se usa al azar en cada turno.","Risques d'échec&nbsp;+50&nbsp;%, Chances de coup critique&nbsp;+100&nbsp;%, Dégâts critiques&nbsp;+250&nbsp;%. Votre action de déplacement est utilisée de manière aléatoire à chaque tour.","+50&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen, +100&nbsp;% kritische Trefferchance, +250&nbsp;% kritischer Trefferschaden.
 Du benutzt deine Bewegungsaktion in jedem Zug zufällig.","+50% di probabilità di mancare il bersaglio, +100% di probabilità di colpo critico, +250% al danno critico.
 La tua azione di movimento viene usata casualmente in ogni turno.","+50% de chance de erro, +100% de chance de crítico, +250% de dano crítico.
-Sua ação de movimento é utilizada aleatoriamente em cada turno.","+50% 闪避率，
+Sua ação de movimento é utilizada aleatoriamente em cada turno.","+50% 失误率，
 +100%暴击率，
 +250%暴击伤害。
 你的移动动作每回合随机使用。"
