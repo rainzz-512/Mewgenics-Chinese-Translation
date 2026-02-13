@@ -3222,7 +3222,7 @@ Se você finalizar seu turno com ataques básicos não utilizados, obtenha uma q
 
 获得等量的后空翻。"
 ARMOR_CHAMPIONSMASK_NAME,Champion's Mask,,Máscara de adalid,Masque de champion,Championmaske,Maschera del Campione,Máscara de Campeão,冠军面具
-ARMOR_CHAMPIONSMASK_DESC,Gain +1 [img:{str_aux}] until the end of the battle each time you kill a unit.,,Obtiene +1 [img:{str_aux}] hasta el final del combate cada vez que mata a una unidad.,[img:{str_aux}] +1&nbsp;jusqu'à la fin du combat chaque fois que vous tuez une unité.,"Erhalte bis zum Ende des Kampfes jedes Mal, wenn du eine Einheit tötest, +1&nbsp;[img:{str_aux}].","Ottieni +1 alla [img:{str_aux}] fino alla fine della battaglia, ogni volta che uccidi un'unità.",Obtenha +1 de [img:{aux}] até o final da batalha sempre que realizar uma baixa contra uma unidade.,"每次击杀单位时，
+ARMOR_CHAMPIONSMASK_DESC,Gain +1 [img:{str_aux}] until the end of the battle each time you kill a unit.,,Obtiene +1 [img:{str_aux}] hasta el final del combate cada vez que mata a una unidad.,[img:{str_aux}] +1&nbsp;jusqu'à la fin du combat chaque fois que vous tuez une unité.,"Erhalte bis zum Ende des Kampfes jedes Mal, wenn du eine Einheit tötest, +1&nbsp;[img:{str_aux}].","Ottieni +1 alla [img:{str_aux}] fino alla fine della battaglia, ogni volta che uccidi un'unità.",Obtenha +1 de [img:{str_aux}] até o final da batalha sempre que realizar uma baixa contra uma unidade.,"每次击杀单位时，
 直到战斗结束获得+1 [img:{str_aux}]。"
 ARMOR_CONJOINEDAMEOBA_NAME,Conjoined Ameoba,,Ameba conjunta,Paire d'amibes,Angewachsene Amöbe,Ameba Congiunta,Ameba Unida,连体变形虫
 ARMOR_CONJOINEDAMEOBA_DESC,"Brace 2. +2 Health Regen. Units that contact you are knocked back 2 tiles.
