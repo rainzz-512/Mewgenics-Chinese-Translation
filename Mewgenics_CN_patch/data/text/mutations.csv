@@ -5,7 +5,7 @@ MUTATION_BODY_309_DESC,Units that contact you get knocked back 2 tiles.,,Las uni
 MUTATION_BODY_312_DESC,Spawn a coin when you take damage.,,Genera una moneda al sufrir daño.,"Quand vous subissez des dégâts, une pièce apparaît.","Lasse eine Münze erscheinen, wenn du Schaden erleidest.",Generi una moneta quando subisci danno.,Gere uma moeda ao sofrer dano.,受到伤害时生成一枚金币。
 MUTATION_BODY_313_DESC,+1 Kinetic Spikes.,,+1 de pinchos cinéticos.,Pics cinétiques +1.,+1&nbsp;Kinetiknadeln.,+1 Spuntoni Cinetici.,+1 de espinhos cinéticos.,+1 动能尖刺。
 MUTATION_BODY_314_DESC,+2 Thorns.,,+2 de espinas.,Épines +2.,+2&nbsp;Dornen.,+2 Spine.,+2 de espinhos.,+2 荆棘。
-MUTATION_BODY_315_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+MUTATION_BODY_315_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 MUTATION_BODY_317_DESC,Immune to Heat Wave weather.,,Inmune a los efectos meteorológicos de las olas de calor.,Immunité aux vagues de chaleur.,Immun gegen Hitzewelle.,Immune alla situazione cliamtica Ondata di Calore.,Imunidade contra tempestades de calor.,免疫热浪天气。
 MUTATION_BODY_318_DESC,25% chance to spawn a Charmed Fly each turn.,,25 % de probabilidad de generar una mosca embrujada en cada turno.,25&nbsp;% de chances d'invoquer une mouche envoûtée à chaque tour.,"Je Zug 25&nbsp;% Wahrscheinlichkeit, dass eine freundliche Fliege erscheint.",25% di probabilità di generare una Mosca Ammaliata ogni turno.,25% de chance de gerar uma mosca enfeitiçada a cada turno.,"每回合有25%的几率生成一只魅惑苍蝇。
 "
@@ -39,7 +39,7 @@ MUTATION_EARS_316_DESC,You can see hidden things. 5% dodge chance.,,Puede ver co
 MUTATION_EARS_317_DESC,"Whenever you down a unit, you have a 10% chance to reanimate that unit with 50% HP.",,"Cuando abate a una unidad, tiene un 10 % de probabilidad de reanimarla con un 50 % de sus PS.","Quand vous tuez une unité, vous avez 10&nbsp;% de chances de la réanimer avec 50&nbsp;% de ses PV.","Immer, wenn eine Einheit durch dich in Ohnmacht fällt, besteht eine 10%ige Wahrscheinlichkeit, dass du diese Einheit mit 50&nbsp;% LP wiederbelebst.","Ogni volta che mandi KO un'unità, hai un 10% di probabilità di rianimarla con il 50% di PS.","Sempre que você derrubar uma unidade, obtenha uma chance de 10% de reanimá-la com 50% de PV.","每当你击倒一个单位时，
 有10%几率以50%生命值复活该单位。
 "
-MUTATION_EARS_318_DESC,You have Brace 1 while wet.,,Tiene 1 de refuerzo cuando esta unidad está mojada.,"Mouillé, vous bénéficiez de Garde +1.","Während du nass bist, erhältst du Wappnen&nbsp;1.",Hai Guardia 1 quando ti bagni.,Você possui preparação 1 ao se molhar.,你在湿润时拥有护甲 1。
+MUTATION_EARS_318_DESC,You have Brace 1 while wet.,,Tiene 1 de refuerzo cuando esta unidad está mojada.,"Mouillé, vous bénéficiez de Garde +1.","Während du nass bist, erhältst du Wappnen&nbsp;1.",Hai Guardia 1 quando ti bagni.,Você possui preparação 1 ao se molhar.,你在湿润时拥有坚毅 1。
 MUTATION_EARS_319_DESC,Gain +1 Charge when you take damage.,,Obtiene +1 de carga al sufrir daño.,Charge +1&nbsp;quand vous subissez des dégâts.,"Erhalte +1&nbsp;Ladung, wenn du Schaden erleidest.",Ottieni +1 Carica quando subisci danno.,Obtenha +1 carga ao sofrer dano.,受到伤害时获得 +1 充能。
 MUTATION_EARS_320_DESC,+1 Kinetic Spikes.,,+1 de pinchos cinéticos.,Pics cinétiques +1.,+1&nbsp;Kinetiknadeln.,+1 Spuntoni Cinetici.,+1 de espinhos cinéticos.,+1 动能尖刺。
 MUTATION_EARS_321_DESC,Units that contact you get knocked back 1 tile.,,Las unidades que entren en contacto con esta retroceden 1 casilla.,Les unités qui vous touchent subissent Recul +1.,"Einheiten, die dich berühren, werden 1&nbsp;Feld zurückgestoßen.",Le unità che ti toccano vengono respinte indietro di 1 casella.,Unidades que entram em contato com você são empurradas 1 espaço para trás.,接触到你的单位会被击退1格。
@@ -60,7 +60,7 @@ MUTATION_EARS_330_DESC,Thorns 1. 10% chance to inflict Immobile on units that co
 "
 MUTATION_EARS_331_DESC,Your basic attack has +1 Knockback.,,El ataque básico tiene +1 de retroceso.,Votre attaque de base bénéficie de Recul +1.,Dein Grundangriff hat +1&nbsp;Rückstoß.,Il tuo attacco base ha +1 Contraccolpo.,Seu ataque básico possui +1 de empurrão.,"你的基础攻击拥有 +1 击退。
 "
-MUTATION_EARS_332_DESC,Brace 1.,,1 de refuerzo.,Garde +1.,Wappnen&nbsp;1.,Guardia 1.,Preparação 1.,护甲 1。
+MUTATION_EARS_332_DESC,Brace 1.,,1 de refuerzo.,Garde +1.,Wappnen&nbsp;1.,Guardia 1.,Preparação 1.,坚毅 1。
 MUTATION_EARS_334_DESC,Spawn 1-3 more coins/scrap around the map on random tiles at the start of each battle.,,Genera 1-3 monedas/chatarra más en casillas del mapa al azar al inicio de cada combate.,Fait apparaître 1&nbsp;à 3&nbsp;pièces/ferrailles sur des cases aléatoires au début de chaque combat.,Lasse am Anfang jeden Kampfes 1&nbsp;– 3 zusätzliche Münzen/Schrott auf zufälligen Feldern erscheinen.,Generi 1-3 monete/rottami in più in giro per la mappa su caselle casuali all'inizio di ogni battaglia.,Gera 1-3 moedas/lixos a mais em espaços aleatórios do mapa no início de cada batalha.,"每场战斗开始时，
 在地图上随机格子生成1-3个额外的
 硬币/废品。"
@@ -123,7 +123,7 @@ MUTATION_EYES_308_DESC,+5% dodge chance.,,+5 % de probabilidad de esquiva.,Chan
 MUTATION_EYES_309_DESC,+2 corpse health.,,+2 de salud de cadáver.,PV de cadavre +2.,+2&nbsp;Leichenlebenspunkte.,+2 salute cadavere.,+2 de saúde de cadáveres.,+2 尸体生命值。
 MUTATION_EYES_310_DESC,+1 Health Regeneration,,+1 de regeneración de salud.,Régénération de PV +1.,+1&nbsp;Lebensregeneration.,+1 Rigenerazione Salute.,+1 de regeneração de saúde.,+1 生命值回复。
 MUTATION_EYES_311_DESC,You do not take extra damage from backstabs.,,Los ataques por la espalda no le infligen daño extra.,Vous ne subissez plus les dégâts bonus des attaques sournoises.,Du erleidest keinen zusätzlichen Schaden von Angriffen von hinten.,Non subisci danno aggiuntivo dai colpi alle spalle.,Você não sofre dano adicional de punhaladas.,你不会因背刺受到额外伤害。
-MUTATION_EYES_312_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+MUTATION_EYES_312_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 MUTATION_EYES_314_DESC,"When you are downed, spawn 3 Flies. +2 corpse health.",,"Cuando esta unidad está abatida, genera 3 moscas. +2 de salud de cadáver.","K.O., 3&nbsp;mouches sont invoquées. PV de cadavre +2.","Lasse 3&nbsp;Fliegen erscheinen, wenn du in Ohnmacht fällst. +2&nbsp;Leichenlebenspunkte.","Quando sei a terra, generi 3 Mosche. +2 salute cadavere.","Ao ficar inconsciente, gere 3 moscas. +2 de saúde de cadáveres.","当你倒地时，生成3只苍蝇。
 +2 尸体生命值。"
 MUTATION_EYES_315_DESC,+1 Kinetic Spikes.,,+1 de pinchos cinéticos.,Pics cinétiques +1.,+1&nbsp;Kinetiknadeln.,+1 Spuntoni Cinetici.,+1 de espinhos cinéticos.,+1 动能尖刺。
@@ -224,7 +224,7 @@ Deine Zauber kosten 1&nbsp;Mana weniger.","20% di probabilità di mancare il ber
 I tuoi incantesimi costano 1 mana in meno.","20% de chance de errar.
 Seus encantamentos custam 1 a menos de mana.","20% 几率未命中。
 你的法术消耗减少1点法力值。"
-MUTATION_HEAD_706_DESC,Brace 1.,,1 de refuerzo.,Garde +1.,Wappnen&nbsp;1.,Guardia 1,Preparação 1.,护甲 1。
+MUTATION_HEAD_706_DESC,Brace 1.,,1 de refuerzo.,Garde +1.,Wappnen&nbsp;1.,Guardia 1,Preparação 1.,坚毅 1。
 MUTATION_HEAD_900_DESC,+1 range. +1 reach.,,+1 de alcance. +1 de extensión.,"Portée +1, Allonge +1.",+1 Reichweite für Nah- und Fernkampfangriffe.,+1 al raggio d'azione. +1 alla portata.,+1 de alcance. +1 de envergadura.,+1 范围。+1 触及。
 MUTATION_HEAD_750_DESC,+1 Thorns.,,+1 de espinas.,Épines +1.,+1&nbsp;Dornen.,+1 Spine.,+1 de espinhos.,+1 荆棘。
 MUTATION_HEAD_753_DESC,You are immune to ice.,,Es inmune al hielo.,Immunité à la glace.,Du bist immun gegen Eis.,Sei immune al ghiaccio.,Você é imune a gelo.,你免疫冻结。
@@ -391,7 +391,7 @@ MUTATION_TAIL_341_DESC,Gain +1 Charge when you take damage.,,Obtiene +1 de carga
 MUTATION_TAIL_342_DESC,Spawn a Charmed Kitten familiar when you get downed.,,Genera un familiar gatito embrujado cuando cae en combate.,"Quand vous êtes mis K.O., un chaton envoûté de compagnie est invoqué.","Lasse einen freundlichen Katzenbegleiter erscheinen, wenn du in Ohnmacht fällst.",Generi un famiglio Gattino Ammaliato quando vai KO.,Gere um gatinho enfeitiçado ao ficar inconsciente.,濒死时生成一只魅惑小猫宠物。
 MUTATION_TAIL_703_DESC,Start each battle with Immobile 1.,,Empieza cada combate con 1 de inmovilización.,Vous débutez chaque combat avec Immobilisation +1.,Beginne jeden Kampf mit Unbeweglich&nbsp;1.,Inizi ogni battaglia con Immobilizzazione 1.,Inicie cada batalha com imobilidade 1.,每场战斗开始时获得固定 1。
 MUTATION_TAIL_704_DESC,Hunter abilities are also offered when you level up.,,También se ofrecen habilidades de cazador al subir de nivel.,Les compétences de sentinelle vous sont proposées quand vous montez de niveau.,"Wenn du ein Level aufsteigst, befinden sich unter deinen Auswahlmöglichkeiten auch Jägerfähigkeiten.",Ti vengono offerte anche le abilità del Cacciatore quando sali di livello.,Habilidades de caçador também são oferecidas ao subir de nível.,猎人技能在升级时也会被提供。
-MUTATION_TAIL_751_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+MUTATION_TAIL_751_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 MUTATION_TAIL_754_DESC,+1 Thorns.,,+1 de espinas.,Épines +1.,+1&nbsp;Dornen.,+1 Spine.,+1 de espinhos.,+1 荆棘。
 MUTATION_TAIL_755_DESC,Water does not slow movement.,,El agua no ralentiza el movimiento.,L'eau ne ralentit plus les déplacements.,Wasser verlangsamt dich nicht.,L'acqua non rallenta il movimento.,A água não diminui a velocidade do movimento.,水不会减慢移动。
 MUTATION_TAIL_756_DESC,+1 Bleed Thorns.,,+1 de espinas hemorrágicas.,Épines sanglantes +1.,+1&nbsp;Blutige Dornen.,+1 Spine Insanguinate.,+1 de espinhos de sangramento.,+1 流血荆棘。

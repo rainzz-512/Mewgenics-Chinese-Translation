@@ -519,14 +519,14 @@ PASSIVE_SPREADTHEPAIN2_DESC,Deal 2 extra damage with 100% crit chance the first 
 且 100% 暴击率。"
 PASSIVE_HARDEN_NAME,Harden,,Endurecimiento,Cuirasse,Härtner,Indurimento,Endurecimento,硬化
 PASSIVE_HARDEN_DESC,"When you gain [img:shield], also gain temporary Brace 1.",,"Cuando obtiene [img:shield], también obtiene 1 de refuerzo temporal.","Quand vous gagnez [img:shield], obtenez temporairement Garde&nbsp;+1.","Wenn du [img:shield] erhältst, erhältst du außerdem vorübergehend Wappnen&nbsp;1.","Quando ottieni [img:shield], ottieni anche Guardia temporanea 1.","Ao obter [img:shield], obtenha também preparação 1 temporariamente.","当你获得 [img:shield] 时，
-同时获得临时护甲 1。"
+同时获得临时坚毅 1。"
 PASSIVE_HARDEN2_DESC,"When you gain [img:shield], also gain temporary Brace 1.
 Gain +1 [img:shield] when you hit a unit with your basic attack.",,"Cuando obtiene [img:shield], también obtiene 1 de refuerzo temporal.
 Obtiene +1 [img:shield] cuando golpea a una unidad con el ataque básico.","Quand vous gagnez [img:shield], obtenez temporairement Garde&nbsp;+1. Gagnez [img:shield]&nbsp;+1&nbsp;quand vous touchez une unité avec votre attaque de base.","Wenn du [img:shield] erhältst, erhältst du außerdem vorübergehend Wappnen&nbsp;1.
 Erhalte +1&nbsp;[img:shield], wenn du eine Einheit mit deinem Grundangriff triffst.","Quando ottieni [img:shield], ottieni anche Guardia temporanea 1.
 Ottieni +1 allo [img:shield] quando colpisci un'unità con il tuo attacco base.","Ao obter [img:shield], obtenha também preparação 1 temporariamente.
 Obtenha +1 de [img:shield] ao golpear uma unidade com seu ataque básico.","当你获得 [img:shield] 时，
-同时获得临时护甲 1。
+同时获得临时坚毅 1。
 当你用基础攻击命中单位时，
 获得 +1 [img:shield]。"
 PASSIVE_IRONSKINTECHNIQUE_NAME,Iron Skin Technique,,Técnica de la piel de hierro,Peau de fer,Eisenhauttechnik,Tecnica della Pelle di Ferro,Técnica da Pele de Ferro,铁皮术
@@ -589,12 +589,12 @@ PASSIVE_RUNNINGJAB2_DESC,"When you end your movement, automatically use your bas
 PASSIVE_PERFECTTECHNIQUE_NAME,Perfect Technique,,Técnica perfecta,Technique parfaite,Perfekte Technik,Tecnica Perfetta,Técnica Perfeita,完美技艺
 PASSIVE_PERFECTTECHNIQUE_DESC,"While in ranged stance, You have +1 Range and +2 Magic Damage. While in melee stance, you have +1 Brace.",,"En una posición a distancia, tiene +1 de alcance y +2 de daño mágico. En una posición cuerpo a cuerpo, tiene +1 de refuerzo.","En posture de distance, vous obtenez Portée&nbsp;+1&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+1.",In Fernkampfhaltung hast du +1&nbsp;Reichweite und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +1&nbsp;Wappnen.,"Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione e +2 al Danno Magico. In posizione corpo a corpo, hai +1 Guardia.","Enquanto estiver na postura à distância, você possui +1 de alcance e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +1 de preparação.","处于远程姿态时，
 你获得+1 射程和+2 魔法伤害。
-处于近战姿态时，你获得+1 护甲。"
+处于近战姿态时，你获得+1 坚毅。"
 PASSIVE_PERFECTTECHNIQUE2_DESC,"While in ranged stance, You have +1 Range, +2 Kinetic Spikes, and +2 Magic Damage. While in melee stance, you have +2 Brace and +2 Health Regeneration.",,"En una posición a distancia, tiene +1 de alcance, +2 de daño mágico y +2 de pinchos cinéticos. En una posición cuerpo a cuerpo, tiene +2 de refuerzo y +2 de regeneración de salud.","En posture de distance, vous obtenez Portée&nbsp;+1, Pics cinétiques&nbsp;+2&nbsp;et Dégâts magiques&nbsp;+2. En posture de corps-à-corps, vous obtenez Garde&nbsp;+2&nbsp;et Régénération de santé&nbsp;+2.","In Fernkampfhaltung hast du +1&nbsp;Reichweite, +2&nbsp;Kinetiknadeln und +2&nbsp;magischen Schaden. In Nahkampfhaltung hast du +2&nbsp;Wappnen und +2&nbsp;Lebensregeneration.","Quando hai una postura a distanza, ottieni +1 al Raggio d'Azione, +2 Spine Cinetiche e +2 al Danno Magico. In posizione corpo a corpo, hai +2 Guardia e +2 Rigenerazione Salute.","Enquanto estiver na postura à distância, você possui +1 de alcance, +2 de espinhos cinéticos e +2 de dano mágico. Enquanto estiver na postura corpo-a-corpo, você possui +2 de preparação e +2 de regeneração de saúde.","处于远程姿态时，
 你获得+1 射程、
 +2 动能尖刺和+2 魔法伤害。
 处于近战姿态时，
-你获得+2 护甲和+2 生命恢复。"
+你获得+2 坚毅和+2 生命恢复。"
 PASSIVE_RAPIDFLOW_NAME,Rapid Flow,,Flujo rápido,Tourbillon,Rasanter Fluss,Flusso Rapido,Fluxo Rápido,极速流
 PASSIVE_RAPIDFLOW_DESC,"When you switch stances, do a spin attack that hits all adjacent units.",,"Al cambiar de postura, realiza un ataque giratorio que golpea a todas las unidades adyacentes.","Quand vous changez de posture, lancez une attaque tournoyante qui touche toutes les unités adjacentes.","Wenn du deine Haltung wechselst, führst du einen Wirbelangriff aus, der alle benachbarten Einheiten trifft.","Quando cambi postura, esegui un attacco rotante che colpisce tutte le unità adiacenti.","Ao trocar de postura, você realiza um ataque giratório que golpeia todas as unidades adjacentes.","当你切换姿态时，
 进行一次旋转攻击，攻击所有相邻单位。
@@ -937,8 +937,8 @@ PASSIVE_AVENGER2_DESC,"When an allied cat is downed, gain All Stats Up 2, heal 5
 回复最大生命值的 50%，
 并获得额外回合。"
 PASSIVE_SCARS_NAME,Scars,,Cicatrices,Balafres,Narben,Cicatrici,Cicatrizes,疤痕
-PASSIVE_SCARS_DESC,+1 Brace.,,+1 de refuerzo.,Garde&nbsp;+1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
-PASSIVE_SCARS2_DESC,+3 Brace.,,+3 de refuerzo.,Garde&nbsp;+3.,+3&nbsp;Wappnen.,+3 alla Guardia.,+3 de preparação.,+3 护甲。
+PASSIVE_SCARS_DESC,+1 Brace.,,+1 de refuerzo.,Garde&nbsp;+1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
+PASSIVE_SCARS2_DESC,+3 Brace.,,+3 de refuerzo.,Garde&nbsp;+3.,+3&nbsp;Wappnen.,+3 alla Guardia.,+3 de preparação.,+3 坚毅。
 PASSIVE_HULKUP_NAME,Hulk Up,,Musculitos,Rogne,Auftürmer,Come Hulk,Enfurecimento,激怒
 PASSIVE_HULKUP_DESC,"When you take damage, gain +2 [img:spd].",,"Al sufrir daño, obtiene +2 [img:spd].",[img:spd]&nbsp;+2&nbsp;quand vous subissez des dégâts.,"Erhalte +2&nbsp;[img:spd], wenn du Schaden erleidest.","Quando subisci danno, ottieni +2 alla [img:spd].","Ao sofrer dano, obtenha +2 de [img:spd].","当你受到伤害时，获得 +2 [img:spd]。
 "
@@ -1008,7 +1008,7 @@ PASSIVE_SKULLSMASH_DESC,Your basic attack inflicts Bruise.,,El ataque básico in
 PASSIVE_SKULLSMASH2_DESC,Your basic attack inflicts Bruise 2.,,El ataque básico inflige 2 de moratón.,Vos attaques de base infligent Contusion&nbsp;+2.,Dein Grundangriff verursacht Beulen&nbsp;2.,Il tuo attacco base infligge Livido 2.,Seu ataque básico aplica contusão 2.,你的普通攻击造成2点挫伤。
 PASSIVE_TURTLESTYLE_NAME,Turtle Style,,Estilo de tortuga,Style tortue,Schildkrötenstil,Stile da Tartaruga,Estilo da Tartaruga,龟派
 PASSIVE_TURTLESTYLE_DESC,,,,,,,,
-PASSIVE_TURTLESTYLE2_DESC,+2 Brace,,+2 de refuerzo.,Garde&nbsp;+2.,+2&nbsp;Wappnen.,+2 alla Guardia.,+2 de preparação.,+2 护甲
+PASSIVE_TURTLESTYLE2_DESC,+2 Brace,,+2 de refuerzo.,Garde&nbsp;+2.,+2&nbsp;Wappnen.,+2 alla Guardia.,+2 de preparação.,+2 坚毅
 PASSIVE_OVERPOWERED_NAME,OVERPOWERED!!!,,¡Empoderamiento!,SURPUISSANCE&nbsp;!,IMBA!!!,SUPERPOTENZA!!!,PODER!!!,过于强大！！！
 PASSIVE_OVERPOWERED_DESC,"Excess damage you deal to units makes them explode, dealing the excess damage to units around it, except for you.",,El exceso de daño que inflige a las unidades las hace explotar. Ese exceso se reparte entre las unidades de alrededor (excepto esta).,"Le surplus de dégâts que vous infligez aux unités les fait exploser, infligeant les dégâts en trop aux unités adjacentes, sauf vous.","Überschüssiger Schaden, den du verursachst, lässt Einheiten explodieren. Benachbarte Einheiten außer dir erleiden Schaden in dieser Höhe.",Il danno in eccesso che infliggi fa esplodere le unità; l'esplosione a sua volta infligge il danno in eccesso alle unità nei tuoi pressi (ma non a te).,"O dano em excesso que você causa a unidades faz com que elas explodam, causando o dano em excesso a unidades ao redor, exceto você.","你对单位造成的超出伤害会使它们爆炸，
 
@@ -1020,9 +1020,9 @@ PASSIVE_OVERPOWERED2_DESC,"Excess damage you deal to units makes them explode, d
 但不包括你。"
 PASSIVE_FIGHTME_NAME,Underdog,,Perdedor,Intrépide,Außenseiter,Pronostici Nefasti,Azarão,弱者逆袭
 PASSIVE_FIGHTME_DESC,You have +2 [img:str] and +1 Brace for each enemy adjacent to you.,,Obtiene +2 [img:str] y +1 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+2&nbsp;et Garde&nbsp;+1&nbsp;pour chaque ennemi adjacent.,Du erhältst +2&nbsp;[img:str] und +1&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +2 alla [img:str] e +1 alla Guardia per ogni nemico adiacente a te.,Você possui +2 de [img:str] e +1 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，
-你获得+2 [img:str] 和 +1 护甲。"
+你获得+2 [img:str] 和 +1 坚毅。"
 PASSIVE_FIGHTME2_DESC,You have +3 [img:str] and +2 Brace for each enemy adjacent to you.,,Obtiene +3 [img:str] y +2 de refuerzo por cada enemigo adyacente a esta unidad.,[img:str]&nbsp;+3&nbsp;et Garde&nbsp;+2&nbsp;pour chaque ennemi adjacent.,Du erhältst +3&nbsp;[img:str] und +2&nbsp;Wappnen für jeden benachbarten Gegner.,Ottieni +3 alla [img:str] e +2 alla Guardia per ogni nemico adiacente a te.,Você possui +3 de [img:str] e +2 de preparação para cada inimigo adjacente.,"每有一个敌人与你相邻，
-你获得+3 [img:str] 和 +2 护甲。"
+你获得+3 [img:str] 和 +2 坚毅。"
 PASSIVE_MATHQ_NAME,Math?,,¿Matemáticas?,Des maths&nbsp;?,Mathe?,Matematica?,Matemática?,数学？
 PASSIVE_MATHQ_DESC,"Your spells cost 3 mana to cast, but each can be cast only once per turn.",,"Lanzar sus hechizos cuesta 3 de maná, pero cada uno solo se puede lanzar una vez por turno.","Vos sorts coûtent 3&nbsp;mana, mais vous ne pouvez les lancer qu'une fois par tour.","Deine Zauber kosten 3&nbsp;Mana, können aber nur einmal pro Zug gewirkt werden.","Lanciare i tuoi incantesimi costa 3 mana, ma ognuno può essere lanciato solo una volta per turno.","Seus encantamentos custam 3 de mana para serem lançados, mas cada um deles só pode ser lançado uma vez por turno.","你的法术施放消耗3点法力值，
 但每个法术每回合只能施放一次。
@@ -1231,17 +1231,16 @@ Wenn du Schaden erleidest, erhältst du vorübergehend +1&nbsp;Wappnen bis zum A
 Quando subisci danno, ottieni +1 a Guardia temporanea fino all'inizio del tuo prossimo turno.","+1 de preparação.
 Ao sofrer dano, obtenha +1 de preparação temporária até o início do seu próximo turno.","+1 护甲。
 当你受到伤害时，
-直到下回合开始你获得 +1 临时护甲。
+直到下回合开始你获得 +1 临时坚毅。
 "
 PASSIVE_BARKSKIN2_DESC,"+1 Brace.
 When you take damage, gain +2 temporary Brace and +2 temporary Thorns until the start of your next turn.",,"+1 de refuerzo.
 Al sufrir daño, obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno.","Garde&nbsp;+1. Quand vous subissez des dégâts, gagnez temporairement Garde&nbsp;+2&nbsp;et Épines&nbsp;+2&nbsp;jusqu'au début de votre prochain tour.","+1&nbsp;Wappnen.
 Wenn du Schaden erleidest, erhältst du vorübergehend +2&nbsp;Wappnen und +2&nbsp;Dornen bis zum Anfang deines nächsten Zuges.","+1 alla Guardia.
 Quando subisci danno, ottieni +2 a Guardia temporanea e +2 Spine temporanee fino all'inizio del tuo prossimo turno.","+1 de preparação.
-Ao sofrer dano, obtenha +2 de preparação temporária e +2 de espinhos temporários até o início do seu próximo turno.","+1 护甲。
+Ao sofrer dano, obtenha +2 de preparação temporária e +2 de espinhos temporários até o início do seu próximo turno.","+1 坚毅。
 当你受到伤害时，
-直到下回合开始获得 +2 临
-时护甲和 +2 临时荆棘。"
+直到下回合开始获得 +2 临时坚毅和 +2 临时荆棘。"
 PASSIVE_LOVESONG_NAME,Love Song,,Canción de amor,Chanson d'amour,Liebeslied,Canzone d'Amore,Canção de Amor,情歌
 PASSIVE_LOVESONG_DESC,"Your basic action has +2 area, and heals 1 additional HP.",,La acción básica tiene +2 de área y devuelve 1 PS extra.,Votre action de base dispose de zone&nbsp;+2&nbsp;et soigne 1&nbsp;PV supplémentaire.,Deine Grundaktion hat +2&nbsp;Fläche und heilt 1 zusätzlichen LP.,La tua azione base ha +2 di area e cura 1 PS aggiuntivo.,Sua ação básica possui +2 de área e cura 1 PV adicional.,"你的基础行动范围 +2，
 并额外治疗 1 点生命值。"
@@ -1370,10 +1369,10 @@ PASSIVE_BUDDYSYSTEM2_DESC,"When you lose [img:divineshield], all your familiars 
 当你的乌鸦失去 [img:divineshield] 时，
 获得 +1 [img:divineshield]。"
 PASSIVE_FLOWERPOWER_NAME,Flower Power,,Poder floral,Pouvoir des fleurs,Flower Power,Potere Floreale,Poder Floral,花之力
-PASSIVE_FLOWERPOWER_DESC,"Units on flower tiles have +2 [img:str] and +2 Brace. When you move, plant flowers on the tile you moved from.",,"Las unidades en casillas de flores tienen +2 [img:str] y +2 de refuerzo. Cuando se mueven, plantan flores en la casilla de partida.","Les unités sur des cases de fleurs obtiennent [img:str]&nbsp;+2&nbsp;et Garde&nbsp;+2. Quand vous vous déplacez, plantez des fleurs sur la case que vous venez de quitter.","Einheiten auf Blumenfeldern erhalten +2&nbsp;[img:str] und +2&nbsp;Wappnen. Pflanze auf dem Feld, auf dem du vorher standest, Blumen, wenn du dich bewegst.","Le unità sulle caselle floreali ottengono +2 alla [img:str] e +2 alla Guardia. Quando ti muovi, pianti fiori sulla casella da cui hai effettuato il movimento.","Unidades em espaços de flores possuem +2 de [img:str] e +2 de preparação. Ao se mover, plante flores no espaço em que você estava.","花朵格上的单位获得 +2 [img:str] 和 +2 护甲。
+PASSIVE_FLOWERPOWER_DESC,"Units on flower tiles have +2 [img:str] and +2 Brace. When you move, plant flowers on the tile you moved from.",,"Las unidades en casillas de flores tienen +2 [img:str] y +2 de refuerzo. Cuando se mueven, plantan flores en la casilla de partida.","Les unités sur des cases de fleurs obtiennent [img:str]&nbsp;+2&nbsp;et Garde&nbsp;+2. Quand vous vous déplacez, plantez des fleurs sur la case que vous venez de quitter.","Einheiten auf Blumenfeldern erhalten +2&nbsp;[img:str] und +2&nbsp;Wappnen. Pflanze auf dem Feld, auf dem du vorher standest, Blumen, wenn du dich bewegst.","Le unità sulle caselle floreali ottengono +2 alla [img:str] e +2 alla Guardia. Quando ti muovi, pianti fiori sulla casella da cui hai effettuato il movimento.","Unidades em espaços de flores possuem +2 de [img:str] e +2 de preparação. Ao se mover, plante flores no espaço em que você estava.","花朵格上的单位获得 +2 [img:str] 和 +2 坚毅。
 
 移动时，在你离开的格子上种花。"
-PASSIVE_FLOWERPOWER2_DESC,"Units on flower tiles have +2 [img:str] and +2 Brace. When you move, plant flowers on all tiles you move through.",,"Las unidades en casillas de flores tienen +2 [img:str] y +2 de refuerzo. Cuando se mueven, plantan flores en todas las casillas que atraviesan.","Les unités sur des cases de fleurs obtiennent [img:str]&nbsp;+2&nbsp;et Garde&nbsp;+2. Quand vous vous déplacez, plantez des fleurs sur toutes les cases que vous traversez.","Einheiten auf Blumenfeldern erhalten +2&nbsp;[img:str] und +2&nbsp;Wappnen. Pflanze auf alle Felder, über die du dich bewegst, Blumen.","Le unità sulle caselle floreali ottengono +2 alla [img:str] e +2 alla Guardia. Quando ti muovi, pianti fiori su tutte le caselle su cui ti muovi.","Unidades em espaços de flores possuem +2 de [img:str] e +2 de preparação. Ao se mover, plante flores em todos os espaços pelos quais você se mover.","花朵格上的单位获得 +2 [img:str] 和 +2 护甲。
+PASSIVE_FLOWERPOWER2_DESC,"Units on flower tiles have +2 [img:str] and +2 Brace. When you move, plant flowers on all tiles you move through.",,"Las unidades en casillas de flores tienen +2 [img:str] y +2 de refuerzo. Cuando se mueven, plantan flores en todas las casillas que atraviesan.","Les unités sur des cases de fleurs obtiennent [img:str]&nbsp;+2&nbsp;et Garde&nbsp;+2. Quand vous vous déplacez, plantez des fleurs sur toutes les cases que vous traversez.","Einheiten auf Blumenfeldern erhalten +2&nbsp;[img:str] und +2&nbsp;Wappnen. Pflanze auf alle Felder, über die du dich bewegst, Blumen.","Le unità sulle caselle floreali ottengono +2 alla [img:str] e +2 alla Guardia. Quando ti muovi, pianti fiori su tutte le caselle su cui ti muovi.","Unidades em espaços de flores possuem +2 de [img:str] e +2 de preparação. Ao se mover, plante flores em todos os espaços pelos quais você se mover.","花朵格上的单位获得 +2 [img:str] 和 +2 坚毅。
 
 移动时，在你经过的所有格子上种花。"
 PASSIVE_SUICIDESQUAD_NAME,Suicide Squad,,Escuadrón suicida,Suicide Squad,Selbstmordkommando,Squadra Suicida,Esquadrão Suicida,自杀小队
@@ -1529,8 +1528,8 @@ Unidades empurradas por você empurram outras unidades mais longe.","你的普�
 你造成的所有击退效果增加2且
 造成额外+1点伤害。"
 PASSIVE_PROTECTIVE_NAME,Protective,,Amparo,Égide,Beschützerisch,Protezione,Proteção,防护
-PASSIVE_PROTECTIVE_DESC,Your allies have Brace 1.,,Los aliados obtienen 1 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+1.,Deine Verbündeten erhalten Wappnen&nbsp;1.,I tuoi alleati hanno Guardia 1.,Seus aliados possuem preparação 1.,你的盟友拥有护甲 1。
-PASSIVE_PROTECTIVE2_DESC,Your allies have Brace 2.,,Los aliados obtienen 2 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+2.,Deine Verbündeten erhalten Wappnen&nbsp;2.,I tuoi alleati hanno Guardia 2.,Seus aliados possuem preparação 2.,你的盟友拥有护甲 2。
+PASSIVE_PROTECTIVE_DESC,Your allies have Brace 1.,,Los aliados obtienen 1 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+1.,Deine Verbündeten erhalten Wappnen&nbsp;1.,I tuoi alleati hanno Guardia 1.,Seus aliados possuem preparação 1.,你的盟友拥有坚毅 1。
+PASSIVE_PROTECTIVE2_DESC,Your allies have Brace 2.,,Los aliados obtienen 2 de refuerzo.,Vos alliés bénéficient de Garde&nbsp;+2.,Deine Verbündeten erhalten Wappnen&nbsp;2.,I tuoi alleati hanno Guardia 2.,Seus aliados possuem preparação 2.,你的盟友拥有坚毅 2。
 PASSIVE_WRESTLEMANIAC_NAME,Wrestlemaniac,,Lucha libre,Fan de catch,Wrestlemaniac,Wrestlemania,Luta-Livre,摔跤狂人
 PASSIVE_WRESTLEMANIAC_DESC,"Your basic attack becomes Suplex when adjacent to enemies.
 You gain the ability Toss.",,"El ataque básico se convierte en Súplex cuando está junto a enemigos.
@@ -1581,7 +1580,7 @@ PASSIVE_WIDELOAD_DESC,"When an adjacent ally is targeted by an enemy, swap place
 与盟友交换位置。"
 PASSIVE_WIDELOAD2_DESC,"When an adjacent ally is targeted by an enemy, gain +1 temp Thorns and temp Brace, then swap places with the ally.",,"Cuando un enemigo marca como objetivo a un aliado adyacente, obtiene +1 de espinas temporales y refuerzo temporal y luego intercambia posiciones con el aliado.","Quand une unité alliée adjacente est ciblée par un ennemi, gagnez temporairement Épines&nbsp;+1&nbsp;et Garde&nbsp;+1, puis échangez de place avec l'unité alliée.","Erhalte +1&nbsp;vorübergehende Dornen und Wappnen und tausche Plätze mit einem benachbarten Verbündeten, wenn er von einem Gegner anvisiert wird.","Quando un alleato adiacente viene preso di mira da un nemico, ottieni +1 Spine temporanee e Guardia temporanea, poi ti scambi di posto con l'alleato.","Quando um aliado adjacente entrar na mira de algum inimigo, obtenha +1 de espinhos temporários e preparação temporária, e então troque de lugar com o aliado.","当相邻的盟友成为敌人的目标时，
 
-获得+1临时荆棘和临时护甲，
+获得+1临时荆棘和临时坚毅，
 然后与盟友交换位置。"
 PASSIVE_HARDHEAD_NAME,Hard Head,,Cabeza dura,Tête dure,Rammschädel,Testa Dura,Cabeça Dura,硬头
 PASSIVE_HARDHEAD_DESC,You block attacks from the front.,,Bloquea los ataques de frente.,Vous bloquez les attaques frontales.,Du blockierst Angriffe von vorn.,Blocchi gli attacchi frontali.,Você bloqueia ataques frontais.,你挡住来自正面的攻击。
@@ -1605,7 +1604,7 @@ Wenn du vier gebrochene Beine hast, erhältst du +4&nbsp;Dornen, +4&nbsp;Wappnen
 Se hai quattro gambe rotte, ottieni +4 Spine, +4 Guardia, Calpestamento e gli alleati adiacenti hanno Lancio come abilità bonus.","Todos os ferimentos que você sofre são pernas quebradas.
 Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, +4 de preparação, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有伤害都变为断腿。
 如果你有四条断腿，
-获得+4荆棘，+4护甲，践踏，
+获得+4荆棘，+4坚毅，践踏，
 且相邻盟友获得投掷作为额外技能。"
 PASSIVE_HARDY_NAME,Hardy,,Robustez,Robuste,Abgehärtet,Tenace,Dureza,坚韧
 PASSIVE_HARDY_DESC,Heal to full HP at the start of each battle.,,Recupera todos los PS al inicio de cada combate.,Récupérez tous vos PV au début de chaque combat.,Heile dich am Anfang jedes Kampfes vollständig.,Recuperi tutti i PS all'inizio di ogni battaglia.,Cure sua saúde completa no início de cada batalha.,每场战斗开始时恢复满生命值。
@@ -1663,12 +1662,12 @@ PASSIVE_STOIC_DESC,"If you end your turn with unused movement actions, gain +2 B
 PASSIVE_STOIC2_DESC,"If you end your turn with unused movement actions, gain +2 Bonus Moves, +2 [img:shield] and +1 Brace.",,"Si acaba el turno con acciones de movimiento sin usar, obtiene +2 de bonificación de movimiento, +2 [img:shield] y +1 de refuerzo.","Si vous terminez votre tour avec des actions de déplacement inutilisées, gagnez Déplacement bonus&nbsp;+2, [img:shield]&nbsp;+2&nbsp;et Garde&nbsp;+1.","Wenn du deinen Zug mit unbenutzten Bewegungsaktionen beendest, erhältst du +2&nbsp;Bonusbewegungen, +2&nbsp;[img:shield] und +1&nbsp;Wappnen.","Se termini il tuo turno con azioni di movimento non utilizzate, ottieni +2 Movimenti Bonus, +2 allo [img:shield] e +1 alla Guardia.","Ao finalizar seu turno com ações de movimento não utilizadas, obtenha +2 movimentos adicionais, +2 de [img:shield] e +1 de preparação.","如果你结束回合时还有未使用的移动行动，
 
 获得 +2 额外移动，
-+2 [img:shield] 和 +1 护甲。"
++2 [img:shield] 和 +1 坚毅。"
 PASSIVE_PRIORITYTARGET_NAME,Priority Target,,Objetivo prioritario,Cible prioritaire,Vorrangiges Ziel,Obiettivo Prioritario,Alvo Prioritário,优先目标
 PASSIVE_PRIORITYTARGET_DESC,Enemies will attack you instead of your allies if they can.,,"Si es posible, los enemigos atacarán a esta unidad en vez de a los aliados.",Les ennemis vous attaqueront en priorité s'ils le peuvent.,"Gegner greifen dich statt deiner Verbündeten an, wenn sie können.","Se possibile, i nemici attaccheranno te invece dei tuoi alleati.",Inimigos atacam você ao invés de seus aliados se puderem.,"如果敌人能攻击你，
 他们会优先攻击你而不是你的盟友。
 "
-PASSIVE_PRIORITYTARGET2_DESC,"+2 Thorns, +2 Brace, and +2 Health Regeneration. Enemies will attack you instead of your allies if they can.",,"+2 de espinas, +2 de refuerzo y +2 de regeneración de salud. Si es posible, los enemigos atacarán a esta unidad en vez de a los aliados.","Épines&nbsp;+2, Garde&nbsp;+2&nbsp;et Régénération de santé&nbsp;+2. Les ennemis vous attaqueront en priorité s'ils le peuvent.","+2&nbsp;Dornen, +2&nbsp;Wappnen und +2&nbsp;Lebensregeneration. Gegner greifen dich statt deiner Verbündeten an, wenn sie können.","+2 Spine, +2 alla Guardia e +2 a Rigenerazione Salute. Se possibile, i nemici attaccheranno te invece dei tuoi alleati.","+2 de espinhos, +2 de preparação e +2 de regeneração de saúde. Inimigos atacam você ao invés de seus aliados se puderem.","+2 荆棘，+2 护甲，
+PASSIVE_PRIORITYTARGET2_DESC,"+2 Thorns, +2 Brace, and +2 Health Regeneration. Enemies will attack you instead of your allies if they can.",,"+2 de espinas, +2 de refuerzo y +2 de regeneración de salud. Si es posible, los enemigos atacarán a esta unidad en vez de a los aliados.","Épines&nbsp;+2, Garde&nbsp;+2&nbsp;et Régénération de santé&nbsp;+2. Les ennemis vous attaqueront en priorité s'ils le peuvent.","+2&nbsp;Dornen, +2&nbsp;Wappnen und +2&nbsp;Lebensregeneration. Gegner greifen dich statt deiner Verbündeten an, wenn sie können.","+2 Spine, +2 alla Guardia e +2 a Rigenerazione Salute. Se possibile, i nemici attaccheranno te invece dei tuoi alleati.","+2 de espinhos, +2 de preparação e +2 de regeneração de saúde. Inimigos atacam você ao invés de seus aliados se puderem.","+2 荆棘，+2 坚毅，
 和 +2 生命回复。
 如果敌人能攻击你，
 他们会优先攻击你而不是你的盟友。"
@@ -2964,7 +2963,7 @@ Units that contact you take 3 Ice Damage, Slow 2, and have a 15% chance to Freez
 Las unidades que entran en contacto con esta sufren 3 de daño de hielo, 2 de ralentización y tienen un 15 % de probabilidad de sufrir congelación.","Garde&nbsp;+2. Résistance au gel. Vous pouvez infliger des dégâts aux unités gelées. Les unités qui vous touchent subissent Dégâts de gel&nbsp;+3, Lenteur&nbsp;+2&nbsp;et ont 15&nbsp;% de chances de subir Gel.","+2&nbsp;Wappnen. Immun gegen Eis. Du kannst Schaden bei eingefrorenen Einheiten verursachen.
 Einheiten, die dich berühren, erleiden 3&nbsp;Eisschaden, Verlangsamung&nbsp;2 und frieren mit 15%iger Wahrscheinlichkeit ein.","+2 alla Guardia. Immunità al ghiaccio. Puoi infliggere danno alle unità congelate.
 Le unità che entrano in contatto con te subiscono 3 Danno da Ghiaccio, Rallentamento 2 e hanno il 15% di probabilità di subire Congelamento.","+2 de preparação. Imunidade contra gelo. Você pode causar dano a unidades congeladas.
-Unidades que entrarem em contato com você sofrem 3 de dano de gelo, lentidão 2 e possuem uma chance de 15% de congelar.","+2 护甲。冰霜免疫。
+Unidades que entrarem em contato com você sofrem 3 de dano de gelo, lentidão 2 e possuem uma chance de 15% de congelar.","+2 坚毅。冰霜免疫。
 你可以伤害被冻结单位。
 接触你的单位会受到3点冰霜伤害，
 减速2，并有15%的几率被冻结。"
@@ -3186,10 +3185,10 @@ PASSIVE_MINDTEMPEST2_DESC,"After every sixth spell you cast, gain All Stats Up, 
 并且法术消耗减少1点法力值。"
 PASSIVE_OVERFLOW_NAME,Overflow,,Desbordamiento,Débordement,Überfluss,Traboccamento,Transbordamento,溢出
 PASSIVE_OVERFLOW_DESC,"While at full mana, gain +2 Brace and Flying Movement. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y movimiento volador. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+1&nbsp;et Déplacement en vol. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und fliegst. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Movimento Volante. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e movimento voador. Sua mana não possui mais limites.","在法力值满时，
-获得+2护甲和飞行移动。
+获得+2坚毅和飞行移动。
 你的法力值上限解除。"
 PASSIVE_OVERFLOW2_DESC,"While at full mana, gain +2 Brace and Teleportation. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y teletransporte. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+2&nbsp;et Téléportation. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und kannst dich teleportieren. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Teletrasporto. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e teletransporte. Sua mana não possui mais limites.","在法力值满时，
-获得+2护甲和瞬移。
+获得+2坚毅和瞬移。
 你的法力值上限解除。"
 PASSIVE_OMNISCIENCE_NAME,Omniscience,,Omnisciencia,Omniscience,Allwissend,Onniscienza,Onisciência,全知
 PASSIVE_OMNISCIENCE_DESC,You can see EVERYTHING. Line of sight restrictions are ignored.,,Puede verlo todo. Ignora las restricciones del campo visual.,Vous pouvez TOUT voir. Les restrictions de ligne de mire ne s'appliquent pas.,Du kannst ALLES sehen. Beschränkungen durch Sichtlinien sind aufgehoben.,Puoi vedere TUTTO. Le restrizioni del campo visivo vengono ignorate.,Você pode ver TUDO. Restrições de campo de visão são ignoradas.,"你可以看到一切。
@@ -3326,7 +3325,7 @@ You spawn a puddle of creep whenever you get hit. You can't equip face armor.",,
 Genera un charco de líquido tóxico cuando sufre un golpe. No puede equiparse armadura para la cara.",Garde&nbsp;+1. Vous faites apparaître une flaque douteuse chaque fois que vous subissez une attaque. Vous ne pouvez pas porter d'équipement de visage.,"+1&nbsp;Wappnen.
 Du lässt eine Pfütze Ekelschleim erscheinen, wenn du getroffen wirst. Du kannst keine Gesichtsbedeckungen ausrüsten.","+1 alla Guardia.
 Ogni volta che ti colpiscono, generi una pozza di melma. Non puoi equipaggiare armatura facciale.","+1 de preparação.
-Você gera uma poça de gosma sempre que sofrer golpes. Você não pode equipar armaduras de rosto.","+1 持盾。
+Você gera uma poça de gosma sempre que sofrer golpes. Você não pode equipar armaduras de rosto.","+1 坚毅。
 每当你受到攻击时，
 会生成一滩爬行物。
 你不能装备面部护甲。"
@@ -3397,7 +3396,7 @@ Sua ação de movimento é utilizada aleatoriamente em cada turno.","+50% 失误
 你的移动动作每回合随机使用。"
 DISORDER_BRAINDAMAGE_NAME,Brain Damage,,Daño cerebral,Dégâts neurologiques,Hirnschaden,Danno Cerebrale,Dano Cerebral,脑损伤
 DISORDER_BRAINDAMAGE_DESC,You can't use item actions. +2 Brace.,,No puede usar acciones de objeto. +2 de refuerzo.,Vous ne pouvez pas utiliser d'objets. Garde&nbsp;+2.,Du kannst keine Gegenstände benutzen. +2&nbsp;Wappnen.,Non puoi usare azioni oggetto. +2 alla Guardia.,Você não pode utilizar ações de itens. +2 de preparação.,"你无法使用物品动作。
-+2 护甲。"
++2 坚毅。"
 DISORDER_SEVEREDTHUMB_NAME,Severed Thumb,,Pulgar cortado,Pouce coupé,Abgetrennter Daumen,Pollice Reciso,Dedo Arrancado,断截的拇指
 DISORDER_SEVEREDTHUMB_DESC,You can't equip weapons. Spawn a Food pickup at the start of each battle.,,No se pueden equipar armas. Genera un recogible de comida al inicio de cada combate.,Vous ne pouvez pas équiper d'arme. De la nourriture apparaît au début de chaque combat.,Du kannst keine Waffen ausrüsten. Am Anfang jedes Kampfes erscheint ein Essensgegenstand.,Non puoi equipaggiare armi. Si genera un raccoglibile cibo all'inizio di ogni battaglia.,Você não pode equipar armas. Gere um coletável de comida no início de cada batalha.,"你无法装备武器。
 每场战斗开始时生成一个食物拾取物。
@@ -3593,7 +3592,7 @@ DISORDER_STINKY_DESC,Adjacent units move away from you at the start of their tur
 DISORDER_INCONTINENCE_NAME,Incontinence,,Incontinencia,Incontinence,Inkontinenz,Incontinenza,Incontinência,失禁
 DISORDER_INCONTINENCE_DESC,"When you take damage, pee yourself.",,Hace pis al sufrir daño.,"Quand vous subissez des dégâts, vous faites pipi.","Wenn du Schaden erleidest, pinkelst du dich ein.","Quando subisci danno, ti fai pipì addosso.",Faça xixi sempre que sofrer dano.,受到伤害时失禁。
 DISORDER_FOSSILIZED_NAME,Fossilized,,Fósil,Fossilisation,Fossilisiert,Fossilizzazione,Fossilização,化石化
-DISORDER_FOSSILIZED_DESC,+2 Brace. Slide like a rock whenever you get hit.,,+2 de refuerzo. Se desliza como una roca cuando sufre un golpe.,Garde&nbsp;+2. Vous glissez comme une pierre chaque fois que vous subissez une attaque.,"+2&nbsp;Wappnen. Wenn du getroffen wirst, rutschst du wie ein Stein über den Boden.",+2 alla Guardia. Scivoli come una roccia ogni volta che ti colpiscono.,+2 de preparação. Deslize como uma pedra ao sofrer golpes.,"+2 护甲。
+DISORDER_FOSSILIZED_DESC,+2 Brace. Slide like a rock whenever you get hit.,,+2 de refuerzo. Se desliza como una roca cuando sufre un golpe.,Garde&nbsp;+2. Vous glissez comme une pierre chaque fois que vous subissez une attaque.,"+2&nbsp;Wappnen. Wenn du getroffen wirst, rutschst du wie ein Stein über den Boden.",+2 alla Guardia. Scivoli come una roccia ogni volta che ti colpiscono.,+2 de preparação. Deslize como uma pedra ao sofrer golpes.,"+2 坚毅。
 每次被击中时像石头一样滑动。"
 DISORDER_TRISKAIDEKAPHOBIA_NAME,Triskaidekaphobia,,Triscaidecafobia,Triskaïdékaphobie,Triskaidekaphobie,Triscaidecafobia,Triskaidecafobia,害怕数字13
 DISORDER_TRISKAIDEKAPHOBIA_DESC,Your spells cost 0 mana. The 13th spell you cast on an adventure kills you and destroys your body.,,Sus hechizos cuestan 0 de maná. El hechizo número 13 que lance en una aventura mata a la unidad y destruye su cadáver.,Vos sorts ne coûtent aucun mana. Le 13e&nbsp;sort que vous lancez pendant votre aventure vous tue et détruit votre cadavre.,"Deine Zauber kosten 0&nbsp;Mana. Der 13.&nbsp;Zauber, den du auf deinem Abenteuer wirkst, tötet dich und zerstört deine Leiche.",I tuoi incantesimi costano 0 mana. Il tredicesimo incantesimo che lanci in un'avventura ti uccide e distrugge il tuo corpo.,Seus encantamentos custam 0 de mana. O décimo terceiro encantamento que você lança em uma aventura mata você e destrói seu corpo.,"你的法术消耗0法力值。

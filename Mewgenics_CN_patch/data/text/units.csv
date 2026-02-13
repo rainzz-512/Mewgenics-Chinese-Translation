@@ -71,7 +71,7 @@ Bénéficie de Garde +1&nbsp;quand il est touché.","Schießt auf alle Gegner in
 Erhält +1&nbsp;Wappnen, wenn er Schaden erleidet.","Esegue un tiro a parabola contro tutti i nemici a portata.
 Ottiene +1 Guardia quando subisce danno.","Lança ataques contra todos os inimigos dentro do alcance.
 Obtém +1 de preparação ao sofrer dano.","向所有射程内敌人投掷射击。
-受到伤害时获得 +1 护甲。"
+受到伤害时获得 +1 坚毅。"
 ENEMY_INVADER_NAME,Schpidenbot,spiderbot (see the note about robot nazi enemies elsewhere),Schpidenbot,Schpidenbot,Spinnenbot,Roboragnen,Schpidenbot,施皮登机器人
 ENEMY_INVADER_DESC,Melee attacker that inflicts Poison.,,Este atacante cuerpo a cuerpo inflige veneno.,Attaque au corps-à-corps et inflige Poison.,Nahkämpfer. Verursacht Gift.,Specialista del corpo a corpo che infligge Veleno.,Agressor corpo-a-corpo que aplica veneno.,近战攻击者，会造成中毒。
 ENEMY_TINYTUMOR_NAME,Tiny Tumor,,Minitumor,Petite tumeur,Winziger Tumor,Piccolo Tumore,Tumor Minúsculo,微型肿瘤
@@ -551,7 +551,7 @@ Gera um tumor ao morrer.
 Preparação 2.","进行范围近战攻击，
 将单位击飞。
 死亡时生成一个肿瘤。
-护甲 2。"
+坚毅 2。"
 ENEMY_CULTISTBISHOP_NAME,Cultist Bishop,,Sectario obispo,Prélat fanatique,Kultbischof,Vescovo Cultista,Bispo Cultista,狂信徒主教
 ENEMY_CULTISTBISHOP_DESC,"Its lightning attack has a chance to Stun.
 Heals its allies. Spawns a Bishop Hat when killed.",,"Su ataque relámpago puede aturdir.
@@ -682,7 +682,7 @@ Kann Steine ansaugen und sie fressen, um Wappnen und Schild zu erhalten.","Il su
 Può risucchiare le rocce verso se stesso e mangiarle per ottenere Guardia e Scudo.","Seu ataque corpo-a-corpo aplica atordoamento e gera pedras.
 Pode sugar pedras na sua direção e as come para obter preparação e escudo.","其近战攻击造成眩晕并生成岩石。
 
-能吸引岩石并吞噬以获得护甲和护盾。"
+能吸引岩石并吞噬以获得坚毅和护盾。"
 ENEMY_CRATERCREEPER_NAME,Crater Creeper,,Reptacráteres,Comètard,Kraterkriecher,Melma di Cratere,Crateirista,陨坑蠕行者
 ENEMY_CRATERCREEPER_DESC,"Shoots rocks or dashes forward leaving an Amoeba behind.
 Can only be damaged from the front.",,"Dispara rocas o corre hacia delante, dejando una ameba a su paso.
@@ -731,7 +731,7 @@ Sein Nahkampfangriff verursacht Charme.","Il suo attacco a distanza infligge Liv
 Il suo attacco corpo a corpo infligge Fascino.","Seu ataque à distância aplica contusão e -2 de [img:spd] em inimigos, e preparação e +2 de [img:spd] em aliados.
 Seu ataque corpo-a-corpo aplica feitiço.","其远程攻击对敌人造成挫伤和-2 [img:spd]，
 
-对盟友造成护甲和+2 [img:spd]。
+对盟友附带坚毅和+2 [img:spd]。
 其近战攻击造成魅惑。"
 ENEMY_CLOAKEDDEMON_NAME,Cloaked Demon,,Demonio con capa,Démon drapé,Verhüllter Dämon,Demone Ammantato,Demônio Oculto,隐匿恶魔
 ENEMY_CLOAKEDDEMON_DESC,"Casts an area spell that inflicts Burn 3 to enemies and gives +1 Damage to allies.
@@ -1037,7 +1037,7 @@ Obtém +99 de preparação até o próximo turno ao sofrer dano.","在回合开�
 
 执行一记直线长距离震击攻击。
 可以抓住并瞬杀单位，如果它能接触到它们。
-受到伤害时，获得+99 护甲，直到下一个回合。"
+受到伤害时，获得+99 坚毅，直到下一个回合。"
 ENEMY_CAVEMAN_NAME,Caveman,,Cavernícola,Homme des cavernes,Höhlenmensch,Cavernicolo,Homem das Cavernas,穴居人
 ENEMY_CAVEMAN_DESC,"Has a multi-hit melee attack.
 Hates Cats!",,"Lanza un ataque cuerpo a cuerpo que golpea varias veces.
@@ -2612,7 +2612,7 @@ Se si prende a pugni da solo perde la Guardia.
 Cosa potrebbe esserci al suo interno?","Seu ataque de hálito empurra todas as unidades 10 espaços para trás.
 Perde sua preparação se socar a si mesmo.
 O que pode ter lá dentro?","它的吐息攻击会将所有单位向后推10格。
-如果它打自己会失去护甲。
+如果它打自己会失去坚毅。
 里面会是什么？"
 ENEMY_MOONHAND_NAME,Moon Hand,,Mano lunar,Main sélénienne,Mondhand,Mano della Luna,Mão Lunar,月之手
 ENEMY_MOONHAND_DESC,"Will grab units that end movement directly in front of it.

@@ -515,7 +515,7 @@ Passivo: +1 de preparação enquanto esta arma puder ser usada.","使用：
 一次带有击退10和连锁击退效果的近战攻击。
 
 [s:.7](每场战斗可用一次。)[/s]
-被动：+1 护甲在此武器可用时。"
+被动：+1 坚毅在此武器可用时。"
 ITEM_GLOWINGBONE_NAME,Glowing Bone,,Hueso resplandeciente,Os scintillant,Glühender Knochen,Osso Luminescente,Osso Brilhante,发光骨头
 ITEM_GLOWINGBONE_DESC,"- {str_aux_active_name} -
 {str_aux_active_desc}",,"- {str_aux_active_name} -
@@ -829,7 +829,7 @@ Uso: Lanza un ataque a distancia con 2 de retroceso que atraviesa a las unidades
 Utilisation&nbsp;: une attaque à distance avec Recul +2&nbsp;qui traverse les ennemis et revient vers vous.","Wappnen&nbsp;2.
 Benutzen: Ein Fernkampfangriff mit Rückstoß&nbsp;2, der Einheiten durchbohrt und zu dir zurückkehrt.","Guardia 2.
 Uso: Un attacco a distanza con Contraccolpo 2 che passa attraverso le unità e torna da te.","Preparação 2.
-Uso: um ataque à distância com empurrão 2 que atravessa unidades e retorna para você.","护甲 2。
+Uso: um ataque à distância com empurrão 2 que atravessa unidades e retorna para você.","坚毅 2。
 使用：
 一次带有击退 2 的远程攻击，
 可以穿过单位并返回给你。"
@@ -1425,7 +1425,7 @@ Abilità Passiva: +2 alla Guardia finché quest'arma è utilizzabile.","Uso: um 
 Passivo: +2 de preparação enquanto esta arma puder ser utilizada.","使用：
 一次造成眩晕的远程攻击。
 [s:.7](每场战斗可用一次。)[/s]
-被动：+2 护甲在此武器可用时。"
+被动：+2 坚毅 在此武器可用时。"
 ITEM_UZI_NAME,Submachine Gun,,Subfusil,Mitrailleuse,Maschinenpistole,Mitragliatrice,Submetralhadora,冲锋枪
 ITEM_UZI_DESC,Use: Fire 5 shots in a straight line.,,Uso: Dispara 5 proyectiles en línea recta.,Utilisation&nbsp;: tire 5&nbsp;projectiles en ligne droite.,Benutzen: Feuere 5&nbsp;Schüsse in einer geraden Linie.,Uso: Spari 5 colpi in linea retta.,Uso: realize 5 disparos em linha reta.,"使用：
 在一条直线上射出5发子弹。"
@@ -1915,7 +1915,7 @@ ITEM_MATCHSTICK_DESC,Your basic attack inflicts Burn 1.,,El ataque básico infli
 ITEM_MEATCUBE_NAME,Meat Cube,,Taquito de carne,Cube de viande,Fleischwürfel,Cubo di Carne,Cubo de Carne,肉块
 ITEM_MEATCUBE_DESC,Start with a Flesh Lad familiar.,,Empieza con un familiar carnícola.,Vous débutez avec un gamin de chair de compagnie.,Beginne jeden Kampf mit einem freundlichen Fleischkerl.,Inizi con un famiglio Carnicolo.,Inicie com um familiar carniça.,开始时拥有一个肉体少年灵宠。
 ITEM_METALPLATE_NAME,Metal Plate,,Placa metálica,Plaque métallique,Metallplatte,Piastra di Metallo,Placa de Metal,金属板
-ITEM_METALPLATE_DESC,Gain +1 Brace when you kill an enemy.,,Obtiene +1 de refuerzo al matar a un enemigo.,Garde +1&nbsp;quand vous tuez un ennemi.,"Erhalte +1&nbsp;Wappnen, wenn du einen Gegner tötest.",Ottieni +1 alla Guardia quando uccidi un nemico.,Obtenha +1 de preparação ao matar um inimigo.,当你击杀敌人时获得 +1 护甲。
+ITEM_METALPLATE_DESC,Gain +1 Brace when you kill an enemy.,,Obtiene +1 de refuerzo al matar a un enemigo.,Garde +1&nbsp;quand vous tuez un ennemi.,"Erhalte +1&nbsp;Wappnen, wenn du einen Gegner tötest.",Ottieni +1 alla Guardia quando uccidi un nemico.,Obtenha +1 de preparação ao matar um inimigo.,当你击杀敌人时获得 +1 坚毅。
 ITEM_METRONOME_NAME,Metronome,,Metrónomo,Métronome,Metronom,Metronomo,Metrônomo,节拍器
 ITEM_METRONOME_DESC,"Use: Cast a random upgraded spell.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Lanza un hechizo mejorado al azar.
@@ -2024,7 +2024,7 @@ ITEM_RAGEJUICE_DESC,"Use: Gain +4 [img:str], +4 [img:spd], Brace 2 and Madness f
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Uso: Ottieni +4 alla [img:str], +4 alla [img:spd], Guardia 2 e Follia per il resto della battaglia.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: obtenha +4 de [img:str], +4 de [img:spd], preparação 2 e insanidade pelo resto da batalha.
 [s:.7](Um uso por batalha.)[/s]","使用：获得 +4 [img:str]，+4 [img:spd]，
-获得 2 护甲和疯狂，
+获得 坚毅 2和疯狂，
 持续整场战斗。
 [s:.7](每场战斗可使用一次。)[/s]"
 ITEM_RATBEZOAR_NAME,Rat Bezoar,,Bezoar de rata,Bézoard de rat,Rattenbezoar,Bezoario di Ratto,Bezoar de Rato,鼠瘤
@@ -2659,7 +2659,7 @@ ARMOR_FOCUSBAND_NAME,Focus Band,,Felpa de la concentración,Bandeau de concentra
 ARMOR_FOCUSBAND_DESC,Your crits knock units back 10 tiles with Chain Knockback.,,Los golpes críticos hacen retroceder 10 casillas a las unidades con retroceso encadenado.,Vos coups critiques infligent Recul +10&nbsp;et Recul en chaîne.,Deine kritischen Treffer stoßen Einheiten 10&nbsp;Felder mit Kettenrückstoß zurück.,I tuoi colpi critici respingono le unità di 10 caselle con Contraccolpo a Catena.,Seus golpes críticos empurram unidades 10 espaços para trás com empurrão encadeado.,"你的暴击会连锁击退单位 10 格。
 "
 ARMOR_FRIENDLYAMOEBA_NAME,Friendly Amoeba,,Ameba aliada,Amibe aimable,Amöbenfreund,Ameba Amichevole,Ameba Amiga,友好变形虫
-ARMOR_FRIENDLYAMOEBA_DESC,"Brace 1, +2 Health Regen, Shield 3. Units that contact you get knocked back 1.",,"1 de refuerzo, +2 de regeneración de salud, 3 de escudo. Las unidades que entran en contacto con esta retroceden 1 casilla.","Garde 1, Régénération de PV +2, Défense +3. Les unités qui vous touchent subissent Recul 1.","Wappnen&nbsp;1, +2&nbsp;Lebensregeneration, Schild&nbsp;3. Einheiten, die dich berühren, werden 1&nbsp;Feld zurückgestoßen.","Guardia 1, +2 a Rigenerazione Salute, Scudo 3. Le unità che ti toccano vengono respinte indietro di 1.","Preparação 1, +2 de regeneração de saúde, escudo 3. Unidades que entram em contato com você são empurradas 1 espaço para trás.","护甲 1，+2 生命回复，
+ARMOR_FRIENDLYAMOEBA_DESC,"Brace 1, +2 Health Regen, Shield 3. Units that contact you get knocked back 1.",,"1 de refuerzo, +2 de regeneración de salud, 3 de escudo. Las unidades que entran en contacto con esta retroceden 1 casilla.","Garde 1, Régénération de PV +2, Défense +3. Les unités qui vous touchent subissent Recul 1.","Wappnen&nbsp;1, +2&nbsp;Lebensregeneration, Schild&nbsp;3. Einheiten, die dich berühren, werden 1&nbsp;Feld zurückgestoßen.","Guardia 1, +2 a Rigenerazione Salute, Scudo 3. Le unità che ti toccano vengono respinte indietro di 1.","Preparação 1, +2 de regeneração de saúde, escudo 3. Unidades que entram em contato com você são empurradas 1 espaço para trás.","坚毅 1，+2 生命回复，
 护盾 3。接触你的单位会被击退 1 格。"
 ARMOR_FRYINGPAN_NAME,Frying Pan,,Sartén,Poêle à frire,Bratpfanne,Padella,Frigideira,煎锅
 ARMOR_FRYINGPAN_DESC,Block and counter Backstabs.,,Bloquea los ataques por la espalda y lanza un contrataque.,Bloque et contre les attaques sournoises.,Blockiere und kontere Angriffe von hinten.,Blocca e contrasta gli Attacchi alle Spalle.,Bloqueie e contra-ataque punhaladas.,格挡并反击背刺攻击。
@@ -2735,7 +2735,7 @@ ARMOR_MEDICHAT_NAME,Medic Hat,,Gorro médico,Coiffe de sage,Notarzthut,Cappello 
 ARMOR_MEDICHAT_DESC,-1 Damage. Your basic attack heals allies.,,-1 de daño. El ataque básico cura a los aliados.,Dégâts -1. Votre attaque de base soigne les alliés.,-1&nbsp;Schaden. Dein Grundangriff heilt Verbündete.,-1 al Danno. Il tuo attacco base cura gli alleati.,-1 de dano. Seu ataque básico cura aliados.,"-1 伤害。
 你的基础攻击治疗盟友。"
 ARMOR_MEDIEVALHELMET_NAME,Medieval Helmet,,Casco medieval,Heaume médiéval,Mittelalterhelm,Elmo Medievale,Capacete Medieval,中世纪头盔
-ARMOR_MEDIEVALHELMET_DESC,+2 Brace.,,+2 de refuerzo.,Garde +2.,+2&nbsp;Wappnen.,+2 alla Guardia.,+2 de preparação.,+2 护甲。
+ARMOR_MEDIEVALHELMET_DESC,+2 Brace.,,+2 de refuerzo.,Garde +2.,+2&nbsp;Wappnen.,+2 alla Guardia.,+2 de preparação.,+2 坚毅。
 ARMOR_NIGHTMAREHAT_NAME,Nightmare Hat,,Sombrero de pesadilla,Chapeau cauchemardesque,Alptraumhut,Cappello dell'Incubo,Chapéu de Pesadelo,噩梦帽
 ARMOR_NIGHTMAREHAT_DESC,"After you kill 3 units, you can attack an extra time each turn.",,"Tras matar a 3 unidades, esta unidad puede atacar otra vez cada turno.","Après avoir tué 3&nbsp;unités, vous pouvez attaquer une fois de plus chaque tour.","Nachdem du 3&nbsp;Einheiten getötet hast, kannst du ein zusätzliches Mal pro Zug angreifen.","Dopo aver ucciso 3 unità, puoi attaccare una volta in più ogni turno.","Após matar 3 unidades, você pode atacar uma vez adicional em cada turno.","在你击杀3个单位后，
 每回合可以额外攻击一次。"
@@ -2786,7 +2786,7 @@ ARMOR_SKULLCLAMP_DESC,"Brace 2
 +25&nbsp;% de chances d'infliger Étourdissement aux ennemis qui vous touchent.","Wappnen&nbsp;2.
 +25%ige Wahrscheinlichkeit, Betäubung bei Einheiten, die dich berühren, zu verursachen.","Guardia 2.
 +25% di probabilità di infliggere Stordimento alle unità che ti toccano.","Preparação 2.
-+25% de chance de aplicar atordoamento em unidades que entram em contato com você.","2层护甲
++25% de chance de aplicar atordoamento em unidades que entram em contato com você.","坚毅 2
 与之接触的单位有25%几率被眩晕。"
 ARMOR_SNAKESKINHAT_NAME,Snakeskin Hat,,Sombrero de piel de serpiente,Chapeau en peau de serpent,Schlangenlederhut,Cappello di Pelle di Serpente,Chapéu de Couro de Cobra,蛇皮帽
 ARMOR_SNAKESKINHAT_DESC,Spawn a Charmed Rattlesnek at the start of each battle.,,Genera una cascabela embrujada al inicio de cada combate.,Invoque un serpent à sonnette envoûté au début de chaque combat.,Rufe am Anfang jedes Kampfes eine freundliche Klapperschlange.,Generi un Serpentello a Sonagli Ammaliato all'inizio di ogni battaglia.,Gere uma cascavel enfeitiçada no início de cada batalha.,"每场战斗开始时生成一个被魅惑的响尾蛇。
@@ -2820,7 +2820,7 @@ ARMOR_STEVENSHELMET_DESC,"When you are downed, give another allied cat 2 random 
 给另一只盟友猫随机2个异常状态，
 如果你孤身一人则给自己。"
 ARMOR_STONEHELMET_NAME,Stone Helmet,,Casco pétreo,Casque de pierre,Steinhelm,Elmo di Pietra,Capacete de Pedra,石头头盔
-ARMOR_STONEHELMET_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+ARMOR_STONEHELMET_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 ARMOR_THERELIC_NAME,The Relic,,Reliquia,La Relique,Das Relikt,La Reliquia,A Relíquia,遗物
 ARMOR_THERELIC_DESC,"When you lose [img:divineshield], emit a Sparkle for every point of damage blocked.",,"Al perder [img:divineshield], esta unidad emite un destello por cada punto de daño bloqueado.","Quand vous perdez [img:divineshield], vous émettez une étincelle pour chaque dégât bloqué.","Wenn du [img:divineshield] verlierst, versprühst du einen Funken pro Schadenspunkt, den du blockiert hast.","Quando perdi [img:divineshield], emetti una Scintilla per ogni punto danno bloccato.","Ao perder [img:divineshield], emita uma fagulha para cada ponto de dano bloqueado.","当你失去 [img:divineshield] 时，
 每挡下一点伤害释放一次火花。"
@@ -2866,7 +2866,7 @@ Aplique veneno 1 em unidades que entram em contato com você.","战斗开始时�
 ARMOR_TRAININGBAND_NAME,Training Band,,Felpa de entrenamiento,Bandeau d'entraînement,Fitnessband,Fascia da Allenamento,Tira de Treinamento,训练护腕
 ARMOR_TRAININGBAND_DESC,+20% Crit Chance.,,+20 % de probabilidad de crítico.,Chances de coup critique +20&nbsp;%.,+20&nbsp;% kritische Trefferchance.,+20% probabilità di colpo critico.,+20% de chance de crítico.,+20% 暴击率。
 ARMOR_TRASHCAN_NAME,TrashCan,,Cubo de basura,Poubelle,Mülleimer,Pattumiera,Lixeira,垃圾桶
-ARMOR_TRASHCAN_DESC,Brace 4. Blind.,,4 de refuerzo. Ceguera.,Garde +4. Cécité.,Wappnen&nbsp;4. Blindheit.,Guardia 4. Accecamento.,Preparação 4. Cegueira.,护甲 4。致盲。
+ARMOR_TRASHCAN_DESC,Brace 4. Blind.,,4 de refuerzo. Ceguera.,Garde +4. Cécité.,Wappnen&nbsp;4. Blindheit.,Guardia 4. Accecamento.,Preparação 4. Cegueira.,坚毅 4。致盲。
 ARMOR_WIG_NAME,Wig,,Peluca,Perruque,Perücke,Parrucca,Peruca,假发
 ARMOR_WIG_DESC,,,,,,,,
 ,,,,,,,,
@@ -3098,7 +3098,7 @@ ARMOR_POLYP_DESC,+1 Health Regen. 25% chance to spawn a Charmed Clot when you ta
 ARMOR_PYROPHINASTOENAIL_NAME,Pryophina's Toenail,,Uña del pie de Pyrophina,Ongle de pied de Pyrophina,Pyrophinas Zehennagel,Unghia del Piede di Pyrophina,Unha do Pé de Pyrophina,普里奥菲娜的脚趾甲
 ARMOR_PYROPHINASTOENAIL_DESC,Fire Immunity.,,Inmunidad al fuego.,Immunité au feu.,Immun gegen Feuer.,Immunità al fuoco.,Imunidade contra fogo.,火焰免疫。
 ARMOR_QUARTZNECKLACE_NAME,Quartz Necklace,,Gargantilla de cuarzo,Collier de quartz,Quarzkette,Collana di Quarzo,Colar de Quartzo,石英项链
-ARMOR_QUARTZNECKLACE_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 护甲。
+ARMOR_QUARTZNECKLACE_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 坚毅。
 ARMOR_RADARDISH_NAME,Radar Dish,,Antena parabólica,Antenne parabolique,Radarscheibe,Antenna Radar,Antena de Radar,雷达盘
 ARMOR_RADARDISH_DESC,One random enemy becomes Marked at the start of each turn.,,Un enemigo al azar aparece en el punto de mira al inicio de cada turno.,Un ennemi aléatoire subit Marquage au début de chaque tour.,Ein zufälliger Gegner wird am Anfang jedes Zuges markiert.,All'inizio di ogni turno un nemico casuale subisce Marchio.,Um inimigo aleatório é marcado no início de cada turno.,"每回合开始时，
 一个随机敌人被标记。"
@@ -3158,7 +3158,7 @@ ARMOR_TATTEREDSCRAP_NAME,Tattered Scrap,,Chatarra escacharrada,Bout de ferraille
 ARMOR_TATTEREDSCRAP_DESC,"When you take damage, spawn a scrap pickup.",,"Al sufrir daño, genera un recogible de chatarra.","Quand vous subissez des dégâts, un morceau de ferraille apparaît.","Lasse Schrott erscheinen, wenn du Schaden erleidest.","Quando subisci danno, generi un raccoglibile Rottame.","Ao sofrer dano, gere um coletável de sucata.","受到伤害时生成一个碎片拾取物。
 "
 ARMOR_THICKHIDE_NAME,Thick Hide,,Pieles gruesas,Peau dure,Dicke Haut,Pelle Spessa,Couro Grosso,厚皮
-ARMOR_THICKHIDE_DESC,+1 Brace. Immunity to Slow and Freeze.,,+1 de refuerzo. Inmunidad a la ralentización y la congelación.,Garde +1. Immunité à la Lenteur et au Gel.,+1&nbsp;Wappnen. Immun gegen Verlangsamung und Frost.,+1 alla Guardia. Immunità a Rallentamento e Congelamento.,+1 de preparação. Imunidade contra lentidão e congelamento.,"+1 护甲。
+ARMOR_THICKHIDE_DESC,+1 Brace. Immunity to Slow and Freeze.,,+1 de refuerzo. Inmunidad a la ralentización y la congelación.,Garde +1. Immunité à la Lenteur et au Gel.,+1&nbsp;Wappnen. Immun gegen Verlangsamung und Frost.,+1 alla Guardia. Immunità a Rallentamento e Congelamento.,+1 de preparação. Imunidade contra lentidão e congelamento.,"+1 坚毅。
 免疫迟缓和冻结效果。"
 ARMOR_TOMBSTONE_NAME,Tombstone,,Lápida,Pierre tombale,Grabstein,Lapide,Lápide,墓碑
 ARMOR_TOMBSTONE_DESC,Your basic attack has +2 Knockback and a +10% chance to Stun.,,El ataque básico inflige +2 de retroceso y tiene +10 % de probabilidad de aturdir.,Votre attaque de base bénéficie de Recul +2&nbsp;et a +10&nbsp;% de chances d'infliger Étourdissement.,"Dein Grundangriff hat +2&nbsp;Rückstoß und +10&nbsp% Wahrscheinlichkeit, Betäubung zu verursachen.",Il tuo attacco base ha +2 Contraccolpo e +10% di probabilità di Stordimento.,Seu ataque básico possui +2 de empurrão e +10% de chance de atordoar.,"你的基本攻击增加+2 击退，
@@ -3231,7 +3231,7 @@ ARMOR_CONJOINEDAMEOBA_DESC,"Brace 2. +2 Health Regen. Units that contact you are
 20&nbsp;% de chances d'invoquer une amibe envoûtée en fin de tour.","Wappnen&nbsp;2. +2&nbsp;Lebensregeneration. Einheiten, die dich berühren, werden 2&nbsp;Felder zurückgestoßen.
 20%ige Wahrscheinlichkeit, am Ende des Zuges eine freundliche Amöbe zu rufen.","Guardia 2. +2 a Rigenerazione Salute. Le unità che ti toccano vengono respinte di 2 caselle.
 20% di probabilità di generare un'Ameba Ammaliata alla fine del turno.","Preparação 2. +2 de regeneração de saúde. Unidades que entrarem em contato com você são empurradas 2 espaços para trás.
-20% de chance de gerar uma ameba enfeitiçada no final do turno.","护甲 2。+2 生命值回复。
+20% de chance de gerar uma ameba enfeitiçada no final do turno.","坚毅 2。+2 生命值回复。
 接触你的单位会被击退2格。
 回合结束时有20%几率召唤一个魅惑变形虫。"
 ARMOR_COOLROCKS_NAME,Cool Rocks,,Rocas molonas,Pierres stylées,Coole Steine,Rocce Fantastiche,Pedras Legais,酷石
@@ -3244,7 +3244,7 @@ Quando sei KO, ottieni monete.","Seu ataque básico possui +1 de empurrão.
 Ao ficar inconsciente, obtenha moedas.","你的基本攻击有+1 击退。
 当你倒地时，获得金币。"
 ARMOR_DEBRIS_NAME,Debris,,Escombros,Récup',Schutt,Detriti,Escombros,碎片
-ARMOR_DEBRIS_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 护甲。
+ARMOR_DEBRIS_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 坚毅。
 ARMOR_DOODIEMASK_NAME,Doodie Mask,,Máscara de mojoncito,Masquétron,Pupsmaske,Maschera da Cacchina,Máscara de Cocô,屎脸面具
 ARMOR_DOODIEMASK_DESC,Spawn a Charmed Fly at the end of your turn.,,Genera una mosca embrujada al final del turno.,Invoque une mouche envoûtée à la fin de votre tour.,Rufe am Ende deines Zuges eine freundliche Fliege.,Generi una Mosca Ammaliata alla fine del tuo turno.,Gere uma mosca enfeitiçada no fim do seu turno.,回合结束时召唤一个魅惑苍蝇。
 ARMOR_ETHEREALEYES_NAME,Ethereal Eyes,,Ojos etéreos,Yeux éthérés,Ätherische Augen,Occhi Eterei,Olhos Etéreos,飘渺之眼
@@ -3357,7 +3357,7 @@ Você não pode golpear nenhuma unidade que não esteja diretamente em uma linha
 ARMOR_INFAMOUSMASK_NAME,Infamous Mask,,Máscara infame,Masque horrible,Berüchtigte Maske,Maschera Malfamata,Máscara Infame,臭名昭著的面具
 ARMOR_INFAMOUSMASK_DESC,Block attacks from the front.,,Bloquea los ataques de frente.,Bloque les attaques frontales.,Blockiert Angriffe von vorn.,Blocchi gli attacchi frontali.,Bloqueia ataques pela frente.,阻挡来自正面的攻击。
 ARMOR_LEATHERHIDEMASK_NAME,Leather Hide Mask,,Máscara de cuero de gato,Masque en cuir de chat,Ledermaske,Maschera di Cuoio,Máscara de Couro,皮革护面具
-ARMOR_LEATHERHIDEMASK_DESC,"+1 Brace, +1 Health Regen, 5% chance to spawn a Charmed Flea each turn.",,"+1 de refuerzo, +1 de regeneración de salud, 5 % de probabilidad de generar una pulga embrujada cada turno.","Garde +1, Régénération de PV +1, 5&nbsp;% de chances d'invoquer une puce chaque tour.","+1&nbsp;Wappnen, +1&nbsp;Lebensregeneration, 5%ige Wahrscheinlichkeit, in jedem Zug einen freundlichen Floh zu rufen.","+1 alla Guardia, +1 a Rigenerazione Salute, 5% di probabilità di generare una Pulce Ammaliata ogni turno.","+1 de preparação, +1 de regeneração de saúde, 5% de chance de gerar uma pulga enfeitiçada a cada turno.","+b1 护甲，+1 生命值回复，
+ARMOR_LEATHERHIDEMASK_DESC,"+1 Brace, +1 Health Regen, 5% chance to spawn a Charmed Flea each turn.",,"+1 de refuerzo, +1 de regeneración de salud, 5 % de probabilidad de generar una pulga embrujada cada turno.","Garde +1, Régénération de PV +1, 5&nbsp;% de chances d'invoquer une puce chaque tour.","+1&nbsp;Wappnen, +1&nbsp;Lebensregeneration, 5%ige Wahrscheinlichkeit, in jedem Zug einen freundlichen Floh zu rufen.","+1 alla Guardia, +1 a Rigenerazione Salute, 5% di probabilità di generare una Pulce Ammaliata ogni turno.","+1 de preparação, +1 de regeneração de saúde, 5% de chance de gerar uma pulga enfeitiçada a cada turno.","+1 坚毅，+1 生命值回复，
 
 每回合有 5% 几率召唤魅惑跳蚤。"
 ARMOR_LEECHBROOD_NAME,Leech Brood,,Crías de sanguijuelas,Couvée de sangsue,Blutegelbrut,Covata di Sanguisughe,Ninhada de Sanguessugas,水蛭群
@@ -3483,7 +3483,7 @@ ARMOR_TINASFRIEND_DESC,Spawn a large Charmed Fly at the start of each battle.,,G
 ARMOR_VISIONPLUGIN_NAME,Vision Plugin,,Enchufe de visión,Module de vision,Sichtplugin,Plugin Visivo,Plugin de Visão,视觉插件
 ARMOR_VISIONPLUGIN_DESC,+1 range.,,+1 de alcance.,Portée +1.,+1&nbsp;Reichweite.,+1 al raggio d'azione.,+1 de alcance.,+1 射程。
 ARMOR_WHITEBELT_NAME,White Belt,,Cinturón blanco,Ceinture blanche,Weißer Gürtel,Cintura Bianca,Faixa Branca,白带
-ARMOR_WHITEBELT_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+ARMOR_WHITEBELT_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 ARMOR_INVADER_NAME,Intruder,,Intruso,Intrus,Eindringling,Intruso,Intruso,入侵者
 ARMOR_INVADER_DESC,Is it your baby?,,¿De quién es este bebé?,C'est votre bébé&nbsp;?,Ist das dein Baby?,È il tuo bambino?,É o seu bebê?,这是你的宝宝吗？
 ARMOR_CHILDOFTHEGLOWINGONE2_NAME,Child of the Glowing One,,Criatura del ser radiante,Enfant de l'Incandescent,Kind des Leuchtenden,Figlio dello Splendente,Prole do Ser Radiante,发光者之子
@@ -3499,25 +3499,25 @@ Endeblez.","Garde +2, Épines +2.
 Cassant.","+2&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+2 alla Guardia, +2 Spine.
 Friabile.","+2 de preparação, +2 de espinhos.
-Quebradiço.","+2 护甲, +2 荆棘.
+Quebradiço.","+2 坚毅, +2 荆棘.
 脆弱."
 ARMOR_ADVANCEDMASK_NAME,Advanced Alloy Mask,,Máscara de aleación avanzada,Masque en alliage avancé,Fortschrittlich legierte Maske,Maschera in Lega Avanzata,Máscara de Liga Avançada,高级合金面具
-ARMOR_ADVANCEDMASK_DESC,"+2 Brace, +2 Thorns.
+ARMOR_ADVANCEDMASK_DESC,"+2 坚毅, +2 Thorns.
 Brittle.",,"+2 de refuerzo, +2 de espinas.
 Endeblez.","Garde +2, Épines +2.
 Cassant.","+2&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+2 alla Guardia, +2 Spine.
 Friabile.","+2 de preparação, +2 de espinhos.
-Quebradiço.","+2 护甲, +2 荆棘.
+Quebradiço.","+2 坚毅, +2 荆棘.
 脆弱."
 ARMOR_ADVANCEDARMOR_NAME,Advanced Alloy Armor,,Armadura de aleación avanzada,Armure en alliage avancé,Fortschrittlich legierte Rüstung,Armatura in Lega Avanzata,Armadura de Liga Avançada,高级合金护甲
-ARMOR_ADVANCEDARMOR_DESC,"+2 Brace, +2 Thorns.
+ARMOR_ADVANCEDARMOR_DESC,"+2 坚毅, +2 Thorns.
 Brittle.",,"+2 de refuerzo, +2 de espinas.
 Endeblez.","Garde +2, Épines +2.
 Cassant.","+2&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+2 alla Guardia, +2 Spine.
 Friabile.","+2 de preparação, +2 de espinhos.
-Quebradiço.","+2 护甲, +2 荆棘.
+Quebradiço.","+2 坚毅, +2 荆棘.
 脆弱."
 SETBONUS_ADVALLOY_NAME,Advanced Alloy Set Bonus!,,¡Bonificación de conjunto de aleación avanzada!,Bonus d'ensemble&nbsp;: alliage avancé&nbsp;!,Setbonus: Fortschrittlich legierte Rüstung!,Bonus Set: Lega Avanzata!,Bônus de Conjunto de Liga Avançada!,高级合金套装奖励!
 SETBONUS_ADVALLOY_DESC,Advanced Alloy Set Pieces are no longer Brittle.,,Las piezas de aleación avanzada ya no sufren endeblez.,Les éléments de l'ensemble en alliage avancé ne sont plus Cassants.,Die fortschrittlich legierten Rüstungsteile sind nicht mehr spröde.,I pezzi del set in Lega Avanzata non sono più friabili.,Peças do conjunto de liga avançada não são mais quebradiças.,高级合金套装部件不再脆弱。
@@ -3529,7 +3529,7 @@ Endeblez.","Garde +1, Épines +2.
 Cassant.","+1&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+1 alla Guardia, +2 Spine.
 Friabile.","+1 de preparação, +2 de espinhos.
-Quebradiço.","+1 护甲, +2 荆棘.
+Quebradiço.","+1 坚毅, +2 荆棘.
 脆弱."
 ARMOR_ALLOYMASK_NAME,Alloy Mask,,Máscara de aleación,Masque en alliage,Legierte Maske,Maschera in Lega,Máscara de Liga,合金面具
 ARMOR_ALLOYMASK_DESC,"+1 Brace, +2 Thorns.
@@ -3538,7 +3538,7 @@ Endeblez.","Garde +1, Épines +2.
 Cassant.","+1&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+1 alla Guardia, +2 Spine.
 Friabile.","+1 de preparação, +2 de espinhos.
-Quebradiço.","+1 护甲, +2 荆棘.
+Quebradiço.","+1 坚毅, +2 荆棘.
 脆弱."
 ARMOR_ALLOYARMOR_NAME,Alloy Armor,,Armadura de aleación,Armure en alliage,Legierte Rüstung,Armatura in Lega,Armadura de Liga,合金护甲
 ARMOR_ALLOYARMOR_DESC,"+1 Brace, +2 Thorns.
@@ -3547,7 +3547,7 @@ Endeblez.","Garde +1, Épines +2.
 Cassant.","+1&nbsp;Wappnen, +2&nbsp;Dornen.
 Spröde.","+1 alla Guardia, +2 Spine.
 Friabile.","+1 de preparação, +2 de espinhos.
-Quebradiço.","+1 护甲, +2 荆棘.
+Quebradiço.","+1 坚毅, +2 荆棘.
 脆弱."
 SETBONUS_ALLOY_NAME,Alloy Set Bonus!,,¡Bonificación de conjunto de aleación!,Bonus d'ensemble&nbsp;: alliage&nbsp;!,Setbonus: Legierte Rüstung!,Bonus Set: Lega!,Bônus de Conjunto de Liga!,合金套装奖励!
 SETBONUS_ALLOY_DESC,Alloy Set Pieces are no longer Brittle.,,Las piezas de aleación ya no sufren endeblez.,Les éléments de l'ensemble en alliage ne sont plus Cassants.,Die legierten Rüstungsteile sind nicht mehr spröde.,I pezzi del set in Lega non sono più friabili.,Peças do conjunto de liga não são mais quebradiças.,合金套装部件不再脆弱。
@@ -3615,11 +3615,11 @@ SETBONUS_BARBED_NAME,Barbed Set Bonus!,,¡Bonificación de conjunto de espino!,B
 SETBONUS_BARBED_DESC,+3 Thorns.,,+3 de espinas.,Épines +3.,+3&nbsp;Dornen.,+3 Spine.,+3 de espinhos.,+3 荆棘。
 ,,,,,,,,
 ARMOR_BIGROCKHAT_NAME,Big Rock Hat,,Sombrero de roca grande,Chapeau rocher,Großer Steinhelm,Cappello di Roccia Grande,Chapéu de Pedra Grande,大岩石帽
-ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护甲 2。
+ARMOR_BIGROCKHAT_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,坚毅 2。
 ARMOR_BIGROCKMASK_NAME,Big Rock Mask,,Máscara de roca grande,Masque rocher,Große Steinmaske,Maschera di Roccia Grande,Máscara de Pedra Grande,大岩面具
-ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护甲 2。
+ARMOR_BIGROCKMASK_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,坚毅 2。
 ARMOR_BIGROCKNECKLACE_NAME,Big Rock Necklace,,Gargantilla de roca grande,Collier rocher,Großes Steinhalsband,Collana di Roccia Grande,Colar de Pedra Grande,大岩项链
-ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,护甲 2。
+ARMOR_BIGROCKNECKLACE_DESC,Brace 2.,,2 de refuerzo.,Garde +2.,Wappnen&nbsp;2.,Guardia 2.,Preparação 2.,坚毅 2。
 SETBONUS_BIGROCK_NAME,Big Rock Set Bonus!,,¡Bonificación de conjunto de roca grande!,Bonus d'ensemble&nbsp;: rocher&nbsp;!,Setbonus: Große Steine!,Bonus Set: Roccia Grande!,Bônus de Conjunto de Pedra Grande!,大岩套装加成！
 SETBONUS_BIGROCK_DESC,Spawn 2 Charmed Geolads at the start of each battle.,,Genera 2 petráqueos embrujados al inicio de cada combate.,Invoque 2&nbsp;racaillots envoûtés au début de chaque combat.,Rufe am Anfang jedes Kampfes 2 freundliche Steinkleins.,Generi 2 Geotipi Ammaliati all'inizio di ogni battaglia.,Gere 2 granitoides enfeitiçados no início de cada batalha.,"在每场战斗开始时生成2个被魅惑的地质精灵。
 "
@@ -3823,7 +3823,7 @@ ARMOR_CAVEMANNECKLACE_NAME,Caveman Necklace,,Gargantilla cavernícola,Collier pr
 ARMOR_CAVEMANNECKLACE_DESC,+33% crit damage.,,+33 % de daño crítico.,Dégâts critiques +33&nbsp;%.,+33&nbsp;% kritischer Schaden.,+33% al danno critico.,+33% de dano crítico.,+33% 暴击伤害。
 SETBONUS_CAVEMAN_NAME,Caveman Set Bonus!,,¡Bonificación de conjunto cavernícola!,Bonus d'ensemble&nbsp;: primitif&nbsp;!,Setbonus: Rüstung eines Höhlenmenschen!,Bonus Set: Cavernicolo!,Bônus de Conjunto de Homem das Cavernas!,穴居人套装加成！
 SETBONUS_CAVEMAN_DESC,"If your [img:int] is 1 or less, gain Brace 5.",,"Si tiene 1 o menos de [img:int], obtiene 5 de refuerzo.","Si votre [img:int] est d'1&nbsp;ou moins, vous confère Garde 5.","Erhalte Wappnen&nbsp;5, wenn deine [img:int] 1 oder weniger beträgt.","Se la tua [img:int] è pari o inferiore a 1, ottieni Guardia 5.","Se a sua [img:int] for igual ou menor a 1, obtenha preparação 5.","如果你的 [img:int] 小于等于 1，
-获得 护甲 5。"
+获得 坚毅 5。"
 ,,,,,,,,
 ARMOR_OCULARCHIP_NAME,Ocular Chip,,Chip ocular,Puce oculaire,Okularchip,Chip Oculare,Chip Ocular,视觉芯片
 ARMOR_OCULARCHIP_DESC,Your spells cost -1 mana.,,Sus hechizos cuestan -1 de maná.,Vos sorts coûtent -1&nbsp;mana.,Deine Zauber kosten -1&nbsp;Mana.,I tuoi incantesimi costano -1 mana.,Seus encantamentos custam -1 de mana.,"你的法术消耗减少 1 法力值。
@@ -3848,7 +3848,7 @@ ARMOR_CLERICRELIC_DESC,"+1 Brace.
 +15&nbsp;% de chances d'infliger Peur aux ennemis qui vous touchent ou vous attaquent.","+1 Wappnen.
 +15&nbsp;% Wahrscheinlichkeit, bei Einheiten, die dich berühren oder angreifen, Angst zu verursachen.","+1 alla Guardia.
 +15% di probabilità di infliggere Paura alle unità che ti toccano o ti attaccano.","+1 de preparação.
-+15% de chance de aplicar medo em unidades que atacarem ou entrarem em contato com você.","+1 护甲。
++15% de chance de aplicar medo em unidades que atacarem ou entrarem em contato com você.","+1 坚毅。
 对接触或攻击你的单位有15%
 概率造成恐惧效果。"
 ARMOR_CLERICTEARS_NAME,Cleric's Tears,,Lágrimas de clérigo,Larmes de sage,Kleriktertränen,Lacrime del Chierico,Lágrimas de Clérigo,牧师之泪
@@ -3998,7 +3998,7 @@ ARMOR_GREENMANMASK_DESC,"+3 Brace while standing in tall grass.
 Régénération de mana +3&nbsp;quand vous êtes dans l'eau.","+3&nbsp;Wappnen, wenn du in hohem Gras bist.
 +3&nbsp;Manaregeneration, wenn du im Wasser bist.","+3 alla Guardia quando sei nell'erba alta.
 +3 a Rigenerazione Mana quando sei nell'acqua.","+3 de preparação enquanto estiver em grama alta.
-+3 de regeneração de mana enquanto estiver na água.","站在高草中时 +3 护甲。
++3 de regeneração de mana enquanto estiver na água.","站在高草中时 +3 坚毅。
 站在水中时 +3 法力值回复。"
 ARMOR_RINGOFMUSHROOMS_NAME,Ring of Mushrooms,,Anillo de setas,Anneau champi,Pilzring,Anello dei Funghi,Anel de Cogumelos,蘑菇之戒
 ARMOR_RINGOFMUSHROOMS_DESC,All of your area abilities gain +1 area.,,Todas las habilidades de área obtienen +1 de área.,Toutes vos compétences bénéficient de Rayon +1.,All deine Flächenfähigkeiten erhalten +1&nbsp;Fläche.,Tutte le tue abilità ad area ottengono +1 di area.,Todas as suas habilidades de área obtêm +1 de área.,"你所有的区域能力获得 +1 区域。
@@ -4045,7 +4045,7 @@ Endeblez.","Garde +2, Épines +3, Hausse de stats +1.
 Cassant.","+2&nbsp;Wappnen, +3&nbsp;Dornen, Bonus auf alle Attribute.
 Spröde.","+2 alla Guardia, +3 Spine, Aumento delle Statistiche 1.
 Friabile.","+2 de preparação, +3 de espinhos, todos os atributos aumentados 1.
-Quebradiço.","+2 护甲，+3 荆棘，
+Quebradiço.","+2 坚毅，+3 荆棘，
 全属性 +1。
 脆弱。"
 ARMOR_ELITEMASK_NAME,Elite Alloy Mask,,Máscara de aleación selecta,Masque en alliage d'élite,Premiumlegierte Maske,Maschera in Lega d’Élite,Máscara de Liga de Elite,精英合金面具
@@ -4055,7 +4055,7 @@ Endeblez.","Garde +2, Épines +3, Hausse de stats +1.
 Cassant.","+2&nbsp;Wappnen, +3&nbsp;Dornen, Bonus auf alle Attribute.
 Spröde.","+2 alla Guardia, +3 Spine, Aumento delle Statistiche 1.
 Friabile.","+2 de preparação, +3 de espinhos, todos os atributos aumentados 1.
-Quebradiço.","+2 护甲，+3 荆棘，
+Quebradiço.","+2 坚毅，+3 荆棘，
 全属性 +1。
 脆弱。"
 ARMOR_ELITEARMOR_NAME,Elite Alloy Armor,,Armadura de aleación selecta,Armure en alliage d'élite,Premiumlegierte Rüstung,Armatura in Lega d’Élite,Armadura de Liga de Elite,精英合金护甲
@@ -4065,7 +4065,7 @@ Endeblez.","Garde +2, Épines +3, Hausse de stats +1.
 Cassant.","+2&nbsp;Wappnen, +3&nbsp;Dornen, Bonus auf alle Attribute.
 Spröde.","+2 alla Guardia, +3 Spine, Aumento delle Statistiche 1.
 Friabile.","+2 de preparação, +3 de espinhos, todos os atributos aumentados 1.
-Quebradiço.","+2 护甲，+3 荆棘，
+Quebradiço.","+2 坚毅，+3 荆棘，
 全属性 +1。
 脆弱。"
 SETBONUS_ELITEALLOY_NAME,Elite Alloy Set Bonus!,,¡Bonificación de conjunto de aleación selecta!,Bonus d'ensemble&nbsp;: alliage d'élite&nbsp;!,Setbonus: Premiumlegierung!,Bonus Set: Lega d’Élite!,Bônus de Conjunto de Liga de Elite!,精英合金套装奖励！
@@ -4091,13 +4091,13 @@ Sempre que comer uma pílula, obtenha um atributo aleatório e perca outro atrib
 同时失去另一项随机属性。"
 ,,,,,,,,
 ARMOR_FATTYHAT_NAME,Fatty Hat,,Sombrero grasiento,Chapeau grassouillet,Fettiger Hut,Cappello di Grasso,Chapéu Gorducho,胖帽子
-ARMOR_FATTYHAT_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"护甲1。
+ARMOR_FATTYHAT_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"坚毅 1。
 你的基本攻击具有+1击退效果。"
 ARMOR_FATTYMASK_NAME,Fatty Mask,,Máscara grasienta,Masque grassouillet,Fettige Maske,Maschera di Grasso,Máscara Gorducha,胖面具
-ARMOR_FATTYMASK_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"护甲1。
+ARMOR_FATTYMASK_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"坚毅 1。
 你的基本攻击具有+1击退效果。"
 ARMOR_FATTYNECKLACE_NAME,Fatty Necklace,,Gargantilla grasienta,Collier grassouillet,Fettige Halskette,Collana di Grasso,Colar Gorducho,胖项链
-ARMOR_FATTYNECKLACE_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"护甲1。
+ARMOR_FATTYNECKLACE_DESC,Brace 1. Your basic attack has +1 Knockback.,,1 de refuerzo. El ataque básico tiene +1 de retroceso.,Garde +1. Votre attaque de base bénéficie de Recul +1.,Wappnen&nbsp;1. Dein Grundangriff hat +1&nbsp;Rückstoß.,Guardia 1. Il tuo attacco base ha +1 Contraccolpo.,Preparação 1. Seu ataque básico possui +1 de empurrão.,"坚毅 1。
 你的基本攻击具有+1击退效果。"
 SETBONUS_FATTY_NAME,Fatty Set Bonus!,,¡Bonificación de conjunto grasiento!,Bonus d'ensemble&nbsp;: grassouillet&nbsp;!,Setbonus: Fettige Rüstung!,Bonus Set: Grasso!,Bônus de Conjunto Gorducho!,胖套装奖励！
 SETBONUS_FATTY_DESC,,,,,,,,
@@ -4373,7 +4373,7 @@ Endeblez.","Garde +1.
 Cassant.","+1&nbsp;Wappnen.
 Spröde.","+1 alla Guardia.
 Friabile.","+1 de preparação.
-Quebradiço.","+1 护甲。
+Quebradiço.","+1 坚毅。
 易碎。"
 ARMOR_JANKARMOR_NAME,Jank Alloy Armor,,Armadura de aleación cutre,Armure en alliage bancal,Minderwertig legierte Rüstung,Armatura in Lega Scadente,Armadura de Liga Improvisada,低劣合金铠甲
 ARMOR_JANKARMOR_DESC,"+1 Brace.
@@ -4382,7 +4382,7 @@ Endeblez.","Garde +1.
 Cassant.","+1&nbsp;Wappnen.
 Spröde.","+1 alla Guardia.
 Friabile.","+1 de preparação.
-Quebradiço.","+1 护甲。
+Quebradiço.","+1 坚毅。
 易碎。"
 ARMOR_JANKHAT_NAME,Jank Alloy Hat,,Sombrero de aleación cutre,Chapeau en alliage bancal,Minderwertig Legierter Hut,Cappello in Lega Scadente,Chapéu de Liga Improvisada,低劣合金帽子
 ARMOR_JANKHAT_DESC,"+1 Brace.
@@ -4391,7 +4391,7 @@ Endeblez.","Garde +1.
 Cassant.","+1&nbsp;Wappnen.
 Spröde.","+1 alla Guardia.
 Friabile.","+1 de preparação.
-Quebradiço.","+1 护甲。
+Quebradiço.","+1 坚毅。
 易碎。"
 SETBONUS_JANKALLOY_NAME,Jank Alloy Set Bonus!,,¡Bonificación de conjunto de aleación cutre!,Bonus d'ensemble&nbsp;: alliage bancal&nbsp;!,Setbonus: Minderwertige Legierung!,Bonus Set: Lega Scadente!,Bônus de Conjunto de Liga Improvisada!,低劣合金套装奖励！
 SETBONUS_JANKALLOY_DESC,Jank Alloy Set Pieces are no longer Brittle.,,Las piezas de aleación cutre ya no sufren endeblez.,Les éléments de l'ensemble en alliage bancal ne sont plus Cassants.,Minderwertig legierte Setgegenstände sind nicht mehr spröde.,I pezzi del set in Lega Scadente non sono più friabili.,Peças do conjunto de liga improvisada não são mais quebradiças.,低劣合金套装部件不再易碎。
@@ -4429,11 +4429,11 @@ SETBONUS_LEAFY_DESC,"If you end your turn with unused movement actions, heal 3 H
 恢复3生命值并获得+3充能。"
 ,,,,,,,,
 ARMOR_LEATHERHAT_NAME,Leather Cap,,Gorra de cuero,Calotte en cuir,Lederkappe,Cappello di Cuoio,Chapéu de Couro,皮革帽
-ARMOR_LEATHERHAT_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+ARMOR_LEATHERHAT_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 ARMOR_LEATHERMASK_NAME,Leather Mask,,Máscara de cuero,Masque en cuir,Ledermaske,Maschera di Cuoio,Máscara de Couro,皮革面具
-ARMOR_LEATHERMASK_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+ARMOR_LEATHERMASK_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 ARMOR_LEATHERARMOR_NAME,Leather Choker,,Collera de cuero,Tour de cou en cuir,Lederhalsreif,Girocollo di Cuoio,Gargantilha de Couro,皮革颈圈
-ARMOR_LEATHERARMOR_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
+ARMOR_LEATHERARMOR_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 坚毅。
 SETBONUS_LEATHER_NAME,Leather Set Bonus!,,¡Bonificación de conjunto de cuero!,Bonus d'ensemble&nbsp;: cuir&nbsp;!,Setbonus: Lederrüstung!,Bonus Set: Cuoio!,Bônus de Conjunto de Couro!,皮革套装加成！
 SETBONUS_LEATHER_DESC,,,,,,,,
 ,,,,,,,,
@@ -4611,7 +4611,7 @@ ARMOR_PRAYERBEADS_DESC,"Each time you take damage, gain +3 Brace until your next
 [s:.7](Zählt als leerer Rüstungsplatz.)[/s]","Ogni volta che subisci danno, ottieni +3 alla Guardia fino al tuo prossimo turno.
 [s:.7](Conta come uno slot armatura vuoto.)[/s]","Sempre que sofrer dano, obtenha +3 de preparação até seu próximo turno.
 [s:.7](Este item conta como um espaço de armadura vazio.)[/s]","每次受到伤害，
-直到下个回合获得+3 护甲。
+直到下个回合获得+3 坚毅。
 [s:.7](这算作一个装备槽。)[/s]"
 SETBONUS_MONK_NAME,Monk Set Bonus!,,¡Bonificación de conjunto de monje!,Bonus d'ensemble&nbsp;: moine&nbsp;!,Setbonus: Mönchsroben!,Bonus Set: Monaco!,Bônus de Conjunto de Monge!,僧侣套装加成！
 SETBONUS_MONK_DESC,Gain +2 [img:shield] at the end of each turn.,,Obtiene +2 [img:shield] al final de cada turno.,[img:shield] +2&nbsp;à la fin de chaque tour.,Erhalte am Ende jedes Zuges +2&nbsp;[img:shield].,Ottieni +2 allo [img:shield] alla fine di ogni turno.,Obtenha +2 de [img:shield] no fim do seu turno.,每回合结束时获得 +2 [img:shield]。
@@ -4853,7 +4853,7 @@ ARMOR_ASTEROIDBELT_DESC,"+2 Brace.
 Chances de bloquer les dégâts +10&nbsp;%.","+2&nbsp;Wappnen.
 +10&nbsp;% Wahrscheinlichkeit, Schaden zu blockieren.","+2 alla Guardia.
 +10% di probabilità di bloccare il danno.","+2 de preparação.
-+10% de chance de bloquear dano.","+2 护甲。
++10% de chance de bloquear dano.","+2 坚毅。
 +10% 几率格挡伤害。"
 SETBONUS_PLANET_NAME,Planet Set Bonus!,,¡Bonificación de conjunto planetario!,Bonus d'ensemble&nbsp;: planètes&nbsp;!,Setbonus: Planeten!,Bonus Set: Pianeta!,Bônus de Conjunto de Planeta!,行星套装加成！
 SETBONUS_PLANET_DESC,"Flying. Inflict Bruise 1 on units you make contact with.
@@ -4965,7 +4965,7 @@ ARMOR_ROCKARMOR_DESC,Brittle. Your basic attack has +1 Knockback. Gain coins whe
 你的基础攻击有 +1 击退。
 当此物品破损时获得金币。"
 SETBONUS_ROCK_NAME,Rock Set Bonus!,,¡Bonificación de conjunto pétreo!,Bonus d'ensemble&nbsp;: pierres&nbsp;!,Setbonus: Steinrüstung!,Bonus Set: Roccia!,Bônus de Conjunto de Pedra!,石套装加成！
-SETBONUS_ROCK_DESC,+1 Brace. Spawn a pet rock familiar whenever you lose [img:shield].,,+1 de refuerzo. Genera un familiar roca mascota al perder [img:shield].,"Garde +1. Quand vous perdez de la [img:shield], un caillou de compagnie est invoqué.","+1&nbsp;Wappnen. Rufe einen Steinfreundbegleiter, wenn du [img:shield] verlierst.",+1 alla Guardia. Generi un famiglio Roccia Domestica ogni volta che perdi [img:shield].,+1 de preparação. Gere um familiar pedra de estimação sempre que perder [img:shield].,"+1 护甲。
+SETBONUS_ROCK_DESC,+1 Brace. Spawn a pet rock familiar whenever you lose [img:shield].,,+1 de refuerzo. Genera un familiar roca mascota al perder [img:shield].,"Garde +1. Quand vous perdez de la [img:shield], un caillou de compagnie est invoqué.","+1&nbsp;Wappnen. Rufe einen Steinfreundbegleiter, wenn du [img:shield] verlierst.",+1 alla Guardia. Generi un famiglio Roccia Domestica ogni volta che perdi [img:shield].,+1 de preparação. Gere um familiar pedra de estimação sempre que perder [img:shield].,"+1 坚毅。
 当你失去 [img:shield] 时召唤一只宠物石头伙伴。"
 ,,,,,,,,
 ARMOR_ROCKYMASK_NAME,Rocky Mask,,Máscara rocosa,Masque rocailleux,Steinerne Maske,Maschera Rocciosa,Máscara Rochosa,岩石面具
@@ -5082,7 +5082,7 @@ ARMOR_SPACEHELMET_DESC,"+1 Brace.
 Chances de bloquer les malus +30&nbsp;%.","+1&nbsp;Wappnen.
 30%ige Wahrscheinlichkeit, negative Statuseffekte zu blockieren.","+1 alla Guardia.
 30% di probabilità di bloccare gli effetti di stato negativi.","+1 de preparação.
-30% de chance de bloquear efeitos de estado negativos.","+b1 护甲。
+30% de chance de bloquear efeitos de estado negativos.","+1 坚毅。
 30% 概率抵挡负面状态效果。"
 ARMOR_SPACEANTENNA_NAME,Space Antenna,,Antena espacial,Antenne spatiale,Weltraumantenne,Antenna Spaziale,Antena Espacial,太空天线
 ARMOR_SPACEANTENNA_DESC,Gain 0-4 mana at start of each turn.,,Obtiene 0-4 de maná al inicio de cada turno.,+0&nbsp;à +4 mana au début de chaque tour.,Erhalte am Anfang jedes Zuges 0&nbsp;– 4 Mana.,Ottieni 0-4 mana all'inizio di ogni turno.,Obtenha 0-4 de mana no início de cada turno.,"每回合开始时获得 0-4 法力值。
@@ -5232,7 +5232,7 @@ Les alliés bénéficient de Garde +1.","Beulen&nbsp;2.
 Alle Verbündeten erhalten Wappnen&nbsp;1.","Livido 2.
 Tutti gli alleati ottengono Guardia 1.","Contusão 2.
 Todos os aliados obtêm preparação 1.","挫伤 2。
-所有盟友获得护甲 1。"
+所有盟友获得坚毅 1。"
 ARMOR_DAMAGETRANSMITTER_NAME,Damage Transmitter,,Transmisor de daño,Émetteur d'attaque,Schadenstransmitter,Trasmettitore di Danno,Transmissor de Dano,伤害传输器
 ARMOR_DAMAGETRANSMITTER_DESC,"-2 Damage.
 All allies gain +1 Damage.",,"-2 de daño.
@@ -5357,13 +5357,13 @@ Fragile, Infiammabile.","+1 de espinhos.
 Frágil, inflamável.","+1 荆棘。
 易碎，易燃。"
 SETBONUS_WOOD_NAME,Wood Set Bonus!,,¡Bonificación de conjunto de madera!,Bonus d'ensemble&nbsp;: bois&nbsp;!,Setbonus: Holzrüstung!,Bonus Set: Legno!,Bônus de Conjunto de Madeira!,木套装加成！
-SETBONUS_WOOD_DESC,+1 Brace. Wood Set Pieces are no longer Fragile.,,+1 de refuerzo. Las piezas de madera ya no sufren fragilidad.,Garde +1. Les éléments d'ensemble en bois ne sont plus Fragiles.,+1&nbsp;Wappnen. Holzsetgegenstände sind nicht mehr zerbrechlich.,+1 alla Guardia. I pezzi del set Legno non sono più fragili.,+1 de preparação. Peças do conjunto de madeira não são mais frágeis.,"+1 护甲。
+SETBONUS_WOOD_DESC,+1 Brace. Wood Set Pieces are no longer Fragile.,,+1 de refuerzo. Las piezas de madera ya no sufren fragilidad.,Garde +1. Les éléments d'ensemble en bois ne sont plus Fragiles.,+1&nbsp;Wappnen. Holzsetgegenstände sind nicht mehr zerbrechlich.,+1 alla Guardia. I pezzi del set Legno non sono più fragili.,+1 de preparação. Peças do conjunto de madeira não são mais frágeis.,"+1 坚毅。
 木套装部件不再易碎。"
 ,,,,,,,,
 ARMOR_SABERTOOTHEDHAT_NAME,Sabertooth Hat,,Sombrero de dientes de sable,Chapeau smilodon,Säbelzahnhut,Cappello dello Smilodonte,Chapéu de Dentes-de-Sabre,剑齿虎帽
 ARMOR_SABERTOOTHEDHAT_DESC,+2 Thorns. Ice immunity.,,+2 de espinas. Inmunidad al hielo.,Épines +2. Immunité à la glace.,+2&nbsp;Dornen. Immun gegen Eis.,+2 Spine. Immunità al Ghiaccio.,+2 de espinhos. Imunidade contra gelo.,+2 荆棘。冰霜免疫。
 ARMOR_CAVEMANBEARD_NAME,Wooly Beard,,Barba lanuda,Barbe laineuse,Wollhaarbart,Barba Lanosa,Barba Lanosa,羊毛胡须
-ARMOR_CAVEMANBEARD_DESC,Brace 2. Ice immunity.,,2 de refuerzo. Inmunidad al hielo.,Garde +2. Immunité à la glace.,Wappnen&nbsp;2. Immun gegen Eis.,Guardia 2. Immunità al Ghiaccio.,Preparação 2. Imunidade contra gelo.,护甲 2。冰霜免疫。
+ARMOR_CAVEMANBEARD_DESC,Brace 2. Ice immunity.,,2 de refuerzo. Inmunidad al hielo.,Garde +2. Immunité à la glace.,Wappnen&nbsp;2. Immun gegen Eis.,Guardia 2. Immunità al Ghiaccio.,Preparação 2. Imunidade contra gelo.,坚毅 2。冰霜免疫。
 ARMOR_SABERTOOTHEDPELT_NAME,Sabertooth Pelt,,Piel de dientes de sable,Fourrure de smilodon,Säbelzahnpelz,Pelle dello Smilodonte,Pele de Dentes-de-Sabre,剑齿虎毛皮
 ARMOR_SABERTOOTHEDPELT_DESC,+2 Health Regen. Ice immunity.,,+2 de regeneración de salud. Inmunidad al hielo.,Régénération de PV +2. Immunité à la glace.,+2&nbsp;Lebensregeneration. Immun gegen Eis.,+2 a Rigenerazione Salute. Immunità al Ghiaccio.,+2 de regeneração de saúde. Imunidade contra gelo.,+2 生命值回复。冰霜免疫。
 SETBONUS_WOOLLY_NAME,Wooly Set Bonus!,,¡Bonificación de conjunto lanudo!,Bonus d'ensemble&nbsp;: laineux&nbsp;!,Setbonus: Wollhaarrüstung!,Bonus Set: Lanoso!,Bônus de Conjunto Lanoso!,羊毛套装加成！
@@ -5480,10 +5480,10 @@ Ottiene +2 allo [img:shield] e +1 alla Guardia alla fine di ogni battaglia.
 Se la tua [img:int] è 0 o inferiore, inizi ogni battaglia KO.","Preparação {aux}.
 Obtenha -1 de [img:int] permanentemente no final de cada batalha.
 Este item obtém +2 de [img:shield] e +1 de preparação no final de cada batalha.
-Se a sua [img:int] for igual ou menor do que 0, inicie cada batalha inconsciente.","护甲 {aux}。
+Se a sua [img:int] for igual ou menor do que 0, inicie cada batalha inconsciente.","坚毅 {aux}。
 每场战斗结束时永久减少 -1 [img:int]。
 
-每场战斗结束时获得 +2 [img:shield] 和 +1 护甲。
+每场战斗结束时获得 +2 [img:shield] 和 +1 坚毅。
 
 如果你的 [img:int] 为 0 或更少，开始每场战斗时处于倒地状态。"
 ARMOR_SACCULINACARCINI_NAME,Sacculina Carcini,,Sacculina carcini,Sacculina carcini,Sackkrebse,Sacculina Carcini,Sacculina Carcini,囊蚤
@@ -5513,11 +5513,11 @@ ITEM_PAROUSWORM_DESC,66% chance to find a random parasite at the end of each bat
 ITEM_ROUNDWORM_NAME,Roundworm,,Lombriz intestinal,Ascaris,Fadenwurm,Ascaride,Lombriga,蛔虫
 ITEM_ROUNDWORM_DESC,Units that contact you get knocked back 5 tiles.,,Las unidades que entren en contacto con esta retroceden 5 casillas.,Les unités qui vous touchent subissent Recul +5.,"Einheiten, die dich berühren, werden 5&nbsp;Felder zurückgestoßen.",Le unità che ti toccano vengono respinte di 5 caselle.,Unidades que entram em contato com você são empurradas 5 espaços para trás.,接触你的单位会被击退5格。
 PARASITE_AMOEBAHEAD_NAME,Amoeba,,Ameba,Amibe,Amöbe,Ameba,Ameba,变形虫
-PARASITE_AMOEBAHEAD_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 护甲。+10% 失误率。
+PARASITE_AMOEBAHEAD_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 坚毅。+10% 失误率。
 PARASITE_AMOEBANECK_NAME,Amoeba,,Ameba,Amibe,Amöbe,Ameba,Ameba,变形虫
-PARASITE_AMOEBANECK_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 护甲。+10% 失误率。
+PARASITE_AMOEBANECK_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 坚毅。+10% 失误率。
 PARASITE_AMOEBAFACE_NAME,Amoeba,,Ameba,Amibe,Amöbe,Ameba,Ameba,变形虫
-PARASITE_AMOEBAFACE_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 护甲。+10% 失误率。
+PARASITE_AMOEBAFACE_DESC,+1 Brace. +10% Miss Chance.,,+1 de refuerzo. +10 % de probabilidad de fallo.,Garde +1. Risques d'échec +10&nbsp;%.,"+1&nbsp;Wappnen. +10&nbsp;% Wahrscheinlichkeit, dass Angriffe verfehlen.",+1 alla Guardia. +10% di probabilità di mancare il bersaglio.,+1 de preparação. +10% de chance de erro.,+1 坚毅。+10% 失误率。
 SETBONUS_AMOEBA_NAME,Amoeba Set Bonus!,,¡Bonificación de conjunto de ameba!,Bonus d'ensemble&nbsp;: amibe&nbsp;!,Setbonus: Amöben!,Bonus Set: Ameba!,Bônus de Conjunto de Ameba!,变形虫套装加成！
 SETBONUS_AMOEBA_DESC,Permanent Madness.,,Locura permanente.,Folie permanente.,Dauerhafter Wahnsinn.,Follia permanente.,Insanidade permanente.,永久疯狂。
 PARASITE_BOTFLYLARVA_NAME,Botfly Larva,,Larva éstrida,Larve de taon,Dasselfliegenlarve,Larva di Tafano,Larva de Mosca-Varejeira,蝇蛆幼虫
@@ -5632,7 +5632,7 @@ Seu ataque básico aplica veneno.","相邻单位在其回合结束时远离你�
 
 你的基础攻击会造成中毒。"
 ITEM_SLAGTIGHT_NAME,Slag Tight,,Estala gtita,Stalactite,Fetter Stamm,Stala Gtite,Estala Ctite,渣滓紧握
-ITEM_SLAGTIGHT_DESC,Brace 1. Your basic attack inflicts Bruise 1.,,1 de refuerzo. El ataque básico inflige 1 de moratón.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.,"1层护甲。
+ITEM_SLAGTIGHT_DESC,Brace 1. Your basic attack inflicts Bruise 1.,,1 de refuerzo. El ataque básico inflige 1 de moratón.,Garde +1. Votre attaque de base inflige Contusion +1.,Wappnen&nbsp;1. Dein Grundangriff verursacht Beulen&nbsp;1.,Guardia 1. Il tuo attacco base infligge Livido 1.,Preparação 1. Seu ataque básico aplica contusão 1.,"坚毅 1
 你的基本攻击造成 1层挫伤。
 "
 ITEM_SPLINTERS_NAME,Splinters,,Astillas,Échardes,Splitter,Schegge,Lascas,碎片
@@ -5719,7 +5719,7 @@ Abilità Bonus: Attiva l'Atomica.","Leve-a até o Infinito e espere pelo sinal d
 +2 de preparação. Se este gato morrer, ela explode e causa 50 de dano a tudo.
 Habilidade bônus: Ativar Bomba Nuclear.","将它带到无限之地并等待豆豆博士的信号引爆它。
 
-+2 护甲。如果这只猫死亡，
++2 坚毅。如果这只猫死亡，
 会爆炸并对所有目标造成50点伤害。"
 ARMOR_PRINCESSHAT_NAME,Princess Hat,,Gorro de princesa,Coiffe de princesse,Prinzessinnenhut,Cappello da Principessa,Chapéu de Princesa,公主帽
 ARMOR_PRINCESSHAT_DESC,Side Quest Item. Fragile. Equipped cat cannot use any actions except Move.,,Objeto de misión secundaria. Fragilidad. El gato que lo tenga equipado solo puede moverse.,Objet de quête secondaire. Fragile. Le chat équipé ne peut que se déplacer.,"Nebenquestgegenstand. Zerbrechlich. Die Katze, die ihn trägt, kann keine Aktionen außer Bewegung benutzen.",Oggetto per missione secondaria. Fragile. Il gatto equipaggiato non può usare alcuna azione a eccezione di Movimento.,Item de missão secundária. O gato que o equipar não pode realizar qualquer ação além de se mover.,"支线任务物品。易碎。
@@ -5888,7 +5888,7 @@ ITEM_HARDPILL_NAME,Unidentified Pills,,Pastillas sin nombre,Pilules non identifi
 ITEM_HARDPILL_DESC,Side Quest Item. The adventure is harder!,,Objeto de misión secundaria. ¡La aventura se complica!,Objet de quête secondaire. La difficulté de l'aventure se corse&nbsp;!,Nebenquestgegenstand: Dein Abenteuer ist härter!,Oggetto per missione secondaria. L'avventura è più difficile!,Item de missão secundária. A aventura é mais difícil!,"支线任务物品。
 冒险难度提升！"
 ITEM_HARDPILL_FIXED_NAME,Truck Stop Pills,,Pastillas de la parada de camiones,Pilules de l'aire de repos,Parkplatzpillen,Pillole da Area di Servizio,Pílulas de Parada de Caminhões,卡车停靠处的药丸
-ITEM_HARDPILL_FIXED_DESC,+3 Brace. You count as a rock.,,+3 de refuerzo. Esta unidad cuenta como roca.,Garde +3. Vous êtes considéré comme une pierre.,+3&nbsp;Wappnen. Du zählst als Stein.,+3 alla Guardia. Vali come una roccia.,+3 de preparação. Você conta como uma pedra.,+b3 护甲。你被视为岩石。
+ITEM_HARDPILL_FIXED_DESC,+3 Brace. You count as a rock.,,+3 de refuerzo. Esta unidad cuenta como roca.,Garde +3. Vous êtes considéré comme une pierre.,+3&nbsp;Wappnen. Du zählst als Stein.,+3 alla Guardia. Vali come una roccia.,+3 de preparação. Você conta como uma pedra.,+3 坚毅。你被视为岩石。
 ITEM_JAROFCHAOS_NAME,Jar Of Chaos,,Tarro de caos,Bocal du chaos,Chaosglas,Barattolo del Caos,Pote de Caos,混沌之瓶
 ITEM_JAROFCHAOS_DESC,"Bring it to Dr. Beanies.
 ...or drink it to permanently gain All Stats Up 2 and upgrade all of your spells.",,"Hay que llevárselo al Dr. Beanies...
@@ -6160,7 +6160,7 @@ Innato","Uso: alterne entre as posturas corpo-a-corpo e à distância.
 Você possui preparação 1 enquanto está na postura corpo-a-corpo.
 Inato.","使用：
 在近战和远程姿态间切换。
-处于近战姿态时，你拥有1级护甲。"
+处于近战姿态时，你拥有坚毅 1。"
 ,,,,,,,,
 //modifier,,,,,,,,
 ITEM_LEARNABILITY_NAME,{str_aux_active_name} Syringe,,Jeringuilla de {str_aux_active_name},Seringue ({str_aux_active_name}),{str_aux_active_name}-Spritze,{str_aux_active_name} Siringa,{str_aux_active_name} Seringa,{str_aux_active_name} 注射器

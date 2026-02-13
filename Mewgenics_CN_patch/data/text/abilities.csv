@@ -7,9 +7,9 @@ ABILITY_REST_DESC,"Heal some HP, then fall asleep.",,Recupera algunos PS y luego
 ABILITY_REST2_DESC,"Heal a lot of HP, then fall asleep.",,Recupera muchos PS y luego se duerme.,Vous regagnez beaucoup de PV avant de vous endormir.,Stelle viel LP wieder her und schlafe anschließend ein.,"Rigeneri molti PS, poi ti addormenti.","Cure muita saúde, e então adormeça.",大量恢复生命值，然后睡着。
 ABLITY_BRACE_NAME,Brace,,Refuerzo,Garde,Wappnen,Guardia,Preparação,整装待发
 ABLITY_BRACE_DESC,Gain +1 temporary Brace until your next turn.,,Obtiene +1 de refuerzo temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen.,Ottieni +1 Guardia temporanea fino al tuo prossimo turno.,Obtenha +1 de preparação temporária até seu próximo turno.,"直到你的下一个回合，
-获得 +1 临时护甲。"
+获得 +1 临时坚毅。"
 ABLITY_BRACE2_DESC,Gain +1 temporary Brace and +1 temporary Thorns until your next turn.,,Obtiene +1 de refuerzo temporal y +1 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+1&nbsp;et Épines temporaires&nbsp;+1&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und +1 vorübergehende Dornen.,Ottieni +1 Guardia temporanea e +1 Spine temporanee fino al tuo prossimo turno.,Obtenha +1 de preparação temporária e +1 de espinhos temporários até seu próximo turno.,"直到你的下一个回合，
-获得 +1 临时护甲和 +1 临时荆棘。"
+获得 +1 临时坚毅和 +1 临时荆棘。"
 ABILITY_GROOM_NAME,Groom,,Acicalamiento,Toilettage,Schlecken,Toelettatura,Enfeitar,梳理
 ABILITY_GROOM_DESC,Remove all of the debuffs on yourself or an adjacent unit.,,Se elimina todas las desventajas de sí misma o de una adyacente.,Retire tous les malus sur vous ou une unité adjacente.,"Entferne alle Schwächungen, von denen du oder eine benachbarte Einheit betroffen ist.",Rimuove tutti i malus da te o da un'unità adiacente,Remova todos os enfraquecimentos de si e de uma unidade adjacente.,"移除自己或相邻单位所有负面状态。
 "
@@ -129,7 +129,7 @@ ABILITY_HUNT_DESC,A ranged attack that turns anything it kills into meat.,,Un at
 ABILITY_HUNT2_DESC,A stronger ranged attack that turns anything it kills into meat.,,Un ataque a distancia más fuerte que convierte en carne a todo lo que mata.,"Si vous tuez une unité avec cette puissante attaque à distance, elle devient de la viande.","Ein stärkerer Fernangriff, der Einheiten, die er tötet, in Fleisch verwandelt.",Un attacco a distanza più potente che trasforma in carne tutto ciò che uccide.,Um ataque à distância mais forte que transforma tudo que mata em carne.,"更强的远程攻击，
 所杀敌人变为肉。"
 ABILITY_FLEX_NAME,Flex,,Demostración,Flex,Muskelprotz,Contrazione,Flexão,灵活
-ABILITY_FLEX_DESC,Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.,,Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 1 de retroceso a cada unidad adyacente.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+1&nbsp;à chaque unité adjacente.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 1&nbsp;Rückstoß.,Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 1 Contraccolpo a ogni unità adiacente.,Obtenha +1 de preparação temporária e cause 1 de empurrão a cada unidade adjacente.,"获得 +1 临时护甲，
+ABILITY_FLEX_DESC,Gain +1 temporary Brace until your next turn and deal 1 knockback to each adjacent unit.,,Obtiene +1 de refuerzo temporal hasta el próximo turno e inflige 1 de retroceso a cada unidad adyacente.,Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+1&nbsp;à chaque unité adjacente.,Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 1&nbsp;Rückstoß.,Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 1 Contraccolpo a ogni unità adiacente.,Obtenha +1 de preparação temporária e cause 1 de empurrão a cada unidade adjacente.,"获得 +1 临时坚毅，
 直到你的下一回合，
 并对每个相邻单位造成1格击退。"
 ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knockback to each adjacent unit.
@@ -137,7 +137,7 @@ ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knoc
 [s:.7](Este hechizo cuesta menos).[/s]",Garde temporaire&nbsp;+1&nbsp;jusqu'à votre prochain tour et Recul&nbsp;+3&nbsp;à chaque unité adjacente. [s:.7](Coût réduit.)[/s],"Erhalte bis zu deinem nächsten Zug +1 vorübergehendes Wappnen und verursache bei jeder benachbarten Einheit 3&nbsp;Rückstoß.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 Guardia temporanea fino al tuo turno successivo e infliggi 3 Contraccolpo a ogni unità adiacente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de preparação temporária e cause 3 de empurrão a cada unidade adjacente.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时护甲，
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时坚毅，
 直到你的下一回合，
 并对每个相邻单位造成3格击退。
 
@@ -1109,14 +1109,14 @@ ABILITY_HOLYLIGHT2_DESC,"Heal allies and damage enemies in an area. This spell h
 ABILITY_ETHEREAL_NAME,Ethereal,,Etéreo,Céleste,Ätherisch,Etereo,Etéreo,虚无
 ABILITY_ETHEREAL_DESC,"Gain 4 [img:divineshield], 3 [img:shield], heal 2 HP, and Brace 1.",,"Obtiene 4 [img:divineshield], 3 [img:shield], 1 de refuerzo y recupera 2 PS.","[img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte 4&nbsp;[img:divineshield], 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni 4 allo [img:divineshield], 3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得4个[img:divineshield]，3个[img:shield]，
 治疗2点生命值，
-并获得1层护甲。"
+并获得1层坚毅。"
 ABILITY_ETHEREAL2_DESC,"Gain Thorns 6, Reflect 5, 4 [img:divineshield],
 3 [img:shield], heal 2 HP and Brace 1.",,"Obtiene 6 de espinas, 5 de devolución, 4 [img:divineshield],
 3 [img:shield], 1 de refuerzo y recupera 2 PS.","Épines&nbsp;+6, Renvoi+5, [img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte Dornen&nbsp;6, Reflektieren&nbsp;5, 4&nbsp;[img:divineshield],
 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni Spine 6, Riflessione 5, 4 allo [img:divineshield],
 3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha espinhos 6, reflexão 5, 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得6层荆棘，5层反射，
 4个[img:divineshield]，3个[img:shield]，
-治疗2点生命值并获得1层护甲。"
+治疗2点生命值并获得1层坚毅。"
 ABILITY_BORNAGAIN_NAME,Born Again,,Renacido,Nouvelle vie,Auferstehung,Rinascita,Renascimento,重生
 ABILITY_BORNAGAIN_DESC,"Revive a body to 100% HP and give it All Stats Up, then you fall asleep.",,"Resucita un cadáver con el 100 % de PS y le otorga aumento total. Luego, se duerme.","Réanime un cadavre avec 100&nbsp;% de ses PV et lui confère Hausse de stats, puis vous vous endormez.",Belebe eine Einheit mit 100&nbsp;% LP wieder und verleihe ihr einen Bonus auf alle Attribute. Schlafe anschließend ein.,Riporti un corpo al 100% di PS e gli fornisci Aumento delle Statistiche. Poi ti addormenti.,"Reviva um corpo com 100% de saúde e conceda todos os atributos aumentados, e então adormeça.","复活一个尸体至100%生命值
 并给予全属性提升，
@@ -1476,10 +1476,10 @@ ABILITY_BRUISE_DESC,"Your basic attack inflicts Bruise until the end of the turn
 [s:.7](Se puede lanzar una vez por turno).[/s]",Votre attaque de base inflige Contusion jusqu'à la fin du tour. [s:.7](Une fois par tour.)[/s],"Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Il tuo attacco base infligge Livido fino alla fine del turno.
 [s:.7](Lanciabile una volta per turno.)[/s]","Seu ataque básico aplica contusão até o final do turno.
-[s:.7](Um lançamento por turno.)[/s]","你的普通攻击在回合结束前造成挫伤。
+[s:.7](Um lançamento por turno.)[/s]","你的普通攻击造成挫伤直到回合结束。
 
 [s:.7](每回合只能施放一次。)[/s]"
-ABILITY_BRUISE2_DESC,Your basic attack inflicts Bruise until the end of the turn.,,El ataque básico inflige moratón hasta el final del turno.,Votre attaque de base inflige Contusion jusqu'à la fin du tour.,Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.,Il tuo attacco base infligge Livido fino alla fine del turno.,Seu ataque básico aplica contusão até o final do turno.,你的普通攻击在回合结束前造成挫伤。
+ABILITY_BRUISE2_DESC,Your basic attack inflicts Bruise until the end of the turn.,,El ataque básico inflige moratón hasta el final del turno.,Votre attaque de base inflige Contusion jusqu'à la fin du tour.,Dein Grundangriff verursacht bis zum Ende des Zuges Beulen.,Il tuo attacco base infligge Livido fino alla fine del turno.,Seu ataque básico aplica contusão até o final do turno.,你的普通攻击造成挫伤直到回合结束。
 ABILITY_SLAPBACK_NAME,Slapback,,Tortazo,Grosse gifle,Rückschlag,Schiaffone,Contratapa,回击
 ABILITY_SLAPBACK_DESC,"A melee attack with a high critical hit chance.
 RELOAD: Take damage.",,"Un ataque cuerpo a cuerpo con una alta probabilidad de golpe crítico.
@@ -1590,9 +1590,9 @@ ABILITY_WAYOFTHEMANTIS2_DESC,"For the rest of the battle, you can attack an extr
 [s:.7](该法术消耗更少。)[/s]"
 ABILITY_PORCUPINE_NAME,Porcupine,,Puercoespín,Porc-épic,Stachelschwein,Porcospino,Porco Espinho,豪猪
 ABILITY_PORCUPINE_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen.,Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno.,Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno.,"直到下回合，
-获得+2临时护甲和+2临时荆棘。"
+获得+2临时坚毅和+2临时荆棘。"
 ABILITY_PORCUPINE2_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn. Also reflect the next projectile you're hit by.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno. También devuelve el siguiente proyectil que golpee.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour. Renvoie le prochain projectile qui vous vise.,"Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen. Reflektiere außerdem das nächste Geschoss, das dich treffen würde.","Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno. Inoltre, riflette il prossimo proiettile che ti colpisce.",Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno. Reflita projéteis que acertem você.,"直到下回合，
-获得+2临时护甲和+2临时荆棘。
+获得+2临时坚毅和+2临时荆棘。
 
 还可反弹下一次被击中的投射物。"
 ABILITY_ANNEAL_NAME,Anneal,,Recocimiento,Recuit,Glühen,Tempra,Temperar,退火
@@ -1670,13 +1670,13 @@ ABILITY_AIRBURST_DESC,A burst of air that knocks back units diagonally from the 
 ABILITY_AIRBURST2_DESC,A large burst of air that knocks back units diagonally from the target.,,Una gran explosión de aire que hace retroceder unidades en diagonal del objetivo.,Une grande rafale d'air qui repousse les unités en diagonale de la cible.,"Ein starker Luftschwall, der Einheiten diagonal vom Ziel aus zurückstößt.",Una forte raffica d'aria che respinge le unità diagonalmente rispetto al bersaglio.,Uma grande explosão de ar que empurra unidades para trás diagonalmente a partir do alvo.,"一阵强大气流，将目标周围
 的单位对角线方向击退。"
 ABILITY_WAYOFTHETURTLE_NAME,Way of the Turtle,,Senda de la tortuga,Voie de la tortue,Der Weg der Schildkröte,Percorso della Tartaruga,Caminho da Tartaruga,龟之道
-ABILITY_WAYOFTHETURTLE_DESC,Gain +1 Brace.,,Obtiene +1 de refuerzo.,Garde&nbsp;+1.,Erhalte +1&nbsp;Wappnen.,Ottieni +1 alla Guardia.,Obtenha +1 de preparação.,获得 +1 护甲。
+ABILITY_WAYOFTHETURTLE_DESC,Gain +1 Brace.,,Obtiene +1 de refuerzo.,Garde&nbsp;+1.,Erhalte +1&nbsp;Wappnen.,Ottieni +1 alla Guardia.,Obtenha +1 de preparação.,获得 +1 坚毅。
 ABILITY_WAYOFTHETURTLE2_DESC,"Gain +1 Brace.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 de refuerzo.
 [s:.7](Este hechizo cuesta menos).[/s]",Garde&nbsp;+1. [s:.7](Coût réduit.)[/s],"Erhalte +1&nbsp;Wappnen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 alla Guardia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de preparação.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 护甲。
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 坚毅。
 [s:.7](该法术消耗减少。)[/s]"
 ABILITY_RELEASEENERGY_NAME,Release Energy,,Liberar energía,Déploiement énergétique,Energie freilassen,Rilascio di Energia,Liberação de Energia,释放能量
 ABILITY_RELEASEENERGY_DESC,Emit 10 Sparkles.,,Emite 10 destellos.,Produit 10&nbsp;Étincelles.,Versprühe 10&nbsp;Funken.,Emetti 10 Scintille.,Emita 10 fagulhas.,释放 10 个火花。
@@ -2650,13 +2650,13 @@ ABILITY_FORMOFTHETURTLE2_DESC,"Enter Turtle Form, getting +2 [img:con], +10 [img
 且该技能变为硬化壳体+。"
 ABILITY_HARDENSHELL_NAME,Harden Shell,,Endurecimiento de caparazón,Carapace,Harte Schale,Guscio Indurito,Casca Dura,硬化壳体
 ABILITY_HARDENSHELL_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.",,"Obtiene +1 [img:shield], +1 de espinas y +1 de refuerzo temporal.","[img:shield]&nbsp;+1, Épines&nbsp;+1&nbsp;et Garde temporaire&nbsp;+1.","Erhalte +1&nbsp;[img:shield], +1&nbsp;Dornen und +1&nbsp;vorübergehendes Wappnen.","Ottieni +1 allo [img:shield], +1 Spine e +1 Guardia temporanea.","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.","获得 +1 [img:shield]，+1 荆棘，
-和 +1 临时护甲。"
+和 +1 临时坚毅。"
 ABILITY_HARDENSHELL2_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Brace.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +1 [img:shield], +1 de espinas y +1 de refuerzo temporal.
 [s:.7](Este hechizo cuesta menos).[/s]","[img:shield]&nbsp;+1, Épines&nbsp;+1&nbsp;et Garde temporaire&nbsp;+1. [s:.7](Coût réduit.)[/s]","Erhalte +1 [img:shield], +1 Dornen und +1&nbsp;vorübergehendes Wappnen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +1 allo [img:shield], +1 Spine e +1 Guardia temporanea.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.
-[s:.7](Este encantamento custa menos.)[/s]","获得 +1 [img:shield]，+1 荆棘，和 +1 临时护甲。
+[s:.7](Este encantamento custa menos.)[/s]","获得 +1 [img:shield]，+1 荆棘，和 +1 临时坚毅。
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_HEADBASH_NAME,Head Bash,,Golpe con la cabeza,Coup de tête,Kopfnuss,Testata,Cabeçada,头击
 ABILITY_HEADBASH_DESC,"Dash forward one tile, then attack. This attack deals Knockback and has a chance to inflict Stun.",,Se lanza hacia delante una casilla y luego ataca; inflige retroceso y tiene una probabilidad de aturdir.,Foncez en avant d'une case et attaquez. Inflige Recul et a une chance d'infliger Étourdissement.,Stürme ein Feld vorwärts und greife an. Dieser Angriff verursacht Rückstoß und kann Betäubung verursachen.,"Scatti in avanti di una casella, poi attacchi. Questo attacco infligge Contraccolpo e ha una probabilità di infliggere Stordimento.","Dê um impulso de 1 espaço para frente, e então ataque. Este ataque possui empurrão e uma chance de aplicar atordoamento.","向前冲刺一个格子，然后攻击。
@@ -2740,12 +2740,12 @@ ABILITY_WEWILLROCKYOU2_DESC,Inflict Petrify on a familiar and give it +6 [img:sh
 [img:shield] 和 +2 荆棘。"
 ABILITY_FORMOFTHETREE_NAME,Form of the Tree,,Forma del árbol,Forme de l'arbre,Baumgestalt,Sembianze dell'Albero,Forma da Árvore,树之形态
 ABILITY_FORMOFTHETREE_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 2. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize.",,"Adopta la forma de árbol y obtiene -2 [img:int], +5 [img:shield] y 2 de refuerzo. Se queda inmóvil y es inmune al retroceso. El ataque básico se convierte en Leña y este se convierte en Sintetizador.","Prenez la forme de l'arbre&nbsp;: [img:int]&nbsp;-2, [img:shield]&nbsp;+5&nbsp;et Garde&nbsp;+2. Vous devenez immobile et les effets de Recul ne vous affectent plus. Votre attaque de base devient Poutrage et ce sort devient Photosynthèse.","Nimm Baumgestalt an und erhalte -2&nbsp;[img:int], +5&nbsp;[img:shield] und Wappnen&nbsp;2. Du wirst unbeweglich und bist immun gegen Rückstoß. Dein Grundangriff wird zu Baum fällt und diese Fähigkeit wird zu Synthese.","Assumi le Sembianze dell'Albero, ottenendo -2 all'[img:int], +5 allo [img:shield] e Guardia 2. Diventi immobile e immune al Contraccolpo. Il tuo attacco base diventa Legno e quest'abilità diventa Sintetizzazione.","Entre na forma de árvore, obtendo -2 de [img:int], +5 de [img:shield] e preparação 2. Você se torna imóvel e imune contra empurrões. Seu ataque básico se torna Madeeeira e isto se torna Sintetização.","进入树之形态，获得 -2 [img:int]，
-+5 [img:shield]，以及护甲 2。
++5 [img:shield]，以及坚毅 2。
 你变得无法移动且免疫击退。
 你的普通攻击变为木击，
 此技能变为合成。"
 ABILITY_FORMOFTHETREE2_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shield], and Brace 4. You become immobile and immune to Knockback. Your basic attack becomes Timber and this becomes Synthesize+.",,"Adopta la forma de árbol y obtiene -2 [img:int], +5 [img:shield] y 4 de refuerzo. Se queda inmóvil y es inmune al retroceso. El ataque básico se convierte en Madera y este se convierte en Sintetizador+.","Prenez la forme de l'arbre&nbsp;: [img:int]&nbsp;-2, [img:shield]&nbsp;+5&nbsp;et Garde&nbsp;+4. Vous devenez immobile et les effets de Recul ne vous affectent plus. Votre attaque de base devient Poutrage et ce sort devient Photosynthèse+.","Nimm Baumgestalt an und erhalte -2&nbsp;[img:int], +5&nbsp;[img:shield] und Wappnen&nbsp;4. Du wirst unbeweglich und bist immun gegen Rückstoß. Dein Grundangriff wird zu Baum fällt und diese Fähigkeit wird zu Synthese+.","Assumi le Sembianze dell'Albero, ottenendo -2 all'[img:int], +5 allo [img:shield] e Guardia 4. Diventi immobile e immune al Contraccolpo. Il tuo attacco base diventa Legno e quest'abilità diventa Sintetizzazione+.","Entre na forma de árvore, obtendo -2 de [img:int], +5 de [img:shield] e preparação 4. Você se torna imóvel e imune contra empurrões. Seu ataque básico se torna Madeeeira e isto se torna Sintetização+.","进入树之形态，获得 -2 [img:int]，
-+5 [img:shield]，以及护甲 4。
++5 [img:shield]，以及坚毅 4。
 你变得无法移动且免疫击退。
 你的普通攻击变为木击，
 此技能变为合成+。"
@@ -4246,13 +4246,13 @@ ABILITY_MEDUSA2_DESC,"Inflict Petrify on all units in your line of sight.
 [s:.7](Este encantamento custa menos.)[/s]","使你视线内的所有单位石化。
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_ANCHOR_NAME,Anchor,,Ancla,Ancrage,Anker,Ancora,Âncora,锚点
-ABILITY_ANCHOR_DESC,Gain +4 Brace until the next time you move.,,Obtiene +4 de refuerzo hasta la próxima vez que se mueva.,Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement.,Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.,Ottieni +4 a Guardia fino al prossimo movimento.,Obtenha +4 de preparação até a próxima vez em que você se mover.,获得 +4 护甲直到下次移动。
+ABILITY_ANCHOR_DESC,Gain +4 Brace until the next time you move.,,Obtiene +4 de refuerzo hasta la próxima vez que se mueva.,Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement.,Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.,Ottieni +4 a Guardia fino al prossimo movimento.,Obtenha +4 de preparação até a próxima vez em que você se mover.,获得 +4 坚毅直到下次移动。
 ABILITY_ANCHOR2_DESC,"Gain +4 Brace until the next time you move.
 Bonus Passive: Knockback immunity.",,"Obtiene +4 de refuerzo hasta la próxima vez que se mueva.
 Pasiva de bonificación: Inmunidad al retroceso.",Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement. Compétence passive bonus&nbsp;: résistance à Recul.,"Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.
 Bonuspassiveffekt: Rückstoßimmunität.","Ottieni +4 a Guardia fino al prossimo movimento.
 Bonus Passivo: Immunità a Contraccolpo.","Obtenha +4 de preparação até a próxima vez em que você se mover.
-Bônus passivo: imunidade contra empurrões.","获得 +4 护甲直到下次移动。
+Bônus passivo: imunidade contra empurrões.","获得 +4 坚毅直到下次移动。
 
 额外被动：免疫击退。"
 ABILITY_EATROCK_NAME,Eat Rock,,Comepiedras,Pierre comestible,Stein fressen,Mangiaroccia,Comer Pedra,吃石头
@@ -4324,10 +4324,10 @@ Bônus passivo: todos os seus encantamentos são do elemento terra.","所有位�
 奖励被动：你所有的法术都具有土元素。
 "
 ABILITY_STEELSKIN_NAME,Steelskin,,Piel de acero,Peau d'acier,Stahlhaut,Pelle d'Acciaio,Pele de Aço,钢铁之肤
-ABILITY_STEELSKIN_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 25 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 25 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 25&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 25&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 25 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 25 de dano.","获得+99 护甲直到你的下一回合，
+ABILITY_STEELSKIN_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 25 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 25 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 25&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 25&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 25 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 25 de dano.","获得+99 坚毅直到你的下一回合，
 
 然后在你承受累计25点伤害前禁用此法术。"
-ABILITY_STEELSKIN2_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 15 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 15 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 15&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 15&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 15 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 15 de dano.","获得+99 护甲直到你的下一回合，
+ABILITY_STEELSKIN2_DESC,"Gain +99 Brace until your next turn, then disable this spell until you take a total of 15 damage.",,"Obtiene +99 de refuerzo hasta el próximo turno. Luego, este hechizo se deshabilita hasta que sufre un total de 15 de daño.","Garde&nbsp;+99&nbsp;jusqu'à votre prochain tour, puis ce sort est inactif jusqu'à ce que vous subissiez 15&nbsp;points de dégâts.","Erhalte bis zu deinem nächsten Zug +99&nbsp;Wappnen. Deaktiviere diesen Zauber, bis du insgesamt 15&nbsp;Schaden erleidest.","Ottieni +99 a Guardia fino al tuo prossimo turno, poi disattivi quest'incantesimo finché non subisci un totale di 15 di danno.","Obtenha +99 de preparação até seu próximo turno, e então desabilite este encantamento até que você sofra 15 de dano.","获得+99 坚毅直到你的下一回合，
 
 然后在你承受累计15点伤害前禁用此法术。"
 ABILITY_FAULTLINE_NAME,Fault Line,,Falla geológica,Ligne fautive,Verwerfungslinie,Linea di Faglia,Linha de Falha,断层线
@@ -4377,7 +4377,7 @@ This spell uses up your movement action.",,"Obtiene +3 de espinas y +1 de refuer
 Este hechizo gasta la acción de movimiento.",Épines&nbsp;+3&nbsp;et Garde&nbsp;+1. Consomme votre action de déplacement.,"Erhalte +3&nbsp;Dornen and +1&nbsp;Wappnen.
 Dieser Zauber verbraucht deine Bewegungsaktion.","Ottieni +3 Spine e +1 a Guardia.
 Quest'incantesimo consuma la tua azione di movimento.","Obtenha +3 de espinhos e +1 de preparação.
-Este encantamento conta como uma ação de movimento.","获得 +3 荆棘和 +1 护甲。
+Este encantamento conta como uma ação de movimento.","获得 +3 荆棘和 +1 坚毅。
 
 该法术消耗你的移动行动。"
 ABILITY_SUPPER_NAME,Supper,,Cena,Souper,Abendessen,Cena,Ceia,晚餐
@@ -4896,7 +4896,7 @@ ABILITY_FLEXOFF_NAME,Flex Off,,Alarde,Contraction,Muskelshow,Difesa Respingente,
 ABILITY_FLEXOFF_DESC,You and each allied cat gain +2 [img:shield] and knockback adjacent units 2 tiles.,,Esta unidad y cada aliado obtienen +2 [img:shield] e infligen retroceso de 2 casillas a las unidades adyacentes.,[img:shield]&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield] und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.,"Tu e ogni gatto alleato ottenete +2 allo [img:shield], e respingete le unità adiacenti di 2 caselle.",Você e cada gato aliado obtêm +2 de [img:shield] e empurram unidades adjacentes por 2 espaços.,"你和每个友方猫获得 +2 [img:shield]
 并将相邻单位击退 2 格。"
 ABILITY_FLEXOFF2_DESC,"You and each allied cat gain +2 [img:shield], +2 temporary Brace, and knockback adjacent units 2 tiles.",,"Esta unidad y cada aliado obtienen +2 [img:shield], +2 de refuerzo temporal e infligen retroceso de 2 casillas a las unidades adyacentes.",[img:shield]&nbsp;+2&nbsp;et Garde temporaire&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,"Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield], +2 vorübergehendes Wappnen und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.","Tu e ogni gatto alleato ottenete +2 allo [img:shield], +2 a Guardia temporanea e respingete le unità adiacenti di 2 caselle.","Você e cada gato aliado obtêm +2 de [img:shield], +2 de preparação temporária e empurram unidades adjacentes por 2 espaços.","你和每个友方猫获得 +2 [img:shield]，
-+2 临时护甲，
++2 临时坚毅，
 并将相邻单位击退 2 格。"
 ABILITY_HUDDLE_NAME,Huddle,,Piña,Petit comité,Kuscheln,Gruppo,Amontoado,聚集
 ABILITY_HUDDLE_DESC,You and each allied cat give adjacent units +1 Damage and +2 [img:spd].,,Esta unidad y cada aliado otorgan a las unidades adyacentes +1 de daño y +2 [img:spd].,Vous et chaque chat allié octroyez Dégâts&nbsp;+1&nbsp;et [img:spd]&nbsp;+2&nbsp;aux unités adjacentes.,Du und alle verbündeten Katzen verleihen benachbarten Einheiten +1&nbsp;Schaden und +2&nbsp;[img:spd].,Tu e ogni gatto alleato causate alle unità adiacenti +1 al Danno e +2 alla [img:spd].,Você e cada gato aliado concedem a unidades adjacentes +1 de dano e +2 de [img:spd].,"你和每个友方猫给予相邻单位+
@@ -6383,14 +6383,14 @@ ABILITY_MECHSUIT2_DESC,"Summon a mech suit that can be piloted.
 [s:.7](消耗0法力值。
 每场战斗可施放一次。)[/s]"
 ABILITY_UNRELIABLESHIELD_NAME,Unreliable Shield Generator,,Generador de escudo poco fiable,Générateur de bouclier capricieux,Unzuverlässiger Schildgenerator,Generatore di Scudi Inaffidabile,Gerador de Escudo Pouco Confiável,不可靠的盾牌发电机
-ABILITY_UNRELIABLESHIELD_DESC,Gain +6 [img:shield] and +1 temporary Brace. This spell has a 75% chance to be disabled on each turn.,,Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,[img:shield]&nbsp;+6&nbsp;et Garde temporaire&nbsp;+1. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"获得+6 [img:shield] 和+1临时护甲。
+ABILITY_UNRELIABLESHIELD_DESC,Gain +6 [img:shield] and +1 temporary Brace. This spell has a 75% chance to be disabled on each turn.,,Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,[img:shield]&nbsp;+6&nbsp;et Garde temporaire&nbsp;+1. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"获得+6 [img:shield] 和+1临时坚毅。
 此技能每回合有75%的几率被禁用。"
 ABILITY_UNRELIABLESHIELD2_DESC,"Get +6 [img:shield] and +1 temporary Brace. This spell has a 66% chance to be disabled on each turn.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +6 [img:shield] y +1 de refuerzo temporal. Este hechizo tiene un 66 % de probabilidad de deshabilitarse en cada turno.
 [s:.7](Este hechizo cuesta menos).[/s]",[img:shield]&nbsp;+6&nbsp;Et Garde temporaire&nbsp;+1. Ce sort a 66&nbsp;% de chances d'être désactivé à chaque tour. [s:.7](Coût réduit.)[/s],"Erhalte +6&nbsp;[img:shield] und +1&nbsp;vorübergehendes Wappnen. Dieser Zauber hat eine 66%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +6 allo [img:shield] e +1 alla Guardia temporanea. Quest'incantesimo ha un 66% di probabilità di essere disattivato a ogni turno.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 66% de chance de ser desabilitado em cada turno.
-[s:.7](Este encantamento custa menos.)[/s]","获得+6 [img:shield] 和+1临时护甲。
+[s:.7](Este encantamento custa menos.)[/s]","获得+6 [img:shield] 和+1临时坚毅。
 此技能每回合有66%的几率被禁用。
 
 [s:.7](此技能消耗更少。)[/s]"
