@@ -6027,57 +6027,57 @@ ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behi
 将其猛击到你身后的格子中，
 造成3层挫伤和定身。"
 ABILITY_MOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_MOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
+ABILITY_MOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,移动
 ABILITY_MOVE_DESC_M,,,,,,,,
 ABILITY_MOVE_DESC_F,,,,,,,,
 ABILITY_MOVE_DESC_N,,,,,,,,
 ABILITY_JUMP_NAME,Jump,,Salto,Saut,Sprung,Salto,Pulo,跳跃
-ABILITY_JUMP_DESC,{he} jump,,Salta.,{he} saute.,Da springt {he},Salta,{he} pula,{he} 跳
+ABILITY_JUMP_DESC,{he} jump,,Salta.,{he} saute.,Da springt {he},Salta,{he} pula,跳跃
 ABILITY_JUMP_DESC_M,,,,,,,,
 ABILITY_JUMP_DESC_F,,,,,,,,
 ABILITY_JUMP_DESC_N,,,,,,,,
 ABILITY_TELEPORT_NAME,Teleport,,Teletransporte,Téléportation,Teleport,Teletrasporto,Teletransporte,传送
-ABILITY_TELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he} 传送
+ABILITY_TELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,传送
 ABILITY_TELEPORT_DESC_M,,,,,,,,
 ABILITY_TELEPORT_DESC_F,,,,,,,,
 ABILITY_TELEPORT_DESC_N,,,,,,,,
 ABILITY_DIG_NAME,Dig,,Excavación,Fouilles,Graben,Scavo,Cavar,挖掘
-ABILITY_DIG_DESC,{he} dig,,Excava.,{he} creuse.,Da gräbt {he},Scava,{he} cava,{he} 挖掘
+ABILITY_DIG_DESC,{he} dig,,Excava.,{he} creuse.,Da gräbt {he},Scava,{he} cava,挖掘
 ABILITY_DIG_DESC_M,,,,,,,,
 ABILITY_DIG_DESC_F,,,,,,,,
 ABILITY_DIG_DESC_N,,,,,,,,
 ABILITY_SHADOWSTEP_NAME,Shadowstep,,Paso sombrío,Pas de l'ombre,Schattenschritt,Passo d'Ombra,Passo Sombrio,暗影突袭
-ABILITY_SHADOWSTEP_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he} 传送
+ABILITY_SHADOWSTEP_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,传送
 ABILITY_SHADOWSTEP_DESC_M,,,,,,,,
 ABILITY_SHADOWSTEP_DESC_F,,,,,,,,
 ABILITY_SHADOWSTEP_DESC_N,,,,,,,,
 ABILITY_SWAP_NAME,Swap,,Intercambio,Échange,Austausch,Scambio,Troca,换位
-ABILITY_SWAP_DESC,{he} swap,,Se intercambia.,{he} change deplace.,Was macht {he} da,Si scambia,{he} troca,{he} 交换
+ABILITY_SWAP_DESC,{he} swap,,Se intercambia.,{he} change deplace.,Was macht {he} da,Si scambia,{he} troca,交换
 ABILITY_SWAP_DESC_M,,,,,,,,
 ABILITY_SWAP_DESC_F,,,,,,,,
 ABILITY_SWAP_DESC_N,,,,,,,,
 ABILITY_SWIMMERMOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_SWIMMERMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
+ABILITY_SWIMMERMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,移动
 ABILITY_SWIMMERMOVE_DESC_M,,,,,,,,
 ABILITY_SWIMMERMOVE_DESC_F,,,,,,,,
 ABILITY_SWIMMERMOVE_DESC_N,,,,,,,,
 ABILITY_TRAMPLEMOVE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_TRAMPLEMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
+ABILITY_TRAMPLEMOVE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,移动
 ABILITY_TRAMPLEMOVE_DESC_M,,,,,,,,
 ABILITY_TRAMPLEMOVE_DESC_F,,,,,,,,
 ABILITY_TRAMPLEMOVE_DESC_N,,,,,,,,
 ABILITY_MOVEONETILE_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_MOVEONETILE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
+ABILITY_MOVEONETILE_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,移动
 ABILITY_MOVEONETILE_DESC_M,,,,,,,,
 ABILITY_MOVEONETILE_DESC_F,,,,,,,,
 ABILITY_MOVEONETILE_DESC_N,,,,,,,,
 ABILITY_MAXTELEPORT_NAME,Teleport,,Teletransporte,Téléportation,Teleport,Teletrasporto,Teletransporte,传送
-ABILITY_MAXTELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,{he} 传送
+ABILITY_MAXTELEPORT_DESC,{he} teleport,,Se teletransporta.,{he} se téléporte.,Da teleportiert {he},Si teletrasporta,{he} se teletransporta,传送
 ABILITY_MAXTELEPORT_DESC_M,,,,,,,,
 ABILITY_MAXTELEPORT_DESC_F,,,,,,,,
 ABILITY_MAXTELEPORT_DESC_N,,,,,,,,
 ABILITY_FLOAT_NAME,Move,,Movimiento,Déplacement,Bewegen,Movimento,Mover,移动
-ABILITY_FLOAT_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,{he} 走
+ABILITY_FLOAT_DESC,{he} go,,Avanza.,{he} se déplace.,Da läuft {he},Si muove,{he} anda,移动
 ABILITY_FLOAT_DESC_M,,,,,,,,
 ABILITY_FLOAT_DESC_F,,,,,,,,
 ABILITY_FLOAT_DESC_N,,,,,,,,
@@ -7201,7 +7201,7 @@ ABILITY_POWERUP2_DESC,Spend all of your mana and give that many random buffs to 
 给予自己或另一单位同等数量的随机增益效果。
 "
 //placeholder,,,,,,,,
-ABILITY_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,能力起始占位符名称
+ABILITY_STARTER_PLACEHOLDER_NAME,???,,¿?,???,???,???,???,？？？
 ABILITY_STARTER_PLACEHOLDER_FIGHTER_DESC,Becomes a random Fighter starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de luchador al azar.",Devient une compétence de départ de Pugiliste lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Krieger-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale del Guerriero quando confermi i collari della squadra.,Torna-se uma habilidade inicial de lutador quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
 获得一个随机的战士初始技能。"
 ABILITY_STARTER_PLACEHOLDER_THIEF_DESC,Becomes a random Thief starter ability when you lock in your team's collars.,,"Cuando asignas los collares del grupo, se convierte en una habilidad inicial de ladrón al azar.",Devient une compétence de départ de Fourbe lorsque vous verrouillez les colliers de votre équipe.,"Wird zu einer zufälligen Dieb-Anfangsfähigkeit, wenn du die Klassen deiner Gruppe zugewiesen hast.",Diventa un'abilità iniziale casuale del Ladro quando confermi i collari della squadra.,Torna-se uma habilidade inicial de ladrão quando você trava as coleiras de sua equipe.,"当你锁定队伍的项圈时，
