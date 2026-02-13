@@ -18,14 +18,14 @@ PLAYER_CATCLONE_NAME_F,,,,{Catname} clonée,,,,
 PLAYER_CATCLONE_NAME_N,,,,{Catname} cloné(e),,,,
 PLAYER_FLESHGOLEM_NAME,Flesh Golem,,Gólem carnoso,Golem de chair,Fleischgolem,Golem di Carne,Golem de Carne,肉体魔像
 //enemies,,,,,,,,
-ENEMY_FLY_NAME,Fly,,Mosca,Mouche,Fliege,Mosca,Mosca,飞行
+ENEMY_FLY_NAME,Fly,,Mosca,Mouche,Fliege,Mosca,Mosca,苍蝇
 ENEMY_FLY_DESC,"Melee attacker.
 Flying.",,"Atacante cuerpo a cuerpo.
 Vuela.","Attaque au corps-à-corps.
 Vol.","Nahkämpfer.
 Fliegt.","Specialista del corpo a corpo.
 Volante.",Agressor corpo-a-corpo,"近战攻击者。
-飞行。"
+苍蝇。"
 ENEMY_MAGGOT_NAME,Maggot,,Gusano,Asticot,Made,Larva,Verme,蛆虫
 ENEMY_MAGGOT_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps-à-corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo,近战攻击者。
 ENEMY_FLEA_NAME,Flea,,Pulga,Puce,Floh,Pulce,Pulga,跳蚤
@@ -1129,7 +1129,7 @@ Odeia gatos!","其近战攻击会造成眩晕。
 
 提升其类人生物盟友的能力。"
 ENEMY_YETI_NAME,Yeti,,Yeti,Yéti,Yeti,Yeti,Yeti,雪人
-ENEMY_YETI_DESC,Has a triple-hit melee attack and a close-range Freeze attack.,,Lanza un ataque cuerpo a cuerpo que golpea tres veces y un ataque a corta distancia que inflige congelación.,Dispose d'une attaque triple au corps-à-corps et une attaque à courte portée qui inflige Gel.,"Hat einen dreifach treffenden Nahkampfangriff und einen Nahkampfangriff, der Frost verursacht.",Possiede un attacco corpo a corpo da tre colpi e un attacco ravvicinato di tipo congelante.,Possui um ataque corpo-a-corpo triplo e um ataque de curta distância de congelamento.,"拥有三连击的近战攻击和近距离冰冻攻击。
+ENEMY_YETI_DESC,Has a triple-hit melee attack and a close-range Freeze attack.,,Lanza un ataque cuerpo a cuerpo que golpea tres veces y un ataque a corta distancia que inflige congelación.,Dispose d'une attaque triple au corps-à-corps et une attaque à courte portée qui inflige Gel.,"Hat einen dreifach treffenden Nahkampfangriff und einen Nahkampfangriff, der Frost verursacht.",Possiede un attacco corpo a corpo da tre colpi e un attacco ravvicinato di tipo congelante.,Possui um ataque corpo-a-corpo triplo e um ataque de curta distância de congelamento.,"拥有三连击的近战攻击和近距离冻结攻击。
 "
 ENEMY_FUZZER_NAME,Fuzzer,,Blandiflop,Duvet,Wolli,Pelosone,Penugeiro,模糊者
 ENEMY_FUZZER_DESC,"Melee attacker that inflicts Confusion, then runs away. Units that contact this gain Confusion.
@@ -1930,7 +1930,7 @@ Contre-attaque face aux attaquants au corps-à-corps.","Ihr Eis-Fernkampfangriff
 Kontert Nahkampfangriffe.","Il suo attacco di ghiaccio a distanza infligge Rallentamento e ha la possibilità di infliggere Congelamento.
 Contrattacca chi lo attacca corpo a corpo.","Seu ataque à distância de gelo aplica lentidão e possui uma chance de aplicar congelamento.
 Contra-ataca agressores corpo-a-corpo.","它的远程冰攻击会造成减速，
-并有几率造成冰冻。
+并有几率造成冻结。
 对近战攻击者进行反击。"
 ENEMY_SABERTOOTHCAT_NAME,Sabertooth Cat,,Gato dientes de sable,Chat smilodon,Säbelzahnkatze,Gatto dai Denti a Sciabola,Gato Dentes de Sabre,剑齿虎
 ENEMY_SABERTOOTHCAT_DESC,"Pounces on units.
@@ -3018,9 +3018,9 @@ OBJECT_SPIKYCACTUS_NAME,Spiky Cactus,,Cactus punzante,Cactus à pics,Stachliger 
 OBJECT_SPIKYCACTUS_DESC,,,,,,,,
 OBJECT_DECOY_NAME,Decoy,,Señuelo,Leurre,Lockvogel,Diversivo,Chamariz,诱饵
 OBJECT_DECOY_DESC,Explodes when it dies.,,Estalla al morir.,Explose à sa mort.,"Explodiert, wenn er stirbt.",Esplode quando muore.,Explode ao morrer.,死亡时爆炸。
-OBJECT_ELECTRICNAIL_NAME,Electric Nail,,Clavo eléctrico,Clou électrifié,Elektrischer Nagel,Chiodo Elettrico,Prego Elétrico,电钉
+OBJECT_ELECTRICNAIL_NAME,Electric Nail,,Clavo eléctrico,Clou électrifié,Elektrischer Nagel,Chiodo Elettrico,Prego Elétrico,带电钉子
 OBJECT_ELECTRICNAIL_DESC,It arcs electricity to neighboring tiles whenever any unit spends mana.,,Pasa electricidad a las casillas de alrededor cuando una unidad gasta maná.,Électrise les cases adjacentes chaque fois qu'une unité dépense du mana.,"Verschießt Elektrizität auf benachbarte Felder, wenn eine beliebige Einheit Mana ausgibt.",Scarica elettricità nelle caselle vicine ogni volta che un'unità qualunque consuma mana.,Lança eletricidade em arco para espaços vizinhos sempre que uma unidade gasta mana.,"每当任何单位消耗法力值时，
-它会向相邻的格子发出电弧。"
+它会向相邻的格子放电。"
 OBJECT_RUBBERFISTBOT_NAME,Rubber Fist Bot,,Robot con puño de goma,Robot cogneur,Gummifaustbot,Bot con Pugno di Gomma,Bot Punho de Borracha,橡胶拳机器人
 OBJECT_RUBBERFISTBOT_DESC,It punches anything that gets near it.,,Arrea un puñetazo a todo aquello que se acerca.,Frappe tout ce qui s'approche de lui.,"Schlägt auf alles ein, das sich in der Nähe befindet.",Prende a pugni qualunque cosa gli si avvicini.,Soca qualquer coisa que se aproximar.,它会击打靠近它的任何东西。
 OBJECT_TOMBSTONE_NAME,Tombstone,,Lápida,Pierre tombale,Grabstein,Lapide,Túmulo,墓碑

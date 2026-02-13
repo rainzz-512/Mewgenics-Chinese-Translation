@@ -2053,7 +2053,7 @@ Vos dégâts de glace augmentent de 1.","Friert Felder ein, über die du gehst. 
 Dein Eisschaden ist um 1 erhöht.","Congela le caselle su cui cammini. +25% di probabilità di infliggere Congelamento alle unità che ti toccano o ti attaccano.
 Il tuo danno di elemento ghiaccio aumenta di 1.","Congele espaços pelos quais você passa. +25% de chance de aplicar congelamento em unidades que atacam ou entram em contato com você.
 Seu dano do elemento gelo é aumentado em 1.","冻结你经过的瓷砖。
-对接触或攻击你的单位造成冰冻状态的
+对接触或攻击你的单位造成冻结状态的
 几率提高25%。
 你的冰元素伤害提升1。"
 ITEM_ROOK_NAME,Rook,,Torre,Tour,Turm,Torre,Torre,战车
@@ -2142,7 +2142,7 @@ ITEM_SPOONBENDER_DESC,Your basic attack can't miss and emits a Sparkle when used
 使用时会发出火花。"
 ITEM_SPOTTEDMUSHROOM_NAME,Spotted Mushroom,,Seta moteada,Champi à pois,Punktierter Pilz,Fungo Maculato,Cogumelo Pintado,斑点蘑菇
 ITEM_SPOTTEDMUSHROOM_DESC,,,,,,,,
-ITEM_SPRING_NAME,Spring,,Muelle,Ressort,Sprungfeder,Molla,Mola,春季
+ITEM_SPRING_NAME,Spring,,Muelle,Ressort,Sprungfeder,Molla,Mola,弹簧
 ITEM_SPRING_DESC,Your movement action is Jump.,,La acción de movimiento se convierte en un salto.,Votre action de déplacement devient Saut.,Deine Bewegungsaktion wird ein Sprung.,La tua azione di movimento è Salto.,Sua ação de movimento é um salto.,你的移动动作是跳跃。
 ITEM_STEROIDS_NAME,Steroids,,Esteroides,Stéroïdes,Steroide,Steroidi,Esteróides,类固醇
 ITEM_STEROIDS_DESC,"Use: Gain +1 [img:str], permanently. For the rest of the adventure, you have a +2% chance to gain Madness at the start of each turn.",,"Uso: Obtiene +1 [img:str] para siempre. Hasta el final de la aventura, tiene +2 % de probabilidad de obtener locura al inicio de cada turno.","Utilisation&nbsp;: [img:str] +1&nbsp;de façon permanente. Pour le reste de l'aventure, vous avez +2&nbsp;% de chances de subir Folie au début de chaque tour.","Benutzen: Erhalte dauerhaft +1&nbsp;[img:str]. Für den Rest des Abenteuers besteht eine +2%ige Wahrscheinlichkeit, dass du am Anfang eines Zuges wahnsinnig wirst.","Uso: Ottieni +1 alla [img:str], permanentemente. Per il resto dell'avventura, hai un +2% di probabilità di ottenere Follia all'inizio di ogni turno.","Uso: obtenha +1 de [img:str] permanentemente. Pelo resto da aventura, você possui uma chance de 2% de obter insanidade no início de cada turno.","使用：永久获得 +1 [img:str]。
@@ -3112,7 +3112,7 @@ ARMOR_ROBOARM_DESC,Start with +1 bonus attack. Collect all adjacent pickups when
 ARMOR_SCAPULAR_NAME,Scapular,,Escapulario,Scapulaire,Schulter,Scapolare,Escapulário,肩甲
 ARMOR_SCAPULAR_DESC,,,,,,,,
 ARMOR_SCARF_NAME,Scarf,,Bufanda,Écharpe,Schal,Sciarpa,Cachecol,围巾
-ARMOR_SCARF_DESC,Ice immunity.,,Inmunidad al hielo.,Immunité à la glace.,Immun gegen Eis.,Immunità al ghiaccio.,Imunidade contra gelo.,冰冻免疫。
+ARMOR_SCARF_DESC,Ice immunity.,,Inmunidad al hielo.,Immunité à la glace.,Immun gegen Eis.,Immunità al ghiaccio.,Imunidade contra gelo.,冻结免疫。
 ARMOR_SCRUBS_NAME,Scrubs,,Pijama sanitario,Blouse,OP-Outfit,Camici,Jaleco,医护服
 ARMOR_SCRUBS_DESC,Heals heal you for 2 extra.,,Las acciones curativas devuelven 2 PS extras.,Les soins vous rendent +2&nbsp;PV.,Heilungen heilen dich um 2 zusätzliche LP.,Le cure rigenerano 2 PS aggiuntivi.,Cure 2 PV adicionais ao se curar.,治疗效果额外增加2点。
 ARMOR_SHARKTOOTH_NAME,Large Shark Tooth,,Colmillo de tiburón grande,Grosse dent de requin,Großer Haizahn,Dente di Squalo Grande,Dente de Tubarão Grande,大鲨鱼牙
@@ -4236,7 +4236,7 @@ ARMOR_FROZENNECKLACE_DESC,Your basic attack inflicts Slow and has a +10% chance 
 接触你的单位会获得迟缓并有10%的
 几率被冻结。"
 SETBONUS_FROZEN_NAME,Frozen Set Bonus!,,¡Bonificación de conjunto congelado!,Bonus d'ensemble&nbsp;: glacial&nbsp;!,Setbonus: Frostrüstung!,Bonus Set: Ghiaccio!,Bônus de Conjunto Congelado,冰冻套装加成！
-SETBONUS_FROZEN_DESC,You can damage Frozen units.,,Puede infligir daño a las unidades congeladas.,Vous pouvez infliger des dégâts aux unités gelées.,Du kannst Schaden bei eingefrorenen Einheiten verursachen.,Puoi infliggere danno alle unità con Congelamento.,Você pode causar dano a unidades congeladas.,你可以对冻结单位造成伤害。
+SETBONUS_FROZEN_DESC,You can damage Frozen units.,,Puede infligir daño a las unidades congeladas.,Vous pouvez infliger des dégâts aux unités gelées.,Du kannst Schaden bei eingefrorenen Einheiten verursachen.,Puoi infliggere danno alle unità con Congelamento.,Você pode causar dano a unidades congeladas.,你可以对被冻结单位造成伤害。
 ,,,,,,,,
 ARMOR_GEMSTONEHAT_NAME,Gemstone Crown,,Corona de gemas,Couronne précieuse,Edelsteinkrone,Corona di Gemme,Coroa de Pedras Preciosas,宝石王冠
 ARMOR_GEMSTONEHAT_DESC,+1 Kinetic Spikes.,,+1 de pinchos cinéticos.,Pics cinétiques +1.,+1&nbsp;Kinetiknadeln.,+1 Spuntoni Cinetici.,+1 de espinhos cinéticos.,+1 动能尖刺。
@@ -5139,7 +5139,7 @@ ARMOR_TANKTATTOO_NAME,Tank's Tattoo,,Tatuaje de tanque,Tatouage de tank,Tanktatt
 ARMOR_TANKTATTOO_DESC,All Knockback inflicted by you is increased by 2.,,Todo el retroceso infligido aumenta en 2.,Vous infligez Recul +2.,"Rückstoß, den du verursachst, ist um 2&nbsp;erhöht.",Tutto il Contraccolpo da te inflitto aumenta di 2.,Todo empurrão que você causa é aumentado em 2.,"你造成的所有击退伤害增加2点。
 "
 ARMOR_TANKPADS_NAME,Tank's Pads,,Hombreras de tanque,Épaulettes de tank,Tankpolster,Protezioni del Corazzato,Ombreiras de Tanque,坦克护垫
-ARMOR_TANKPADS_DESC,Your knockback damage has a +10% chance to inflict Stun.,,El daño de retroceso tiene +10 % de probabilidad de aturdir.,Vos dégâts de recul ont +10&nbsp;% de chances d'infliger Étourdissement.,Dein Rückstoßschaden verursacht mit +10%iger Wahrscheinlichkeit Betäubung.,Il tuo danno da Contraccolpo ha un +10% di probabilità di infliggere Stordimento.,Seu dano de empurrão possui uma chance de 10% de aplicar atordoamento.,"你的击退伤害有10%的概率造成晕眩。
+ARMOR_TANKPADS_DESC,Your knockback damage has a +10% chance to inflict Stun.,,El daño de retroceso tiene +10 % de probabilidad de aturdir.,Vos dégâts de recul ont +10&nbsp;% de chances d'infliger Étourdissement.,Dein Rückstoßschaden verursacht mit +10%iger Wahrscheinlichkeit Betäubung.,Il tuo danno da Contraccolpo ha un +10% di probabilità di infliggere Stordimento.,Seu dano de empurrão possui uma chance de 10% de aplicar atordoamento.,"你的击退伤害有10%的概率造成眩晕。
 "
 SETBONUS_TANK_NAME,Tank Set Bonus!,,¡Bonificación de conjunto de tanque!,Bonus d'ensemble&nbsp;: tank&nbsp;!,Setbonus: Tank!,Bonus Set: Corazzato!,Bônus de Conjunto de Tanque!,坦克套装加成！
 SETBONUS_TANK_DESC,+1 Knockback damage.,,+1 de daño de retroceso.,Dégâts de recul +1.,+1&nbsp;Rückstoßschaden.,+1 danno da Contraccolpo.,+1 de dano de empurrão.,+1 击退伤害。
