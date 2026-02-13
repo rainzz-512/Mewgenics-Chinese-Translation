@@ -872,7 +872,7 @@ Esplode alla morte.","Dispara tiros de energia em forma de X.
 Pode aplicar marcação em inimigos ou obter [img:divineshield].
 Explode ao morrer.","发射呈X形的能量射击。
 可以使敌人受到标记效果，
-或获得[s:img:divineshield]。"
+或获得[img:divineshield]。"
 ENEMY_MEGASAUCER_NAME,Megasaucer,,Megaplatillo,Mégasoucoupe,Riesen-UFO,Mega Disco Volante,Mega Disco,超级飞碟
 ENEMY_MEGASAUCER_DESC,"Performs a random action on its turn.
 Has a dash attack that inflicts Stun.
