@@ -1,7 +1,7 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 KEYWORD_DEHYDRATED_NAME,Heat Wave,,Ola de calor,Vague de chaleur,Hitzewelle,Ondata di calore,Onda de Calor,热浪
 KEYWORD_DEHYDRATED_DESC,Heals are reduced by 1. Does not heal after battle. Can be mitigated with water.,,Las curaciones se reducen en 1. No se cura tras los combates. Se puede mitigar con agua.,Les soins sont réduits de 1. Aucune régénération de PV après le combat. Peut être dissipé avec de l'eau.,Heilungen sind um 1 reduziert. Heilt sich nach dem Kampf nicht. Kann durch Wasser entfernt werden.,Le cure sono ridotte di 1. Non ci si cura dopo la battaglia. Può essere mitigato con l'acqua.,Curas são reduzidas em 1. Não se cura após a batalha. Pode ser mitigada com água.,"治疗效果减少1。
-战斗后不恢复生命值。可用水缓解。"
+战斗后无法恢复生命值。可用水缓解。"
 ,,,,,,,,
 DEBUG_TEST_GERMAN_WORDWRAPPING,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,"you dont need to localize this, this was just for testing stuff",WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW,,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWW&nbsp;WWW[img:str]WWWW WWWWWWWWW,WWWW&nbsp;WWW[img:str]WWWW WWWWWWWW
 ,,,,,,,,

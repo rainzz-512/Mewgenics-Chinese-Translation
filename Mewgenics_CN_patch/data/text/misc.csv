@@ -184,7 +184,7 @@ WORLDEVENT_CURE_DISORDER,{Catname} lost {disorder}!,,{Catname} ya no tiene esto:
 WORLDEVENT_CURE_DISORDER_M,,,,,,,,
 WORLDEVENT_CURE_DISORDER_F,,,,,,,,
 WORLDEVENT_CURE_DISORDER_N,,,,,,,,
-WORLDEVENT_FULL_HEAL,{Catname} healed to full.,,{Catname} se ha curado por completo.,{Catname} a récupéré tous ses PV&nbsp;!,{Catname} wurde vollständig geheilt.,,{Catname} se curou totalmente.,{Catname} 恢复了满血。
+WORLDEVENT_FULL_HEAL,{Catname} healed to full.,,{Catname} se ha curado por completo.,{Catname} a récupéré tous ses PV&nbsp;!,{Catname} wurde vollständig geheilt.,,{Catname} se curou totalmente.,{Catname} 已恢复至满血。
 WORLDEVENT_FULL_HEAL_M,,,,,,{Catname} è guarito completamente.,,
 WORLDEVENT_FULL_HEAL_F,,,,,,{Catname} è guarita completamente.,,
 WORLDEVENT_FULL_HEAL_N,,,,,,{Catname} è ora completamente in salute.,,
@@ -270,15 +270,15 @@ HOUSEBOSS_COUNTDOWN_TOMORROW,Tomorrow!,,¡Mañana!,Demain&nbsp;!,Morgen!,Domani!
 HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,！！！
 HOUSE_BUTTON_ENDDAY,End Day,,Terminar día,Fin de journée,Tag beenden,Fine giornata,Finalizar Dia,结束当天
 HOUSE_BUTTON_DEPART,Depart!,,Partir,À l'aventure&nbsp;!,Aufbrechen!,Partenza!,Partir!,出发！
-HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{weekday} {month} {day}号
-HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}","{weekday} {month} {day}号, 年 {year}"
-HOUSE_DATE_MONDAY,Mo,,Lu,Lu,Mo,Lu,Seg,星期一
-HOUSE_DATE_TUESDAY,Tu,,Ma,Ma,Di,Ma,Ter,星期二
-HOUSE_DATE_WEDNESDAY,We,,Mi,Me,Mi,Me,Qua,星期三
-HOUSE_DATE_THURSDAY,Th,,Ju,Je,Do,Gi,Qui,星期四
-HOUSE_DATE_FRIDAY,Fr,,Vi,Ve,Fr,Ve,Sex,星期五
-HOUSE_DATE_SATURDAY,Sa,,Sa,Sa,Sa,Sa,Sáb,星期六
-HOUSE_DATE_SUNDAY,Su,,Do,Di,So,Do,Dom,星期日
+HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{month} {day}日 {weekday}
+HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}","{year}年 {month} {day}日 {weekday}"
+HOUSE_DATE_MONDAY,Mo,,Lu,Lu,Mo,Lu,Seg,周一
+HOUSE_DATE_TUESDAY,Tu,,Ma,Ma,Di,Ma,Ter,周二
+HOUSE_DATE_WEDNESDAY,We,,Mi,Me,Mi,Me,Qua,周三
+HOUSE_DATE_THURSDAY,Th,,Ju,Je,Do,Gi,Qui,周四
+HOUSE_DATE_FRIDAY,Fr,,Vi,Ve,Fr,Ve,Sex,周五
+HOUSE_DATE_SATURDAY,Sa,,Sa,Sa,Sa,Sa,Sáb,周六
+HOUSE_DATE_SUNDAY,Su,,Do,Di,So,Do,Dom,周日
 HOUSE_DATE_JAN,Jan,,Ene,Jan,Jan,Gen,Jan,1月
 HOUSE_DATE_FEB,Feb,,Feb,Fév,Feb,Feb,Fev,2月
 HOUSE_DATE_MAR,Mar,,Mar,Mar,Mär,Mar,Mar,3月
@@ -544,7 +544,7 @@ INJURY_NAME_BROKENRIB,Broken Rib,,Costilla rota,Côte cassée,Gebrochene Rippe,C
 INJURY_NAME_CONCUSSION,Concussion,,Conmoción cerebral,Commotion,Gehirnerschütterung,Commozione Cerebrale,Concussão,脑震荡
 INJURY_NAME_DISFIGURED,Disfigured,,Desfiguración,Difformité,Entstellt,Deformazione,Desfiguramento,毁容
 INJURY_NAME_BROKENLEG,Broken Leg,,Pata trasera rota,Patte arrière cassée,Gebrochenes Bein,Gamba Rotta,Perna quebrada,断腿
-INJURY_NAME_JINXED,Jinxed,,Mal de ojo,Calamité,Verwunschen,Iellato,Mau agouro,不祥
+INJURY_NAME_JINXED,Jinxed,,Mal de ojo,Calamité,Verwunschen,Iellato,Mau agouro,厄运
 INJURY_NAME_CURSED,Cursed,cursed and jinxed are almost the same thing except cursed is -2 luck instead of -1 luck,Maldición,Malédiction,Verflucht,Maledetto,Maldição,被诅咒
 INJURY_NAME_IMMOLATED,Immolated,,Inmolación,Immolation,Verbrannt,Immolato,Imolação,烧伤
 INJURY_NAME_EXSANGUINATED,Exsanguinated,,Desangramiento,Exsangue,Ausgeblutet,Dissanguato,Hemorragia,失血
@@ -730,11 +730,10 @@ D","R
 O
 D
 A
-D","轮
-O
-U
-N
-D"
+D","回
+合
+数
+"
 COMBAT_UI_AMBUSHED,Ambushed!,,¡Te atacan por sorpresa!,Embuscade ennemie&nbsp;!,Ein Hinterhalt!,Imboscata!,Emboscada!,遭到伏击！
 COMBAT_UI_AMBUSHING,Ambushing!,,¡Atacas por sorpresa!,"Ennemis surpris&nbsp;!
 ",Ein Hinterhalt für uns!,In agguato!,Emboscando!,埋伏！
@@ -767,7 +766,7 @@ DIFFICULTY_NAME_3,IMPOSSIBLE,,IMPOSIBLE,IMPOSSIBLE,UNMÖGLICH,IMPOSSIBILE,IMPOSS
 ,,,,,,,,
 MAP_HARDPATH_BANNER,HARD,,DIFÍCIL,DIFFICILE,HART,DIFFICILE,DIFÍCIL,困难
 ,,,,,,,,
-STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,一个
+STRINGFUCKUP_CAVESPEAK_1CH_0,a,"if a cat has 0 intelligence or less, the event text gets transformed into ""idiot speak/cavespeak"". its not critical that these pieces get localized, but you said they might need to be. The character length of these pieces is strict because they're glued together randomly to match the length of the words they're replacing. The 1-character strings should be vowels since they're often inserted in between other pieces",a,a,a,a,a,啊
 STRINGFUCKUP_CAVESPEAK_1CH_1,o,,o,o,o,o,o,o
 STRINGFUCKUP_CAVESPEAK_1CH_2,u,,u,u,u,u,u,u
 STRINGFUCKUP_CAVESPEAK_1CH_3,i,,i,i,i,i,i,我

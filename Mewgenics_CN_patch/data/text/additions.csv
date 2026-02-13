@@ -161,7 +161,7 @@ MAIN_MENU_DELETECONFIRMATION,"Are you sure you want to erase
 save file {savefilenumber}?",,¿Seguro que quieres borrar el archivo de guardado {savefilenumber}?,Supprimer la sauvegarde {savefilenumber}&nbsp;?,Speicherstand&nbsp;{savefilenumber} wirklich löschen?,"Vuoi davvero cancellare
 il file di salvataggio {savefilenumber}?","Tem certeza de que deseja
 apagar o arquivo {savefilenumber}?",您确定要擦除保存文件 {savefilenumber} 吗？
-SAVE_FILE_COMPLETION_PERCENT,{percent}% Complete,,{percent} % completado,Progression&nbsp;: {percent}&nbsp;%,{percent}&nbsp;% Fortschritt,Completamento: {percent}%,{percent}% concluído,{percent}% 完成
+SAVE_FILE_COMPLETION_PERCENT,{percent}% Complete,,{percent} % completado,Progression&nbsp;: {percent}&nbsp;%,{percent}&nbsp;% Fortschritt,Completamento: {percent}%,{percent}% concluído,{percent}% 完成度
 ,,,,,,,,
 POPUP_TRY_ABANDON_RUN,"Are you sure you want to abandon this adventure? You will lose the cats, items, food, money, and furniture you found.",,"¿Seguro que quieres abandonar esta aventura? Perderás los gatos, los objetos, la comida, el dinero y los muebles que hayas encontrado.","Voulez-vous vraiment abandonner cette aventure&nbsp;? Vous perdrez vos chats, objets, nourriture, argent, meubles.","Willst du dein Abenteuer wirklich abbrechen? Du verlierst sämtliche Katzen, Gegenstände, Futter, Geld und Möbel, die du gefunden hast.","Vuoi davvero abbandonare quest'avventura? Perderai i gatti, gli oggetti, il cibo, i soldi e i mobili che hai trovato.","Tem certeza de que deseja abandonar esta aventura? Você perderá gatos, itens, comida, dinheiro e móveis que encontrou.",您确定要放弃这个冒险吗？您将失去找到的猫咪、物品、食物、金钱和家具。
 POPUP_TRY_ABANDON_HOUSEBOSS,Are you sure you want to concede this fight? You will lose the cats participating in the fight.,,¿Seguro que quieres rendirte? Perderás los gatos que participen en la pelea.,Voulez-vous vraiment déclarer forfait&nbsp;? Vous perdrez les chats participant au combat.,"Willst du den Kampf wirklich aufgeben? Du verlierst sämtliche Katzen, die an dem Kampf teilgenommen haben.",Vuoi davvero rinunciare a questo combattimento? Perderai i gatti che partecipano al combattimento.,Tem certeza de que deseja desistir desta luta? Você perderá os gatos que estão lutando.,您确定要认输这场战斗吗？您将失去参与战斗的猫咪。
@@ -178,7 +178,7 @@ ABILITY_EXPLOSIVESHOT_NAME,Explosive Shot,,Tiro explosivo,Tir explosif,Explosivs
 ABILITY_EXPLOSIVESHOT_DESC,Lob a puke projectile that does splash damage to neighboring units.,,Lanza un proyectil de vómito que inflige daño por metralla a las unidades cercanas.,Lance un projectile de vomi qui inflige des dégâts de zone aux unités adjacentes.,"Ein Kotzgeschoss, das Hindernisse ignoriert und bei benachbarten Einheiten Flächenschaden verursacht.",Spari un proiettile di vomito che infligge danno ad area alle unità vicine.,Lance um projétil de vômito em arco que causa dano de propagação em unidades vizinhas.,"投掷一个呕吐物弹，
 造成溅射伤害给相邻单位。"
 EABILITY_DOUBLEHIT_NAME,Double Hit,,Doble golpe,Coup double,Doppelschlag,Colpo Doppio,Golpe Duplo,双重打击
-EABILITY_DOUBLEHIT_DESC,A melee attack that hits twice.,,Un ataque cuerpo a cuerpo que golpea 2 veces.,Une attaque au corps-à-corps qui touche deux fois.,"Ein Nahkampfangriff, der zweimal trifft.",Un attacco corpo a corpo che colpisce due volte.,Um ataque corpo-a-corpo que golpeia duas vezes.,一次近战攻击，攻击两次。
+EABILITY_DOUBLEHIT_DESC,A melee attack that hits twice.,,Un ataque cuerpo a cuerpo que golpea 2 veces.,Une attaque au corps-à-corps qui touche deux fois.,"Ein Nahkampfangriff, der zweimal trifft.",Un attacco corpo a corpo che colpisce due volte.,Um ataque corpo-a-corpo que golpeia duas vezes.,连续两次的近战攻击。
 EABILITY_FLESHLAD_UPPERCUT_NAME,Uppercut,,Gancho,Uppercut,Kinnhaken,Montante,Upper,上钩拳
 EABILITY_FLESHLAD_UPPERCUT_DESC,"Punch a unit, knocking it back 3 tiles and inflicting Bruise.
 [s:.7](Castable once per turn.)[/s]",,"Le da un puñetazo a una unidad que la hace retroceder 3 casillas y le inflige moratón.
@@ -199,7 +199,7 @@ Gagne en vitesse à la fin de son tour.","Erhält jedes Mal, wenn er Schaden erl
 Erhält am Ende seines Zuges Geschwindigkeit.","Ottiene un attacco aggiuntivo per turno ogni volta che subisce danno.
 Ottiene Velocità alla fine del suo turno.","Obtém um ataque adicional por turno a cada vez que sofre dano.
 Obtém velocidade no final de seu turno.","每次受到伤害时，
-每回合获得额外攻击一次。
+获得每回合一次额外攻击。
 在回合结束时获得速度。"
 ,,,,,,,,
 ITEM_THEBLACKBOX_NAME,the box,,la caja,La boîte,die box,la scatola,a caixa,箱子
@@ -211,8 +211,8 @@ ITEM_UNSTABLEDNA_DESC,"Use: Gain 6 random stat ups and 3 random stat downs, then
 获得6个随机属性提升和3个随机属性下降，战斗结束时获得3个突变。"
 ITEM_REDPILL_NAME,Red Pill,,Pastilla roja,Pilule rouge,Rote Pille,Pillola Rossa,Pílula Vermelha,红色药丸
 ITEM_REDPILL_DESC,"Use: 50% chance to get Chungus (+4 [img:con]), otherwise take 8 damage.",see DISORDER_CHUNGUS_NAME,"Uso: 50 % de probabilidad de sufrir chungus (+4 [img:con]); si no, sufre 8 de daño.","Utilisation&nbsp;: 50&nbsp;% de chances d'obtenir le trouble Énorme ([img:con] +4). Dans le cas contraire, vous subissez 8 dégâts.","Benutzen: 50%ige Wahrscheinlichkeit, Fettmops (+4&nbsp;[img:con]) zu erhalten. Erleide sonst 8&nbsp;Schaden.","Uso: 50% di probabilità di ottenere Tracagnotto (+4 [img:con]), altrimenti subisci 8 di danno.","Uso: 50% de chance de obter enormidade (+4 de [img:con]), ou então sofra 8 de dano.","使用：
-50%几率获得Chungus（+4 [img:con]），否则受到8点伤害。"
-DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,混乱巨兽
+50%几率获得大块头（+4 [img:con]），否则受到8点伤害。"
+DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme,Fettmops,Tracagnotto,Enormidade,大块头
 DISORDER_CHUNGUS_DESC,,purposely empty,,,,,,
 ,,,,,,,,
 QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased.
