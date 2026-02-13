@@ -2050,7 +2050,7 @@ ABILITY_METEORSTORM2_DESC,"Summon meteors that hit random tiles in a larger area
 ABILITY_MEGABLAST_NAME,Mega Blast,,Megaexplosión,Méga explosion,Megaknall,Mega Esplosione,Mega Explosão,超级爆炸
 ABILITY_MEGABLAST_DESC,Deal high damage in a cone.,,Inflige mucho daño en un área cónica.,Inflige beaucoup de dégâts en cône.,Verursache hohen Schaden in einem kegelförmigen Bereich.,Infliggi danno elevato in un cono.,Cause dano alto em um cone.,在锥形区域造成高额伤害。
 ABILITY_MEGABLAST2_DESC,Deal high damage in a larger cone.,,Inflige mucho daño en un área cónica más amplia.,Inflige beaucoup de dégâts en large cône.,Verursache hohen Schaden in einem größeren kegelförmigen Bereich.,Infliggi danno elevato in un cono più ampio.,Cause dano alto em um cone maior.,在更大锥形区域造成高额伤害。
-ABILITY_CHILL_NAME,Chill,,Frío,Frisson,Verkühlung,Relax,Frio,冰冻
+ABILITY_CHILL_NAME,Chill,,Frío,Frisson,Verkühlung,Relax,Frio,冰寒
 ABILITY_CHILL_DESC,Inflict Slow on a unit.,,Inflige ralentización a una unidad.,Inflige Lenteur sur une unité.,Verursache Verlangsamung bei einer Einheit.,Infliggi Rallentamento a un'unità.,Aplique lentidão em uma unidade.,对单位施加减速效果。
 ABILITY_CHILL2_DESC,Inflict Slow on units in an area.,,Inflige ralentización a las unidades en un área.,Inflige Lenteur sur des unités en zone.,Verursache Verlangsamung bei Einheiten in einem bestimmten Bereich.,Infliggi Rallentamento alle unità in un'area.,Aplique lentidão em unidades em uma área.,对范围内的单位施加减速效果。
 ABILITY_ENLARGE_NAME,Enlarge,,Aumento,Agrandissement,Vergrößern,Ingrandimento,Crescimento,巨大化
@@ -2217,14 +2217,14 @@ ABILITY_CHAINLIGHTNING2_DESC,Shoot lightning that chains randomly to other nearb
 3 格内的其他附近敌人。"
 ABILITY_SHATTER_NAME,Shatter,,Añicos,Désintégration,Zerschmettern,Frantumazione,Estilhaçamento,粉碎
 ABILITY_SHATTER_DESC,"A melee attack that instantly kills frozen units. If used on a boss, it instead removes Frozen to deal 15 damage and inflict Slow 2.",,"Un ataque cuerpo a cuerpo que mata al instante a unidades congeladas. Si se usa contra un jefe, en su lugar elimina la congelación para infligirle 15 de daño y 2 de ralentización.","Une attaque au corps-à-corps qui tue instantanément les unités gelées. Sur un Boss, retire l'état Gel pour infliger 15&nbsp;points de dégâts et Lenteur&nbsp;+2.","Ein Nahkampfangriff, der eingefrorene Einheiten sofort tötet. Greifst du einen Boss an, verursacht er stattdessen 15&nbsp;Schaden und Verlangsamung&nbsp;2 und entfernt Frost.","Un attacco corpo a corpo che uccide all'istante le unità congelate. Se usato su un boss, rimuove Congelamento, infligge 15 di danno e Rallentamento 2.","Um ataque corpo-a-corpo que mata instantaneamente unidades congeladas. Se utilizado em um chefe, remova o congelamento para causar 15 de dano e aplicar lentidão 2.","一次近战攻击，
-能瞬间击杀冰冻单位。
+能瞬间击杀被冻结单位。
 如果对Boss使用，
-则改为移除冰冻状态，
+则改为移除被冻结状态，
 造成15点伤害并附加2层减速。"
 ABILITY_SHATTER2_DESC,"A spell that instantly kills frozen units in an area. If used on a boss, it instead removes Frozen to deal 15 damage and inflict Slow 2.",,"Un hechizo que mata al instante a unidades congeladas en un área. Si se usa contra un jefe, en su lugar elimina la congelación para infligirle 15 de daño y 2 de ralentización.","Un sort qui tue instantanément les unités gelées dans une zone. Sur un Boss, retire l'état Gel pour infliger 15&nbsp;points de dégâts et Lenteur&nbsp;+2.","Ein Nahkampfangriff, der eingefrorene Einheiten in einem bestimmten Bereich sofort tötet. Greifst du einen Boss an, verursacht er stattdessen 15&nbsp;Schaden und Verlangsamung&nbsp;2 und entfernt Frost.","Un incantesimo che uccide all'istante le unità congelate. Se usato su un boss, rimuove Congelamento, infligge 15 di danno e Rallentamento 2.","Um ataque corpo-a-corpo que mata instantaneamente unidades congeladas em uma área. Se utilizado em um chefe, remova o congelamento para causar 15 de dano e aplicar lentidão 2.","一个范围法术，
-能瞬间击杀冰冻单位。
+能瞬间击杀被冻结单位。
 如果对Boss使用，
-则改为移除冰冻状态，
+则改为移除被冻结状态，
 造成15点伤害并附加2层减速。"
 ABILITY_FORBIDDENFULMINATION_NAME,Forbidden Fulmination,,Fulminación prohibida,Foudre interdite,Verbotene Explosion,Folgorazione Proibita,Fulminação Proibida,禁忌雷霆
 ABILITY_FORBIDDENFULMINATION_DESC,"Strike all enemies with lightning, inflicting Stun. There will be permanent consequences for casting this spell…
@@ -2257,11 +2257,11 @@ ABILITY_FIREBOLT2_DESC,Cast a fire/electric spell that inflicts Burn 2 and has a
 ABILITY_ICICLETASER_NAME,Icicle Zapper,,Témpano exterminador,Éclair de glace,Eisblitz,Pungighiaccio,Raio Gelado,冰柱电击器
 ABILITY_ICICLETASER_DESC,"Shoot an ice/electric bolt in a straight line. It inflicts Slow 2, has a 25% chance to Stun and a 25% chance to Freeze.",,"Lanza un rayo de hielo/electricidad en línea recta. Inflige +2 de ralentización, tiene un 25 % de probabilidad de aturdir y un 25 % de probabilidad de congelar.",Tire un éclair électrique/de glace en ligne droite. Inflige Lenteur&nbsp;+2. 25&nbsp;% de chances d'Étourdissement. 25&nbsp;% de chances de Gel.,"Verschieße einen Eisblitz in einer geraden Linie. Er verursacht Verlangsamung&nbsp;2 und hat eine 25%ige Wahrscheinlichkeit, Betäubung oder Frost zu verursachen.","Spari un fulmine di ghiaccio/elettrico in linea retta che infligge Rallentamento 2, ha un 25% di probabilità di causare Stordimento e un 25% di probabilità di causare Congelamento.","Dispare um raio de gelo/elétrico em linha reta. Ele aplica lentidão 2, possui 25% de chance de atordoar e 25% de chance de congelar.","沿直线发射一枚冰/电箭，
 附加2层减速，
-有25%几率眩晕，有25%几率冰冻。
+有25%几率眩晕，有25%几率冻结。
 "
 ABILITY_ICICLETASER2_DESC,"Shoot 2 ice/electric bolts in a straight line. They inflict Slow 2, have a 25% chance to Stun and a 25% chance to Freeze.",,"Lanza dos rayos de hielo/electricidad en línea recta. Infligen 2 de ralentización, tienen un 25 % de probabilidad de aturdir y un 25 % de probabilidad de congelar.",Tire 2&nbsp;éclairs électriques/de glace en ligne droite. Inflige Lenteur&nbsp;+2. 25&nbsp;% de chances d'Étourdissement. 25&nbsp;% de chances de Gel.,"Verschieße zwei Eisblitze in einer geraden Linie. Sie verursachen Verlangsamung&nbsp;2 und haben eine 25%ige Wahrscheinlichkeit, Betäubung oder Frost zu verursachen.","Spari 2 fulmini di ghiaccio/elettrico in linea retta che infliggono Rallentamento 2, hanno un 25% di probabilità di causare Stordimento e un 25% di probabilità di causare Congelamento.","Dispare dois raios de gelo/elétricos em linha reta. Ele aplica lentidão 2, possui 25% de chance de atordoar e 25% de chance de congelar.","沿直线发射两枚冰/电箭，
 附加2层减速，
-有25%几率眩晕，有25%几率冰冻。
+有25%几率眩晕，有25%几率冻结。
 "
 ABILITY_FREEZERBURN_NAME,Freezer Burn,,Quemadura gélida,Brûlure de glace,Frostbrand,Bruciagelo,Queimadura Gelada,冰冻灼烧
 ABILITY_FREEZERBURN_DESC,"Cast a fire/ice spell that inflicts Burn 2, Slow 2 and Knockback 2 on all units around you.",,"Lanza un hechizo de fuego/hielo que inflige 2 de quemadura, 2 de ralentización y 2 de retroceso a todas las unidades a tu alrededor.","Lance un sort de feu/glace qui inflige Brûlure&nbsp;+2, Lenteur&nbsp;+2&nbsp;et Recul&nbsp;+2&nbsp;sur toutes les unités autour de vous.","Wirke einen Feuer-/Eiszauber, der Verbrennung&nbsp;2, Verlangsamung&nbsp;2 und Rückstoß&nbsp;2 bei allen Einheiten, die dich umgeben, verursacht.","Lanci un incantesimo di fuoco/ghiaccio che infligge Bruciatura 2, Rallentamento 2 e Contraccolpo 2 a tutte le unità intorno a te.","Lance um encantamento de fogo/gelo que aplica queimadura 2, lentidão 2 e empurrão 2 em todas as unidades ao seu redor.","施放一枚火焰/冰霜法术，
@@ -2312,7 +2312,7 @@ ABILITY_ICESURGE_DESC,"An ice spell that increases its range and Slow every turn
 [s:.7](Turnos atuais: {v0})[/s]","一种冰系法术，
 每回合增加射程和减速。
 达到2回合时获得1层定身。
-达到3回合时获得1层冰冻。
+达到3回合时获得1层冻结。
 [s:.7](当前回合数：{v0})[/s]"
 ABILITY_ICESURGE2_DESC,"An ice spell that increases its range, damage, and Slow every turn. At 2 turns, it gains Immobilize 1. At 3 turns, it gains Freeze 1.
 [s:.7](Current turns: {v0})[/s]",,"Un hechizo de hielo que aumenta su alcance, su daño y su ralentización cada turno. A los 2 turnos, obtiene 1 de inmovilización. A los 3 turnos, obtiene 1 de congelación.
@@ -2321,16 +2321,16 @@ ABILITY_ICESURGE2_DESC,"An ice spell that increases its range, damage, and Slow 
 [s:.7](Turni attuali: {v0})[/s]","Um encantamento de gelo que aumenta seu alcance, dano e lentidão a cada turno. Com 2 turnos, ele obtém imobilização 1. Com 3 turnos, ele obtém congelamento 1.
 [s:.7](Turnos atuais: {v0})[/s]","一种冰系法术，
 每回合增加射程、伤害和减速。
-达到2回合时获得1层定身。
-达到3回合时获得1层冰冻。
+达到2回合时附加1层定身。
+达到3回合时附加1层冻结。
 [s:.7](当前回合数：{v0})[/s]"
 ABILITY_LIGHTNINGSURGE_NAME,Lightning Surge,,Aumento de rayos,Amplification électrique,Donnerschwall,Ondata di Fulmini,Surto Elétrico,闪电激增
 ABILITY_LIGHTNINGSURGE_DESC,"An electric spell that increases its range and damage by 2 every turn, and its stun chance by 10%.",,Un hechizo eléctrico que cada turno aumenta en 2 su alcance y su daño y en un 10 % su probabilidad de aturdir.,"Un sort électrique qui augmente sa portée et ses dégâts de&nbsp;2&nbsp;chaque tour, et sa chance d'Étourdissement de 10&nbsp;%.","Ein elektrischer Zauber, der seine Reichweite und seinen Schaden jeden Zug um 2 und seine Betäubungschance um 10&nbsp;% erhöht.",Un incantesimo elettrico che aumenta il suo raggio e il suo danno di 2 ogni turno e la sua probabilità di infliggere Stordimento del 10%.,Um encantamento elétrico que aumenta seu alcance e dano em 2 a cada turno e sua chance de atordoamento em 10%.,"一种电系法术，
 每回合增加2点射程和伤害，
-以及10%晕眩几率。"
+以及10%眩晕几率。"
 ABILITY_LIGHTNINGSURGE2_DESC,"An electric spell that increases its range and damage by 3 every turn, and its stun chance by 10%.",,Un hechizo eléctrico que cada turno aumenta en 3 su alcance y su daño y en un 10 % su probabilidad de aturdir.,"Un sort électrique qui augmente sa portée et ses dégâts de&nbsp;3&nbsp;chaque tour, et sa chance d'Étourdissement de 10&nbsp;%.","Ein elektrischer Zauber, der seine Reichweite und seinen Schaden jeden Zug um 3 und seine Betäubungschance um 10&nbsp;% erhöht.",Un incantesimo elettrico che aumenta il suo raggio e il suo danno di 3 ogni turno e la sua probabilità di infliggere Stordimento del 10%.,Um encantamento elétrico que aumenta seu alcance e dano em 3 a cada turno e sua chance de atordoamento em 10%.,"一种电系法术，
 每回合增加3点射程和伤害，
-以及10%晕眩几率。"
+以及10%眩晕几率。"
 ABILITY_CRESHENDO_NAME,Crescendo,,Crescendo,Crescendo,Crescendo,Crescendo,Crescendo,渐强
 ABILITY_CRESHENDO_DESC,"This spell gains +1 damage, range and area, and -1 mana cost each time you cast a spell.
 This spell resets after you cast it.",,"Este hechizo obtiene +1 de daño, alcance y área de efecto y -1 de coste de maná cada vez que se lanza un hechizo.
@@ -2389,7 +2389,7 @@ Ci saranno conseguenze permanenti per aver lanciato quest'incantesimo...
 Cause 5 de dano em todos os inimigos e cure 5 PV de todos os aliados.
 Haverá consequências permanentes ao lançar este encantamento...
 [s:.7](Um lançamento por batalha.)[/s]","对除自身和另外一个指定单位外
-的所有单位施加2层冰冻。
+的所有单位施加2层冻结。
 对敌人造成5点伤害，
 治疗每个盟友5点生命值。"
 ABILITY_FORBIDDENFROST2_DESC,"Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
@@ -2464,10 +2464,10 @@ ABILITY_MAGNIFY2_DESC,"Your basic attack gains +2 range and +1 area until the en
 ABILITY_TRIATTACK_NAME,Tri-Attack,,Ataque triple,Attaque triple,Dreifachzauber,Attacco Triplo,Tri-Ataque,三重攻击
 ABILITY_TRIATTACK_DESC,"A Fire / Ice / Electric spell that inflicts Burn 1, Slow 1, and has a 5% chance to inflict Stun.",,"Un hechizo de fuego/hielo/electricidad que inflige 1 de quemadura, 1 de ralentización y tiene un 5 % de probabilidad de aturdir.","Lance un sort feu/glace/électrique qui inflige Brûlure&nbsp;+1, Lenteur&nbsp;+1&nbsp;et a 5&nbsp;% de chances d'infliger Étourdissement.","Ein Feuer-/Eis-/elektrischer Zauber, der Verbrennung&nbsp;1 und Verlangsamung&nbsp;1 und mit einer 5%igen Wahrscheinlichkeit Betäubung verursacht.","Un incantesimo di fuoco/ghiaccio/elettrico che infligge Bruciatura 1, Rallentamento 1 e ha un 5% di probabilità di causare Stordimento.","Um encantamento de fogo/gelo/elétrico que aplica queimadura 1, lentidão 1 e possui 5% de chance de atordoar.","一项火/冰/电法术，
 造成1层燃烧、1层减速，
-并有 5% 几率造成晕眩。"
+并有 5% 几率造成眩晕。"
 ABILITY_TRIATTACK2_DESC,"A Fire / Ice / Electric spell that inflicts Burn 1, Slow 1, and has a 5% chance to inflict Stun in an area.",,"Un hechizo de fuego/hielo/electricidad que inflige 1 de quemadura, 1 de ralentización y tiene un 5 % de probabilidad de aturdir en un área.","Lance un sort feu/glace/électrique qui inflige Brûlure&nbsp;+1, Lenteur&nbsp;+1&nbsp;et a 5&nbsp;% de chances d'infliger Étourdissement en zone.","Ein Feuer-/Eis-/elektrischer Zauber, der Verbrennung&nbsp;1 und Verlangsamung&nbsp;1 und mit einer 5%igen Wahrscheinlichkeit Betäubung in einem bestimmten Bereich verursacht.","Un incantesimo di fuoco/ghiaccio/elettrico che infligge Bruciatura 1, Rallentamento 1 e ha un 5% di probabilità di causare Stordimento in un'area.","Um encantamento de fogo/gelo/elétrico que aplica queimadura 1, lentidão 1 e possui 5% de chance de atordoar em uma área.","一项火/冰/电法术，
 对区域内造成1层燃烧、1层减速，
-并有 5% 几率造成晕眩。"
+并有 5% 几率造成眩晕。"
 //druid,,,,,,,,
 ABILITY_CROWFLUTTER_NAME,Flutter,,Aleteo,Volettement,Flattern,Svolazzamento,Flutuação,拍动
 ABILITY_CROWFLUTTER_DESC,Fly over 3 tiles.,,Sobrevuela 3 casillas.,Volez sur 3&nbsp;cases.,Fliege über 3&nbsp;Felder.,Sorvoli 3 caselle.,Voe sobre 3 espaços.,飞跃3格。
@@ -4007,7 +4007,7 @@ ABILITY_TRAMPLEDASH_DESC,"Dash forward with Trample, then spawn a rock.",,Se lan
 然后生成一块岩石。"
 ABILITY_TRAMPLEDASH2_DESC,"Dash forward with Trample, then spawn a rock. Deals more damage and has a 20% chance to inflict Stun.",,Se lanza hacia delante pisoteando y luego genera una roca. Inflige más daño y tiene un 20 % de probabilidad de aturdir.,"Vous foncez en avant avec Piétinement, puis faites apparaître une pierre. Inflige plus de dégâts et 20&nbsp;% de chances d'infliger Étourdissement.",Stürme mit Trampel vorwärts und lasse einen Stein erscheinen. Verursacht mehr Schaden und verursacht mit 20%iger Wahrscheinlichkeit Betäubung.,"Scatti in avanti con Calpestamento, poi generi una roccia. Infliggi più danno e hai il 20% di probabilità di causare Stordimento.","Dê um impulso para frente com atropelamento, e então gere uma pedra. Cause mais dano com 20% de chance de aplicar atordoamento.","向前冲刺造成践踏伤害，
 然后生成一块岩石。
-造成更多伤害并有20%几率使目标晕眩。
+造成更多伤害并有20%几率使目标眩晕。
 "
 ABILITY_TANKSWAP_NAME,Swap,,Intercambio,Échange,Austausch,Subentro,Troca,换位
 ABILITY_TANKSWAP_DESC,Swap positions with any ally.,,Intercambia posiciones con cualquier aliado.,Vous échangez votre position avec celle d'une unité alliée.,Tausche die Position mit einem Verbündeten.,Scambi la tua posizione con qualsiasi alleato.,Troque de posição com qualquer aliado.,与任意盟友交换位置。
@@ -4154,7 +4154,7 @@ ABILITY_BIGROCK_DESC,"Drop a boulder on an adjacent tile, damaging and displacin
 "
 ABILITY_BIGROCK2_DESC,"Drop a boulder on an adjacent tile, damaging, Stunning and displacing units it lands on.",,Suelta un peñasco sobre una casilla adyacente que inflige aturdimiento y desplaza a las unidades sobre las que cae.,"Vous infligez des dégâts, Étourdissement, et déplacez les unités sur une case adjacente en lâchant dessus un rocher.","Lasse einen Felsen auf ein benachbartes Feld fallen. Der Felsen fügt der Einheit Schaden zu, auf der er landet, betäubt sie und drängt sie zur Seite.","Fai cadere un masso su una casella adiacente, danneggiando, infliggendo Stordimento e spostando le unità su cui atterra.","Solte um pedregulho em um espaço adjacente, causando dano, atordoando e deslocando unidades sobre as quais ele cai.","向相邻格子投掷巨石，
 对落在其上的单位造成伤害、
-晕眩并使其移位。"
+眩晕并使其移位。"
 ABILITY_FLIPFLOP_NAME,Flip Flop,,Giro repentino,Flop,Flip-Flop,Infradito,Troca-Troca,翻转
 ABILITY_FLIPFLOP_DESC,"Jump up to 3 tiles away, damage units you land on, then gain -1 [img:spd].
 [s:.7](This spell's mana cost is equal to your [img:spd].
@@ -4205,7 +4205,7 @@ Este hechizo gasta la acción de movimiento.","Vous foncez en avant sur 1&nbsp;c
 Dieser Zauber verbraucht deine Bewegungsaktion.","Scatti in avanti di una casella, attacchi con Contraccolpo e infliggi Stordimento.
 Quest'incantesimo consuma la tua azione di movimento.","Dê um impulso de 1 espaço para frente e ataque com empurrão, aplicando atordoamento.
 Este encantamento utiliza sua ação de movimento.","向前冲刺一格，
-进行击退攻击并造成晕眩。
+进行击退攻击并造成眩晕。
 该法术将消耗你的移动行动。"
 ABILITY_NUDGE_NAME,Nudge,,Codazo,Petite poussée,Stupser,Spintarella,Empurrãozinho,轻推
 ABILITY_NUDGE_DESC,"Push a unit back 1 tile.
@@ -4466,7 +4466,7 @@ ABILITY_ICEPUNCH_NAME,Ice Punch,,Puñetazo de hielo,Poing de glace,Eisschlag,Pug
 ABILITY_ICEPUNCH_DESC,A melee attack that inflicts Freeze.,,Un ataque cuerpo a cuerpo que inflige congelación.,Attaque au corps-à-corps qui inflige Gel.,"Ein Nahkampfangriff, der Frost verursacht.",Un attacco corpo a corpo che infligge Congelamento.,Um ataque corpo-a-corpo que aplica congelamento.,一次近战攻击，造成冻结效果。
 ABILITY_ICEPUNCH2_DESC,A much stronger melee attack that inflicts Freeze.,,Un ataque cuerpo a cuerpo mucho más fuerte que inflige congelación.,Attaque au corps-à-corps plus puissante qui inflige Gel.,"Ein viel stärkerer Nahkampfangriff, der Frost verursacht.",Un attacco corpo a corpo molto più potente che infligge Congelamento.,Um ataque corpo-a-corpo muito mais forte que aplica congelamento.,"一次更强力的近战攻击，
 造成冻结效果。"
-ABILITY_THUNDERPUNCH_NAME,Thunder Punch,,Puñetazo de trueno,Poing de tonnerre,Donnerschlag,Pugno di Tuono,Soco do Trovão,雷拳
+ABILITY_THUNDERPUNCH_NAME,Thunder Punch,,Puñetazo de trueno,Poing de tonnerre,Donnerschlag,Pugno di Tuono,Soco do Trovão,雷电拳
 ABILITY_THUNDERPUNCH_DESC,A melee attack that has a 25% chance to inflict Stun.,,Un ataque cuerpo a cuerpo con un 25 % de probabilidad de infligir aturdimiento.,Attaque au corps-à-corps qui a 25&nbsp;% de chances d'infliger Étourdissement.,"Ein Nahkampfangriff, der mit 25%iger Wahrscheinlichkeit Betäubung verursacht.",Un attacco corpo a corpo che ha un 25% di probabilità di infliggere Stordimento.,Um ataque corpo-a-corpo com 25% de chance de aplicar atordoamento.,"一次近战攻击，
 25%几率造成眩晕。"
 ABILITY_THUNDERPUNCH2_DESC,A melee attack that inflicts Stun.,,Un ataque cuerpo a cuerpo que aturde.,Attaque au corps-à-corps qui inflige Étourdissement.,"Ein Nahkampfangriff, der Betäubung verursacht.",Un attacco corpo a corpo che infligge Stordimento.,Um ataque corpo-a-corpo que aplica atordoamento.,一次近战攻击，造成眩晕效果。
@@ -5071,12 +5071,12 @@ ABILITY_BOOSTBACKSTAB2_DESC,"Until end of turn, your backstabs do +75% more dama
 
 无视护盾，并造成流血和中毒效果。
 "
-ABILITY_POISONGAS_NAME,Poison Gas,,Gas venenoso,Gaz empoisonné,Giftgas,Gas Velenoso,Nuvem de Veneno,中毒气
+ABILITY_POISONGAS_NAME,Poison Gas,,Gas venenoso,Gaz empoisonné,Giftgas,Gas Velenoso,Nuvem de Veneno,毒气
 ABILITY_POISONGAS_DESC,Inflict Poison 1 on all units adjacent to you.,,Inflige 1 de veneno a todas las unidades adyacentes.,Poison&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei allen benachbarten Einheiten Gift&nbsp;1.,Infliggi Veleno 1 a tutte le unità adiacenti a te.,Aplique veneno 1 em todas as unidades adjacentes a você.,"对所有与你相邻的单位施加1层中毒。
 "
 ABILITY_POISONGAS2_DESC,Inflict Poison 2 on all units adjacent to you (even diagonally).,,Inflige 2 de veneno a todas las unidades adyacentes (incluso en diagonal).,Poison&nbsp;+2&nbsp;à toutes les unités adjacentes (même en diagonale).,Verursache bei allen benachbarten Einheiten Gift&nbsp;2 (auch diagonal).,Infliggi Veleno 2 a tutte le unità adiacenti a te (anche in diagonale).,Aplique veneno 2 em todas as unidades adjacentes a você (mesmo diagonalmente).,"对所有与你相邻（包括对角线）
 的单位施加中毒2。"
-ABILITY_POISONNAIL_NAME,Poison Nail,,Clavo venenoso,Clou empoisonné,Giftnagel,Chiodo Avvelenato,Prego Envenenado,中毒钉
+ABILITY_POISONNAIL_NAME,Poison Nail,,Clavo venenoso,Clou empoisonné,Giftnagel,Chiodo Avvelenato,Prego Envenenado,毒钉
 ABILITY_POISONNAIL_DESC,Throw a nail that inflicts Poison and ignores shield.,,Lanza 1 clavo que inflige veneno e ignora el escudo.,Vous lancez 1&nbsp;clou qui inflige Poison et ignore la défense.,"Wirf einen Nagel, der Gift verursacht und Schilde ignoriert.",Lanci un chiodo che infligge Veleno e ignora lo scudo.,Lance um prego que aplica veneno e ignora escudos.,"投掷一根钉子，
 造成中毒且无视护盾。"
 ABILITY_POISONNAIL2_DESC,Throw 2 nails that inflict Poison and ignore shield.,,Lanza 2 clavos que infligen veneno e ignoran el escudo.,Vous lancez 2&nbsp;clous qui inflige Poison et ignore la défense.,"Wirf zwei Nägel, die Gift verursachen und Schilde ignorieren.",Lanci 2 chiodi che infliggono Veleno e ignorano lo scudo.,Lance 2 pregos que aplicam veneno e ignoram escudos.,"投掷两根钉子，
@@ -5551,7 +5551,7 @@ ABILITY_OUTSKIRTS_DESC,Teleport to a tile on the edge of the map.,,Se teletransp
 ABILITY_OUTSKIRTS2_DESC,Teleport to a tile on the edge of the map. Gain +2 Damage for the rest of the turn.,,Se teletransporta a una casilla al borde del mapa. Obtiene +2 de daño durante el resto del turno.,Vous vous téléportez sur une case au bord de la carte. Dégâts&nbsp;+2&nbsp;pendant le reste du tour.,Teleportiere dich auf ein Feld am Rand der Karte. Erhalte für den Rest des Zuges +2&nbsp;Schaden.,Ti teletrasporti su una casella sul bordo della mappa. Ottieni +2 al Danno per il resto del turno.,Teletransporte-se para um espaço no limiar do mapa. Obtenha +2 de dano pelo resto do turno.,"传送到地图边缘的一个格子。
 本回合剩余时间内获得+2伤害。
 "
-ABILITY_POISONDIP_NAME,Poison Dip,,Baño de veneno,Cadeau empoisonné,Giftkralle,Intingolo Avvelenato,Gota de Veneno,浸毒
+ABILITY_POISONDIP_NAME,Poison Dip,,Baño de veneno,Cadeau empoisonné,Giftkralle,Intingolo Avvelenato,Gota de Veneno,淬毒
 ABILITY_POISONDIP_DESC,"Spend all your mana. For every 5 mana spent, your basic attack inflicts +1 Poison.
 [s:.7](Castable once per battle.)[/s]",,"Gasta todo su maná. Por cada 5 de maná gastado, el ataque básico inflige +1 de veneno.
 [s:.7](Se puede lanzar una vez por combate).[/s]",Vous dépensez tout votre mana. Votre attaque de base inflige Poison&nbsp;+1&nbsp;par tranche de 5&nbsp;mana dépensés. [s:.7](Une fois par combat.)[/s],"Gib all dein Mana aus. Pro 5&nbsp;ausgegebenes Mana verursacht dein Grundangriff +1&nbsp;Gift.
@@ -5904,9 +5904,9 @@ ABILITY_VIVISECT_DESC,A melee attack that spawns a baited bear trap if it kills 
 ABILITY_VIVISECT2_DESC,A lobbed attack that spawns a baited bear trap if it kills a unit or destroys a body.,,Un ataque cuerpo a cuerpo en arco que genera un cepo para osos con cebo si mata a una unidad o destruye un cadáver.,Attaque en cloche qui génère un piège à ours avec appât si elle tue une unité ou détruit un cadavre.,"Ein Angriff, der Hindernisse ignoriert und eine Bärenfalle mit Köder erscheinen lässt, wenn er eine Einheit tötet oder eine Leiche zerstört.",Un attacco a parabola che genera una trappola per orsi con esca se uccide un'unità o distrugge un corpo.,Um ataque em arco que gera uma armadilha de urso com isca ao matar uma unidade ou destruir um corpo.,"一次投掷攻击，如果击杀单
 位或摧毁尸体则生成一个诱饵熊夹陷阱。
 "
-ABILITY_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Mit Gift versetzen,Laccio Velenoso,Ataque Envenenado,中毒蕾
-ABILITY_POISONLACE_DESC,Give yourself or an adjacent unit +1 Poison Lace.,,Otorga a esta unidad o a una adyacente +1 de dosis de veneno.,Vous infligez à une unité adjacente ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer benachbarten Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a un'unità adiacente +1 Laccio Velenoso.,Conceda a si ou a uma unidade adjacente +1 de ataque envenenado.,给自己或相邻单位 +1 中毒蕾。
-ABILITY_POISONLACE2_DESC,Give yourself or any other unit +1 Poison Lace.,,Otorga a esta unidad o a cualquier otra +1 de dosis de veneno.,Vous infligez à une unité ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer beliebigen Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a qualsiasi altra unità +1 Laccio Velenoso.,Conceda a si ou a qualquer outra unidade +1 de ataque envenenado.,给自己或其他单位 +1 中毒蕾。
+ABILITY_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Mit Gift versetzen,Laccio Velenoso,Ataque Envenenado,毒缚
+ABILITY_POISONLACE_DESC,Give yourself or an adjacent unit +1 Poison Lace.,,Otorga a esta unidad o a una adyacente +1 de dosis de veneno.,Vous infligez à une unité adjacente ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer benachbarten Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a un'unità adiacente +1 Laccio Velenoso.,Conceda a si ou a uma unidade adjacente +1 de ataque envenenado.,给自己或相邻单位 +1 毒缚。
+ABILITY_POISONLACE2_DESC,Give yourself or any other unit +1 Poison Lace.,,Otorga a esta unidad o a cualquier otra +1 de dosis de veneno.,Vous infligez à une unité ou à vous même Attaque empoisonnée&nbsp;+1.,Verleihe dir oder einer beliebigen Einheit +1&nbsp;Giftversetzt.,Fornisci a te o a qualsiasi altra unità +1 Laccio Velenoso.,Conceda a si ou a qualquer outra unidade +1 de ataque envenenado.,给自己或其他单位 +1 毒缚。
 ABILITY_SLOPTHEPIGS_NAME,Slop the Pigs,,Alimento para cerdos,Bouillie pour cochons,Perlen vor die Säue,Cibo per Maiali,Alimentação Porca,喂猪
 ABILITY_SLOPTHEPIGS_DESC,Each familiar in an area gains All Stats Up and heals 4 HP. Other units in the area gain +1 [img:con] and heal 2 HP.,,Cada familiar en un área obtiene aumento total y recupera 4 PS. Otras unidades en la zona obtienen +1 [img:con] y recuperan 2 PS.,Chaque familier présent dans une zone obtient Hausse de stats et récupère 4&nbsp;PV. Les autres unités dans cette zone obtiennent [img:con]&nbsp;+1&nbsp;et récupèrent 2&nbsp;PV.,Jeder Begleiter in einem bestimmten Bereich erhält einen Bonus auf alle Attribute und heilt 4&nbsp;LP. Andere Einheiten in dem Bereich erhalten +1&nbsp;[img:con] und heilen 2&nbsp;LP.,Ogni famiglio in un'area ottiene Aumento delle Statistiche e recupera 4 PS. Le altre unità nell'area ottengono +1 alla [img:con] e recuperano 2 PS.,Cada familiar em uma área obtém todos os atributos aumentados e cura 4 PV. Outras unidades na área obtêm +1 de [img:con] e curam 2 PV.,"区域内的每个宠物获得全属性提
 升并恢复4生命值。

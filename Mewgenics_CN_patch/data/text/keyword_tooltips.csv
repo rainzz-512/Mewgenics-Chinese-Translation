@@ -407,10 +407,10 @@ KEYWORD_POISON_DESC,Takes {stacks} damage at the start of each of its turns. Inc
 KEYWORD_POISON_DESC_STACKLESS,Takes damage at the start of every turn. Incoming healing is less effective but cures 1 Poison.,,"Sufre daño al inicio de cada turno. La curación resulta menos efectiva, pero cura 1 de veneno.","Subit des dégâts au début de chacun de ses tours. Les soins reçus sont moins efficaces, mais soignent 1&nbsp;Poison.","Erleidet am Anfang seiner Züge Schaden. Eingehende Heilung ist weniger effektiv, heilt aber 1&nbsp;Gift.",Subisce danno all'inizio di ognuno dei suoi turni. Le cure in arrivo sono meno efficaci ma curano 1 Veleno.,"Sofre dano no início de cada turno. Qualquer cura recebida é menos efetiva, porém cura 1 de veneno.","在每个回合开始时承受伤害。
 收到的治疗效果降低，
 但会治愈 1 点中毒。"
-KEYWORD_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Giftversetzt,Laccio Velenoso,Ataque Envenenado,中毒蕾
+KEYWORD_POISONLACE_NAME,Poison Lace,,Dosis de veneno,Attaque empoisonnée,Giftversetzt,Laccio Velenoso,Ataque Envenenado,毒缚
 KEYWORD_POISONLACE_DESC,Basic attack inflicts +{stacks} Poison.,,El ataque básico inflige +{stacks} de veneno.,Votre attaque de base inflige Poison +{stacks}.,Grundangriff verursacht +{stacks}&nbsp;Gift.,L'attacco base infligge +{stacks} Veleno.,O ataque básico aplica +{stacks} de veneno.,普通攻击附加 +{stacks} 点中毒。
 KEYWORD_POISONLACE_DESC_STACKLESS,Basic attack inflicts Poison.,,El ataque básico inflige veneno.,Votre attaque de base inflige Poison.,Grundangriff verursacht Gift.,L'attacco base infligge Veleno.,O ataque básico aplica veneno.,普通攻击附加中毒。
-KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Dosis de veneno (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),中毒蕾丝（武器）
+KEYWORD_WPOISONLACE_NAME,Poison Lace (Weapon),,Dosis de veneno (arma),Attaque empoisonnée (arme),Giftversetzt (Waffe),Laccio Velenoso (Arma),Ataque Envenenado (Arma),毒缚武器（武器）
 KEYWORD_WPOISONLACE_DESC,Your weapon inflicts +{stacks} Poison.,,El arma inflige +{stacks} de veneno.,Votre arme inflige Poison +{stacks}.,Deine Waffe verursacht +{stacks}&nbsp;Gift.,La tua arma infligge +{stacks} Veleno.,Sua arma aplica +{stacks} de veneno.,你的武器附加 +{stacks} 点中毒。
 KEYWORD_WPOISONLACE_DESC_STACKLESS,Your weapon inflicts Poison.,,El arma inflige veneno.,Votre arme inflige Poison.,Deine Waffe verursacht Gift.,La tua arma infligge Veleno.,Sua arma aplica veneno.,你的武器附加中毒。
 KEYWORD_POISONOUS_NAME,Poisonous,,Envenenamiento,Toxique,Giftig,Avvelenamento,Venenoso,有毒

@@ -1948,7 +1948,7 @@ PASSIVE_STEALTHED_NAME,Stealthed,,Furtivo,Discrétion,Versteckt,Occultamento,Vé
 PASSIVE_STEALTHED_DESC,Start each battle with Stealth.,,Empieza cada combate con sigilo.,Commencez chaque combat avec Furtivité.,Beginne jeden Kampf mit Schleichen.,Inizi ogni battaglia con Furtività.,Inicie cada batalha com furtividade.,每场战斗开始时处于潜行状态。
 PASSIVE_STEALTHED2_DESC,Start each battle with Stealth. Gain Stealth when you get a kill.,,Empieza cada combate con sigilo. Obtiene sigilo al matar a una unidad.,Commencez chaque combat avec Furtivité. Obtenez Furtivité quand vous tuez une unité.,"Beginne jeden Kampf mit Schleichen. Erhalte Schleichen, wenn du eine Einheit tötest.",Inizi ogni battaglia con la furtività. Ottieni Furtività quando uccidi un'unità.,Inicie cada batalha com furtividade. Obtenha furtividade com cada baixa.,"每场战斗开始时处于潜行状态。
 击杀时获得潜行。"
-PASSIVE_POISONTIPS_NAME,Poison Tips,,Puntas envenenadas,Pointes empoisonnées,Giftspitzen,Punte Avvelenate,Pontas Envenenadas,中毒尖
+PASSIVE_POISONTIPS_NAME,Poison Tips,,Puntas envenenadas,Pointes empoisonnées,Giftspitzen,Punte Avvelenate,Pontas Envenenadas,剧毒爪尖
 PASSIVE_POISONTIPS_DESC,Your basic attack inflicts Poison 1.,,El ataque básico inflige 1 de veneno.,Votre attaque de base inflige Poison&nbsp;+1.,Dein Grundangriff verursacht Gift&nbsp;1.,Il tuo attacco base infligge Veleno 1.,Seu ataque básico aplica veneno 1.,你的普通攻击造成中毒1。
 PASSIVE_POISONTIPS2_DESC,"Your basic attack inflicts Poison 1.
 Poison you inflict is doubled.",,"El ataque básico inflige 1 de veneno.
@@ -2856,17 +2856,17 @@ PASSIVE_BURNINGPAWS2_DESC,Your basic action inflicts Burn 3.,,La acción básica
 PASSIVE_LIGHTNINGPAWS_NAME,Lightning Paws,,Patas eléctricas,Pattes électriques,Blitzpfoten,Zampe Fulminanti,Patas Elétricas,闪电之爪
 PASSIVE_LIGHTNINGPAWS_DESC,Your basic attack deals +1 Electric Damage and has a 10% chance to Stun.,,El ataque básico inflige +1 de daño eléctrico y tiene un 10 % de probabilidad de aturdir.,Votre attaque de base inflige Dégâts électriques&nbsp;+1&nbsp;et a 10&nbsp;% de chances d'infliger Étourdissement.,"Dein Grundangriff verursacht +1&nbsp;elektrischen Schaden und hat eine 10%ige Wahrscheinlichkeit, Betäubung zu verursachen.",Il tuo attacco base infligge +1 di danno elettrico e ha il 10% di probabilità di infliggere Stordimento.,Seu ataque básico causa +1 de dano elétrico e possui 10% de chance de atordoar.,"你的基础攻击额外造成 +1 点电击伤害，
 
-且有 10% 几率晕眩。"
+且有 10% 几率眩晕。"
 PASSIVE_LIGHTNINGPAWS2_DESC,Your basic attack deals +2 Electric Damage and has a 33% chance to Stun.,,El ataque básico inflige +2 de daño eléctrico y tiene un 33 % de probabilidad de aturdir.,Votre attaque de base inflige Dégâts électriques&nbsp;+2&nbsp;et a 33&nbsp;% de chances d'infliger Étourdissement.,"Dein Grundangriff verursacht +2&nbsp;elektrischen Schaden und hat eine 33%ige Wahrscheinlichkeit, Betäubung zu verursachen.",Il tuo attacco base infligge +2 di danno elettrico e ha il 33% di probabilità di infliggere Stordimento.,Seu ataque básico causa +2 de dano elétrico e possui 33% de chance de atordoar.,"你的基础攻击额外造成 +2 点电击伤害，
 
-且有 33% 几率晕眩。"
+且有 33% 几率眩晕。"
 PASSIVE_ICEPAWS_NAME,Ice Paws,,Patas congeladas,Pattes gelées,Eispfoten,Zampe Gelide,Patas de Gelo,冰霜之爪
 PASSIVE_ICEPAWS_DESC,"Your basic attack deals Ice Damage, inflicts Slow 1, and has a 15% chance to Freeze.",,"El ataque básico inflige daño de hielo, inflige 1 de ralentización y tiene un 15 % de probabilidad de infligir congelación.","Votre attaque de base inflige des dégâts de glace, Lenteur&nbsp;+1&nbsp;et a 15&nbsp;% d'infliger Gel.","Dein Grundangriff verursacht Eisschaden, Verlangsamung&nbsp;1 und hat eine 15%ige Wahrscheinlichkeit, Gegner einzufrieren.","Il tuo attacco base infligge danno da ghiaccio, Rallentamento 1 e ha il 15% di probabilità di infliggere Congelamento.","Seu ataque básico causa dano de gelo, aplica lentidão 1 e possui 15% de chance de congelar.","你的基础攻击造成冰霜伤害，
 附加 减速 1，
-且有 15% 几率冰冻。"
+且有 15% 几率冻结。"
 PASSIVE_ICEPAWS2_DESC,"Your basic attack deals Ice Damage, inflicts Slow 2, and has a 50% chance to Freeze.",,"El ataque básico inflige daño de hielo, inflige 2 de ralentización y tiene un 50 % de probabilidad de infligir congelación.","Votre attaque de base inflige des dégâts de glace, Lenteur&nbsp;+2&nbsp;et a 50&nbsp;% de chances d'infliger Gel.","Dein Grundangriff verursacht Eisschaden, Verlangsamung&nbsp;2 und hat eine 50%ige Wahrscheinlichkeit, Gegner einzufrieren.","Il tuo attacco base infligge danno da ghiaccio, Rallentamento 2 e ha il 50% di probabilità di infliggere Congelamento.","Seu ataque básico causa dano de gelo, aplica lentidão 2 e possui 50% de chance de congelar.","你的基础攻击造成冰霜伤害，
 附加 减速 2，
-且有 50% 几率冰冻。"
+且有 50% 几率冻结。"
 PASSIVE_PAWMISSILE_NAME,Paw Missile,,Misil de patas,Patte missile,Pfotenrakete,Zampa Missile,Pata Míssil,爪子导弹
 PASSIVE_PAWMISSILE_DESC,"Your basic attack is Magic Missile.
 (its damage scales with [img:int]).",,"El ataque básico es Misil mágico.
@@ -2904,9 +2904,9 @@ PASSIVE_CHARGEUP2_DESC,"If you end your turn with 0 mana, gain +1 Magic Damage a
 "
 PASSIVE_DEATHCHILL_NAME,Death Chill,,Resfriado mortal,Frisson létal,Tödlicher Frost,Gelo della Morte,Arrepio de Morte,死亡寒意
 PASSIVE_DEATHCHILL_DESC,"When downed, Freeze all enemies and the rest of the map. ",,"Cuando esta unidad es abatida, inflige congelación a todos los enemigos y al resto del mapa. ","Lorsque vous êtes K.O., tous les ennemis et le reste de la carte subissent Gel.","Wenn du in Ohnmacht fällst, frierst du alle Gegner und den Rest der Karte ein. ","Quando vai KO, infliggi Congelamento a tutti i nemici e al resto della mappa.","Ao ficar inconsciente, congele todos os inimigos e o resto do mapa.","当倒地时，
-冰冻所有敌人和剩余地图。"
+冻结所有敌人和剩余地图。"
 PASSIVE_DEATHCHILL2_DESC,"When downed, Freeze all enemies and the rest of the map, and full heal all allies. ",,"Cuando esta unidad es abatida, inflige congelación a todos los enemigos y al resto del mapa. Además, devuelve todos los PS a los aliados. ","Lorsque vous êtes K.O., tous les ennemis et le reste de la carte subissent Gel, et les PV de toutes les unités alliées sont entièrement restaurés.","Wenn du in Ohnmacht fällst, frierst du alle Gegner und den Rest der Karte ein und heilst alle Verbündeten vollständig. ","Quando vai KO, infliggi Congelamento a tutti i nemici e al resto della mappa, oltre a curare completamente tutti gli alleati.","Ao ficar inconsciente, congele todos os inimigos e o resto do mapa, e cure completamente todos os aliados.","当倒地时，
-冰冻所有敌人和剩余地图，
+冻结所有敌人和剩余地图，
 并完全治疗所有盟友。"
 PASSIVE_RECHARGED_NAME,Epiphany,,Epifanía,Épiphanie,Eingebung,Epifania,Epifania,顿悟
 PASSIVE_RECHARGED_DESC,+5 starting mana. +5 Mana Regeneration  Lose all unspent mana at the end of each of your turns,,+5 de maná inicial. +5 de regeneración de maná. Pierde todo el maná no gastado al inicio de cada uno de los turnos.,5&nbsp;mana de départ. Régénération de mana&nbsp;+5. Vous perdez tout le mana non utilisé à la fin de votre tour.,+5&nbsp;Mana zu Beginn. +5&nbsp;Manaregeneration. Du verlierst am Ende eines jeden Zugs dein gesamtes Restmana.,+5 al mana di partenza. +5 a Rigenerazione Mana. Perdi tutto il mana non speso alla fine di ciascuno dei tuoi turni.,+5 de mana inicial. +5 de regeneração de mana. Perca toda a mana não utilizada no final de cada um de seus turnos.,"+5 初始法力值。
@@ -2965,9 +2965,9 @@ Las unidades que entran en contacto con esta sufren 3 de daño de hielo, 2 de ra
 Einheiten, die dich berühren, erleiden 3&nbsp;Eisschaden, Verlangsamung&nbsp;2 und frieren mit 15%iger Wahrscheinlichkeit ein.","+2 alla Guardia. Immunità al ghiaccio. Puoi infliggere danno alle unità congelate.
 Le unità che entrano in contatto con te subiscono 3 Danno da Ghiaccio, Rallentamento 2 e hanno il 15% di probabilità di subire Congelamento.","+2 de preparação. Imunidade contra gelo. Você pode causar dano a unidades congeladas.
 Unidades que entrarem em contato com você sofrem 3 de dano de gelo, lentidão 2 e possuem uma chance de 15% de congelar.","+2 护甲。冰霜免疫。
-你可以伤害冰冻单位。
+你可以伤害被冻结单位。
 接触你的单位会受到3点冰霜伤害，
-减速2，并有15%的几率被冰冻。"
+减速2，并有15%的几率被冻结。"
 PASSIVE_RESONANCE_NAME,Resonance,,Resonancia,Résonance,Resonanz,Risonanza,Ressonância,共鸣
 PASSIVE_RESONANCE_DESC,When you cast a spell gain +1 Magic Damage for the rest of the turn.,,"Cuando lanza un hechizo, obtiene +1 de daño mágico durante el resto del turno.",Dégâts magiques&nbsp;+1&nbsp;pendant le reste du tour lorsque vous lancez un sort.,"Wenn du einen Zauber wirkst, erhältst du für den Rest des Zuges +1&nbsp;magischen Schaden.","Quando lanci un incantesimo, ottieni +1 al Danno Magico per il resto del turno.","Ao lançar um encantamento, obtenha +1 de dano mágico pelo resto do turno.","当你施放法术时，
 本回合剩余时间内获得+1魔法伤害。
