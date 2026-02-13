@@ -3627,7 +3627,7 @@ Impari l'incantesimo Riposo (se hai uno slot incantesimo libero).","Quando você
 Aprenda o encantamento Descanso (se possuir um espaço de encantamento vazio).","当你入睡时，
 会召唤一个带有疯狂状态的睡眠瘫痪恶魔！
 在杀死它之前你无法醒来。
-学习法术[Rest]（如果你有空闲的法术槽）。
+学习法术休息（如果你有空闲的法术槽）。
 "
 DISORDER_DIABETES_NAME,Diabetes,,Diabetes,Diabète,Diabetes,Diabete,Diabetes,糖尿病
 DISORDER_DIABETES_DESC,"When you end your turn, if you haven't eaten food, gain All Stats Down and Confusion 1. Each time you eat food, cleanse all your debuffs and gain +1 [img:int].",,"Al final del turno, si no ha comido nada, sufre reducción total y 1 de confusión. Cada vez que come, elimina todas sus desventajas y obtiene +1 [img:int].","À la fin de votre tour, si vous n'avez pas mangé de nourriture, Baisse de stats et Confusion&nbsp;+1. Chaque fois que vous mangez, vos malus sont dissipés et [img:int]&nbsp;+1.","Wenn du deinen Zug beendest und kein Essen gegessen hast, erleidest du einen Malus auf alle Attribute und Verwirrung&nbsp;1. Jedes Mal, wenn du etwas isst, reinigst du alle Schwächungen und erhältst +1&nbsp;[img:int].","Quando finisci il tuo turno, se non hai mangiato, ottieni Diminuzione delle Statistiche e Confusione 1. Ogni volta che mangi, rimuovi tutti i tuoi malus e ottieni +1 all'[img:int].","Ao finalizar seu turno, se não tiver comido nenhum alimento, obtenha todos os atributos aumentados e confusão 1. A cada vez que come um alimento, purifique todos os seus enfraquecimentos e obtenha +1 de [img:int].","当你回合结束时，
