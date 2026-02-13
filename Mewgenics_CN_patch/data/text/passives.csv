@@ -82,9 +82,9 @@ PASSIVE_LEADER_DESC,Adjacent allies have +1 Damage and +1 Range.,,Los aliados ad
 PASSIVE_LEADER2_DESC,All allies have +1 Damage and +1 Range.,,Todos los aliados obtienen +1 de daño y +1 de alcance.,Tous les alliés bénéficient de Dégâts&nbsp;+1&nbsp;et Portée&nbsp;+1.,Alle Verbündeten haben +1&nbsp;Schaden und +1&nbsp;Reichweite.,Tutti gli alleati hanno +1 al Danno e +1 al Raggio d'Azione.,Todos os aliados possuem +1 de dano e +1 de alcance.,"所有盟友获得+1伤害和+1射程。
 "
 PASSIVE_MANGE_NAME,Mange,,Sarna,Gale,Räudig,Rogna,Sarna,疥癣
-PASSIVE_MANGE_DESC,Inflict Poison 1 on units that contact you.,,Inflige 1 de veneno a las unidades en contacto.,Inflige Poison&nbsp;+1&nbsp;aux unités qui vous touchent.,"Verursache Gift&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Veleno 1 alle unità che entrano in contatto con te.,Aplique veneno 1 em unidades que entrarem em contato com você.,对接触你的单位施加中毒1。
-PASSIVE_MANGE2_DESC,"Inflict 1 Poison, Bleed, Bruise, Weakness, and Leech on units that contact you.",,"Inflige 1 de veneno, hemorragia, moratón, debilidad y sanguijuela a las unidades que contactan con ella.","Inflige Poison, Saignement, Contusion, Vulnérabilité, and Sangsue&nbsp;+1&nbsp;aux unités qui vous touchent.","Verursache 1&nbsp;Gift, Blutung, Beulen, Schwäche und Blutegel bei Einheiten, die dich berühren.","Infliggi 1 Veleno, Sanguinamento, Livido, Debolezza e Sanguisuga alle unità che entrano in contatto con te.","Aplique 1 de veneno, sangramento, contusão, fraqueza e sanguessuga em unidades que entrarem em contato com você.","对接触你的单位施加1点中毒、
-流血、挫伤、虚弱和吸血。"
+PASSIVE_MANGE_DESC,Inflict Poison 1 on units that contact you.,,Inflige 1 de veneno a las unidades en contacto.,Inflige Poison&nbsp;+1&nbsp;aux unités qui vous touchent.,"Verursache Gift&nbsp;1 bei Einheiten, die dich berühren.",Infliggi Veleno 1 alle unità che entrano in contatto con te.,Aplique veneno 1 em unidades que entrarem em contato com você.,对接触你的单位施加1层中毒。
+PASSIVE_MANGE2_DESC,"Inflict 1 Poison, Bleed, Bruise, Weakness, and Leech on units that contact you.",,"Inflige 1 de veneno, hemorragia, moratón, debilidad y sanguijuela a las unidades que contactan con ella.","Inflige Poison, Saignement, Contusion, Vulnérabilité, and Sangsue&nbsp;+1&nbsp;aux unités qui vous touchent.","Verursache 1&nbsp;Gift, Blutung, Beulen, Schwäche und Blutegel bei Einheiten, die dich berühren.","Infliggi 1 Veleno, Sanguinamento, Livido, Debolezza e Sanguisuga alle unità che entrano in contatto con te.","Aplique 1 de veneno, sangramento, contusão, fraqueza e sanguessuga em unidades que entrarem em contato com você.","对接触你的单位施加1层中毒、
+流血、挫伤、虚弱和生命吸取。"
 PASSIVE_ETANK_NAME,E-Tank,,Tanque electrónico,Tank,E-Tank,Serbatoio Energetico,Tanque-E,能量罐
 PASSIVE_ETANK_DESC,Start each battle with +20 unfilled max health.,,Empieza cada combate con +20 de máximo de salud sin rellenar.,Commence chaque combat avec +20&nbsp;PV max. vacants.,Beginne jeden Kampf mit +20 ungeheilten max. LP.,Inizi ogni battaglia con +20 salute massima non riempita.,Inicie cada batalha com +20 de saúde máxima não preenchida.,"每场战斗开始时，
 拥有+20未填充最大生命值。"
@@ -112,7 +112,7 @@ Your physical attacks on Poisoned or Bleeding enemies inflict +1 Poison and/or B
 Los ataques físicos a enemigos que sufren veneno o hemorragia infligen +1 de veneno o hemorragia.",Vos attaques de base infligent Poison&nbsp;+1&nbsp;et Saignement&nbsp;+1. Vos attaques physiques sur les ennemis affectés par Poison ou Saignement infligent Poison et/ou Saignement&nbsp;+1.,"Dein Grundangriff verursacht Gift&nbsp;1 und Blutung&nbsp;1.
 Deine physischen Angriffe verursachen bei vergifteten oder blutenden Gegnern +1&nbsp;Gift und/oder Blutung.","Il tuo attacco base infligge +1 Veleno e/o Sanguinamento.
 I tuoi attacchi fisici contro nemici affetti da Avvelenamento o Sanguinamento infliggono +1 Veleno e/o Sanguinamento.","Seu ataque básico aplica veneno 1 e sangramento 1.
-Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de veneno e/ou sangramento.","你的基础攻击造成中毒1和流血1。
+Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de veneno e/ou sangramento.","你的基础攻击造成1层中毒和1层流血。
 
 你对中毒或流血敌人的物理攻击
 会额外附加 +1 点中毒和/或流血。
@@ -216,7 +216,7 @@ Inflige 1 de miedo a las unidades que entran en contacto con esta unidad o la at
 Einheiten, die dich berühren oder angreifen, erleiden Angst&nbsp;1.","I nemici piccoli non ti attaccheranno.
 Infliggi Paura 1 alle unità che ti toccano o ti attaccano.","Inimigos pequenos não atacam você.
 Aplique medo 1 em unidades que atacarem ou entrarem em contato com você.","小型敌人不会攻击你。
-对接触或攻击你的单位施加恐惧1。
+对接触或攻击你的单位施加1层恐惧。
 "
 PASSIVE_ANIMALHANDLER_NAME,Animal Handler,,Adiestramiento de animales,Dressage,Tierlieb,Domatore di Animali,Trato de Animais,动物驯养师
 PASSIVE_ANIMALHANDLER_DESC,You start each battle with a random vermin familiar with boosted damage and health.,,Empieza cada combate con 1 familiar alimaña al azar con daño y salud potenciados.,Vous commencez chaque combat avec une vermine de compagnie aléatoire aux dégâts et PV améliorés.,Du beginnst jeden Kampf mit einem zufälligen Tierbegleiter mit verstärktem Schaden und erhöhten LP.,Inizi ogni battaglia con un famiglio parassita casuale con danno e salute potenziati.,Você inicia cada batalha com um familiar verme aleatório com saúde e dano aumentados.,"你每场战斗开始时拥有一个随机的害虫宠物，
@@ -421,7 +421,7 @@ Dein Grundangriff verursacht Verwirrung&nbsp;1.","Quando usi il tuo attacco base
 Il tuo attacco base infligge Confusione 1.","Ao utilizar seu ataque básico, vire-se e o utilize novamente.
 Seu ataque básico aplica confusão 1.","当你使用基础攻击时，
 转身再使用一次。
-你的基础攻击会造成混乱1。"
+你的基础攻击会造成1层混乱。"
 PASSIVE_JESTERSSOUL_NAME,Jester's Soul,,Alma de bufón,Âme de Joker,Seele des Narren,Anima del Giullare,Alma de Curinga,小丑之魂
 PASSIVE_JESTERSSOUL_DESC,"Abilities from any class are offered when you level up.
 You can reroll your level up options twice.",,"Se ofrecen habilidades de todas las clases al subir de nivel.
@@ -475,7 +475,7 @@ PASSIVE_TURNABOUT_DESC,Your basic melee attacks inflict Confusion 1 and make uni
 PASSIVE_TURNABOUT2_DESC,"Your basic melee attacks inflict Confusion 1, make units face away from you, and have a 20% chance to inflict Stun 1.",,"Los ataques cuerpo a cuerpo básicos infligen 1 de confusión, hacen que las unidades le den la espalda y tienen un 20 % de probabilidad de infligir 1 de aturdimiento.","Vos attaques de base au corps-à-corps infligent Confusion&nbsp;+1, forcent les unités à vous tourner le dos et ont 20&nbsp;% de chances d'infliger Étourdissement&nbsp;+1.","Deine Nahkampf-Grundangriffe verursachen Verwirrung&nbsp;1, sorgen dafür, dass Einheiten sich von dir wegdrehen und verursachen mit 20%iger Wahrscheinlichkeit Betäubung&nbsp;1.","I tuoi attacchi corpo a corpo di base infliggono Confusione 1, fanno voltare le unità nella direzione opposta a te e hanno un 20% di probabilità di infliggere Stordimento 1.","Seu ataque básico corpo-a-corpo aplica confusão 1, faz com que unidades se virem de costas para você e possui uma chance de 20% de aplicar atordoamento 1.","你的普通近战攻击会使目标陷入困惑1，
 
 使单位背向你，
-并有20%的几率使其眩晕1。"
+并有20%的几率使其1层眩晕。"
 PASSIVE_MONKEYSTYLE_NAME,Monkey Style,,Estilo de mono,Style gorille,Affenstil,Stile della Scimmia,Estilo do Macaco,猴子风格
 PASSIVE_MONKEYSTYLE_DESC,15% chance to block damage and counter-attack.,,15 % de probabilidad de bloquear el daño y contratacar.,15&nbsp;% de chances de bloquer les dégâts et de contre-attaquer.,"15%ige Wahrscheinlichkeit, Schaden zu blockieren und zu kontern.",15% di probabilità di bloccare il danno e contrattaccare.,15% de chance de bloquear o dano sofrido e contra-atacar.,"有15%的几率格挡伤害并反击。
 "
@@ -491,8 +491,8 @@ PASSIVE_JAGGEDEDGE_DESC,"When you lose [img:shield], gain +1 Thorns.",,"Al perde
 PASSIVE_JAGGEDEDGE2_DESC,"When you lose [img:shield], gain that many Thorns.",,"Al perder [img:shield], obtiene esa misma cantidad de espinas.",Gagnez Épines&nbsp;+1&nbsp;pour chaque point de [img:shield] perdu.,"Wenn du [img:shield] verlierst, erhalte Dornen in der gleichen Höhe.","Quando perdi [img:shield], ottieni la stessa quantità di Spine.","Ao perder [img:shield], obtenha espinhos equivalentes.","当你失去[img:shield]时，
 获得相同数量的荆棘。"
 PASSIVE_MINDBREAKER_NAME,Mind Breaker,,Rompementes,Mentaliste,Seelenbrecher,Spezzamente,Destruição Mental,心灵破坏者
-PASSIVE_MINDBREAKER_DESC,Your basic attack inflicts Magic Weakness 1.,,El ataque básico inflige 1 de debilidad mágica.,Vos attaques de base infligent Vulnérabilité magique&nbsp;+1.,Dein Grundangriff verursacht Magieschwäche&nbsp;1.,Il tuo attacco base infligge Debolezza Magica 1.,Seu ataque básico aplica fraqueza contra magia 1.,你的基础攻击附加魔法虚弱1。
-PASSIVE_MINDBREAKER2_DESC,Your basic attack inflicts Magic Weakness 2.,,El ataque básico inflige 2 de debilidad mágica.,Vos attaques de base infligent Vulnérabilité magique&nbsp;+2.,Dein Grundangriff verursacht Magieschwäche&nbsp;2.,Il tuo attacco base infligge Debolezza Magica 2.,Seu ataque básico aplica fraqueza contra magia 2.,"你的普通攻击会使目标魔法虚弱2。
+PASSIVE_MINDBREAKER_DESC,Your basic attack inflicts Magic Weakness 1.,,El ataque básico inflige 1 de debilidad mágica.,Vos attaques de base infligent Vulnérabilité magique&nbsp;+1.,Dein Grundangriff verursacht Magieschwäche&nbsp;1.,Il tuo attacco base infligge Debolezza Magica 1.,Seu ataque básico aplica fraqueza contra magia 1.,你的基础攻击附加1层魔法虚弱。
+PASSIVE_MINDBREAKER2_DESC,Your basic attack inflicts Magic Weakness 2.,,El ataque básico inflige 2 de debilidad mágica.,Vos attaques de base infligent Vulnérabilité magique&nbsp;+2.,Dein Grundangriff verursacht Magieschwäche&nbsp;2.,Il tuo attacco base infligge Debolezza Magica 2.,Seu ataque básico aplica fraqueza contra magia 2.,"你的普通攻击会使目标2层魔法虚弱。
 "
 PASSIVE_COBRASTYLE_NAME,Cobra Style,,Estilo de cobra,Style cobra,Kobrastil,Stile del Cobra,Estilo da Cobra,眼镜蛇风格
 PASSIVE_COBRASTYLE_DESC,"When an enemy moves into an adjacent tile, perform a weak melee attack on it.",,"Cuando un enemigo se mueve a una casilla adyacente, le inflige un ataque cuerpo a cuerpo débil.","Quand un ennemi se déplace sur une case adjacente, portez-lui une faible attaque au corps-à-corps.","Führe einen schwachen Nahkampfangriff aus, wenn sich ein Gegner auf ein benachbartes Feld bewegt.","Quando un nemico si sposta in una casella adiacente, esegui un debole attacco corpo a corpo su di esso.","Quando um inimigo se move para um espaço adjacente, realize um ataque corpo-a-corpo fraco contra ele.","当敌人移动到相邻格时，
@@ -500,10 +500,10 @@ PASSIVE_COBRASTYLE_DESC,"When an enemy moves into an adjacent tile, perform a we
 PASSIVE_COBRASTYLE2_DESC,"When an enemy moves into an adjacent tile, perform a weak melee attack on it, twice!",,"Cuando un enemigo se mueve a una casilla adyacente, le inflige un ataque cuerpo a cuerpo débil ¡dos veces!","Quand un ennemi se déplace sur une case adjacente, portez-lui une faible attaque au corps-à-corps, deux fois&nbsp;!","Führe zwei schwache Nahkampfangriffe aus, wenn sich ein Gegner auf ein benachbartes Feld bewegt.","Quando un nemico si sposta in una casella adiacente, esegui un debole attacco corpo a corpo su di esso per due volte!","Quando um inimigo se move para um espaço adjacente, realize dois ataques corpo-a-corpo fracos contra ele.","当敌人移动到相邻的格子时，
 对其进行两次弱近战攻击！"
 PASSIVE_TENDERIZE_NAME,Tenderize,,Ablandamiento,Attendrir la viande,Beulenschläger,Tenerezza,Amaciamento,嫩化
-PASSIVE_TENDERIZE_DESC,Your basic melee attacks inflict Bruise 1.,,El ataque cuerpo a cuerpo básico inflige 1 de moratón.,Vos attaques de base au corps-à-corps infligent Contusion&nbsp;+1.,Dein Nahkampf-Grundangriff verursacht Beulen&nbsp;1.,I tuoi attacchi base corpo a corpo infliggono Livido 1.,Seu ataque básico aplica contusão 1.,你的基础近战攻击会造成挫伤 1。
-PASSIVE_TENDERIZE2_DESC,Your basic melee attacks inflict Bruise 1 and have a 15% chance to inflict Stun 1.,,El ataque cuerpo a cuerpo básico inflige 1 de moratón y tiene un 15 % de probabilidad de infligir 1 de aturdimiento.,Vos attaques de base au corps-à-corps infligent Contusion&nbsp;+1&nbsp;et ont 15&nbsp;% de chances d'infliger Étourdissement&nbsp;+1.,Dein Nahkampf-Grundangriff verursacht Beulen&nbsp;1 und mit 15%iger Wahrscheinlichkeit Betäubung&nbsp;1.,I tuoi attacchi base corpo a corpo infliggono Livido 1 e hanno il 15% di probabilità di infliggere Stordimento 1.,Seu ataque básico aplica contusão 1 e possui uma chance de 15% de aplicar atordoamento 1.,"你的基础近战攻击会造成挫伤 1，
+PASSIVE_TENDERIZE_DESC,Your basic melee attacks inflict Bruise 1.,,El ataque cuerpo a cuerpo básico inflige 1 de moratón.,Vos attaques de base au corps-à-corps infligent Contusion&nbsp;+1.,Dein Nahkampf-Grundangriff verursacht Beulen&nbsp;1.,I tuoi attacchi base corpo a corpo infliggono Livido 1.,Seu ataque básico aplica contusão 1.,你的基础近战攻击会造成1层挫伤。
+PASSIVE_TENDERIZE2_DESC,Your basic melee attacks inflict Bruise 1 and have a 15% chance to inflict Stun 1.,,El ataque cuerpo a cuerpo básico inflige 1 de moratón y tiene un 15 % de probabilidad de infligir 1 de aturdimiento.,Vos attaques de base au corps-à-corps infligent Contusion&nbsp;+1&nbsp;et ont 15&nbsp;% de chances d'infliger Étourdissement&nbsp;+1.,Dein Nahkampf-Grundangriff verursacht Beulen&nbsp;1 und mit 15%iger Wahrscheinlichkeit Betäubung&nbsp;1.,I tuoi attacchi base corpo a corpo infliggono Livido 1 e hanno il 15% di probabilità di infliggere Stordimento 1.,Seu ataque básico aplica contusão 1 e possui uma chance de 15% de aplicar atordoamento 1.,"你的基础近战攻击会造成1层挫伤，
 
-并有 15% 机率造成眩晕 1。"
+并有 15% 机率造成1层眩晕。"
 PASSIVE_LONGARMS_NAME,Long Arms,,Brazos largos,Longues pattes,Lange Arme,Braccia Lunghe,Braços Longos,长臂
 PASSIVE_LONGARMS_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,"+1 射程和 +1 触及范围。
 "
@@ -632,7 +632,7 @@ Enquanto todos os espaços de armadura estiverem vazios, você possui +1 de dano
 获得+1 魔法伤害。"
 //butcher,,,,,,,,
 PASSIVE_PUTREFY_NAME,Putrefy,,Podredumbre,Putridité,Verfaulen,Decomposizione,Putrefação,腐烂
-PASSIVE_PUTREFY_DESCRIPTION,Your basic attack inflicts Rot 1.,,El ataque básico inflige 1 de putrefacción.,Vos attaques de base infligent Décomposition&nbsp;+1.,Dein Grundangriff verursacht Fäulnis&nbsp;1.,Il tuo attacco base infligge Putrefazione 1.,Seu ataque básico aplica apodrecimento 1.,你的基础攻击附加腐烂1。
+PASSIVE_PUTREFY_DESCRIPTION,Your basic attack inflicts Rot 1.,,El ataque básico inflige 1 de putrefacción.,Vos attaques de base infligent Décomposition&nbsp;+1.,Dein Grundangriff verursacht Fäulnis&nbsp;1.,Il tuo attacco base infligge Putrefazione 1.,Seu ataque básico aplica apodrecimento 1.,你的基础攻击附加1层腐烂。
 PASSIVE_PUTREFY2_DESCRIPTION,Your basic attack inflicts permanent Rot.,,El ataque básico inflige putrefacción para siempre.,Vos attaques de base infligent Décomposition de manière permanente.,Dein Grundangriff verursacht dauerhaft Fäulnis.,Il tuo attacco base infligge Putrefazione permanente.,Seu ataque básico aplica apodrecimento permanente.,你的基础攻击会造成永久腐败。
 PASSIVE_NEVERFULL_NAME,Never Full,,Famélicos,Toujours faim,Unersättlich,Mai Accontentarsi,Insaciável,永不满足
 PASSIVE_NEVERFULL_DESC,"You can heal over your max HP.
@@ -1569,7 +1569,7 @@ Espaços pelos quais você passa se tornam terra e podem gerar pedras.","践踏�
 并可能生成岩石。"
 PASSIVE_HOMERUN_NAME,Home Run,,Home run,Home Run,Homerun,Fuoricampo,Home Run,全垒打
 PASSIVE_HOMERUN_DESC,Knockback you deal is increased by 10.,,Aumenta en 10 el retroceso que inflige.,Vos Reculs sont augmentés de 10.,"Rückstoß, den du verursachst, ist um 10 erhöht.",Il Contraccolpo che infliggi aumenta di 10.,O empurrão causado por você é aumentado em 10.,你造成的击退效果增加10。
-PASSIVE_HOMERUN2_DESC,Knockback you deal is increased by 10 and inflicts Bruise 1.,,Aumenta en 10 el retroceso que inflige e inflige 1 de moratón.,Vos Reculs sont augmentés de 10&nbsp;et infligent Contusion&nbsp;+1.,"Rückstoß, den du verursachst, ist um 10 erhöht und verursacht Beulen&nbsp;1.",Il Contraccolpo che infliggi aumenta di 10 e provoca Livido 1.,O empurrão causado por você é aumentado em 10 e aplica contusão 1.,你造成的击退效果增加10并附加挫伤1。
+PASSIVE_HOMERUN2_DESC,Knockback you deal is increased by 10 and inflicts Bruise 1.,,Aumenta en 10 el retroceso que inflige e inflige 1 de moratón.,Vos Reculs sont augmentés de 10&nbsp;et infligent Contusion&nbsp;+1.,"Rückstoß, den du verursachst, ist um 10 erhöht und verursacht Beulen&nbsp;1.",Il Contraccolpo che infliggi aumenta di 10 e provoca Livido 1.,O empurrão causado por você é aumentado em 10 e aplica contusão 1.,你造成的击退效果增加10并附加1层挫伤。
 PASSIVE_ROCKASPECT_NAME,Rock Aspect,,Aspecto rocoso,Aspect minéral,Steinaspekt,Aspetto Roccioso,Aspecto da Pedra,岩石形态
 PASSIVE_ROCKASPECT_DESC,Units that attack or contact you have a 10% chance to get Petrified.,,Las unidades que ataquen a esta o entren en contacto con ella tienen un 10 % de probabilidad de sufrir petrificación.,"Quand vous touchez ou attaquez une unité, vous avez 10&nbsp;% de chances de la pétrifier.","Einheiten, die dich angreifen oder berühren, werden mit 10%iger Wahrscheinlichkeit versteinert.",Le unità che ti attaccano o entrano in contatto con te hanno il 10% di probabilità di subire Pietrificazione.,Unidades que entram em contato com você possuem 10% de chance de serem petrificadas.,"攻击或接触你的单位有10%的几率被石化。
 "
@@ -1680,14 +1680,14 @@ PASSIVE_BOUNCER2_DESC,"When an ally takes damage, full move toward the source of
 立即向伤害来源移动并攻击它（如果可以的话）。
 "
 //necromancer,,,,,,,,
-PASSIVE_VAMPIRISM_NAME,Vampirism,,Vampirismo,Vampirisme,Vampirismus,Vampirismo,Vampirismo,吸血鬼
-PASSIVE_VAMPIRISM_DESC,Your basic attack has lifesteal.,,El ataque básico tiene robavida.,Vos attaques de base infligent Vol de vie.,Dein Grundangriff saugt Leben ab.,Il tuo attacco base ha Rubavita.,Seu ataque básico possui roubo de vida.,你的普通攻击吸血。
+PASSIVE_VAMPIRISM_NAME,Vampirism,,Vampirismo,Vampirisme,Vampirismus,Vampirismo,Vampirismo,吸血习性
+PASSIVE_VAMPIRISM_DESC,Your basic attack has lifesteal.,,El ataque básico tiene robavida.,Vos attaques de base infligent Vol de vie.,Dein Grundangriff saugt Leben ab.,Il tuo attacco base ha Rubavita.,Seu ataque básico possui roubo de vida.,你的普通攻击附带吸血。
 PASSIVE_VAMPIRISM2_DESC,"Your basic attack has lifesteal.
 Your spells have 50% lifesteal.",,"El ataque básico tiene robavida.
 Sus hechizos tienen un 50 % de robavida.",Vos attaques de base infligent Vol de vie. Vos sorts ont 50&nbsp;% de Vol de vie.,"Dein Grundangriff saugt Leben ab.
 Deine Zauber saugen 50&nbsp;% Leben ab.","Il tuo attacco base ha Rubavita.
 I tuoi incantesimi hanno il 50% di Rubavita.","Seu ataque básico possui roubo de vida.
-Seus encantamentos possuem 50% de roubo de vida.","你的普通攻击吸血。
+Seus encantamentos possuem 50% de roubo de vida.","你的普通攻击附带吸血。
 你的法术有50%的吸血效果。"
 PASSIVE_ONEWITHNOTHING_NAME,One With Nothing,,Fluidez con la nada,Fusion avec le néant,Eins mit dem Nichts,Lascia o Raddoppia,Um com o Nada,一无所有
 PASSIVE_ONEWITHNOTHING_DESC,"If you end your turn with 0 mana, your Mana Regeneration is doubled.",,"Si acaba el turno con 0 de maná, se duplica la regeneración de maná.","Si vous avez 0&nbsp;mana à la fin de votre tour, votre Récupération de mana est doublée.","Wenn du deinen Zug mit 0&nbsp;Mana beendest, wird deine Manaregeneration verdoppelt.","Se termini il tuo turno con 0 mana, la tua Rigenerazione Mana raddoppia.","Ao finalizar seu turno com 0 de mana, sua regeneração de mana é dobrada.","如果你在回合结束时法力值为0，
@@ -1834,7 +1834,7 @@ Dein Grundangriff verursacht Manablutegel.","Il tuo attacco base infligge 0 di d
 Il tuo attacco base infligge Assorbi-Mana.","Seu ataque básico causa 0 de dano, mas seus efeitos de estado e golpes são triplicados.
 Seu ataque básico aplica sanguessuga de mana.","你的普通攻击造成0伤害，
 但其状态和命中效果增加三倍。
-你的普通攻击会施加吸魔。"
+你的普通攻击会施加法力吸取。"
 PASSIVE_ETERNALHEALTH_NAME,Eternal Health,,Salud eterna,Santé éternelle,Ewige Gesundheit,Salute Eterna,Saúde Eterna,永恒生命
 PASSIVE_ETERNALHEALTH_DESC,"Suffer only Jinxed when downed. When your party wins a battle, if you were downed, heal to full.",,"Cuando esta unidad es abatida, solo sufre mal de ojo. Cuando el grupo gana un combate, si la unidad estaba abatida, recupera todos los PS.","Seule blessure possible en cas de K.O.&nbsp;: Calamité. Quand votre équipe remporte un combat, si vous avez été K.O., soignez tous vos PV.","Wenn du ohnmächtig wirst, kannst du nur Verwunschen erleiden. Wenn deine Gruppe einen Kampf gewinnt und du ohnmächtig warst, heilst du dich vollständig.","Quando vai KO, subisci solo Iella. Quando il tuo gruppo vince una battaglia, se sei KO, guarisci completamente.","Sofra apenas Mau Agouro ao ficar inconsciente. Quando seu grupo vence uma batalha, se você estiver inconsciente, cure-se completamente.","被击倒时只受到厄运效果。
 当你的队伍赢得战斗且你曾被击倒，
@@ -1949,13 +1949,13 @@ PASSIVE_STEALTHED_DESC,Start each battle with Stealth.,,Empieza cada combate con
 PASSIVE_STEALTHED2_DESC,Start each battle with Stealth. Gain Stealth when you get a kill.,,Empieza cada combate con sigilo. Obtiene sigilo al matar a una unidad.,Commencez chaque combat avec Furtivité. Obtenez Furtivité quand vous tuez une unité.,"Beginne jeden Kampf mit Schleichen. Erhalte Schleichen, wenn du eine Einheit tötest.",Inizi ogni battaglia con la furtività. Ottieni Furtività quando uccidi un'unità.,Inicie cada batalha com furtividade. Obtenha furtividade com cada baixa.,"每场战斗开始时处于潜行状态。
 击杀时获得潜行。"
 PASSIVE_POISONTIPS_NAME,Poison Tips,,Puntas envenenadas,Pointes empoisonnées,Giftspitzen,Punte Avvelenate,Pontas Envenenadas,剧毒爪尖
-PASSIVE_POISONTIPS_DESC,Your basic attack inflicts Poison 1.,,El ataque básico inflige 1 de veneno.,Votre attaque de base inflige Poison&nbsp;+1.,Dein Grundangriff verursacht Gift&nbsp;1.,Il tuo attacco base infligge Veleno 1.,Seu ataque básico aplica veneno 1.,你的普通攻击造成中毒1。
+PASSIVE_POISONTIPS_DESC,Your basic attack inflicts Poison 1.,,El ataque básico inflige 1 de veneno.,Votre attaque de base inflige Poison&nbsp;+1.,Dein Grundangriff verursacht Gift&nbsp;1.,Il tuo attacco base infligge Veleno 1.,Seu ataque básico aplica veneno 1.,你的普通攻击造成1层中毒。
 PASSIVE_POISONTIPS2_DESC,"Your basic attack inflicts Poison 1.
 Poison you inflict is doubled.",,"El ataque básico inflige 1 de veneno.
 Se duplica el veneno que inflige.",Votre attaque de base inflige Poison&nbsp;+1. Vos effets de Poison sont doublés.,"Dein Grundangriff verursacht Gift&nbsp;1.
 Gift, das du verursachst, ist verdoppelt.","Il tuo attacco base infligge Veleno 1.
 Il veleno che infliggi è raddoppiato.","Seu ataque básico aplica veneno 1.
-O veneno que você aplica é dobrado.","你的普通攻击造成中毒1。
+O veneno que você aplica é dobrado.","你的普通攻击造成1层中毒。
 你造成的中毒效果加倍。"
 PASSIVE_BURGLE_NAME,Burgle,,Robo con allanamiento,Cambriolage,Lange Finger,Furto,Furto,行窃
 PASSIVE_BURGLE_DESC,Your basic attack gains you 1 coin when it deals damage.,,El ataque básico otorga 1 moneda cuando inflige daño.,Vous gagnez 1&nbsp;pièce en infligeant des dégâts avec votre attaque de base.,"Wenn dein Grundangriff Schaden verursacht, erhältst du 1&nbsp;Münze.",Il tuo attacco base ti fa guadagnare 1 moneta quando infligge danno.,Seu ataque básico concede 1 moeda quando causa dano.,"你的普通攻击造成伤害时获得1枚金币。
@@ -1987,7 +1987,7 @@ PASSIVE_BOUNTYHUNTER_DESC,"During your turn, one random enemy has a Bounty.",,"D
 PASSIVE_BOUNTYHUNTER2_DESC,"During your turn, 2 random enemies have a large Bounty.",,"Durante el turno, 2 enemigos al azar reciben una gran recompensa.","Pendant votre tour, deux grandes Primes sont attribuées à des ennemis aléatoires.",Während deines Zuges haben zwei zufällige Gegner ein hohes Kopfgeld.,"Durante il tuo turno, 2 nemici casuali hanno una Taglia elevata. ","Durante seu turno, dois inimigo aleatório recebem uma recompensa alta.","在你的回合中，
 2个随机敌人拥有大量赏金。"
 PASSIVE_RAZORCLAWS_NAME,Razor Claws,,Garras como cuchillas,Griffes de rasoir,Rasiermesserscharfe Klauen,Artigli Affilati,Garras de Navalha,锋利利爪
-PASSIVE_RAZORCLAWS_DESC,Your basic attack inflicts Bleed 1.,,El ataque básico inflige 1 de hemorragia.,Votre attaque de base inflige Saignement&nbsp;+1.,Dein Grundangriff verursacht Blutung&nbsp;1.,Il tuo attacco base infligge Sanguinamento 1.,Seu ataque básico aplica sangramento 1.,你的普通攻击造成流血 1。
+PASSIVE_RAZORCLAWS_DESC,Your basic attack inflicts Bleed 1.,,El ataque básico inflige 1 de hemorragia.,Votre attaque de base inflige Saignement&nbsp;+1.,Dein Grundangriff verursacht Blutung&nbsp;1.,Il tuo attacco base infligge Sanguinamento 1.,Seu ataque básico aplica sangramento 1.,你的普通攻击造成1层流血。
 PASSIVE_RAZORCLAWS2_DESC,All of your damaging abilities inflict Bleed 1.,,Todas las habilidades que infligen daño infligen 1 de hemorragia.,Toutes vos compétences de dégâts infligent Saignement&nbsp;+1.,"Alle deine Fähigkeiten, die Schaden verursachen, verursachen Blutung&nbsp;1.",Tutte le tue abilità che causano danno infliggono Sanguinamento 1.,Todas as suas habilidades que causam dano aplicam sangramento 1.,"你所有的伤害技能都会造成1层流血。
 "
 PASSIVE_SWIFTLOOTER_NAME,Swift Looter,,Saqueo ágil,Pillage rapide,Schneller Sammler,Saccheggio in Movimento,Furto Rápido,敏捷掠夺者
@@ -2048,18 +2048,18 @@ PASSIVE_AFTERIMAGE2_DESC,"When you move, spawn a shadow where you moved from. Th
 PASSIVE_SHIV_NAME,Shiv,,Pincho,Surin,Behelfsmäßiges Messer,Pugnalata,Navalha,刺击
 PASSIVE_SHIV_DESC,"Your basic attack has +2 damage, +25% critical chance, and inflicts Bleed 1 when attacking a unit in melee range.",,"El ataque básico tiene +2 de daño, un + 25 % de probabilidad de crítico e inflige 1 de hemorragia al atacar a una unidad dentro de un alcance cuerpo a cuerpo.","Votre attaque de base inflige Dégâts&nbsp;+2, Chances de critique&nbsp;+25&nbsp;% et Saignement&nbsp;+1&nbsp;lorsque vous attaquez une unité au corps-à-corps.","Dein Grundangriff hat +2&nbsp;Schaden, +25&nbsp;% kritische Trefferchance und verursacht Blutung&nbsp;1, wenn du eine Einheit in Nahkampfreichweite angreifst.","Il tuo attacco base ha +2 di danno, +25% di probabilità di colpo critico e infligge Sanguinamento 1 quando attacchi un'unità in corpo a corpo.","Seu ataque básico possui +2 de dano, +25% de chance de crítico e aplica sangramento 1 ao atacar uma unidade dentro do alcance corpo-a-corpo.","你的基本攻击增加+2伤害，
 +25%暴击率，
-并在近战攻击单位时造成流血1。
+并在近战攻击单位时造成1层流血。
 "
 PASSIVE_SHIV2_DESC,"Your basic attack has +2 damage, +50% critical chance, and inflicts Bleed 2 when attacking a unit in melee range.",,"El ataque básico tiene +2 de daño, un + 50 % de probabilidad de crítico e inflige 2 de hemorragia al atacar a una unidad dentro de un alcance cuerpo a cuerpo.","Votre attaque de base inflige Dégâts&nbsp;+2, Chances de critique&nbsp;+50&nbsp;% et Saignement&nbsp;+2&nbsp;lorsque vous attaquez une unité au corps-à-corps.","Dein Grundangriff hat +2&nbsp;Schaden, +50&nbsp;% kritische Trefferchance und verursacht Blutung&nbsp;2, wenn du eine Einheit in Nahkampfreichweite angreifst.","Il tuo attacco base ha +2 di danno, +50% di probabilità di colpo critico e infligge Sanguinamento 2 quando attacchi un'unità in corpo a corpo.","Seu ataque básico possui +2 de dano, +50% de chance de crítico e aplica sangramento 2 ao atacar uma unidade dentro do alcance corpo-a-corpo.","你的基本攻击增加+2伤害，
 +50%暴击率，
-并在近战攻击单位时造成流血2。
+并在近战攻击单位时造成2层流血。
 "
 PASSIVE_CRITICAL_NAME,Critical,,Crítico,Critique,Kritiker,Critico,Crítico,暴击
 PASSIVE_CRITICAL_DESC,Your critical hits deal +100% more damage. Gain +1 [img:lck] whenever you make a critical hit.,,Los golpes críticos infligen un +100 % más de daño. Obtiene +1 [img:lck] cuando inflige un golpe crítico.,Vos coups critiques infligent 100&nbsp;% de dégâts supplémentaires. Vous gagnez [img:lck]&nbsp;+1&nbsp;en cas de coup critique.,"Deine kritischen Treffer verursachen +100&nbsp;% Schaden. Erhalte +1&nbsp;[img:lck], wenn du kritisch triffst.",I tuoi colpi critici infliggono il 100% di danno in più. Ottieni +1 alla [img:lck] ogni volta che esegui un colpo critico.,Seus golpes críticos causam 100% a mais de dano. Obtenha +1 de [img:lck] sempre que acertar um golpe crítico.,"你的暴击造成额外+100%伤害。
 
 每次暴击时获得+1 [img:lck]。"
 PASSIVE_CRITICAL2_DESC,Your critical hits deal +100% more damage and inflict Bleed and Weakness 1.  Gain +1 [img:lck] whenever you make a critical hit.,,"Los golpes críticos infligen un +100 % más de daño, así como hemorragia y 1 de debilidad. Obtiene +1 [img:lck] cuando inflige un golpe crítico.","Vos coups critiques infligent 100&nbsp;% de dégâts supplémentaires, Saignement et Vulnérabilité&nbsp;+1. Vous gagnez [img:lck]&nbsp;+1&nbsp;en cas de coup critique.","Deine kritischen Treffer verursachen +100&nbsp;% Schaden und verursachen Blutung und Schwäche&nbsp;1. Erhalte +1&nbsp;[img:lck], wenn du kritisch triffst.",I tuoi colpi critici infliggono il 100% più danno e infliggono Sanguinamento e Debolezza 1. Ottieni +1 alla [img:lck] ogni volta che esegui un colpo critico.,Seus golpes críticos causam 100% a mais de dano e aplicam sangramento e fraqueza 1. Obtenha +1 de [img:lck] sempre que acertar um golpe crítico.,"你的暴击造成额外+100%伤
-害并造成流血和虚弱1。
+害并造成流血和1层虚弱。
 每次暴击时获得+1 [img:lck]。"
 PASSIVE_LOOTHOARDER_NAME,Loot Hoarder,,Acumulación de botín,Accumulation de butin,Messi,Accumulatore di Bottino,Acumulação de Tesouros,抢夺者
 PASSIVE_LOOTHOARDER_DESC,Automatically collect all pickups at the end of the battle if you're not downed.,,Recolecta automáticamente todos los recogibles al final del combate si la unidad no está abatida.,Toutes les ressources sont automatiquement ramassées à la fin du combat si vous n'êtes pas K.O.,"Du sammelst am Ende des Kampfes alle Gegenstände ein, wenn du nicht ohnmächtig bist.","Se non sei KO, prendi automaticamente tutti i raccoglibili alla fine della battaglia.",Colete automaticamente todos os coletáveis no final da batalha se você não estiver inconsciente.,"如果未被击倒，
@@ -2069,8 +2069,8 @@ PASSIVE_LOOTHOARDER2_DESC,Automatically destroy all enemy bodies and collect all
 战斗结束时自动摧毁所有敌人尸
 体并收集所有拾取物品。"
 PASSIVE_CRIPPLE_NAME,Cripple,,Tullimiento,Grabataire,Krüppel,Mutilazione,Aleijar,残废
-PASSIVE_CRIPPLE_DESC,Your critical hits inflict Immobilize and Weakness 2.,,Los golpes críticos infligen inmovilización y 2 de debilidad.,Vos coups critiques infligent Immobilisation et Vulnérabilité&nbsp;+2.,Deine kritischen Treffer machen bewegungsunfähig und verursachen Schwäche&nbsp;2.,I tuoi colpi critici infliggono Immobilizzazione e Debolezza 2.,Seus golpes críticos e aplicam imobilizar e fraqueza 2.,你的暴击会造成定身和虚弱2。
-PASSIVE_CRIPPLE2_DESC,Your critical hits inflict Stun and Weakness 2.,,Los golpes críticos aturden e infligen 2 de debilidad.,Vos coups critiques infligent Étourdissement et Vulnérabilité&nbsp;+2.,Deine kritischen Treffer verursachen Betäubung und Schwäche&nbsp;2.,I tuoi colpi critici infliggono Stordimento e Debolezza 2.,Seus golpes críticos e aplicam atordoamento e fraqueza 2.,你的暴击会造成眩晕和虚弱2。
+PASSIVE_CRIPPLE_DESC,Your critical hits inflict Immobilize and Weakness 2.,,Los golpes críticos infligen inmovilización y 2 de debilidad.,Vos coups critiques infligent Immobilisation et Vulnérabilité&nbsp;+2.,Deine kritischen Treffer machen bewegungsunfähig und verursachen Schwäche&nbsp;2.,I tuoi colpi critici infliggono Immobilizzazione e Debolezza 2.,Seus golpes críticos e aplicam imobilizar e fraqueza 2.,你的暴击会造成定身和2层虚弱。
+PASSIVE_CRIPPLE2_DESC,Your critical hits inflict Stun and Weakness 2.,,Los golpes críticos aturden e infligen 2 de debilidad.,Vos coups critiques infligent Étourdissement et Vulnérabilité&nbsp;+2.,Deine kritischen Treffer verursachen Betäubung und Schwäche&nbsp;2.,I tuoi colpi critici infliggono Stordimento e Debolezza 2.,Seus golpes críticos e aplicam atordoamento e fraqueza 2.,你的暴击会造成眩晕和2层虚弱。
 PASSIVE_AGILE_NAME,Agile,,Agilidad,Agilité,Agil,Agilità,Agilidade,敏捷
 PASSIVE_AGILE_DESC,"+2 Movement Range. If you move fewer tiles than your full movement range, you can move a 2nd time for the rest of your movement range.",,"+2 de alcance del movimiento. Si se mueve menos casillas de las permitidas por el alcance del movimiento, puede moverse una segunda vez durante el resto del alcance del movimiento.","Portée de déplacement&nbsp;+2. Si vous n'utilisez pas toute votre portée de déplacement, vous pouvez vous déplacer une 2e&nbsp;fois pour utiliser le reste de votre portée.","+2&nbsp;Bewegungsreichweite. Wenn du dich weniger als deine maximale Bewegungsreichweite bewegst, kannst du dich ein zweites Mal so weit wie die übrige Reichweite bewegen.","+2 al Raggio di Movimento. Se ti muovi di meno caselle rispetto al tuo raggio di movimento completo, puoi muoverti una seconda volta per il resto del tuo raggio di movimento.","+2 de alcance de movimento. Ao se mover menos espaços do que seu alcance de movimento total, você pode se mover uma segunda vez com o restante do seu alcance de movimento.","+2 移动范围。
 如果你移动的格子少于最大移动范围，
@@ -2761,7 +2761,7 @@ Esta bendición se pierde cuando mata a una unidad.","Au lieu de soigner, les so
 Dieser Segen geht verloren, wenn du eine Einheit tötest.","Gli incantesimi di elemento sacro infliggono danno doppio ai nemici invece di curarli e infliggono Bruciatura 2.
 Questa benedizione si perde quando uccidi un'unità.","Ao invés de curar, encantamentos do elemento sagrado causam dano dobrado a inimigos e aplicam queimadura 2.","圣属性法术对敌人造成双倍伤害而非治疗，
 
-并附加灼烧 2。
+并附加2层灼烧。
 杀死单位时此赐福消失。"
 PASSIVE_BLESSINGOFHOLYFIRE2_DESC,"Holy-element spells deal triple damage to enemies instead of healing and inflict Burn 3.
 This blessing is lost when you kill a unit.",,"Los hechizos sagrados infligen el triple de daño a los enemigos en vez de curar e infligen 3 de quemadura.
@@ -2770,7 +2770,7 @@ Dieser Segen geht verloren, wenn du eine Einheit tötest.","Gli incantesimi di e
 Questa benedizione si perde quando uccidi un'unità.","Ao invés de curar, encantamentos do elemento sagrado causam dano triplicado a inimigos e aplicam queimadura 3.
 Esta benção é perdida ao matar uma unidade.","圣属性法术对敌人造成三倍伤害而非治疗，
 
-并附加灼烧 3。
+并附加3层灼烧。
 杀死单位时此赐福消失。"
 PASSIVE_ALMSFORTHEPOOR_NAME,Alms for the Poor,,Caridad para los pobres,Faire l'aumône,Almosen für die Armen,Elemosina,Esmola para os Pobres,施舍穷人
 PASSIVE_ALMSFORTHEPOOR_DESC,"When you gain coins, all allies heal +1 HP and gain +1 [img:lck].",,"Al obtener monedas, todos los aliados recuperan +1 PS y obtienen +1 [img:lck].","Lorsque vous gagnez des pièces, toutes les unités alliées gagnent PV&nbsp;+1&nbsp;et [img:lck]&nbsp;+1.","Wenn du Münzen erhältst, heilen alle Verbündeten +1&nbsp;LP und erhalten +1&nbsp;[img:lck].","Quando ottieni monete, tutti gli alleati recuperano +1 PS e ottengono +1 alla [img:lck].","Ao obter moedas, todos os aliados são curados em +1 PV e obtêm +1 de [img:lck].","当你获得金币时，
@@ -2786,10 +2786,10 @@ PASSIVE_PURIFIER_DESC,Your basic attack removes debuffs from allies.,,El ataque 
 PASSIVE_PURIFIER2_DESC,Your basic attack removes debuffs from allies and gives them All Stats Up.,,El ataque básico elimina las desventajas de los aliados y les otorga aumento total.,Votre attaque de base retire les malus des unités alliées et leur octroie Hausse de stats.,Dein Grundangriff entfernt Schwächungen von Verbündeten und verleiht ihnen einen Bonus auf alle Attribute.,Il tuo attacco base rimuove i malus dagli alleati e fornisce loro Aumento delle Statistiche.,Seu ataque básico remove enfraquecimentos de aliados e concede a eles todos os atributos aumentados.,"你的普通攻击会移除盟友的减益
 效果并给予他们全属性提升。"
 PASSIVE_VENERATEDTOUCH_NAME,Venerated Touch,,Toque venerado,Toucher vénéré,Verehrte Berührung,Tocco Venerabile,Toque Venerável,尊敬之触
-PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成混乱 2，
+PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成2层混乱，
 
 并给予盟友 +2 [img:shield]。"
-PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成混乱 3，
+PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成3层混乱，
 
 有 50% 几率造成眩晕。
 它还给予盟友 +3 [img:shield] 以及
@@ -2824,9 +2824,9 @@ PASSIVE_BLESSINGOFSPIRIT2_DESC,"When you end your turn, you and all allies heal 
 施放法术后该祝福效果失效。"
 PASSIVE_HEATHENS_NAME,Heathens!,,¡Paganos!,Mécréants&nbsp;!,Ungläubige!,Eresia!,Pagãos!,异教徒！
 PASSIVE_HEATHENS_DESC,"At the start of the battle, inflict Weakness 3 on all enemies.",,"Al inicio del combate, inflige 3 de debilidad a todos los enemigos.","Au début du combat, Vulnérabilité&nbsp;+3&nbsp;à tous les ennemis.",Am Anfang des Kampfes verursachst du Schwäche&nbsp;3 bei allen Gegnern.,"All'inizio della battaglia, infliggi Debolezza 3 a tutti i nemici.","No início de cada batalha, aplique fraqueza 3 em todos os inimigos.","战斗开始时，
-对所有敌人施加虚弱 3。"
+对所有敌人施加3层虚弱。"
 PASSIVE_HEATHENS2_DESC,"At the start of the battle, inflict Weakness 4 and Magic Weakness 4 on all enemies.",,"Al inicio del combate, inflige 4 de debilidad y 4 de debilidad mágica a todos los enemigos.","Au début du combat, Vulnérabilité&nbsp;+4&nbsp;et Vulnérabilité magique&nbsp;+4&nbsp;à tous les ennemis.",Am Anfang des Kampfes verursachst du Schwäche&nbsp;3 und Magieschwäche&nbsp;4 bei allen Gegnern.,"All'inizio della battaglia, infliggi Debolezza 4 e Debolezza Magica 4 a tutti i nemici.","No início de cada batalha, aplique fraqueza 4 e fraqueza contra magia 4 em todos os inimigos.","战斗开始时，
-对所有敌人施加虚弱 4 和魔法虚弱 4。
+对所有敌人施加4层虚弱 和4层魔法虚弱。
 "
 //mage,,,,,,,,
 PASSIVE_SYNTHESIZE_NAME,Synthesize,,Sintetizamiento,Synthèse,Synthese,Sintetizzazione,Sintetização,合成
@@ -2851,8 +2851,8 @@ PASSIVE_SHRAPNEL2_DESC,+2 Range. Your basic attack deals 2 Magic splash damage i
 基础攻击在广泛区域内造成 2
  点魔法溅射伤害。"
 PASSIVE_BURNINGPAWS_NAME,Burning Paws,,Patas ardientes,Pattes brûlantes,Brennende Pfoten,Zampe Infuocate,Patas Flamejantes,燃烧之爪
-PASSIVE_BURNINGPAWS_DESC,Your basic action inflicts Burn 1.,,La acción básica inflige 1 de quemadura.,Votre action de base inflige Brûlure&nbsp;+1.,Deine Grundaktion verursacht Verbrennung&nbsp;1.,La tua azione base infligge Bruciatura 1.,Sua ação básica aplica queimadura 1.,你的基础动作造成 灼烧 1。
-PASSIVE_BURNINGPAWS2_DESC,Your basic action inflicts Burn 3.,,La acción básica inflige 3 de quemadura.,Votre action de base inflige Brûlure&nbsp;+3.,Deine Grundaktion verursacht Verbrennung&nbsp;3.,La tua azione base infligge Bruciatura 3.,Sua ação básica aplica queimadura 3.,你的基础动作造成 灼烧 3。
+PASSIVE_BURNINGPAWS_DESC,Your basic action inflicts Burn 1.,,La acción básica inflige 1 de quemadura.,Votre action de base inflige Brûlure&nbsp;+1.,Deine Grundaktion verursacht Verbrennung&nbsp;1.,La tua azione base infligge Bruciatura 1.,Sua ação básica aplica queimadura 1.,你的基础动作造成 1层灼烧。
+PASSIVE_BURNINGPAWS2_DESC,Your basic action inflicts Burn 3.,,La acción básica inflige 3 de quemadura.,Votre action de base inflige Brûlure&nbsp;+3.,Deine Grundaktion verursacht Verbrennung&nbsp;3.,La tua azione base infligge Bruciatura 3.,Sua ação básica aplica queimadura 3.,你的基础动作造成 3层灼烧。
 PASSIVE_LIGHTNINGPAWS_NAME,Lightning Paws,,Patas eléctricas,Pattes électriques,Blitzpfoten,Zampe Fulminanti,Patas Elétricas,闪电之爪
 PASSIVE_LIGHTNINGPAWS_DESC,Your basic attack deals +1 Electric Damage and has a 10% chance to Stun.,,El ataque básico inflige +1 de daño eléctrico y tiene un 10 % de probabilidad de aturdir.,Votre attaque de base inflige Dégâts électriques&nbsp;+1&nbsp;et a 10&nbsp;% de chances d'infliger Étourdissement.,"Dein Grundangriff verursacht +1&nbsp;elektrischen Schaden und hat eine 10%ige Wahrscheinlichkeit, Betäubung zu verursachen.",Il tuo attacco base infligge +1 di danno elettrico e ha il 10% di probabilità di infliggere Stordimento.,Seu ataque básico causa +1 de dano elétrico e possui 10% de chance de atordoar.,"你的基础攻击额外造成 +1 点电击伤害，
 
@@ -2862,10 +2862,10 @@ PASSIVE_LIGHTNINGPAWS2_DESC,Your basic attack deals +2 Electric Damage and has a
 且有 33% 几率眩晕。"
 PASSIVE_ICEPAWS_NAME,Ice Paws,,Patas congeladas,Pattes gelées,Eispfoten,Zampe Gelide,Patas de Gelo,冰霜之爪
 PASSIVE_ICEPAWS_DESC,"Your basic attack deals Ice Damage, inflicts Slow 1, and has a 15% chance to Freeze.",,"El ataque básico inflige daño de hielo, inflige 1 de ralentización y tiene un 15 % de probabilidad de infligir congelación.","Votre attaque de base inflige des dégâts de glace, Lenteur&nbsp;+1&nbsp;et a 15&nbsp;% d'infliger Gel.","Dein Grundangriff verursacht Eisschaden, Verlangsamung&nbsp;1 und hat eine 15%ige Wahrscheinlichkeit, Gegner einzufrieren.","Il tuo attacco base infligge danno da ghiaccio, Rallentamento 1 e ha il 15% di probabilità di infliggere Congelamento.","Seu ataque básico causa dano de gelo, aplica lentidão 1 e possui 15% de chance de congelar.","你的基础攻击造成冰霜伤害，
-附加 减速 1，
+附加 1层减速，
 且有 15% 几率冻结。"
 PASSIVE_ICEPAWS2_DESC,"Your basic attack deals Ice Damage, inflicts Slow 2, and has a 50% chance to Freeze.",,"El ataque básico inflige daño de hielo, inflige 2 de ralentización y tiene un 50 % de probabilidad de infligir congelación.","Votre attaque de base inflige des dégâts de glace, Lenteur&nbsp;+2&nbsp;et a 50&nbsp;% de chances d'infliger Gel.","Dein Grundangriff verursacht Eisschaden, Verlangsamung&nbsp;2 und hat eine 50%ige Wahrscheinlichkeit, Gegner einzufrieren.","Il tuo attacco base infligge danno da ghiaccio, Rallentamento 2 e ha il 50% di probabilità di infliggere Congelamento.","Seu ataque básico causa dano de gelo, aplica lentidão 2 e possui 50% de chance de congelar.","你的基础攻击造成冰霜伤害，
-附加 减速 2，
+附加 2层减速，
 且有 50% 几率冻结。"
 PASSIVE_PAWMISSILE_NAME,Paw Missile,,Misil de patas,Patte missile,Pfotenrakete,Zampa Missile,Pata Míssil,爪子导弹
 PASSIVE_PAWMISSILE_DESC,"Your basic attack is Magic Missile.
@@ -3292,10 +3292,10 @@ PASSIVE_REPRESSEDMEMORIES2_DESC,"When you spend mana, cast a random spell from a
 任意职业随机法术。"
 PASSIVE_ELDRITCHVISAGE_NAME,Eldritch Visage,,Semblante de Eldritch,Visage innommable,Schauerliches Antlitz,Volto Arcano,Rosto Sobrenatural,奥秘面容
 PASSIVE_ELDRITCHVISAGE_DESC,"At the start of your turn, inflict Magic Weakness 1 on all enemies in your line of sight.",,"Al inicio del turno, inflige 1 de debilidad mágica a todos los enemigos en su campo visual.","Au début de votre tour, Vulnérabilité magique&nbsp;+1&nbsp;à tous les ennemis dans votre ligne de mire.",Am Anfang deines Zuges verursachst du bei allen Gegnern in deiner Sichtlinie Magieschwäche&nbsp;1.,"All'inizio del tuo turno, infliggi Debolezza Magica 1 a tutti i nemici nel tuo campo visivo.","No início do seu turno, aplique fraqueza contra magia 1 em todos os inimigos dentro do seu campo de visão.","在你的回合开始时，
-对所有视线内的敌人施加魔法虚弱1。
+对所有视线内的敌人施加1层魔法虚弱。
 "
 PASSIVE_ELDRITCHVISAGE2_DESC,"At the start of your turn, inflict Magic Weakness 1 and Marked on all enemies in your line of sight.",,"Al inicio del turno, inflige 1 de debilidad mágica y punto de mira a todos los enemigos en su campo visual.","Au début de votre tour, Vulnérabilité magique&nbsp;+1&nbsp;et Marqué à tous les ennemis dans votre ligne de mire.",Am Anfang deines Zuges verursachst du bei allen Gegnern in deiner Sichtlinie Magieschwäche&nbsp;1 und Markiert.,"All'inizio del tuo turno, infliggi Debolezza Magica 1 e Marchio a tutti i nemici nel tuo campo visivo.","No início do seu turno, aplique fraqueza contra magia 1 e marcação em todos os inimigos dentro do seu campo de visão.","在你的回合开始时，
-对所有视线内的敌人施加魔法虚弱1和被标记。
+对所有视线内的敌人施加1层魔法虚弱和被标记。
 "
 //Jester,,,,,,,,
 PASSIVE_SUPERLUCK_NAME,Super Luck,,Supersuerte,Chance décuplée,Unheimliches Glück,Super Fortuna,Super Sorte,超级幸运
@@ -3513,7 +3513,7 @@ DISORDER_COMMONCOLD_DESC,Start each battle with All Stats Down. 30% chance of re
 DISORDER_POX_NAME,Pox,,Sífilis,Vérole,Pocken,Vaiolo,Varíola,天花
 DISORDER_POX_DESC,10% chance to skip your turn to scratch yourself. Your basic attack has a 50% chance to inflict Poison 1. 5% chance of recovering at the end of each round. Contagious.,,10 % de probabilidad de saltarse el turno para rascarse. El ataque básico tiene un 50 % de probabilidad de infligir 1 de veneno. 5 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.,10&nbsp;% de chances de passer votre tour pour vous gratter. Votre attaque de base a 50&nbsp;% de chances d'infliger Poison&nbsp;+1. 5&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"10%ige Wahrscheinlichkeit, dass du deinen Zug überspringst und dich kratzt. Dein Grundangriff hat eine 50%ige Wahrscheinlichkeit, Gift&nbsp;1 zu verursachen. 5%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.",10% di probabilità di saltare il turno per grattarti. Il tuo attacco base ha il 50% di probabilità di infliggere Veleno 1. 5% di probabilità di guarire alla fine di ogni round. Contagioso.,10% de chance de pular seu turno para se coçar. Seu ataque básico possui 50% de chance de aplicar veneno 1. 5% de chance de se recuperar no final de cada rodada. Contagioso.,"有10%的几率跳过你的回合去挠痒痒。
 
-你的基本攻击有50%的几率造成中毒1。
+你的基本攻击有50%的几率造成1层中毒。
 每回合结束时有5%的几率恢复。
 具传染性。"
 DISORDER_PSYCHOSIS_NAME,Psychosis,,Psicosis,Psychose,Psychose,Psicosi,Psicose,精神病
@@ -3540,7 +3540,7 @@ Ao sofrer dano, sofra também um ferimento aleatório.","你受到的所有伤�
 DISORDER_BADGAS_NAME,Bad Gas,,Pedo peregrino,Aérophagie,Heftige Blähungen,Gas Nocivo,Pum Fedido,恶气
 DISORDER_BADGAS_DESC,"On the first round, take your turn last. At the start of that turn, do a Mega Fart attack that inflicts Poison 2. ",,"En la primera ronda, juega el turno en último lugar. Al inicio de ese turno, realiza un ataque de Megapedo que inflige 2 de veneno. ","Lors de la première manche, vous jouez en dernier. Au début de votre tour, vous lancez Méga pet qui inflige Poison&nbsp;+2.","In der ersten Runde bist du als letztes am Zug. Am Anfang dieses Zuges führst du einen Megafurz aus, der Gift&nbsp;2 verursacht. ","Nel primo round, effettui il tuo turno per ultimo. All'inizio di quel turno, esegui un attacco Mega Peto che infligge Veleno 2.","Na primeira rodada, use seu turno por último. No início desse turno, realize um ataque de mega pum que aplica veneno 2.","在第一轮时，最后行动。
 该回合开始时，进行一次强力屁攻击，
-造成中毒 2。"
+造成2层中毒。"
 DISORDER_TOXOPLASMOSIS_NAME,Toxoplasmosis,,Toxoplasmosis,Toxoplasmose,Toxoplasmose,Toxoplasmosi,Toxoplasmose,弓形虫病
 DISORDER_TOXOPLASMOSIS_DESC,Start each battle with a Rat Familiar. Your basic attack charms Rat enemies.,,Empieza cada combate con un familiar rata. El ataque básico inflige embrujo a las ratas enemigas.,Vous commencez chaque combat avec un rat de compagnie. Votre attaque de base envoûte les rats ennemis.,Beginne jeden Kampf mit einem Rattenbegleiter. Dein Grundangriff verursacht bei Rattengegnern Charme.,Inizi ogni battaglia con un famiglio Ratto. Il tuo attacco base ammalia i nemici Ratto.,Inicie cada batalha com um familiar rato. Seu ataque básico enfeitiça inimigos ratos.,"每场战斗开始时拥有一只老鼠宠物。
 
@@ -3551,8 +3551,8 @@ DISORDER_EBOLA_DESC,"Start each battle with Bleed 3. Your basic attack inflicts 
 5 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.",Vous commencez chaque combat avec Saignement&nbsp;+3. Votre attaque de base inflige Saignement&nbsp;+2. 5&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"Beginne jeden Kampf mit Blutung&nbsp;3. Dein Grundangriff verursacht Blutung&nbsp;2.
 5%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.","Inizi ogni battaglia con Sanguinamento 3. Il tuo attacco base infligge Sanguinamento 2.
 5% di probabilità di recupero alla fine di ogni round. Contagioso.","Inicie cada batalha com sangramento 3. Seu ataque básico aplica sangramento 2.
-5% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时带有流血 3。
-你的普通攻击附加流血 2。
+5% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时带有3层流血。
+你的普通攻击附加2层流血。
 每回合结束时有 5% 几率恢复。
 具有传染性。"
 DISORDER_FIDGETY_NAME,Fidgety,,Nervios,Fébrilité,Zappelig,Irrequietezza,Passatempo,坐立不安
@@ -3732,9 +3732,9 @@ Erleide am Ende des Kampfes dauerhaft -1&nbsp;[img:con] und -1&nbsp;[img:spd].",
 Infliggi Veleno 3 e Debolezza 1 alle unità che ti toccano.
 Ottieni -1 alla [img:con] e -1 alla [img:spd] alla fine di ogni battaglia in modo permanente.","Seu ataque básico aplica veneno 3 e fraqueza 1.
 Aplique veneno 3 e fraqueza 1 em unidades que entrarem em contato com você.
-Obtenha -1 de [img:con] e -1 de [img:spd] no final de cada batalha permanentemente.","你的基础攻击附加中毒 3 和虚弱 1。
+Obtenha -1 de [img:con] e -1 de [img:spd] no final de cada batalha permanentemente.","你的基础攻击附加3层中毒 和1层虚弱。
 
-对接触你的单位附加中毒 3 和虚弱 1。
+对接触你的单位附加3层中毒 和1层虚弱。
 
 每场战斗结束时永久获得 -1 [img:con] 和 -1 [img:spd]。
 "
@@ -3755,8 +3755,8 @@ Il tuo attacco base infligge Veleno 1 e Debolezza 1.
 Seu ataque básico aplica veneno 1 e fraqueza 1.
 15% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时获得全属性下降、
 
-中毒 1 和虚弱 1。
-你的基础攻击附加中毒 1 和虚弱 1。
+1层中毒 和1层虚弱。
+你的基础攻击附加1层中毒 和1层虚弱。
 "
 DISORDER_THEFLU_NAME,The Flu,,Gripe,Grippe,Grippe,Influenza,Gripe,流感
 DISORDER_THEFLU_DESC,"Start each battle with Slow 5 and Weakness 5.
@@ -3771,9 +3771,9 @@ Dein Grundangriff verursacht Verlangsamung&nbsp;1 und Schwäche&nbsp;1.
 Il tuo attacco base infligge Rallentamento 1 e Debolezza 1.
 20% di probabilità di guarigione alla fine di ogni round. Contagiosa.","Inicie cada batalha com todos os atributos diminuídos, lentidão 5 e fraqueza 5.
 Seu ataque básico aplica lentidão 1 e fraqueza 1.
-20% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时获得迟缓 5 和虚弱 5。
+20% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时获得迟缓 5 和5层虚弱。
 
-你的基础攻击附加迟缓 1 和虚弱 1。
+你的基础攻击附加迟缓 1 和1层虚弱。
 
 每轮结束时有20%几率恢复。
 具有传染性。"

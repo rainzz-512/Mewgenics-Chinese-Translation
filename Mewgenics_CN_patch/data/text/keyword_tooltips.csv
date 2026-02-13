@@ -302,7 +302,7 @@ KEYWORD_KINETICSPPIKES_DESC_SINGULAR,"When this takes damage, emit a Sparkle.",,
 "
 KEYWORD_KINETICSPPIKES_DESC_STACKLESS,"When this takes damage, emit Sparkles.",,"Al sufrir daño, emite destellos.","Subissant des dégâts, des étincelles sont émises.","Einheit versprüht Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette Scintille.","Ao sofrer dano, emite fagulhas.","当此单位受到伤害时，发出火花。
 "
-KEYWORD_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,水蛭
+KEYWORD_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,生命汲取
 KEYWORD_LEECHES_NAME_APPLIER,{applier's} Leeches.,,Son las sanguijuelas de {applier's}.,Sangsues ({applier}).,Blutegel von {applier},Sanguisughe di {applier}.,Sanguessugas de {applier's}.,{applier's} 吸血。
 KEYWORD_LEECHES_DESC,Drains {stacks} health at the end of the round.,,Absorbe {stacks} de salud al final de la ronda.,Draine {stacks} PV à la fin de la manche.,Saugt am Ende der Runde {stacks}&nbsp;Gesundheit ab.,Prosciuga {stacks} di salute alla fine del round.,Drena {stacks} de saúde no final da rodada.,"在回合结束时吸取 {stacks} 点生命值。
 "
@@ -341,10 +341,10 @@ A sorte afeta a chance de crítico base e tudo que é aleatório.","幸运降低
 KEYWORD_MADNESS_NAME,Madness,,Locura,Folie,Wahnsinn,Follia,Insanidade,疯狂
 KEYWORD_MADNESS_DESC,Thinks everything is an enemy. Uncontrollable.,,Piensa que todos son enemigos. Incontrolable.,Tout lui semble être un ennemi. Incontrôlable.,Hält alles für einen Gegner. Unkontrollierbar.,Pensa che ogni cosa sia un nemico. Incontrollabile.,Pensa que tudo é um inimigo. Incontrolável.,"认为所有事物都是敌人。
 无法控制。"
-KEYWORD_MAGICWEAKNESS_NAME,Magic Weakness,,Debilidad mágica,Vulnérabilité magique,Magieschwäche,Debolezza Magica,Fraqueza Contra Magia,魔法弱点
+KEYWORD_MAGICWEAKNESS_NAME,Magic Weakness,,Debilidad mágica,Vulnérabilité magique,Magieschwäche,Debolezza Magica,Fraqueza Contra Magia,魔法虚弱
 KEYWORD_MAGICWEAKNESS_DESC,Incoming magic damage has 100% Crit Chance and can't miss.,,El daño mágico sufrido tiene un 100 % de probabilidad de crítico y no puede fallar.,Les dégâts que vous subissez ont 100&nbsp;% de chances de coup critique et touchent à coup sûr.,Erlittener magischer Schaden hat 100&nbsp;% kritische Trefferchance und kann nicht verfehlen.,Il danno magico in arrivo ha una probabilità di colpo critico del 100% e non può mancare il bersaglio.,O dano mágico sofrido possui 100% de chance de crítico e não pode errar.,"即将受到的魔法伤害拥有100
 %暴击率且无法闪避。"
-KEYWORD_MANALEECHES_NAME,Mana Leeches,,Sanguijuelas de maná,Sangsue de mana,Manablutegel,Assorbi-Mana,Sanguessugas de Mana,法力吸取者
+KEYWORD_MANALEECHES_NAME,Mana Leeches,,Sanguijuelas de maná,Sangsue de mana,Manablutegel,Assorbi-Mana,Sanguessugas de Mana,法力吸取
 KEYWORD_MANALEECHES_NAME_APPLIER,{applier's} Mana Leeches,,Son las sanguijuelas de maná de {applier's}.,Sangsues de mana ({applier}).,Manablutegel von {applier},Assorbi-Mana di {applier},Sanguessugas de mana de {applier's},{applier's} 法力吸取者
 KEYWORD_MANALEECHES_DESC,Drains {stacks} mana at the end of the round.,,Absorbe {stacks} de maná al final de la ronda.,Draine {stacks} mana à la fin de la manche.,Saugen am Ende der Runde {stacks}&nbsp;Mana ab.,Prosciuga {stacks} di mana alla fine del round.,Drena {stacks} de mana no final da rodada.,在回合结束时吸取 {stacks} 法力值。
 KEYWORD_MANALEECHES_DESC_APPLIER,Drains {stacks} mana at the end of {applier's} turn and gives it to {applier}.,,Absorbe {stacks} de maná al final del turno de {applier's} para dárselo a {applier}.,Draine {stacks} mana et les donne à {applier} à la fin de son tour.,Saugen am Ende vom Zug von {applier} {stacks}&nbsp;Mana ab und schreiben sie {applier} gut.,Prosciuga {stacks} di mana alla fine del turno di {applier} e lo fornisce a {applier}.,Drena {stacks} de mana no final do turno de {applier's} e a concede para {applier}.,"在 {applier's} 回合结束时吸取 {stacks} 法力值并给予 {applier}。

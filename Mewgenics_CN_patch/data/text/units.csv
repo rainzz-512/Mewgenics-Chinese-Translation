@@ -288,8 +288,7 @@ Untot.","Il suo attacco infligge Sanguisuga a tutte le unità all'interno di un'
 Infligge Maledizione a tutte le unità da cui subisce danno.
 Non morto.","Seu ataque aplica sanguessuga em todas as unidades em uma área.
 Aplica bruxaria em unidades que atacam.
-Morto-vivo.","它的攻击会对区域内所有单位施加吸血。
-
+Morto-vivo.","它的攻击会对区域内所有单位施加生命吸取。
 会对造成伤害的单位施加诅咒。
 不死族。"
 ENEMY_SPOOKIE_NAME,Spookie,,Fantasmito,Trouille,Spuki,Spauracchio,Sustinho,幽灵怪
@@ -346,7 +345,7 @@ Quando ucciso diventa un Laceratore.
 Non morto.","Seu ataque à distância aplica sanguessuga.
 Pode invocar fogos-fátuos.
 Torna-se um tateador ao morrer.
-Morto-vivo.","其远程攻击造成吸血效果。
+Morto-vivo.","其远程攻击造成生命吸取效果。
 可以召唤鬼火。
 被杀时变成残骸。"
 ENEMY_SHAMBLER_NAME,Shambler,,Tambaleante,Molosse,Schlurfer,Barcollatore,Cambaleante,蹒跚者
@@ -1609,7 +1608,7 @@ Se pega un pedo y sale disparado hacia delante al sufrir daño.","Ses pets infli
 Pète et se fonce en avant quand il est blessé.","Sein Furz verursacht Gift&nbsp;3.
 Furzt und wird nach vorn geschleudert, wenn er Schaden erleidet.","Le sue scoregge infliggono Veleno 3.
 Quando subisce danno, scoreggia e si proietta in avanti.","Seus puns aplicam veneno 3.
-Solta puns e se projeta para frente ao sofrer dano.","其屁会造成中毒3。
+Solta puns e se projeta para frente ao sofrer dano.","其屁会造成3层中毒。
 受伤时放屁并向前冲。"
 ENEMY_SHARKY_NAME,Sharky,,Tibu,Requin,Mini-Hai,Squaletto,Tubarôneo,鲨鱼
 ENEMY_SHARKY_DESC,"Its bite inflicts Bleed.
@@ -2190,7 +2189,7 @@ Kann sich selbst durch Leichen wiederbeleben.","Il suo attacco a distanza inflig
 Rianima i cadaveri.
 Torna in vita attraverso i cadaveri.","Seu ataque à distância aplica sanguessuga.
 Reanima corpos mortos.
-Volta à vida através de corpos mortos.","它的远程攻击会造成吸血效果。
+Volta à vida através de corpos mortos.","它的远程攻击会造成生命吸取效果。
 复活死去的尸体。
 通过尸体复活。"
 ENEMY_FRANKLIN_NAME,Franklin,,Franklin,Franklin,Franklin,Franklin,Franklin,富兰克林

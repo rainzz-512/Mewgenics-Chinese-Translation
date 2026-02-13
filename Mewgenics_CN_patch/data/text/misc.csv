@@ -271,7 +271,7 @@ HOUSEBOSS_COUNTDOWN_TODAY,!!!,,¡!,!!!,!!!,!!!,!!!,！！！
 HOUSE_BUTTON_ENDDAY,End Day,,Terminar día,Fin de journée,Tag beenden,Fine giornata,Finalizar Dia,结束当天
 HOUSE_BUTTON_DEPART,Depart!,,Partir,À l'aventure&nbsp;!,Aufbrechen!,Partenza!,Partir!,出发！
 HOUSE_DATE_FORMAT,{weekday} {month} {day},"ex ""Fr Jan 19"", text box to display this is small",{weekday} {day} {month},{weekday} {day} {month},"{weekday}, {day}. {month}",{weekday} {day} {month},"{weekday}, {day} de {month}",{month} {day}日 {weekday}
-HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}","{year}年 {month} {day}日 {weekday}"
+HOUSE_DATE_FORMAT_WITHYEAR,"{weekday} {month} {day}, Year {year}","year shows as Year 0, Year 1, Year 2, etc. year since game began, not calendar year","{weekday} {day} {month}, año {year}","{weekday} {day} {month}, an {year}","{weekday}, {day}. {month}, Jahr {year}","{weekday} {day} {month}, Anno {year}","{weekday}, {day} de {month}, ano {year}",{year}年 {month} {day}日 {weekday}
 HOUSE_DATE_MONDAY,Mo,,Lu,Lu,Mo,Lu,Seg,周一
 HOUSE_DATE_TUESDAY,Tu,,Ma,Ma,Di,Ma,Ter,周二
 HOUSE_DATE_WEDNESDAY,We,,Mi,Me,Mi,Me,Qua,周三
