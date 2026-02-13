@@ -870,7 +870,7 @@ Sofra 5 de dano ao utilizá-lo.","使用：激光攻击。每次使用后，
 使用时自己受到5点伤害。"
 ITEM_MELONBALLER_NAME,Melon Baller,,Cuchara para bolas,Cuillère parisienne,Eislöffel,Scavapalline,Olho de Melão,瓜球器
 ITEM_MELONBALLER_DESC,Use: A melee attack that inflicts Blind 3 and gives you a random eye trinket if you don't have a trinket equipped.,,Uso: Lanza un ataque cuerpo a cuerpo que inflige 3 de ceguera y otorga al azar una baratija para el ojo si esta unidad no tiene ninguna equipada.,Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Cécité +3&nbsp;et vous confère une babiole oculaire aléatoire si vous n'en avez pas équipé.,"Benutzen: Ein Nahkampfangriff, der Blindheit&nbsp;3 verursacht und dir ein zufälliges Zubehör für die Augen gibt, wenn kein Zubehör ausgerüstet ist.",Uso: Un attacco corpo a corpo che infligge Accecamento 3 e ti fornisce un ciondolo per occhio casuale se non hai un ciondolo equipaggiato.,"Uso: um ataque corpo-a-corpo que aplica cegueira 3 e concede um acessório de olho aleatório, caso você não possua um acessório equipado.","使用：一次近战攻击，
-造成失明3，并且如果你没有装备饰品，
+造成致盲3，并且如果你没有装备饰品，
 会给你一个随机的眼部饰品。"
 ITEM_MINIJETPACK_NAME,Mini Jetpack,,Minimochila propulsora,Mini jetpack,Mini-Jetpack,Mini Jetpack,Mini Jetpack,迷你喷气背包
 ITEM_MINIJETPACK_DESC,"Use: Fly to a random tile within a target area. If you land on a unit, explode dealing 5 damage in an area (including to yourself).",,"Uso: Vuela hasta una casilla al azar en un área objetivo. Si aterriza encima de una unidad, estalla e inflige 5 de daño en un área (esta unidad incluida).","Utilisation&nbsp;: vous volez vers une case aléatoire dans la zone ciblée. Si vous atterrissez sur une unité, vous explosez et infligez 5&nbsp;dégâts de zone (y compris à vous-même).","Benutzen: Fliege zu einem zufälligen Feld in einem Zielbereich. Landest du auf einer Einheit, verursache eine Explosion und verursache in einem bestimmten Bereich 5&nbsp;Schaden (auch bei dir selbst).","Uso: Voli verso una casella casuale all'interno di un'area bersaglio. Se atterri su un'unità, esplodi infliggendo 5 di danno in un'area (anche a te).","Uso: voe até um espaço aleatório em uma área alvo. Se cair em uma unidade, exploda para causar 5 de dano em uma área (incluindo você).","使用：
@@ -2823,7 +2823,7 @@ ARMOR_STONEHELMET_NAME,Stone Helmet,,Casco pétreo,Casque de pierre,Steinhelm,El
 ARMOR_STONEHELMET_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação.,+1 护甲。
 ARMOR_THERELIC_NAME,The Relic,,Reliquia,La Relique,Das Relikt,La Reliquia,A Relíquia,遗物
 ARMOR_THERELIC_DESC,"When you lose [img:divineshield], emit a Sparkle for every point of damage blocked.",,"Al perder [img:divineshield], esta unidad emite un destello por cada punto de daño bloqueado.","Quand vous perdez [img:divineshield], vous émettez une étincelle pour chaque dégât bloqué.","Wenn du [img:divineshield] verlierst, versprühst du einen Funken pro Schadenspunkt, den du blockiert hast.","Quando perdi [img:divineshield], emetti una Scintilla per ogni punto danno bloccato.","Ao perder [img:divineshield], emita uma fagulha para cada ponto de dano bloqueado.","当你失去 [img:divineshield] 时，
-每挡下一点伤害释放一次闪光。"
+每挡下一点伤害释放一次火花。"
 ARMOR_THROBBINGCROWN_NAME,Throbbing Crown,,Corona palpitante,Couronne lancinante,Pulsierende Krone,Corona Pulsante,Coroa Pulsante,跳动的冠冕
 ARMOR_THROBBINGCROWN_DESC,Tentacles attack all adjacent tiles at the end of your turn.,,Los tentáculos atacan todas las casillas adyacentes al final del turno.,Des tentacules attaquent les cases adjacentes à la fin de votre tour.,Tentakel greifen am Ende deines Zuges alle benachbarten Felder an.,"Alla fine del tuo turno, i tentacoli attaccano tutte le caselle adiacenti.",Tentáculos atacam todos os espaços adjacentes no final do seu turno.,"触手在你回合结束时攻击所有相邻格子。
 "
@@ -3449,7 +3449,7 @@ Encontre um item comum ao ficar inconsciente.","当你受到伤害时，
 获得+2 充能。
 倒地时获得一个普通物品。"
 ARMOR_RHINESTONESTICKERS_NAME,Rhinestone Stickers,,Adhesivos de diamante falso,Strass collants,Strasssticker,Adesivi con Strass,Adesivos de Strass,水钻贴纸
-ARMOR_RHINESTONESTICKERS_DESC,Emit 4 Sparkles at the start of each battle.,,Emite 4 destellos al inicio de cada combate.,Émet 4&nbsp;étincelles au début de chaque combat.,Versprühe am Anfang jedes Kampfes 4&nbsp;Funken.,Emetti 4 Scintille all'inizio di ogni battaglia.,Emita 4 fagulhas no início de cada batalha.,"在每场战斗开始时发出4个闪光。
+ARMOR_RHINESTONESTICKERS_DESC,Emit 4 Sparkles at the start of each battle.,,Emite 4 destellos al inicio de cada combate.,Émet 4&nbsp;étincelles au début de chaque combat.,Versprühe am Anfang jedes Kampfes 4&nbsp;Funken.,Emetti 4 Scintille all'inizio di ogni battaglia.,Emita 4 fagulhas no início de cada batalha.,"在每场战斗开始时发出4个火花。
 "
 ARMOR_RUBBERBAND_NAME,Rubber Band,,Goma elástica,Bracelet en caoutchouc,Gummiband,Elastico,Elástico,橡皮筋
 ARMOR_RUBBERBAND_DESC,+1 reach.,,+1 de extensión.,Allonge +1.,+1&nbsp;Reichweite.,+1 alla portata.,+1 de alcance.,+1 射程。

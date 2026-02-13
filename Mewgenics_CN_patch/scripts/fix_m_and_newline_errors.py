@@ -9,12 +9,20 @@ EXCLUDED_FILES = {
     "npc_dialog.csv",
     "npc_dialogue.csv",
     "npcdialogue.csv",
+    "m_newline_scan_report.csv",
 }
 
-# 无效 [m:...]（字面量三个点）
-INVALID_M_DOTS_PATTERN = re.compile(r"\[m:\.\.\.\]")
-# 匹配任意 [m:XXXX]
-M_TAG_PATTERN = re.compile(r"\[m:([^\]]*)\]")
+# 可携带参数的标签（可按需扩展）
+TAG_WITH_ARG_NAMES = ("img", "m", "s", "o", "c", "a", "pause")
+TAG_WITH_ARG_GROUP = "|".join(TAG_WITH_ARG_NAMES)
+# 无效 [tag:...]（字面量三个点）
+INVALID_TAG_DOTS_PATTERN = re.compile(rf"\[(?:{TAG_WITH_ARG_GROUP}):\.\.\.\]")
+# 匹配任意 [tag:XXXX]
+TAG_WITH_ARG_PATTERN = re.compile(rf"\[({TAG_WITH_ARG_GROUP}):([^\]]*)\]")
+# 裸写的 tag:value（如 m:shield / img:shield），修复为 [tag:value]
+UNWRAPPED_TAG_PATTERN = re.compile(
+    r"(?<![\[:\w])(img|m)\s*:\s*([A-Za-z0-9_]+(?:[\s-][A-Za-z0-9_]+)*)"
+)
 # 匹配花括号变量（允许内部有换行），用于修复变量内部的换行
 BRACE_BLOCK_PATTERN = re.compile(r"\{[^{}]*\}", re.DOTALL)
 
@@ -37,7 +45,7 @@ def contains_cjk(text: str) -> bool:
     return False
 
 
-def remove_invalid_m_tags(zh_text: str) -> Tuple[str, int]:
+def normalize_or_remove_invalid_tags(zh_text: str) -> Tuple[str, int]:
     changed = 0
 
     def sub_count(pattern: re.Pattern, repl, text: str) -> str:
@@ -46,24 +54,46 @@ def remove_invalid_m_tags(zh_text: str) -> Tuple[str, int]:
         changed += n
         return new_text
 
-    cleaned = sub_count(INVALID_M_DOTS_PATTERN, "", zh_text)
+    cleaned = sub_count(INVALID_TAG_DOTS_PATTERN, "", zh_text)
 
-    def replace_m_tag(match: re.Match) -> str:
-        inner = match.group(1)
+    def replace_tag(match: re.Match) -> str:
+        tag_name = match.group(1)
+        inner = match.group(2)
+        normalized = inner.strip()
+
+        if not normalized:
+            return ""
+
         if contains_cjk(inner):
             return ""
-        return match.group(0)
+        return f"[{tag_name}:{normalized}]"
 
     def replace_and_count(match: re.Match) -> str:
         before = match.group(0)
-        after = replace_m_tag(match)
+        after = replace_tag(match)
         nonlocal changed
         if after != before:
             changed += 1
         return after
 
-    cleaned = M_TAG_PATTERN.sub(replace_and_count, cleaned)
+    cleaned = TAG_WITH_ARG_PATTERN.sub(replace_and_count, cleaned)
     return cleaned, changed
+
+
+def wrap_unwrapped_img_m_tags(zh_text: str) -> Tuple[str, int]:
+    changed = 0
+
+    def replace_unwrapped(match: re.Match) -> str:
+        nonlocal changed
+        tag_name = match.group(1)
+        inner = match.group(2).strip()
+        if not inner or contains_cjk(inner):
+            return match.group(0)
+        changed += 1
+        return f"[{tag_name}:{inner}]"
+
+    fixed = UNWRAPPED_TAG_PATTERN.sub(replace_unwrapped, zh_text)
+    return fixed, changed
 
 
 def fix_newline_inside_braces(zh_text: str) -> Tuple[str, int]:
@@ -88,9 +118,10 @@ def fix_zh_text(zh_text: str) -> Tuple[str, int]:
     if not zh_text:
         return zh_text, 0
 
-    text1, c1 = remove_invalid_m_tags(zh_text)
-    text2, c2 = fix_newline_inside_braces(text1)
-    return text2, c1 + c2
+    text1, c1 = normalize_or_remove_invalid_tags(zh_text)
+    text2, c2 = wrap_unwrapped_img_m_tags(text1)
+    text3, c3 = fix_newline_inside_braces(text2)
+    return text3, c1 + c2 + c3
 
 
 def process_file(input_path: str, output_path: str, zh_column: str) -> Tuple[int, int]:
@@ -126,7 +157,7 @@ def process_file(input_path: str, output_path: str, zh_column: str) -> Tuple[int
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="修复 CSV 的 zh 列中的 m 标签错误与花括号变量换行错误。"
+        description="修复 CSV 的 zh 列中的标签错误（img/m 等）与花括号变量换行错误。"
     )
     parser.add_argument("input_dir", help="CSV 所在目录（例如 data/text）")
     parser.add_argument("--zh-column", default="zh", help="语言列名，默认 zh")

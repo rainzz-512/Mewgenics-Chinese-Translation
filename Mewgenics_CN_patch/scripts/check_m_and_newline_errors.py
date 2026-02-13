@@ -11,12 +11,20 @@ EXCLUDED_FILES = {
     "npc_dialog.csv",
     "npc_dialogue.csv",
     "npcdialogue.csv",
+    "m_newline_scan_report.csv",
 }
 
-# 无效 [m:...]（字面量三个点）
-INVALID_M_DOTS_PATTERN = re.compile(r"\[m:\.\.\.\]")
-# 所有 [m:XXXX] 标签
-M_TAG_PATTERN = re.compile(r"\[m:([^\]]*)\]")
+# 可携带参数的标签（可按需扩展）
+TAG_WITH_ARG_NAMES = ("img", "m", "s", "o", "c", "a", "pause")
+TAG_WITH_ARG_GROUP = "|".join(TAG_WITH_ARG_NAMES)
+# 无效 [tag:...]（字面量三个点）
+INVALID_TAG_DOTS_PATTERN = re.compile(rf"\[(?:{TAG_WITH_ARG_GROUP}):\.\.\.\]")
+# 所有 [tag:XXXX] 标签
+TAG_WITH_ARG_PATTERN = re.compile(rf"\[({TAG_WITH_ARG_GROUP}):([^\]]*)\]")
+# 裸写的 tag:value（如 m:shield / img:shield），通常应为 [m:shield]
+UNWRAPPED_TAG_PATTERN = re.compile(
+    r"(?<![\[:\w])(img|m)\s*:\s*([A-Za-z0-9_]+(?:[\s-][A-Za-z0-9_]+)*)"
+)
 # 花括号变量中出现真实换行（如 {sta\ncks}）
 BROKEN_VAR_NEWLINE_PATTERN = re.compile(r"\{[^{}\n]*\n[^{}]*\}")
 
@@ -59,64 +67,79 @@ def short_snippet(text: str, match_start: int, match_end: int, radius: int = 28)
     return s
 
 
-def find_unclosed_m_tag_positions(text: str) -> List[int]:
-    """查找 '[m:' 但后续找不到 ']' 的位置。"""
+def find_unclosed_tag_positions(text: str, tag_name: str) -> List[int]:
+    """查找 '[tag:' 但后续找不到 ']' 的位置。"""
     positions: List[int] = []
+    needle = f"[{tag_name}:"
     start = 0
     while True:
-        idx = text.find("[m:", start)
+        idx = text.find(needle, start)
         if idx == -1:
             break
-        close_idx = text.find("]", idx + 3)
+        close_idx = text.find("]", idx + len(needle))
         if close_idx == -1:
             positions.append(idx)
             break
-        start = idx + 3
+        start = idx + len(needle)
     return positions
 
 
 def analyze_zh_text(file_name: str, row_number: int, key: str, zh: str) -> List[Issue]:
     issues: List[Issue] = []
 
-    # 1) [m:...] 字面量错误
-    for m in INVALID_M_DOTS_PATTERN.finditer(zh):
+    # 1) [tag:...] 字面量错误
+    for m in INVALID_TAG_DOTS_PATTERN.finditer(zh):
         issues.append(
             Issue(
                 file=file_name,
                 row_number=row_number,
                 key=key,
-                issue_type="invalid_m_literal_dots",
+                issue_type="invalid_tag_literal_dots",
                 snippet=short_snippet(zh, m.start(), m.end()),
             )
         )
 
-    # 2) [m:XXXX] 中 XXXX 含中文
-    for m in M_TAG_PATTERN.finditer(zh):
-        inner = m.group(1)
+    # 2) [tag:XXXX] 中 XXXX 含中文
+    for m in TAG_WITH_ARG_PATTERN.finditer(zh):
+        tag_name = m.group(1)
+        inner = m.group(2)
         if contains_cjk(inner):
             issues.append(
                 Issue(
                     file=file_name,
                     row_number=row_number,
                     key=key,
-                    issue_type="invalid_m_contains_cjk",
+                    issue_type=f"invalid_{tag_name}_contains_cjk",
                     snippet=short_snippet(zh, m.start(), m.end()),
                 )
             )
 
-    # 3) [m: 未闭合
-    for pos in find_unclosed_m_tag_positions(zh):
+    # 3) [tag: 未闭合
+    for tag_name in TAG_WITH_ARG_NAMES:
+        for pos in find_unclosed_tag_positions(zh, tag_name):
+            issues.append(
+                Issue(
+                    file=file_name,
+                    row_number=row_number,
+                    key=key,
+                    issue_type=f"invalid_{tag_name}_unclosed",
+                    snippet=short_snippet(zh, pos, min(len(zh), pos + len(tag_name) + 2)),
+                )
+            )
+
+    # 4) 裸写 tag:value（如 m:shield）
+    for m in UNWRAPPED_TAG_PATTERN.finditer(zh):
         issues.append(
             Issue(
                 file=file_name,
                 row_number=row_number,
                 key=key,
-                issue_type="invalid_m_unclosed",
-                snippet=short_snippet(zh, pos, min(len(zh), pos + 3)),
+                issue_type="invalid_unwrapped_tag",
+                snippet=short_snippet(zh, m.start(), m.end()),
             )
         )
 
-    # 4) 花括号变量中被真实换行打断
+    # 5) 花括号变量中被真实换行打断
     for m in BROKEN_VAR_NEWLINE_PATTERN.finditer(zh):
         issues.append(
             Issue(
@@ -174,7 +197,9 @@ def write_report_csv(report_path: str, issues: List[Issue]) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="排查 CSV 中 zh 列的 m 标签错误与变量换行错误（仅检查，不改文件）。"
+        description=(
+            "排查 CSV 中 zh 列的标签错误与变量换行错误（仅检查，不改文件）。"
+        )
     )
     parser.add_argument("input_dir", help="CSV 所在目录（例如 data/text）")
     parser.add_argument(

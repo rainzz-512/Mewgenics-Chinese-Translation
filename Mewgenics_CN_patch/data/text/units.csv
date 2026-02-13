@@ -646,7 +646,7 @@ Jedes Mal, wenn einer ihrer Gegner einen Zauber wirkt, versprüht sie einen Funk
 Ogni volta che un suo nemico lancia un incantestimo, emette una Scintilla e ottiene +1 Spine.","Agressor corpo-a-corpo.
 A cada vez em que um de seus inimigos lança um encantamento, emite uma fagulha e obtém +1 de espinhos.","近战攻击者。
 每当其敌人施放法术时，
-它会发出闪光并获得+1 荆棘。"
+它会发出火花并获得+1 荆棘。"
 ENEMY_BIRTHWORT_NAME,Birthwort,,Aristolochia,Aristoloche,Pfeifenblume,Aristolochia,Erva-de-Parto,细辛
 ENEMY_BIRTHWORT_DESC,"Blind. Can melee attack and dash with Trample in random directions.
 Fires shots that inflict Rot whenever it's attacked.
@@ -1766,7 +1766,7 @@ ENEMY_BOUNTYHUNTER_DESC,Can shoot anywhere within its line of sight. Prefers lon
 Preferisce i tiri lunghi.",Pode atirar em qualquer lugar dentro de seu campo de visão. Prefere disparos distantes.,"可以射击视线内的任何位置。
 偏好远距离射击。"
 ENEMY_HORNYCAT_NAME,Horny Cat,"(its a cat that looks like a Horny Toad / Horned Lizard, the ""horny"" pun isnt too important if it doesnt translate)",Gato cornudo,Chat à cornes,Hornkatze,Gatto Cornuto,Gato Chifrudo,角猫
-ENEMY_HORNYCAT_DESC,Its ranged attack inflicts Blind.,,Su ataque a distancia inflige ceguera.,Son attaque à distance inflige Cécité.,Ihr Fernkampfangriff verursacht Blindheit.,Il suo attacco a distanza infligge Accecamento.,Seu ataque à distância aplica cegueira.,它的远程攻击会导致失明。
+ENEMY_HORNYCAT_DESC,Its ranged attack inflicts Blind.,,Su ataque a distancia inflige ceguera.,Son attaque à distance inflige Cécité.,Ihr Fernkampfangriff verursacht Blindheit.,Il suo attacco a distanza infligge Accecamento.,Seu ataque à distância aplica cegueira.,它的远程攻击会导致致盲。
 ENEMY_INFESTEDKITTEN_NAME,Infested Kitten,,Gatito infestado,Chaton infesté,Infiziertes Kätzchen,Gattino Infestato,Gatinho Infestado,被感染的小猫
 ENEMY_INFESTEDKITTEN_DESC,"Its melee attack inflicts Possessed.
 Moves away when damaged.",,"Su ataque cuerpo a cuerpo inflige posesión.
@@ -1785,7 +1785,7 @@ Blind.","Possiede un attacco rotante e un attacco in scatto con Calpestamento.
 Cieco.","Possui um ataque giratório e um ataque de impulso com atropelamento.
 Cego.","具有旋转攻击和带有践踏效果的冲刺攻击。
 
-失明。"
+致盲。"
 ENEMY_HEADLESS_NAME,Headless,,Sincabeza,Sans-tête,Kopfloser,Senza Testa,Sem Cabeça,无头
 ENEMY_HEADLESS_DESC,"Has a spin attack.
 Shoots a Poison shot when damaged.
@@ -1801,7 +1801,7 @@ Cieco.","Possui um ataque giratório.
 Dispara um tiro de veneno ao sofrer dano.
 Cego.","具有旋转攻击。
 受伤时射出中毒射击。
-失明。"
+致盲。"
 ENEMY_ATOMICKITTEN_NAME,Atomic Kitten,,Gatito atómico,Chaton atomique,Atomkatze,Gattino Atomico,Gatinho Atômico,原子小猫
 ENEMY_ATOMICKITTEN_DESC,"Emits a burst of radiation at the start of its turn.
 Teleports away when damaged.
@@ -1852,7 +1852,7 @@ Blind.","Quando subisce danno scatta in avanti di 10 caselle con Calpestamento.
 Cieco.","Realiza um impulso de 10 espaços com atropelamento para frente ao sofrer dano.
 Cego.","受到伤害时会带着践踏冲刺10格。
 
-失明。"
+致盲。"
 ENEMY_ROVER_NAME,Rover,,Róver,Astromobile,Katzenwagen,Rover,Rover,流浪者
 ENEMY_ROVER_DESC,Has a chaining dash attack.,,Lanza un ataque relámpago encadenado.,Dispose d'une attaque impulsée en chaîne.,Führt einen Mehrfachansturm aus.,Possiede un attacco in scatto concatenato.,Possui um ataque de impulso encadeado.,拥有连锁冲刺攻击。
 ENEMY_ASTRONAUT_NAME,Astronaut,,Astronauta,Astronaute,Astronaut,Astronauta,Astronauta,宇航员
@@ -2538,7 +2538,7 @@ Führt einen Wirbelangriff aus.","Cieco.
 Spara un colpo velenoso quando subisce danno.
 Esegue un attacco corpo a corpo rotante.","Cego.
 Dispara um tiro de veneno ao sofrer dano.
-Realiza um ataque corpo-a-corpo giratório.","失明。
+Realiza um ataque corpo-a-corpo giratório.","致盲。
 受到伤害时发射中毒射。
 进行近战旋转攻击。"
 ENEMY_NUBS_NAME,Nubs,,Nub,Moignon sauteur,Nubs,Nubs,Nubs,哌司
@@ -2554,7 +2554,7 @@ Führt einen Sprungangriff mit Rückstoß aus.","Cieco.
 Spara un colpo di melma velenoso a parabola quando subisce danno.
 Esegue un attacco in salto con Contraccolpo.","Cego.
 Realiza um disparo de gosma em arco ao sofrer dano.
-Realiza um ataque de salto com empurrão.","失明。
+Realiza um ataque de salto com empurrão.","致盲。
 受到伤害时投掷中毒爬行射。
 进行带击退的跳跃攻击。"
 ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Girerette,旋蛛

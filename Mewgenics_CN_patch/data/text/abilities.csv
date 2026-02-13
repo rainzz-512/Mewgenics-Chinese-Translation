@@ -1679,13 +1679,13 @@ ABILITY_WAYOFTHETURTLE2_DESC,"Gain +1 Brace.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +1 护甲。
 [s:.7](该法术消耗减少。)[/s]"
 ABILITY_RELEASEENERGY_NAME,Release Energy,,Liberar energía,Déploiement énergétique,Energie freilassen,Rilascio di Energia,Liberação de Energia,释放能量
-ABILITY_RELEASEENERGY_DESC,Emit 10 Sparkles.,,Emite 10 destellos.,Produit 10&nbsp;Étincelles.,Versprühe 10&nbsp;Funken.,Emetti 10 Scintille.,Emita 10 fagulhas.,释放 10 个闪光。
+ABILITY_RELEASEENERGY_DESC,Emit 10 Sparkles.,,Emite 10 destellos.,Produit 10&nbsp;Étincelles.,Versprühe 10&nbsp;Funken.,Emetti 10 Scintille.,Emita 10 fagulhas.,释放 10 个火花。
 ABILITY_RELEASEENERGY2_DESC,"Emit 10 Sparkles.
 [s:.7](This spell costs less.)[/s]",,"Emite 10 destellos.
 [s:.7](Este hechizo cuesta menos).[/s]",Produit 10&nbsp;Étincelles. [s:.7](Coût réduit.)[/s],"Versprühe 10&nbsp;Funken.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Emetti 10 Scintille.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Emita 10 fagulhas.
-[s:.7](Este encantamento custa menos.)[/s]","释放 10 个闪光。
+[s:.7](Este encantamento custa menos.)[/s]","释放 10 个火花。
 [s:.7](该法术消耗减少。)[/s]"
 ABILITY_PUMMEL_NAME,Pummel,,Paliza,Volée de coups,Prügel,Sfondamento,Espancamento,重击
 ABILITY_PUMMEL_DESC,A melee attack that does 3 more damage each time you use it on the same turn. This attack inflicts all status effects your basic attack does.,,Un ataque cuerpo a cuerpo que inflige 3 más de daño cada vez que se usa en el mismo turno. Este ataque inflige todos los efectos de estado del ataque básico.,Une attaque au corps-à-corps qui inflige 3&nbsp;points de dégâts de plus à chaque utilisation dans le même tour. Inflige toutes les altérations d'état de votre attaque de base.,"Ein Nahkampfangriff, der jedes Mal, wenn du ihn innerhalb eines Zuges einsetzt, 3&nbsp;Schaden mehr verursacht. Dieser Angriff verursacht alle Statuseffekte, die dein Grundangriff verursachen würde.",Un attacco corpo a corpo che infligge 3 di danno in più ogni volta che lo usi nello stesso turno. Quest'attacco infligge tutti gli effetti di stato del tuo attacco base.,Um ataque corpo-a-corpo que causa 3 a mais de dano a cada vez que é utilizado no mesmo turno. Este ataque aplica todos os efeitos de estado que são aplicados pelo seu ataque básico.,"一次近战攻击，每次在同一
@@ -2276,7 +2276,7 @@ ABILITY_CORRUPT_NAME,Corrupt,,Corrupción,Corruption,Korruption,Corruzione,Corru
 ABILITY_CORRUPT_DESC,"Injure yourself, then gain +3 Magic Damage.",,Se autoinflige una lesión y luego obtiene +3 de daño mágico.,"Vous vous blessez, puis gagnez Dégâts magiques&nbsp;+3.",Verletze dich selbst und erhalte +3&nbsp;magischen Schaden.,"Ti ferisci, poi ottieni +3 al Danno Magico.","Cause um ferimento a si, e então obtenha +3 de dano mágico.","自我受伤，
 然后获得+3魔法伤害。"
 ABILITY_CORRUPT2_DESC,"Injure yourself, then gain +3 Magic Damage and emit a Sparkle.",,Se autoinflige una lesión y luego obtiene +3 de daño mágico y emite un destello.,"Vous vous blessez, puis gagnez Dégâts magiques&nbsp;+3&nbsp;et produisez une Étincelle.","Verletze dich selbst, erhalte +3&nbsp;magischen Schaden und versprühe einen Funken.","Ti ferisci, poi ottieni +3 al Danno Magico ed emetti una Scintilla.","Cause um ferimento a si, e então obtenha +3 de dano mágico e emita uma fagulha.","自我受伤，
-然后获得+3魔法伤害并发出闪光。
+然后获得+3魔法伤害并发出火花。
 "
 ABILITY_JOLT_NAME,Jolt,,Sacudida,Électrochoc,Schock,Scossa,Solavanco,电击
 ABILITY_JOLT_DESC,Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.,,Dispara un rayo que inflige 1 de daño y hace retroceder 3 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 1&nbsp;point de dégâts et repousse l'unité touchée de 3&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 1&nbsp;Schaden verursacht und die Einheit, die er trifft, 3&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 1 di danno e respinge l'unità colpita di 3 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 1 de dano e empurra unidades que atinge 3 espaços na direção em que foi lançado.,"发射一枚闪电，造成1点伤
@@ -3510,9 +3510,9 @@ ABILITY_SKYSHATTER_DESC,Create floating glass shards on a tile within your line 
 ABILITY_SKYSHATTER2_DESC,Create floating glass shards in an area within your line of sight.,,Crea fragmentos de cristal flotantes en un área en su campo visual.,Vous faites apparaître des éclats de verre flottant dans une zone dans votre ligne de mire.,Erschaffe schwebende Scherben in einem bestimmten Bereich in deiner Sichtlinie.,Crei dei frammenti di vetro fluttuanti in un'area all'interno del tuo campo visivo.,Crie espaços de vidro flutuante em uma área dentro do seu campo de visão.,"在视线范围内的一个区域内创造漂浮的玻璃碎片。
 "
 ABILITY_SUPERNOVA_NAME,Supernova,,Supernova,Supernova,Supernova,Supernova,Supernova,超新星
-ABILITY_SUPERNOVA_DESC,Deal damage to and inflict Blind on every unit within your line of sight.,,Inflige daño y ceguera a cada unidad en su campo visual.,Vous infligez des dégâts et Cécité à toutes les unités dans votre ligne de mire.,Verursache Schaden und Blindheit bei Einheiten in deiner Sichtlinie.,Infliggi danno e causi Accecamento a ogni unità nel tuo campo visivo.,Cause dano e aplique cegueira em todas as unidades dentro do seu campo de visão.,"对视线范围内的所有单位造成伤害并造成失明。
+ABILITY_SUPERNOVA_DESC,Deal damage to and inflict Blind on every unit within your line of sight.,,Inflige daño y ceguera a cada unidad en su campo visual.,Vous infligez des dégâts et Cécité à toutes les unités dans votre ligne de mire.,Verursache Schaden und Blindheit bei Einheiten in deiner Sichtlinie.,Infliggi danno e causi Accecamento a ogni unità nel tuo campo visivo.,Cause dano e aplique cegueira em todas as unidades dentro do seu campo de visão.,"对视线范围内的所有单位造成伤害并造成致盲。
 "
-ABILITY_SUPERNOVA2_DESC,"Deal damage to and inflict Blind on every unit within your line of sight, excluding your allies.",,"Inflige daño y ceguera a cada unidad en su campo visual, a excepción de los aliados.","Vous infligez des dégâts et Cécité à toutes les unités dans votre ligne de mire, sauf les unités alliées.","Verursache Schaden und Blindheit bei Einheiten in deiner Sichtlinie, außer deinen Verbündeten.","Infliggi danno e causi Accecamento a ogni unità nel tuo campo visivo, esclusi i tuoi alleati.","Cause dano e aplique cegueira em todas as unidades dentro do seu campo de visão, excluindo seus aliados.","对视线范围内的所有单位造成伤害并造成失明，
+ABILITY_SUPERNOVA2_DESC,"Deal damage to and inflict Blind on every unit within your line of sight, excluding your allies.",,"Inflige daño y ceguera a cada unidad en su campo visual, a excepción de los aliados.","Vous infligez des dégâts et Cécité à toutes les unités dans votre ligne de mire, sauf les unités alliées.","Verursache Schaden und Blindheit bei Einheiten in deiner Sichtlinie, außer deinen Verbündeten.","Infliggi danno e causi Accecamento a ogni unità nel tuo campo visivo, esclusi i tuoi alleati.","Cause dano e aplique cegueira em todas as unidades dentro do seu campo de visão, excluindo seus aliados.","对视线范围内的所有单位造成伤害并造成致盲，
 
 但不包括你的盟友。"
 ABILITY_ALTERDNA_NAME,Alter DNA,,Alteración de ADN,ADN altéré,DNA verändern,Alterazione del DNA,Alterar DNA,改变DNA
@@ -3531,7 +3531,7 @@ ABILITY_FLICKER_DESC,Teleport two tiles away. Displace any units you teleport in
 目标位置上的任何单位挪开。"
 ABILITY_FLICKER2_DESC,Teleport two tiles away. Displace any units you teleport into and inflict them with Confusion 2 and Blind 2.,,Se teletransporta a 2 casillas de distancia. Desplaza a las unidades sobre las que se teletransporta y les inflige 2 de confusión y 2 de ceguera.,"Vous vous téléportez à 2&nbsp;cases de distance. Vous déplacez les unités qui sont sur la case de destination, et leur infligez Confusion&nbsp;+2&nbsp;et Cécité&nbsp;+2.","Teleportiere dich zwei Felder. Dränge Einheiten weg, in die du dich teleportierst und verursache bei ihnen Verwirrung&nbsp;2 und Blindheit&nbsp;2.",Ti teletrasporti a due caselle di distanza. Sposti tutte le unità dalla casella in cui ti teletrasporti e infliggi loro Confusione 2 e Accecamento 2.,"Teletransporte-se para dois espaços de distância. Desloque qualquer unidade que esteja no espaço para onde você se teletransportar, e aplique confusão 2 e cegueira 2.","传送两格远。将你传送到的
 目标位置上的任何单位挪开，
-并造成混乱2和失明2。"
+并造成混乱2和致盲2。"
 ABILITY_MINDMELD_NAME,Mind Meld,,Fusión mental,Cerveau liquéfié,Gedankenschmelze,Fusione Mentale,Fusão Mental,心灵融合
 ABILITY_MINDMELD_DESC,"Give another unit an extra turn after this one.
 This spell can't be cast during extra turns.",,"Otorga a otra unidad un turno extra después de este.
@@ -3792,7 +3792,7 @@ ABILITY_STASIS_NAME,Stasis,,Estasis,Stase,Stillstand,Stasi,Estase,停滞
 ABILITY_STASIS_DESC,Inflict Freeze on a unit within your line of sight.,,Inflige congelación a una unidad en su campo visual.,Gel à une unité dans votre ligne de mire.,Verursache bei einer Einheit in deiner Sichtlinie Frost.,Infliggi Congelamento a un'unità all'interno del tuo campo visivo.,Aplique congelamento em uma unidade dentro do seu campo de visão.,对你视线内的单位施加冻结。
 ABILITY_STASIS2_DESC,"Inflict Freeze 1, Blind 2, and Confusion 2 on a unit within your line of sight.",,"Inflige 1 de congelación, 2 de ceguera y 2 de confusión a una unidad en su campo visual.","Gel&nbsp;+1, Cécité&nbsp;+2&nbsp;et Confusion&nbsp;+2&nbsp;à une unité dans votre ligne de mire.","Verursache bei einer Einheit in deiner Sichtlinie Frost&nbsp;1, Blindheit&nbsp;2 und Verwirrung&nbsp;2.","Infliggi Congelamento 1, Accecamento 2 e Confusione 2 a un'unità all'interno del tuo campo visivo.","Aplique congelamento 1, cegueira 2 e confusão 2 em uma unidade dentro do seu campo de visão.","对你视线内的单位施加冻结 1、
 
-失明 2 和混乱 2。"
+致盲 2 和混乱 2。"
 ABILITY_PASS_NAME,Pass,,Paso,Passe,Pass,Pass,Passagem,跳过
 ABILITY_PASS_DESC,"Give a unit within your line of sight an extra turn immediately, then end your turn.
 Castable only if you haven't taken any actions this turn.
@@ -5315,9 +5315,9 @@ ABILITY_SLICE2_DESC,"A melee attack that has all effects of your basic attack an
 攻击的所有效果并且无视护盾。
 [s:.7](此法术每回合第一次使用时免费。)[/s]"
 ABILITY_POCKETSAND_NAME,Pocket Sand,,Arena de bolsillo,Sable de poche,Taschensand,Sabbia Accecante,Areia de Bolso,口袋沙
-ABILITY_POCKETSAND_DESC,Inflict Blind on all units in a small cone.,,Inflige ceguera a todas las unidades en un área cónica pequeña.,Cécité à toutes les unités en petit cône.,Verursache Blindheit bei allen Einheiten in einem kleinen kegelförmigen Bereich.,Infliggi Accecamento a tutte le unità in un piccolo cono.,Aplique cegueira em todas as unidades em um cone pequeno.,"对小锥形范围内所有单位造成失明效果。
+ABILITY_POCKETSAND_DESC,Inflict Blind on all units in a small cone.,,Inflige ceguera a todas las unidades en un área cónica pequeña.,Cécité à toutes les unités en petit cône.,Verursache Blindheit bei allen Einheiten in einem kleinen kegelförmigen Bereich.,Infliggi Accecamento a tutte le unità in un piccolo cono.,Aplique cegueira em todas as unidades em um cone pequeno.,"对小锥形范围内所有单位造成致盲效果。
 "
-ABILITY_POCKETSAND2_DESC,Inflict Blind 2 on all units in a larger cone.,,Inflige 2 de ceguera a todas las unidades en un área cónica más amplia.,Cécité&nbsp;+2&nbsp;à toutes les unités en large cône.,Verursache Blindheit&nbsp;2 bei allen Einheiten in einem größeren kegelförmigen Bereich.,Infliggi Accecamento 2 a tutte le unità in un cono più grande.,Aplique cegueira em todas as unidades em um cone maior.,"对较大锥形范围内所有单位造成失明2效果。
+ABILITY_POCKETSAND2_DESC,Inflict Blind 2 on all units in a larger cone.,,Inflige 2 de ceguera a todas las unidades en un área cónica más amplia.,Cécité&nbsp;+2&nbsp;à toutes les unités en large cône.,Verursache Blindheit&nbsp;2 bei allen Einheiten in einem größeren kegelförmigen Bereich.,Infliggi Accecamento 2 a tutte le unità in un cono più grande.,Aplique cegueira em todas as unidades em um cone maior.,"对较大锥形范围内所有单位造成致盲2效果。
 "
 ABILITY_NIGHTSHADE_NAME,Nightshade,,Belladona,Belladone,Nachtschatten,Belladonna,Beladona,夜影草
 ABILITY_NIGHTSHADE_DESC,Inflict Poison 4 on an adjacent unit.,,Inflige 4 de veneno a una unidad adyacente.,Poison&nbsp;+4&nbsp;à une unité adjacente.,Verursache Gift&nbsp;4 bei einer benachbarten Einheit.,Infliggi Veleno 4 a un'unità adiacente.,Aplique veneno 4 em uma unidade adjacente.,对一个相邻单位造成中毒4。

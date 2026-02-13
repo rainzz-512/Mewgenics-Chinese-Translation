@@ -542,8 +542,8 @@ PASSIVE_JETFISTS_DESC,Your melee attacks and abilities blow wind through the til
 PASSIVE_JETFISTS2_DESC,Your melee attacks and abilities blow wind through the tiles they hit in a large cone.,,El ataque cuerpo a cuerpo y las habilidades crean una corriente de viento en las casillas golpeadas en un área cónica más grande.,Vos attaques et compétences au corps-à-corps envoient des rafales sur les cases touchées en large cône.,"Deine Nahkampfangriffe und -fähigkeiten erzeugen Wind in einem großen kegelförmigen Bereich auf den Feldern, die sie treffen.",I tuoi attacchi corpo a corpo e le tue abilità generano una raffica di vento sulle caselle colpite in un cono più ampio.,Seus ataques e habilidades corpo-a-corpo sopram vento em espaços que atingem em um cone amplo.,"你的近战攻击和技能会吹散一个
 大扇形内击中的格子里的风。"
 PASSIVE_ENERGYFISTS_NAME,Energy Fists,,Puños de energía,Poings électriques,Energiefäuste,Pugni Energetici,Punhos de Energia,能量拳
-PASSIVE_ENERGYFISTS_DESC,Emit a Sparkle when you use your basic attack.,,Emite 1 destello al usar el ataque básico.,"Quand vous utilisez votre attaque de base, produisez une Étincelle.","Versprühe einen Funken, wenn du deinen Grundangriff verwendest.",Emetti una Scintilla quando usi il tuo attacco base.,Emita uma fagulha ao utilizar seu ataque básico.,使用基础攻击时发出闪光。
-PASSIVE_ENERGYFISTS2_DESC,Emit two Sparkles when you use your basic attack.,,Emite 2 destellos al usar el ataque básico.,"Quand vous utilisez votre attaque de base, produisez deux Étincelles.","Versprühe zwei Funken, wenn du deinen Grundangriff verwendest.",Emetti due Scintille quando usi il tuo attacco base.,Emita duas fagulhas ao utilizar seu ataque básico.,使用基础攻击时发出两个闪光。
+PASSIVE_ENERGYFISTS_DESC,Emit a Sparkle when you use your basic attack.,,Emite 1 destello al usar el ataque básico.,"Quand vous utilisez votre attaque de base, produisez une Étincelle.","Versprühe einen Funken, wenn du deinen Grundangriff verwendest.",Emetti una Scintilla quando usi il tuo attacco base.,Emita uma fagulha ao utilizar seu ataque básico.,使用基础攻击时发出火花。
+PASSIVE_ENERGYFISTS2_DESC,Emit two Sparkles when you use your basic attack.,,Emite 2 destellos al usar el ataque básico.,"Quand vous utilisez votre attaque de base, produisez deux Étincelles.","Versprühe zwei Funken, wenn du deinen Grundangriff verwendest.",Emetti due Scintille quando usi il tuo attacco base.,Emita duas fagulhas ao utilizar seu ataque básico.,使用基础攻击时发出两个火花。
 PASSIVE_UNSTOPPABLE_NAME,Unstoppable!,,Imparable,Inarrêtable&nbsp;!,Unaufhaltsam!,Inarrestabile!,Imparável!,不可阻挡！
 PASSIVE_UNSTOPPABLE_DESC,"You're immune to knockback, Stun, Slow, and other mobility debuffs.",,"Esta unidad es inmune al retroceso, al aturdimiento, a la ralentización y a otras desventajas de movimiento.","Les effets Recul, Étourdissement, Ralentissement et autres malus de mobilité ne vous affectent pas.","Du bist immun gegen Rückstoß, Betäubung, Verlangsamung und andere Schwächungen, die deine Bewegung beeinflussen.","Sei immune a Contraccolpo, Stordimento, Rallentamento e altri malus alla mobilità.","Você é imune contra empurrões, atordoamento, lentidão e outros enfraquecimentos de mobilidade.","你免疫击退、眩晕、
 减速和其他移动性减益。"
@@ -617,16 +617,16 @@ PASSIVE_FLOWSTATE2_DESC,"When you deal damage to another unit, gain +2 [img:str]
 +2 [img:dex] 和 +2 [img:lck]。"
 PASSIVE_DANCINGLIGHTS_NAME,Dancing Lights,,Luces danzantes,Ballet lumineux,Tanzende Lichter,Luci Danzanti,Luzes Dançantes,舞动之光
 PASSIVE_DANCINGLIGHTS_DESC,"When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.",,"Cuando cambia de postura, por cada espacio de armadura vacío, emite un destello. Si todos los espacios están vacíos, obtiene +1 de un atributo al azar.","Quand vous changez de posture, produisez une Étincelle pour chaque emplacement d'armure vide. Si tous les emplacements sont vides, +1&nbsp;à une stat aléatoire.","Wenn du deine Haltung wechselst, versprühst du für jeden leeren Rüstungsplatz einen Funken. Wenn alle Plätze leer sind, erhältst du +1 auf ein zufälliges Attribut.","Quando cambi postura, per ogni slot armatura vuoto, emetti una Scintilla. Se tutti gli slot sono vuoti, ottieni +1 a una statistica casuale.","Ao trocar de postura, emita uma fagulha para cada espaço de armadura vazio. Se todos os espaços de armadura estiverem vazios, obtenha +1 em um atributo aleatório.","当你切换姿态时，
-每个空置的护甲槽会发出一次闪光。
-如果所有护甲槽均为空，
+每个空置的装备槽会发出一次火花。
+如果所有装备槽均为空，
 随机属性获得+1。"
 PASSIVE_DANCINGLIGHTS2_DESC,"When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.
 While all armor slots are empty, you have +1 Magic Damage.",,"Cuando cambia de postura, por cada espacio de armadura vacío, emite un destello. Si todos los espacios están vacíos, obtiene +1 de un atributo al azar.
 Mientras todos los espacios de armadura están vacíos, obtiene +1 de daño mágico.","Quand vous changez de posture, produisez une Étincelle pour chaque emplacement d'armure vide. Si tous les emplacements sont vides, +1&nbsp;à une stat aléatoire. Tant que les emplacements d'armure sont vides&nbsp;: Dégâts magiques&nbsp;+1.","Wenn du deine Haltung wechselst, versprühst du für jeden leeren Rüstungsplatz einen Funken. Wenn alle Plätze leer sind, erhältst du +1 auf ein zufälliges Attribut.
 Wenn alle Rüstungsplätze leer sind, erhältst du +1&nbsp;magischen Schaden.","Quando cambi postura, per ogni slot armatura vuoto, emetti una Scintilla. Se tutti gli slot sono vuoti, ottieni +1 a una statistica casuale. Finché tutti gli slot armatura restano vuoti, ottieni +1 al Danno Magico.","Ao trocar de postura, emita uma fagulha para cada espaço de armadura vazio. Se todos os espaços de armadura estiverem vazios, obtenha +1 em um atributo aleatório.
 Enquanto todos os espaços de armadura estiverem vazios, você possui +1 de dano mágico.","当你切换姿态时，
-每个空置的护甲槽会发出一次闪光。
-如果所有护甲槽均为空，
+每个空置的装备槽会发出一次火花。
+如果所有装备槽均为空，
 随机属性获得+1。
 当所有护甲槽均为空时，
 获得+1 魔法伤害。"
@@ -2887,7 +2887,7 @@ Emetti 4 Scintille quando usi il tuo attacco base.","Seu ataque básico é um m�
 (Seu dano cresce de acordo com a [img:int]).
 Emita 4 fagulhas ao utilizar seu ataque básico.","你的基础攻击是魔法导弹。
 （其伤害随 [img:int] 增加）。
-使用基础攻击时发出 4 颗闪光。
+使用基础攻击时发出 4 颗火花。
 "
 PASSIVE_OVERLOAD_NAME,Overload,,Sobrecarga,Surcharge,Überladen,Sovraccarico,Sobrecarga,过载
 PASSIVE_OVERLOAD_DESC,"When you cast a spell, deal 1 random elemental damage to adjacent tiles.",,"Al lanzar un hechizo, inflige 1 de daño de un elemento al azar a las casillas adyacentes.","Lorsque vous lancez un sort, vous infligez Dégâts&nbsp;+1&nbsp;d'un élément au hasard aux cases adjacentes.","Wenn du einen Zauber wirkst, verursachst du 1&nbsp;Schaden eines zufälligen Elements auf benachbarte Felder.","Quando lanci un incantesimo, infliggi 1 danno elementale casuale alle caselle adiacenti.","Ao lançar um encantamento, cause 1 de dano elemental aleatório em espaços adjacentes.","当你施放法术时，
@@ -3118,8 +3118,8 @@ PASSIVE_SOULSHATTER_DESC,"When you kill a unit, deal 1 damage to all enemies.",,
 PASSIVE_SOULSHATTER2_DESC,"When you kill a unit, deal 2 damage to all enemies.",,"Al matar a una unidad, inflige 2 de daño a todos los enemigos.","Lorsque vous tuez une unité, vous infligez Dégâts&nbsp;+2&nbsp;à tous les ennemis.","Wenn du eine Einheit tötest, verursachst du 2&nbsp;Schaden bei allen Gegnern.","Quando uccidi un'unità, infliggi 2 di danno a tutti i nemici.","Ao matar uma unidade, cause 2 de dano a todos os inimigos.","当你杀死一个单位时，
 对所有敌人造成2点伤害。"
 PASSIVE_GLOW_NAME,Glow,,Brillo,Lueur,Strahlen,Iridescenza,Brilho,发光
-PASSIVE_GLOW_DESC,Your basic attack inflicts Blind.,,El ataque básico inflige ceguera.,Votre attaque de base inflige Cécité.,Dein Grundangriff verursacht Blindheit.,Il tuo attacco base causa Accecamento.,Seu ataque básico aplica cegueira.,你的普通攻击会造成失明。
-PASSIVE_GLOW2_DESC,All damage you deal inflicts Blind.,,Todo el daño infligido inflige ceguera.,Tous vos dégâts infligent Cécité.,"Jeder Schaden, den du verursachst, verursacht Blindheit.",Tutto il danno che infliggi causa Accecamento.,Qualquer dano causado por você aplica cegueira.,"你造成的所有伤害都会造成失明。
+PASSIVE_GLOW_DESC,Your basic attack inflicts Blind.,,El ataque básico inflige ceguera.,Votre attaque de base inflige Cécité.,Dein Grundangriff verursacht Blindheit.,Il tuo attacco base causa Accecamento.,Seu ataque básico aplica cegueira.,你的普通攻击会造成致盲。
+PASSIVE_GLOW2_DESC,All damage you deal inflicts Blind.,,Todo el daño infligido inflige ceguera.,Tous vos dégâts infligent Cécité.,"Jeder Schaden, den du verursachst, verursacht Blindheit.",Tutto il danno che infliggi causa Accecamento.,Qualquer dano causado por você aplica cegueira.,"你造成的所有伤害都会造成致盲。
 "
 PASSIVE_BLINK_NAME,Blink,,Pestañeo,Clignement,Blinzeln,Battito di Ciglia,Piscadela,闪烁
 PASSIVE_BLINK_DESC,33% chance to teleport to a random tile when targeted by an enemy.,,33 % de probabilidad de teletransportarse a una casilla al azar cuando un enemigo apunta a esta unidad.,33&nbsp;% de chances de vous téléporter vers une case aléatoire lorsque vous êtes la cible d'un ennemi.,"33%ige Chance, dich auf ein zufälliges Feld zu teleportieren, wenn ein Gegner dich anvisiert.",33% di probabilità di teletrasportarti in una casella casuale quando ti prende di mira un nemico.,33% de chance de se teletransportar para um espaço aleatório ao entrar na mira de um inimigo.,"被敌人选中时，

@@ -51,7 +51,7 @@ KEYWORD_BLESSINGOFPEACE_DESC,Gain +{stacks} [img:divineshield] at the end of you
 造成伤害时失去该效果。"
 KEYWORD_BLESSINGOFPEACE_DESC_STACKLESS,Gain [img:divineshield] at the end of your turn. Lose this when you deal damage.,,Obtiene [img:divineshield] al final del turno. Lo pierde al infligir daño.,Vous obtenez de la [img:divineshield] à la fin de votre tour. Vous perdez ceci quand vous infligez des dégâts.,"Erhält am Ende deines Zuges [img:divineshield]. Verschwindet, wenn du Schaden verursachst.",Ottieni [img:divineshield] alla fine del tuo turno. Lo perdi quando infliggi danno.,Obtenha [img:divineshield] no final do seu turno. Perca isto ao causar dano.,"在你的回合结束时获得 [img:divineshield]。
 造成伤害时失去该效果。"
-KEYWORD_BLIND_NAME,Blind,,Ceguera,Cécité,Blindheit,Accecamento,Cegueira,失明
+KEYWORD_BLIND_NAME,Blind,,Ceguera,Cécité,Blindheit,Accecamento,Cegueira,致盲
 KEYWORD_BLIND_DESC,30% miss chance for the next {stacks} turns.,,30 % de probabilidad de fallo en los siguientes {stacks} turnos.,Risques d'échec +30&nbsp;% pour les {stacks} prochains tours.,"Für die nächsten {stacks}&nbsp;Züge: 30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di probabilità di mancare il bersaglio per i prossimi {stacks} turni.,30% de chance de errar nos próximos {stacks} turnos.,"接下来 {stacks} 回合内
 30% 的攻击会未命中。"
 KEYWORD_BLIND_DESC_STACKLESS,30% miss chance for the next turn.,,30 % de probabilidad de fallo en el siguiente turno.,Risques d'échec +30&nbsp;% pour le tour à venir.,"Für den nächsten Zug: 30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di probabilità di mancare il bersaglio per il prossimo turno.,30% de chance de errar no próximo turno.,"接下来一回合内 30% 的攻击会未命中。
@@ -297,10 +297,10 @@ KEYWORD_INVULNERABLE_NAME,Invulnerable,,Invulnerabilidad,Invulnérabilité,Unver
 KEYWORD_INVULNERABLE_DESC,Does not take damage.,,No sufre daño.,Ne peut pas subir de dégâts.,Erleidet keinen Schaden.,Non subisce danno.,Não sofre dano.,不会受到伤害。
 KEYWORD_KINETICSPPIKES_NAME,Kinetic Spikes,,Pinchos cinéticos,Pics cinétiques,Kinetiknadeln,Spuntoni Cinetici,Espinhos Cinéticos,动力尖刺
 KEYWORD_KINETICSPPIKES_DESC,"When this takes damage, emit {stacks} Sparkles.",,"Al sufrir daño, emite {stacks} destellos.","Subissant des dégâts, {stacks} étincelles sont émises.","Einheit versprüht {stacks}&nbsp;Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette {stacks} Scintille.","Ao sofrer dano, emite {stacks} fagulhas.","当此单位受到伤害时，
-发出 {stacks} 个闪光。"
-KEYWORD_KINETICSPPIKES_DESC_SINGULAR,"When this takes damage, emit a Sparkle.",,"Al sufrir daño, emite un destello.","Subissant des dégâts, une étincelle est émise.","Einheit versprüht einen Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette una Scintilla.","Ao sofrer dano, emite uma fagulha.","当此单位受到伤害时，发出一个闪光。
+发出 {stacks} 个火花。"
+KEYWORD_KINETICSPPIKES_DESC_SINGULAR,"When this takes damage, emit a Sparkle.",,"Al sufrir daño, emite un destello.","Subissant des dégâts, une étincelle est émise.","Einheit versprüht einen Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette una Scintilla.","Ao sofrer dano, emite uma fagulha.","当此单位受到伤害时，发出一个火花。
 "
-KEYWORD_KINETICSPPIKES_DESC_STACKLESS,"When this takes damage, emit Sparkles.",,"Al sufrir daño, emite destellos.","Subissant des dégâts, des étincelles sont émises.","Einheit versprüht Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette Scintille.","Ao sofrer dano, emite fagulhas.","当此单位受到伤害时，发出闪光。
+KEYWORD_KINETICSPPIKES_DESC_STACKLESS,"When this takes damage, emit Sparkles.",,"Al sufrir daño, emite destellos.","Subissant des dégâts, des étincelles sont émises.","Einheit versprüht Funken, wenn sie Schaden erleidet.","Quando subisce danno, emette Scintille.","Ao sofrer dano, emite fagulhas.","当此单位受到伤害时，发出火花。
 "
 KEYWORD_LEECHES_NAME,Leeches,,Sanguijuelas,Sangsues,Blutegel,Sanguisughe,Sanguessugas,水蛭
 KEYWORD_LEECHES_NAME_APPLIER,{applier's} Leeches.,,Son las sanguijuelas de {applier's}.,Sangsues ({applier}).,Blutegel von {applier},Sanguisughe di {applier}.,Sanguessugas de {applier's}.,{applier's} 吸血。
