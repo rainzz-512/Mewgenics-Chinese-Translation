@@ -5541,7 +5541,7 @@ EVENT_SAFE_QUES_N,,,,,,,,
 EVENT_SAFE_REW1,"With a *[i]click[/i]* the safe swings open and {catname} purrs in triumph at {his} accomplishment!
 ",,"Con un [i]clic[/i], la caja fuerte se abre ¡y {catname} ronronea de satisfacción por su logro!
 ","Après un *[i]clic[/i]* audible, le coffre s'ouvre en grand et {catname} ronronne de triomphe suite à tel accomplissement&nbsp;!","Ein sanftes *[i]Klick[/i]* ertönt und die Tresortür öffnet sich. {catname} schnurrt zufrieden und freut sich über {his}e Errungenschaft!
-","Con un *[i]click[/i]* la cassaforte si spalanca, e {catname} fa le fusa in segno di trionfo per il proprio successo!","Com um *[i]clique[/i]*, o cofre se abre e {catname} ronrona triunfante por sua conquista!",随着*【i】咔嗒【/i】*一声，保险柜打开了，{catname} 为{his}成就感到满意地咕噜起来！
+","Con un *[i]click[/i]* la cassaforte si spalanca, e {catname} fa le fusa in segno di trionfo per il proprio successo!","Com um *[i]clique[/i]*, o cofre se abre e {catname} ronrona triunfante por sua conquista!",随着*[i]咔嗒[/i]*一声，保险柜打开了，{catname} 为{his}成就感到满意地咕噜起来！
 EVENT_SAFE_REW1_M,,,,,,,,
 EVENT_SAFE_REW1_F,,,,,,,,
 EVENT_SAFE_REW1_N,,,,,,,,
@@ -5671,7 +5671,7 @@ EVENT_BOTTLEOFUNKNOWNLIQUID_REW4,"{catname} goes to take the bottle but is inter
 
 {catname} entra em pânico e foge!","{catname} 正要拿起瓶子，却被愤怒的喊叫声和巨大雷鸣般的脚步声打断！
 
-【i】“那是我的垃圾！”【/i】
+[i]“那是我的垃圾！”[/i]
 
 {catname} 惊慌失措逃跑！"
 EVENT_BOTTLEOFUNKNOWNLIQUID_REW4_M,,,,,,"{catname} sta per afferrare la bottiglia, ma viene interrotto da un urlo rabbioso e da un rumore fragoroso di passi in avvicinamento!
