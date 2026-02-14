@@ -64,7 +64,7 @@ what's wrong with {Catname}?!",,"[m:shocked]Eh...
 ¡¿Qué problema tiene {Catname}?!","[m:shocked]Euh
 Et {catname}, c'est sa tête qui ne te revenait pas&nbsp;?!","[m:shocked]Ähh, was hast du gegen {Catname}?!","[m:shocked]Uhh...
 Cos'ha {Catname} che non va?!","[m:shocked]Uhh...
-O que há de errado com {Catname}?!",[m:shocked]呃，{Catname}怎么了？！
+O que há de errado com {Catname}?!",[m:shocked]呃，{Catname} 怎么了？！
 NPC_BEANIES_INTRO_16_M,,,,,,,,
 NPC_BEANIES_INTRO_16_F,,,,,,,,
 NPC_BEANIES_INTRO_16_N,,,,,,,,
@@ -109,7 +109,7 @@ Je n'oublierai pas de récupérer celle qui était dans ses coudes avant de l'in
 ich werde das Gehirn von {Catname} ordentlich ausdrücken, bevor {he} in den Ofen kommt.","[m:winking]Non preoccuparti,
 mi assicurerò di raccoglierne un po' dai gomiti di {Catname} prima della cremazione.","[m:winking]Não se preocupe,
 Eu já vou trabalhar muito duro na incineração de {Catname}.","[m:winking]别担心，
-我会确保在{Catname}被焚毁前收集一些他的肘部材料。"
+我会确保在 {Catname} 被焚毁前收集一些他的肘部材料。"
 NPC_BEANIES_INTRO_25_M,,,,,,,,
 NPC_BEANIES_INTRO_25_F,,,,,,,,
 NPC_BEANIES_INTRO_25_N,,,,,,,,
@@ -2967,15 +2967,15 @@ NPC_POPUP_FIRST_FIGHT_INTRO_8,"[m:veryangry]Your goal is to
 [a:shake]ucciderli tutti![/a]","[m:veryangry]Seu objetivo é
 [a:shake]matar todos eles![/a]","[m:veryangry]你的目标是
 [a:shake]全都干掉！[/a]"
-NPC_POPUP_FIRST_FIGHT_INTRO_9,It is now {Catname's} turn.,Butch,Ahora es el turno de {Catname's}.,"Là, c'est à {catname} de jouer son tour.",{Catname} ist jetzt am Zug.,Ora è il turno di {Catname}.,Agora é o turno de {Catname}.,现在轮到{Catname}了。
+NPC_POPUP_FIRST_FIGHT_INTRO_9,It is now {Catname's} turn.,Butch,Ahora es el turno de {Catname's}.,"Là, c'est à {catname} de jouer son tour.",{Catname} ist jetzt am Zug.,Ora è il turno di {Catname}.,Agora é o turno de {Catname}.,现在轮到 {Catname} 了。
 NPC_POPUP_FIRST_FIGHT_INTRO_9_M,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_9_F,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_9_N,,,,,,,,
-NPC_POPUP_FIRST_FIGHT_INTRO_10,[m:pointdiagonal]You can tell because of that pawprint thing above {Catname's} head.,Butch,[m:pointdiagonal]Te lo indica la huella que hay sobre la cabeza de {Catname's}.,"[m:pointdiagonal]Tu le sais, car {catname} a une empreinte de patte au-dessus de la tête.",[m:pointdiagonal]Das siehste an dem kleinen Pfotensymbol über dem Kopf von {Catname}.,[m:pointdiagonal]Lo puoi capire da quella specie di impronta di zampa sopra la testa di {Catname}.,[m:pointdiagonal]Você pode saber disso ao ver aquela pegada sobre a cabeça de {Catname}.,[m:pointdiagonal]你可以从{Catname}头顶上的爪印辨认出来。
+NPC_POPUP_FIRST_FIGHT_INTRO_10,[m:pointdiagonal]You can tell because of that pawprint thing above {Catname's} head.,Butch,[m:pointdiagonal]Te lo indica la huella que hay sobre la cabeza de {Catname's}.,"[m:pointdiagonal]Tu le sais, car {catname} a une empreinte de patte au-dessus de la tête.",[m:pointdiagonal]Das siehste an dem kleinen Pfotensymbol über dem Kopf von {Catname}.,[m:pointdiagonal]Lo puoi capire da quella specie di impronta di zampa sopra la testa di {Catname}.,[m:pointdiagonal]Você pode saber disso ao ver aquela pegada sobre a cabeça de {Catname}.,[m:pointdiagonal]你可以从 {Catname} 头顶上的爪印辨认出来。
 NPC_POPUP_FIRST_FIGHT_INTRO_10_M,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_10_F,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_10_N,,,,,,,,
-NPC_POPUP_FIRST_FIGHT_INTRO_11,[m:pointleft]This is {Catname's} [b]basic attack[/b].,Butch,[m:pointleft]Este es el [b]ataque básico[/b] de {Catname's}.,"[m:pointleft]{catname} dispose d'une [b]attaque de base[/b], ici.",[m:pointleft]Das ist der [b]Grundangriff[/b] von {Catname}.,[m:pointleft]Questo è l'[b]attacco base[/b] di {Catname}.,[m:pointleft]Este é o [b]ataque básico[/b] de {Catname}.,[m:pointleft]这是{Catname}的[b]基础攻击[/b]。
+NPC_POPUP_FIRST_FIGHT_INTRO_11,[m:pointleft]This is {Catname's} [b]basic attack[/b].,Butch,[m:pointleft]Este es el [b]ataque básico[/b] de {Catname's}.,"[m:pointleft]{catname} dispose d'une [b]attaque de base[/b], ici.",[m:pointleft]Das ist der [b]Grundangriff[/b] von {Catname}.,[m:pointleft]Questo è l'[b]attacco base[/b] di {Catname}.,[m:pointleft]Este é o [b]ataque básico[/b] de {Catname}.,[m:pointleft]这是 {Catname} 的[b]基础攻击[/b]。
 NPC_POPUP_FIRST_FIGHT_INTRO_11_M,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_11_F,,,,,,,,
 NPC_POPUP_FIRST_FIGHT_INTRO_11_N,,,,,,,,
@@ -3044,11 +3044,11 @@ Gerade kannste nichts mehr tun, beende also deinen Zug.","[m:default]Alla fine d
 Non hai altro da fare, quindi concludi il tuo turno.","[m:default]Você obtém [b]mana[/b] no final do seu turno de acordo com a sua [img:int].
 Não há mais nada a fazer, então encerre seu turno.","[m:default]你在回合结束时获得等同于你[img:int]的[b]法力值[/b]。
 没有其他事情可做了，就结束你的回合吧。"
-NPC_POPUP_RANGED_CAT_INTRO_1,It is now {Catname's} turn,Butch,Ahora es el turno de {Catname's}.,C'est maintenant à {catname} de jouer.,{Catname} ist jetzt am Zug.,Ora è il turno di {Catname}.,Agora é o turno de {Catname},现在轮到{Catname}行动
+NPC_POPUP_RANGED_CAT_INTRO_1,It is now {Catname's} turn,Butch,Ahora es el turno de {Catname's}.,C'est maintenant à {catname} de jouer.,{Catname} ist jetzt am Zug.,Ora è il turno di {Catname}.,Agora é o turno de {Catname},现在轮到 {Catname} 行动
 NPC_POPUP_RANGED_CAT_INTRO_1_M,,,,,,,,
 NPC_POPUP_RANGED_CAT_INTRO_1_F,,,,,,,,
 NPC_POPUP_RANGED_CAT_INTRO_1_N,,,,,,,,
-NPC_POPUP_RANGED_CAT_INTRO_2,{Catname} has a [b]ranged basic attack[/b].,Butch,{Catname} tiene un [b]ataque básico a distancia[/b].,{catname} a une [b]attaque de base à distance[/b].,{Catname} hat einen [b]Fernkampfangriff als Grundangriff[/b].,{Catname} ha un [b]attacco base a distanza[/b].,{Catname} possui um [b]ataque básico à distância[/b].,{Catname}拥有一个[b]远程基础攻击[/b]。
+NPC_POPUP_RANGED_CAT_INTRO_2,{Catname} has a [b]ranged basic attack[/b].,Butch,{Catname} tiene un [b]ataque básico a distancia[/b].,{catname} a une [b]attaque de base à distance[/b].,{Catname} hat einen [b]Fernkampfangriff als Grundangriff[/b].,{Catname} ha un [b]attacco base a distanza[/b].,{Catname} possui um [b]ataque básico à distância[/b].,{Catname} 拥有一个[b]远程基础攻击[/b]。
 NPC_POPUP_RANGED_CAT_INTRO_2_M,,,,,,,,
 NPC_POPUP_RANGED_CAT_INTRO_2_F,,,,,,,,
 NPC_POPUP_RANGED_CAT_INTRO_2_N,,,,,,,,
@@ -3111,7 +3111,7 @@ NPC_POPUP_RANGED_ATTACK_TOMTOM_FAIL_ALLY_1,[m:angry]Nooooo! That dude is on your
 NPC_POPUP_RANGED_ATTACK_TOMTOM_FAIL_ALLY_2,[m:angry]Now you gotta wait until your next turn to attack the Tom Tom. Ugh.,Butch,[m:angry]Ahora tendrás que esperar hasta el próximo turno para atacar al Tom Tom. Dios mío...,"[m:angry]Maintenant, tu vas devoir attendre ton prochain tour pour attaquer le Tom Tom. Arf...","[m:angry]Jetzt musste bis zum nächsten Zug warten, um das Tom Tom anzugreifen. Argh.",[m:angry]Ora dovrai aspettare il tuo prossimo turno per attaccare il Tom Tom. Ugh.,[m:angry]Agora você vai precisar esperar o seu próximo turno para atacar o tom tom. Ugh.,[m:angry]现在你得等到下回合才能攻击Tom Tom。真糟糕。
 NPC_POPUP_RANGED_ATTACK_TOMTOM_FAIL_RAT_1,"[m:sad]Yeah OK, so that rat was already dead. You got a thing for corpses or somethin'?",Butch,"[m:sad]Maravilloso. La rata ya estaba tiesa, pero, oye, que si tienes un fetiche con los cadáveres...","[m:sad]Oui, si tu veux. Mais ce rat était déjà mort. T'as une obsession pour les cadavres ou bien&nbsp;?","[m:sad]Ja, super, die Ratte war schon tot. Stehst du irgendwie auf Leichen oder so?","[m:sad]Sì, ok, quel topo era già morto. Hai una passione per i cadaveri, per caso?","[m:sad]É, ok, então, aquele rato já estava morto. Você tem alguma tara por cadáveres ou algo assim?",[m:sad]好吧，那只老鼠已经死了。你是不是对尸体有什么兴趣？
 NPC_POPUP_RANGED_ATTACK_TOMTOM_FAIL_RAT_2,[m:default]You will now have to wait until your next turn to attack the Tom Tom.,Butch,[m:default]Ahora tendrás que esperar hasta el próximo turno para atacar al Tom Tom.,[m:default]Tu vas maintenant devoir attendre ton prochain tour pour attaquer le Tom Tom.,"Jetzt musste bis zum nächsten Zug warten, um das anzugreifen.",[m:default]Ora dovrai aspettare il tuo prossimo turno per attaccare il Tom Tom.,[m:default]Agora você vai precisar esperar o seu próximo turno para atacar o tom tom.,[m:default]你现在必须等到下回合才能攻击Tom Tom。
-NPC_POPUP_MELEE_CAT_SPIT_1,"OK, it's {Catname's} turn again.",Butch,"Bien, vuelve a ser el turno de {Catname's}.","Bon, c'est à nouveau à {catname} de jouer son tour.","Okay, {Catname} ist wieder dran.","Ok, è di nuovo il turno di {Catname}.","OK, agora é o turno de {Catname} novamente.",好了，该轮到{Catname}了。
+NPC_POPUP_MELEE_CAT_SPIT_1,"OK, it's {Catname's} turn again.",Butch,"Bien, vuelve a ser el turno de {Catname's}.","Bon, c'est à nouveau à {catname} de jouer son tour.","Okay, {Catname} ist wieder dran.","Ok, è di nuovo il turno di {Catname}.","OK, agora é o turno de {Catname} novamente.",好了，该轮到 {Catname} 了。
 NPC_POPUP_MELEE_CAT_SPIT_1_M,,,,,,,,
 NPC_POPUP_MELEE_CAT_SPIT_1_F,,,,,,,,
 NPC_POPUP_MELEE_CAT_SPIT_1_N,,,,,,,,
@@ -3153,7 +3153,7 @@ NPC_POPUP_DONE_SPITTING_FAIL_ALLY_1,[m:veryangry]No no no NO NO! Idiot! [m:angry
 NPC_POPUP_DONE_SPITTING_FAIL_ALLY_2,[m:sad]Look... I'm trying. I'm really trying.,Butch,"[m:sad]Oye, yo lo intento, ¿eh? Te juro que lo intento.","[m:sad]Écoute... J'essaie. Vraiment, j'essaie.",[m:sad]Hör mal&nbsp;… Ich hab es versucht. Ich hab es echt versucht.,[m:sad]Senti... io ci sto provando. Ci sto provando davvero.,[m:sad]Olha... eu estou tentando. Eu realmente estou tentando.,[m:sad]看……我在努力。我真的在努力。
 NPC_POPUP_DONE_SPITTING_FAIL_ALLY_3,But now you need to try. Good luck with the rest of the fight.,Butch,Pero tienes que ponerle un poco de empeño. Suerte con el resto del combate.,"Mais là, c'est à ton tour de bosser. Bonne chance pour la fin du combat.",Aber jetzt liegt es an dir. Viel Glück mit dem Rest.,Ma ora devi metterci qualcosa di tuo. Buona fortuna per il resto del combattimento.,Mas agora você precisa tentar. Boa sorte com o resto da luta.,但现在你需要努力了。祝你接下来的战斗好运。
 NPC_POPUP_DO_NOT_END_TURN_1,Do not end your turn yet. I'm still telling you to do things...,Butch,"No acabes todavía el turno, ¿no ves que todavía te estoy diciendo cosas?",Ne termine pas encore ton tour. Je n'ai pas fini de te dire quoi faire...,Beende deinen Zug noch nicht. Hör mir doch mal zu&nbsp;…,Non terminare ancora il tuo turno. Ti sto suggerendo ancora delle cose da fare...,Não finalize seu turno ainda. Eu ainda estou lhe dizendo para fazer coisas...,不要结束你的回合。我还在告诉你要做的事……
-NPC_POPUP_TUTORIAL_CAT_DIES_1,"[m:sad]Well damn, it looks like {Catname} got hit pretty hard.",Butch,[m:sad]Vaya... Parece que {Catname} se ha llevado una buena paliza.,"[m:sad]Oh, bah mince, {catname} s'est fait taper bien comme il faut on dirait.","[m:sad]Verdammt, sieht aus, als hätte {Catname} ganz schön was abbekommen.","[m:sad]Beh, accidenti, sembra che {Catname} abbia subito davvero un brutto colpo.","[m:sad]Puxa, parece que {Catname} sofreu um golpe em cheio.",[m:sad]真糟糕，看起来{Catname}受伤挺重的。
+NPC_POPUP_TUTORIAL_CAT_DIES_1,"[m:sad]Well damn, it looks like {Catname} got hit pretty hard.",Butch,[m:sad]Vaya... Parece que {Catname} se ha llevado una buena paliza.,"[m:sad]Oh, bah mince, {catname} s'est fait taper bien comme il faut on dirait.","[m:sad]Verdammt, sieht aus, als hätte {Catname} ganz schön was abbekommen.","[m:sad]Beh, accidenti, sembra che {Catname} abbia subito davvero un brutto colpo.","[m:sad]Puxa, parece que {Catname} sofreu um golpe em cheio.",[m:sad]真糟糕，看起来 {Catname} 受伤挺重的。
 NPC_POPUP_TUTORIAL_CAT_DIES_1_M,,,,,,,,
 NPC_POPUP_TUTORIAL_CAT_DIES_1_F,,,,,,,,
 NPC_POPUP_TUTORIAL_CAT_DIES_1_N,,,,,,,,
@@ -3183,7 +3183,7 @@ NPC_POPUP_LEVEL_UP_INTRO_3,"[m:happy]Check out ol' {Catname}, {he's} about to ge
 [m:pointleft]¡Fíjate qué montón de opciones!","[m:happy]Jette un œil à {catname}, {he} va tout de suite gagner en puissance.
 [m:pointleft]Et regarde tous ces choix&nbsp;!","[m:happy]Sieh nur, {Catname} hier strotzt richtig vor Energie.
 [m:pointleft]All diese Möglichkeiten!",,"[m:happy]Veja, {Catname} está prestes a melhorar bastante.
-[m:pointleft]Olhe só todas essas opções!","[m:happy]看看老{Catname}，{he's}马上就要变得更强了，
+[m:pointleft]Olhe só todas essas opções!","[m:happy]看看老 {Catname}，{he's}马上就要变得更强了，
 [m:pointleft]瞧瞧这些选项！"
 NPC_POPUP_LEVEL_UP_INTRO_3_M,,,,,,"[m:happy]Guarda il vecchio {Catname}, migliorerà parecchio.
 [m:pointleft]Quante fantastiche opzioni!",,
@@ -3193,7 +3193,7 @@ NPC_POPUP_LEVEL_UP_INTRO_3_N,,,,,,"[m:happy]Guarda {Catname}, migliorerà parecc
 [m:pointleft]Quante fantastiche opzioni!",,
 NPC_POPUP_LEVEL_UP_INTRO_4,"[m:default]Originally I was gonna let you choose yourself, but I feel the need to point something out.",Butch,"[m:default]De primeras iba a dejar que escogieras tú, pero siento la necesidad de señalarte una cosa.","[m:default]Au début, je voulais te laisser choisir par toi-même, mais maintenant, je me sens obligé de te guider un peu.","[m:default]Eigentlich wollte ich, dass du dir selbst etwas aussuchst, aber ich finde, ich sollte etwas erwähnen.","[m:default]Avrei voluto lasciarti scegliere liberamente, ma sento il bisogno di farti notare una cosa.","[m:default]Inicialmente, eu ia deixar você escolher, mas acho importante apontar algo.",[m:default]本来我打算让你自己选择，但我觉得有必要指出一件事。
 NPC_POPUP_LEVEL_UP_INTRO_5,There's a pretty awesome combo here.,Butch,Esto de aquí es un combo bastante potente.,Il y a un sacré combo à faire là.,Wir können hier eine ziemlich coole Kombo machen.,Qui c'è una combo davvero fantastica.,Essa combinação é simplesmente incrível.,这里有一个相当棒的连招。
-NPC_POPUP_LEVEL_UP_INTRO_6,Check out {Catname's} current passive effect up there.,Butch,Mira el efecto pasivo actual de {Catname's}.,Examine le passif qui est déjà sur {catname}.,Sieh dir den Passiveffekt von {Catname} an.,Dai un'occhiata qui sopra all'effetto passivo corrente di {Catname}.,Confira o efeito passivo atual de {Catname} ali em cima.,看看{Catname}当前的被动效果。
+NPC_POPUP_LEVEL_UP_INTRO_6,Check out {Catname's} current passive effect up there.,Butch,Mira el efecto pasivo actual de {Catname's}.,Examine le passif qui est déjà sur {catname}.,Sieh dir den Passiveffekt von {Catname} an.,Dai un'occhiata qui sopra all'effetto passivo corrente di {Catname}.,Confira o efeito passivo atual de {Catname} ali em cima.,看看 {Catname} 当前的被动效果。
 NPC_POPUP_LEVEL_UP_INTRO_6_M,,,,,,,,
 NPC_POPUP_LEVEL_UP_INTRO_6_F,,,,,,,,
 NPC_POPUP_LEVEL_UP_INTRO_6_N,,,,,,,,
@@ -3889,11 +3889,11 @@ NPC_POPUP_STEVEN_SAVESCUM_1ALT3_5,[m:paranoid]Or girl? It's hard to see from thi
 NPC_POPUP_STEVEN_SAVESCUM_1ALT3_6,[m:angry]LOOK AT THIS THING! LOOK AT IT CHEAT!,Steven,[m:angry]¡MIRAD ESTA COSA! ¡MIRAD CÓMO HACE TRAMPAS!,[m:angry]CE MACHIN-LÀ&nbsp;! IL TRIIICHE&nbsp;!,"[m:angry]SEHT EUCH DAS DING UNBESTIMMTEN GESCHLECHTS HIER AN! SEHT, WIE ES BEI EINEM VIDEOSPIEL BETRÜGT!",[m:angry]GUARDATE TUTTI! A QUESTO... ESSERE PIACE IMBROGLIARE!,[m:angry]OLHEM ESSA COISINHA! COISINHA TRAPACEIRA!,[m:angry]看这东西！看它作弊！
 NPC_POPUP_STEVEN_SAVESCUM_1ALT3_7,"[m:default]... OK, that's enough punishment.",Steven,"[m:default]Vale, ya basta de castigarte.","[m:default]... Allez, c'est assez de punition, je pense.","[m:default]…&nbsp;Okay, das war genug Strafe, schätze ich.","[m:default]...ok, mi sembra una punizione sufficiente.","[m:default]... OK, já chega de punições.",[m:default]……好了，惩罚到此为止。
 NPC_POPUP_STEVEN_SAVESCUM_1ALT3_8,[m:angry]This was your warning! Any more cheating and I come kill you as per usual!,Steven,"[m:angry]¡Esta era tu advertencia! Si vuelves a hacer trampas, iré a matarte como de costumbre.","[m:angry]C'était un avertissement&nbsp;! Si tu triches encore, je viendrai te tuer, comme promis&nbsp;!","[m:angry]Das war deine erste und letzte Warnung! Betrügst du weiter, komme ich wie immer vorbei und lege dich persönlich um!","[m:angry]Questo era il tuo avvertimento! Se imbrogli ancora, verrò a ucciderti come di consueto!","[m:angry]Este foi o seu aviso! Se você roubar mais uma vez, eu venho te matar como sempre!",[m:angry]这是你的警告！再作弊我就照老规矩杀了你！
-NPC_POPUP_STEVEN_SAVESCUM_2ALT1_1,[m:sad]Well now lil' {Catname} has had their IQ lowered by 30 or so points...,Steven,"[m:sad]Bueno, ahora el CI de {Catname} ha bajado como 30 puntos.","[m:sad]Et voilà, l'adorable {catname} vient de perdre au moins 30&nbsp;points de QI...","[m:sad]Och, na so was, jetzt hat {Catname} plötzlich 30&nbsp;weniger IQ&nbsp;…","[m:sad]Bene, ora {Catname} avrà il quoziente intellettivo ridotto di più o meno 30 punti...",,[m:sad]好吧，现在小{Catname}的智商降低了大约30点……
+NPC_POPUP_STEVEN_SAVESCUM_2ALT1_1,[m:sad]Well now lil' {Catname} has had their IQ lowered by 30 or so points...,Steven,"[m:sad]Bueno, ahora el CI de {Catname} ha bajado como 30 puntos.","[m:sad]Et voilà, l'adorable {catname} vient de perdre au moins 30&nbsp;points de QI...","[m:sad]Och, na so was, jetzt hat {Catname} plötzlich 30&nbsp;weniger IQ&nbsp;…","[m:sad]Bene, ora {Catname} avrà il quoziente intellettivo ridotto di più o meno 30 punti...",,[m:sad]好吧，现在小 {Catname} 的智商降低了大约30点……
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_1_M,,,,,,,"[m:sad]Bem, agora o QI do pequeno {Catname} diminuiu em cerca de 30 pontos...",
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_1_F,,,,,,,"[m:sad]Bem, agora o QI da pequena {Catname} diminuiu em cerca de 30 pontos...",
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_1_N,,,,,,,,
-NPC_POPUP_STEVEN_SAVESCUM_2ALT1_2,[m:angry]You did this! You made {Catname} queen of the short bus!,Steven,[m:angry]¡Y es culpa tuya! {Catname} ahora es subnormal por culpa tuya.,[m:angry]C'est de ta faute&nbsp;! {catname} n'a plus la lumière à tous les étages&nbsp;!,[m:angry]Das ist deine Schuld! Du hast {Catname} zur Königin der Doofen gemacht!,,,[m:angry]这都是你干的！你让{Catname}成了短途巴士的女王！
+NPC_POPUP_STEVEN_SAVESCUM_2ALT1_2,[m:angry]You did this! You made {Catname} queen of the short bus!,Steven,[m:angry]¡Y es culpa tuya! {Catname} ahora es subnormal por culpa tuya.,[m:angry]C'est de ta faute&nbsp;! {catname} n'a plus la lumière à tous les étages&nbsp;!,[m:angry]Das ist deine Schuld! Du hast {Catname} zur Königin der Doofen gemacht!,,,[m:angry]这都是你干的！你让 {Catname} 成了短途巴士的女王！
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_2_M,,,,,,[m:angry]Ce l'hai fatta! Hai reso {Catname} il principe degli stupidi!,[m:angry]A culpa é sua! Você transformou {Catname} no rei do ônibus escolar das crianças especiais!,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_2_F,,,,,,[m:angry]Ce l'hai fatta! Hai reso {Catname} la principessa degli stupidi!,[m:angry]A culpa é sua! Você transformou {Catname} na rainha do ônibus escolar das crianças especiais!,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_2_N,,,,,,[m:angry]Ce l'hai fatta! Ora {Catname} è sua maestà degli stupidi! ,,
@@ -3905,7 +3905,7 @@ NPC_POPUP_STEVEN_SAVESCUM_2ALT1_7,[m:angry]I could be giving you hints for all y
 NPC_POPUP_STEVEN_SAVESCUM_2ALT1_8,[m:winking]Like this hint... Wear a bag over your face!,Steven,[m:winking]Como esta: ¡ponte una bolsa en la cabeza!,"[m:winking]Tiens, j'en ai un bien... Mets un sac sur ta tête&nbsp;!",[m:winking]Wie dieser hier&nbsp;… Du solltest ‘ne Papiertüte über deinen Kopf ziehen!,[m:winking]Per esempio questo è un suggerimento... mettiti un sacchetto in testa!,[m:winking]Como por exemplo esta dica: use um saco na cabeça!,[m:winking]就像这个提示……脸上戴个袋子！
 NPC_POPUP_STEVEN_SAVESCUM_2ALT2_1,[m:questioning]What the hell dude! I told you to stop this!,Steven,[m:questioning]¡Pero qué cojones! ¡Te he dicho que pares!,[m:questioning]Mais bon sang&nbsp;! Je t'ai dit d'arrêter&nbsp;!,"[m:questioning]Was soll der Mist! Ich hab doch gesagt, du sollst aufhören!",[m:questioning]Ma che diavolo! Ti avevo detto di smetterla!,[m:questioning]Mas que saco! Eu já te disse pra parar com isso!,[m:questioning]你到底在干什么！我叫你停下！
 NPC_POPUP_STEVEN_SAVESCUM_2ALT2_2,[m:angry]It's like you've got some sick addiction to cheating and giving your cats early onset dementia.,Steven,[m:angry]Es como si tuvieras una adicción enfermiza a las trampas y a provocarles demencia a tus gatos.,"[m:angry]On dirait que t'adores ça, tricher de manière malsaine, et faire souffrir tes chats de démence précoce.","[m:angry]Bist du irgendwie süchtig danach, deinen Katzen verfrühte Demenz zu verpassen? ",[m:angry]È come se avessi una dipendenza malata dall'imbroglio e dal causare una demenza precoce ai tuoi gatti.,[m:angry]É como se você tivesse um vício doentio em trapacear e causar demência precoce nos seus gatos.,[m:angry]你就像有种病态的作弊成瘾，还让你的猫早发痴呆。
-NPC_POPUP_STEVEN_SAVESCUM_2ALT2_3,[m:default]{Catname} doesn't even respond when called... Look.,Steven,"[m:default]{Catname} ya ni responde a su nombre, mira.",[m:default]Regarde... {catname} ne répond même plus quand on l'appelle.,"[m:default]{Catname} antwortet nicht einmal, wenn man ruft&nbsp;… Schau mal.",,[m:default]{Catname} nem sequer responde quando eu chamo... Veja.,[m:default]{Catname}叫都不应声……看。
+NPC_POPUP_STEVEN_SAVESCUM_2ALT2_3,[m:default]{Catname} doesn't even respond when called... Look.,Steven,"[m:default]{Catname} ya ni responde a su nombre, mira.",[m:default]Regarde... {catname} ne répond même plus quand on l'appelle.,"[m:default]{Catname} antwortet nicht einmal, wenn man ruft&nbsp;… Schau mal.",,[m:default]{Catname} nem sequer responde quando eu chamo... Veja.,[m:default]{Catname} 叫都不应声……看。
 NPC_POPUP_STEVEN_SAVESCUM_2ALT2_3_M,,,,,,[m:default]{Catname} non risponde nemmeno più quando lo chiami... guarda.,,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT2_3_F,,,,,,[m:default]{Catname} non risponde nemmeno più quando la chiami... guarda.,,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT2_3_N,,,,,,[m:default]{Catname} non risponde nemmeno più agli stimoli... guarda.,,
@@ -3922,12 +3922,12 @@ NPC_POPUP_STEVEN_SAVESCUM_2ALT3_2,How can we establishing a trusting relationshi
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_3,[m:veryangry]KEEP,Steven,[m:veryangry]PARAS,[m:veryangry]CONTINUES,[m:veryangry]IMMER,[m:veryangry]CONTINUI,[m:veryangry]CONTINUA,[m:veryangry]一直
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_4,CHEATING,Steven,DE HACER,CONSTAMMENT,WIEDER,A IMBROGLIARE,ROUBANDO,作弊
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_5,CONSTANTLY!?,Steven,TRAMPAS?,À TRICHER&nbsp;!?,BETRÜGST?!,COSTANTEMENTE?!,SEMPRE?!,不停地！？
-NPC_POPUP_STEVEN_SAVESCUM_2ALT3_6,[m:angry]Remember little {Catname}? Look at them now!,Steven,[m:angry]¿Te acuerdas de tu {Catname}? ¡Pues mira cómo está ahora!,"[m:angry]{catname}, ça te dit quelque chose&nbsp;? Regarde ce que t'en as fait&nbsp;!",[m:angry]Erinnerst du dich an {Catname}? Sieh nur!,,,[m:angry]还记得小{Catname}吗？看看他们现在！
+NPC_POPUP_STEVEN_SAVESCUM_2ALT3_6,[m:angry]Remember little {Catname}? Look at them now!,Steven,[m:angry]¿Te acuerdas de tu {Catname}? ¡Pues mira cómo está ahora!,"[m:angry]{catname}, ça te dit quelque chose&nbsp;? Regarde ce que t'en as fait&nbsp;!",[m:angry]Erinnerst du dich an {Catname}? Sieh nur!,,,[m:angry]还记得小 {Catname} 吗？看看他们现在！
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_6_M,,,,,,[m:angry]Ricordi il piccolo {Catname}? Guardalo ora!,[m:angry]Lembra do pequeno {Catname}? Olha só como ele está agora!,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_6_F,,,,,,[m:angry]Ricordi la piccola {Catname}? Guardala ora!,[m:angry]Lembra da pequena {Catname}? Olha só como ela está agora!,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_6_N,,,,,,[m:angry]Ricordi quell'anima pura di {Catname}? Dai un'occhiata ora!,,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_7,They don't even know I'm talking about them!,Steven,¡Ni siquiera sabe de quién hablamos!,{He} se rend même pas compte qu'{he} est le sujet de la conversation&nbsp;!,"Das arme Ding weiß nicht einmal, dass wir über sie reden!",Non sa nemmeno che è parte della conversazione!,Ele sequer sabe que estou falando dele!,他们甚至不知道我在说他们！
-NPC_POPUP_STEVEN_SAVESCUM_2ALT3_8,[m:whispering]Earth to {Catname} CAN YOU HEAR ME?!!?,Steven,"[m:whispering]Tierra a {Catname}, ¡¿me oyes?!","[m:whispering]Allô, {catname}, ici la Terre. VOUS ME RECEVEZ&nbsp;?!!?","[m:whispering]Erde an {Catname}, KANNST DU MICH HÖREN?!",[m:whispering]Terra a {Catname}! RIESCI A SENTIRMI?!!?,[m:whispering]Terra chamando {Catname}! VOCÊ PODE ME OUVIR?!!?,[m:whispering]地球到{Catname} 你能听到我吗？！！？
+NPC_POPUP_STEVEN_SAVESCUM_2ALT3_8,[m:whispering]Earth to {Catname} CAN YOU HEAR ME?!!?,Steven,"[m:whispering]Tierra a {Catname}, ¡¿me oyes?!","[m:whispering]Allô, {catname}, ici la Terre. VOUS ME RECEVEZ&nbsp;?!!?","[m:whispering]Erde an {Catname}, KANNST DU MICH HÖREN?!",[m:whispering]Terra a {Catname}! RIESCI A SENTIRMI?!!?,[m:whispering]Terra chamando {Catname}! VOCÊ PODE ME OUVIR?!!?,[m:whispering]地球到 {Catname} 你能听到我吗？！！？
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_8_M,,,,,,,,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_8_F,,,,,,,,
 NPC_POPUP_STEVEN_SAVESCUM_2ALT3_8_N,,,,,,,,
