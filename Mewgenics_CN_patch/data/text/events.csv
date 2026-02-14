@@ -12,7 +12,7 @@ Der Gestank der Leiche steigt in {his}e Nase&nbsp;… Streng, aber faszinierend.
 
 O mau cheiro do cadáver preenche seu nariz. Um odor poderoso, porém intrigante.","{catname} 发现了一只死老鼠…
 
-尸体散发出的臭味充斥着 {his} 的鼻子，那是一种强烈但又引人入胜的气味。"
+腐尸的气味冲进 {his} 的鼻子，又浓烈又让人好奇。"
 EVENT_DEADRAT_QUES_M,,,,,,"{catname} trova un ratto morto...
 
 La puzza del cadavere gli riempie il naso: un odore tanto potente quanto intrigante.",,
@@ -34,7 +34,7 @@ Etliche quiekende Schreie ertönen in der Nähe und alle Ratten im Umkreis flieh
 
 Si sentono piccole urla mentre i vicini ratti sgattaiolano via in preda alla paura!","{catname} estraçalha o cadáver!
 
-Pequenos gritos podem ser ouvidos à medida que ratos próximos fogem apavorados!","{catname} 将尸体彻底击溃！
+Pequenos gritos podem ser ouvidos à medida que ratos próximos fogem apavorados!","{catname} 把尸体碾得粉碎！
 
 附近老鼠的尖叫声隐约可闻，它们害怕地四处逃窜！"
 EVENT_DEADRAT_REW1_M,,,,,,,,
@@ -103,9 +103,9 @@ Die anderen Katzen sehen dem grausamen Schauspiel entsetzt zu!
 
 Gli altri gatti guardano sconvolti quest'azione di estrema violenza.","Com um fervor surpreendente, {catname} destrói o pobre rato morto, espalhando seus restos pelo cômodo!
 
-Os outros gatos observam em choque a ação de violência extrema!","出乎意料的热情，{catname} 撕碎了可怜的死老鼠，将其残骸散落整个房间！
+Os outros gatos observam em choque a ação de violência extrema!","带着出乎意料的狂热，{catname} 撕碎了可怜的死老鼠，碎片散落满屋！
 
-其他猫都震惊地看着这一极其暴力的举动！"
+其他猫咪看着这极端暴力的举动，目瞪口呆！"
 EVENT_DEADRAT_REW4_M,,,,,,,,
 EVENT_DEADRAT_REW4_F,,,,,,,,
 EVENT_DEADRAT_REW4_N,,,,,,,,
@@ -122,9 +122,9 @@ L'appétit satisfait, {catname} en garde un peu pour plus tard.","{catname} rei�
 Zufrieden hebt sich {catname} noch etwas für später auf.
 ",,"{catname} despedaça o corpo rechonchudo do rato, devorando a carne dura, porém deliciosa!
 
-Com satisfação, {catname} guarda um pouco para mais tarde.","{catname} 撕开老鼠圆滚滚的身体，吞食着结实却美味的肉！
+Com satisfação, {catname} guarda um pouco para mais tarde.","{catname} 撕开老鼠圆滚滚的身体，吞食着坚韧却美味的肉！
 
-满足后，{catname} 留下一些以备后用。"
+吃饱后，{catname} 留下一些以备后用。"
 EVENT_DEADRAT_REW5_M,,,,,,"{catname} smembra il corpo paffuto del ratto, divorando la carne dura ma deliziosa!
 
 Soddisfatto, {catname} ne mette da parte un po'.",,
@@ -146,7 +146,7 @@ EVENT_DEADRAT_REW6,"{catname} opens {his} mouth and swallows the rat whole! {He}
 
 {catname} solta um miado assustado enquanto seu corpo se transforma em uma nova forma!","{catname} 张开嘴，一口吞下了整只老鼠！{He} 开始感到有些奇怪…
 
-{catname} 发出惊讶的喵叫声，自己的身体变形了！"
+{catname} 发出惊讶的喵叫声，身体变形成了全新的模样！"
 EVENT_DEADRAT_REW6_M,,,,,,"{catname} apre la bocca e ingoia il ratto in un boccone! Comincia però a sentirsi un po' strano...
 
 {catname} emette un miagolio sbigottito mentre il suo corpo muta in una nuova forma!",,
@@ -165,7 +165,7 @@ EVENT_DEADRAT_REW6_N,"{catname} opens their mouth and swallows the rat whole! Th
 
 {catname} solta um miado assustado enquanto seu corpo se transforma em uma nova forma!","{catname} 张开嘴，一口吞下了整只老鼠！他们开始感到有些奇怪…
 
-{catname} 发出惊讶的喵叫声，自己的身体变形了！"
+{catname} 发出惊讶的喵叫声，身体变形成了全新的模样！"
 EVENT_DEADRAT_REW7,"{catname} rashly devours the dead rat without hesitation...
 
 {He} starts to get sick and feels weak!
@@ -179,9 +179,9 @@ Empieza a encontrarse mal y se siente débil...
 {He} bekommt Bauchschmerzen und fühlt sich ganz schwach!
 ","{catname} divora precipitosamente il ratto morto senza esitare...
 
-Comincia a sentirsi male e debole!",,"{catname} 鲁莽地无视犹豫，吞下了死老鼠…
+Comincia a sentirsi male e debole!",,"{catname} 毫不犹豫地鲁莽吞下了死老鼠…
 
-{He} 开始生病，感到虚弱！"
+{He} 随即感到恶心，身体虚弱不堪！"
 EVENT_DEADRAT_REW7_M,,,,,,,,
 EVENT_DEADRAT_REW7_F,,,,,,,,
 EVENT_DEADRAT_REW7_N,"{catname} rashly devours the dead rat without hesitation...
@@ -195,9 +195,9 @@ Empieza a encontrarse mal y se siente débil...
 Es dauert nicht lang, bis {catname} Bauchschmerzen bekommt und sich ganz schwach fühlt!
 ",,"{catname} devora o rato morto sem hesitar...
 
-Logo chega a sensação de estar ficando doente e a fraqueza!","{catname} 鲁莽地无视犹豫，吞下了死老鼠…
+Logo chega a sensação de estar ficando doente e a fraqueza!","{catname} 毫不犹豫地鲁莽吞下了死老鼠…
 
-他们开始生病，感到虚弱！"
+他们随即感到恶心，身体虚弱不堪！"
 EVENT_DEADRAT_REW8,"{catname} gnaws the rat's head off. Its brain is delicious!
 ",,"{catname} roe la cabeza de la rata. ¡Su cerebro está delicioso!
 ",{catname} arrache la tête du rat avec ses dents. Sa cervelle est un délice&nbsp;!,"{catname} nagt den Kopf der Ratte ab. Das Gehirn ist besonders lecker!
@@ -227,7 +227,7 @@ Die Ratte war bereits ein ausgezeichneter Snack!
 
 Il ratto è già un ottimo spuntino!","Não é preciso se sujar mexendo lá dentro, pensa {catname}...
 
-O rato já é um ótimo petisco!","{catname} 想…没必要弄得一团乱了
+O rato já é um ótimo petisco!","{catname} 想…不用乱翻一通了
 
 老鼠已经是个很棒的点心了！"
 EVENT_DEADRAT_REW10_M,,,,,,,,
@@ -257,7 +257,7 @@ Ein Überfall!",,"{catname} sacode o corpo do rato para todos os lados, procuran
 
 Ao sentir a estranha sensação de que alguém está observando, vários pares de olhos surgem brilhando na escuridão…
 
-É uma emboscada!","{catname} 把老鼠的尸体扔来扔去，寻找有用的东西。
+É uma emboscada!","{catname} 把老鼠的尸体翻来覆去，寻找有用的东西。
 
 {He} 有种被人盯着看的怪异感觉，看到几双眼睛在黑暗中盯着{him}…
 
@@ -288,7 +288,7 @@ Ein Überfall!","{catname} sbatacchia il corpo del ratto, in cerca di qualcosa d
 
 Avverte una strana sensazione, come se qualcuno stesse osservando, e vede diversi gruppi di occhi che emergono dall'oscurità...
 
-È un'imboscata!",,"{catname} 把老鼠的尸体扔来扔去，寻找有用的东西。
+È un'imboscata!",,"{catname} 把老鼠的尸体翻来覆去，寻找任何有用的东西。
 
 他们有种被人盯着看的怪异感觉，看到几双眼睛在黑暗中盯着他们…
 
@@ -326,7 +326,7 @@ EVENT_DEADCAT_QUES_N,,,,,,,,
 EVENT_DEADCAT_REW1,"The corpse is fresh. {catname} devours it, not complaining about a good meal.
 ",,"El cadáver está fresco. {catname} lo devora, pues nunca hay que hacerle ascos a una buena comida.
 ","Le corps est frais. {catname} le dévore, n'y voyant qu'un bon repas.","Die Leiche ist noch frisch. {catname} verschlingt sie. Schließlich soll man sich nicht über eine kostenlose Mahlzeit beschweren.
-","Il cadavere è fresco. {catname} lo divora, non lamentandosi di un buon pasto.","O cadáver está fresco. {catname} o devora, sem reclamar de uma boa refeição.",尸体很新鲜。{catname} 狼吞虎咽，不抱怨这顿美餐。
+","Il cadavere è fresco. {catname} lo divora, non lamentandosi di un buon pasto.","O cadáver está fresco. {catname} o devora, sem reclamar de uma boa refeição.",尸体很新鲜。{catname} 狼吞虎咽，对这顿美餐毫无怨言。
 EVENT_DEADCAT_REW1_M,,,,,,,,
 EVENT_DEADCAT_REW1_F,,,,,,,,
 EVENT_DEADCAT_REW1_N,,,,,,,,
@@ -345,9 +345,9 @@ EVENT_DEADCAT_REW2,"{catname} ravenously consumes the dead cat while the rest of
 
 Sembra che {catname} abbia assaporato un po' troppo quest'opportunità!","{catname} devora vorazmente o gato morto enquanto o resto do grupo observa sem jeito...
 
-{catname} parece estar realmente aproveitando essa oportunidade!","{catname} 贪婪地吞食着死去的猫，其余队伍尴尬地看着……
+{catname} parece estar realmente aproveitando essa oportunidade!","{catname} 贪婪地吞食着死去的猫，其他伙伴尴尬地看着……
 
-{catname} 似乎对这个机会乐此不疲！"
+{catname} 对这个机会显然过于享受了！"
 EVENT_DEADCAT_REW2_M,,,,,,,,
 EVENT_DEADCAT_REW2_F,,,,,,,,
 EVENT_DEADCAT_REW2_N,,,,,,,,
@@ -368,7 +368,7 @@ Pestano il gruppo per aver profanato i morti!","Um bando de gatos entra no local
 
 Eles espancam o grupo por profanar os mortos!","一群猫闯入，看见 {catname}，{his} 嘴里还含着毛发和胡须。
 
-他们因为亵渎尸体而揍了队伍！"
+他它们因为亵渎尸体而痛打了整个队伍！"
 EVENT_DEADCAT_REW3_M,,,,,,,,
 EVENT_DEADCAT_REW3_F,,,,,,,,
 EVENT_DEADCAT_REW3_N,,,,,,,,
@@ -387,9 +387,9 @@ Sie werden {catname} nie wieder im selben Licht sehen können&nbsp;… Was für 
 
 Non riusciranno più a guardare {catname} allo stesso modo... che mostro!","Supondo que {catname} vai se manter longe do cadáver, os gatos olham para trás horrorizados quando {catname} começa a canibalizar o corpo!
 
-Eles nunca mais verão {catname} da mesma forma... Que monstruosidade!","假设 {catname} 会远离尸体，猫群惊恐地回头，看到 {catname} 开始吃尸体！
+Eles nunca mais verão {catname} da mesma forma... Que monstruosidade!","原以为 {catname} 会远离尸体，猫群惊恐地回头，看到 {catname} 开始吃尸体！
 
-他们再也不会以同样的眼光看待 {catname}……真是个怪物！"
+它们再也无法用同样的眼光看待 {catname}……真是个怪物！"
 EVENT_DEADCAT_REW4_M,,,,,,,,
 EVENT_DEADCAT_REW4_F,,,,,,,,
 EVENT_DEADCAT_REW4_N,,,,,,,,
@@ -438,7 +438,7 @@ Non era morto! Risvegliato bruscamente dal suo sonno profondo, il gatto graffia 
 
 Ele não estava morto! Desperto bruscamente de um sono profundo, o gato arranha e morde os outros gatos!","{catname} 用爪子检查猫的脉搏……
 
-它没死！被深度睡眠粗暴惊醒的猫抓咬着这些猫！"
+它没死！被从沉睡中粗暴惊醒的猫抓咬起其他猫来！"
 EVENT_DEADCAT_REW7_M,,,,,,,,
 EVENT_DEADCAT_REW7_F,,,,,,,,
 EVENT_DEADCAT_REW7_N,,,,,,,,
@@ -505,7 +505,7 @@ Le larve si spargono dappertutto!","{catname} vira o corpo. Ele está infestado 
 
 As larvas se espalham por toda parte!","{catname} 翻开尸体。尸体里满是蛆虫！
 
-蛆虫到处溢出！"
+蛆虫四处爬出！"
 EVENT_DEADCAT_REW11_M,,,,,,,,
 EVENT_DEADCAT_REW11_F,,,,,,,,
 EVENT_DEADCAT_REW11_N,,,,,,,,
@@ -698,9 +698,9 @@ Was für ein Anblick!","{catname} trova un cumulo grottesco di interiora ammassa
 
 Che fatto bizzarro!","{catname} encontra um monte grotesco de vísceras amontoadas em uma grande pilha...
 
-Que visão estranha!","{catname} 发现一堆丑陋的内脏堆积成大堆……
+Que visão estranha!","{catname} 发现一堆丑陋的内脏堆成了高高的山……
 
-多么奇怪的景象！"
+真是怪异至极的景象！"
 EVENT_GUTPILE_QUES_M,,,,,,,,
 EVENT_GUTPILE_QUES_F,,,,,,,,
 EVENT_GUTPILE_QUES_N,,,,,,,,
@@ -728,7 +728,7 @@ I gatti sono avvelenati!","Todos os membros do grupo se juntam ao banquete! As v
 
 Algum tempo depois, os gatos começam a se sentir um pouco mal…
 
-Os gatos estão envenenados!","整个队伍都加入了盛宴！内脏味道酸爽，但很容易下咽。
+Os gatos estão envenenados!","整个队伍都加入了盛宴！内脏味道酸酸的，但很容易下咽。
 
 过了一会儿，猫们感觉有点不舒服……
 
@@ -896,7 +896,7 @@ EVENT_SEVEREDHEAD_REW1_N,"The head whispers something to {catname} as they get c
 EVENT_SEVEREDHEAD_REW2,"{catname} finds a small boil on the back of the head. Pushing the boil causes the head's eyeball to drop to the floor, blinking in seemingly random intervals.
 ",,"{catname} encuentra un pequeño forúnculo en la parte de atrás de la cabeza. Al presionarlo, el ojo de la cabeza cae al suelo y parpadea a intervalos aparentemente aleatorios.
 ","{catname} trouve un furoncle à l'arrière de la tête. En appuyant dessus, {he} fait tomber l'œil de la tête par terre. Le globe oculaire cligne à intervalles irréguliers.","{catname} entdeckt ein Furunkel auf der Rückseite des Kopfes. {catname} drückt das Furunkel und die Augäpfel des Kopfes fallen auf den Boden. Sie blinzeln wie wild.
-","{catname} trova una piccola pustola sulla nuca della testa. Preme la pustola e il bulbo oculare cade a terra, sbattendo a intervalli apparentemente casuali.","{catname} encontra um pequeno caroço na parte de trás da cabeça. Ao pressionar o caroço, o globo ocular da cabeça cai no chão, piscando em intervalos aparentemente aleatórios.",{catname}发现头部后面有一个小疖子。按压疖子时，头颅的眼球落到地上，眨眼间隔似乎很随机。
+","{catname} trova una piccola pustola sulla nuca della testa. Preme la pustola e il bulbo oculare cade a terra, sbattendo a intervalli apparentemente casuali.","{catname} encontra um pequeno caroço na parte de trás da cabeça. Ao pressionar o caroço, o globo ocular da cabeça cai no chão, piscando em intervalos aparentemente aleatórios.",{catname}发现头部后面有一个小疖子。按压疖子时，头颅的眼球落到地上，不规则地眨动着眼。
 EVENT_SEVEREDHEAD_REW2_M,,,,,,,,
 EVENT_SEVEREDHEAD_REW2_F,,,,,,,,
 EVENT_SEVEREDHEAD_REW2_N,,,,,,,,
@@ -919,7 +919,7 @@ Des souvenirs qui ne sont pas les siens envahissent {catname} et défilent dans 
 
 O cérebro de {catname} é inundado por memórias que não são suas.","头颅尖叫，眼睛滚回了头内！
 
-{catname}的大脑闪现出并非{his}自己的记忆。"
+{catname}的大脑闪现出并非自己的记忆。"
 EVENT_SEVEREDHEAD_REW4_M,,,,,,"La testa urla, e l'occhio rotola di nuovo nella sua testa!
 
 Il cervello di {catname} si riempie di ricordi che non gli appartengono!",,
@@ -1076,7 +1076,7 @@ EVENT_PILEOFCATPELTS_REW1_N,,,,,,,,
 EVENT_PILEOFCATPELTS_REW2,"{catname} dons one of the pelts, and wears it fiercely!
 ",,"{catname} se pone una de las pieles ¡y le da un aspecto de lo más fiero!
 ","{catname} revêt une des peaux, ce qui lui donne l'air féroce&nbsp;!","{catname} legt eines der Felle um und trägt es ab jetzt stolz!
-","{catname} afferra una delle pellicce, e la indossa con fierezza!",{catname} veste uma das peles e a usa com orgulho!,{catname} 穿上其中一张猫皮，穿得非常凶猛！
+","{catname} afferra una delle pellicce, e la indossa con fierezza!",{catname} veste uma das peles e a usa com orgulho!,{catname} 穿上其中一张猫皮，神情凶猛地穿戴着！
 EVENT_PILEOFCATPELTS_REW2_M,,,,,,,,
 EVENT_PILEOFCATPELTS_REW2_F,,,,,,,,
 EVENT_PILEOFCATPELTS_REW2_N,,,,,,,,
@@ -1164,7 +1164,7 @@ EVENT_PILEOFCATPELTS_REW8,"{catname} notices the faces on the pelts are moving. 
 [i]AIUTACI![/i]
 ","{catname} percebe que os rostos nas peles estão se movendo e se inclina para mais perto para ouvir o que estão sussurrando...
 
-[i]AJUDE-NOS!![/i]","{catname} 注意到猫皮上的脸在动。{He} 凑近听它们窃窃私语……
+[i]AJUDE-NOS!![/i]","{catname} 注意到猫皮上的脸在动。{He} 凑近听这些皮的低语……
 
 [i]救救我们！！[/i]"
 EVENT_PILEOFCATPELTS_REW8_M,,,,,,,,
@@ -1175,7 +1175,7 @@ EVENT_PILEOFCATPELTS_REW8_N,"{catname} notices the faces on the pelts are moving
 
 «¡Ayúdanos!».",,"{catname} bemerkt plötzlich, dass sich die Gesichter auf den Fellen bewegen und lehnt sich vor, um zu verstehen, was sie flüstern&nbsp;…
 
-[i]HILFE!![/i]",,,"{catname} 注意到猫皮上的脸在动。他们凑近听这些皮在低语……
+[i]HILFE!![/i]",,,"{catname} 注意到猫皮上的脸在动。他们凑近听这些皮的低语……
 
 [i]救救我们！！[/i]"
 EVENT_PILEOFCATPELTS_REW9,"{catname} digs around in the pile and finds some useful stuff.
@@ -1235,7 +1235,7 @@ EVENT_MYSTERIOUSSTAIN_QUES,"There is a mysterious stain on the ground here...
 
 {catname} se pergunta que tipo de acontecimento poderia tê-la causado?","这里地上有一块神秘的污渍……
 
-{catname} 想知道是什么奇怪的事情导致了它？"
+{catname} 想知道是什么奇怪的事情造成的？"
 EVENT_MYSTERIOUSSTAIN_QUES_M,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_QUES_F,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_QUES_N,,,,,,,,
@@ -1265,9 +1265,9 @@ Ha un sapore dolce, con pezzi di materia cerebrale nascosti sotto al sangue coag
 
 {catname} sente uma onda de energia para a próxima batalha!","{catname} 舔了舔奇怪的表面……
 
-味道甜甜的，干血下面藏着一团团脑浆。太美味了！
+味道甜甜的，干血下面还藏着一团团脑浆。太美味了！
 
-{catname} 感受到战斗中涌现的力量！"
+{catname} 到一股力量，为下一场战斗做好了准备！"
 EVENT_MYSTERIOUSSTAIN_REW1_M,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_REW1_F,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_REW1_N,,,,,,,,
@@ -1283,7 +1283,7 @@ Als {he} ihn saubergeleckt hat, überkommt {catname} ein merkwürdiges Gefühl u
 
 Quando termina de lamber e limpar tudo, {catname} sente uma estranha sensação lhe dominar enquanto seu corpo se transforma!","地上的污迹味道怪怪的，但{catname}不停地舔着它，吞下了干血和毛发的片屑。
 
-当{he}舔干净后，{catname}感到一股奇怪的感觉抓住了{him}，{his}的身体开始变异！"
+当{he}舔干净后，{catname}感到一股奇怪的感觉笼罩了{him}，{his}身体开始变异！"
 EVENT_MYSTERIOUSSTAIN_REW2_M,,,,,,"La macchia sul suolo ha un sapore strano, ma {catname} continua a leccarla, ingoiando scaglie di sangue coagulato e peli.
 
 Una volta leccata per bene, {catname} avverte una strana sensazione che lo afferra, mentre il suo corpo muta!",,
@@ -1300,7 +1300,7 @@ Als der Fleck verschwunden ist, überkommt {catname} ein merkwürdiges Gefühl u
 
 Una volta leccata per bene, {catname} avverte una strana sensazione, mentre il suo corpo muta!",,"地上的污迹味道怪怪的，但{catname}不停地舔着它，吞下了干血和毛发的片屑。
 
-当他们舔干净后，{catname}感到一股奇怪的感觉抓住了他们，他们的身体开始变异！"
+当他们舔干净后，{catname}感到一股奇怪的感觉笼罩了他们，他们的身体开始变异！"
 EVENT_MYSTERIOUSSTAIN_REW3,"{catname} drags {his} tongue over the ground, tearing up dry flakes of the material into {his} mouth...
 
 {catname} retches as old hairs in the stain get stuck in {his} teeth!",,"{catname} pasa la lengua por el suelo, y escamas resecas de la sustancia llegan a su boca.
@@ -1313,9 +1313,9 @@ EVENT_MYSTERIOUSSTAIN_REW3,"{catname} drags {his} tongue over the ground, tearin
 
 {catname} ha i conati, mentre del vecchio pelo si incastra tra i suoi denti!","{catname} arrasta a língua pelo chão, arrancando lascas secas do material e levando-as à boca...
 
-{catname} vomita quando pelos velhos se prendem em seus dentes!","{catname}用舌头拖过地面，把材料的干片撕进嘴里……
+{catname} vomita quando pelos velhos se prendem em seus dentes!","{catname}用舌头拖过地面，把干掉的污渍碎片刮入口中……
 
-{catname}呕吐，因为污迹里的旧毛发卡在{his}牙齿上！"
+{catname}呕吐了，因为污迹里的旧毛发卡在{his}牙齿上！"
 EVENT_MYSTERIOUSSTAIN_REW3_M,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSSTAIN_REW3_N,,,,,"{catname} leckt über den Boden und befördert trockene Flocken des unidentifizierten Materials in den Mund&nbsp;…
@@ -1554,7 +1554,7 @@ EVENT_TALLFENCE_REW3_N,"{catname} tries to leap over the fence, but doesn't quit
 EVENT_TALLFENCE_REW4,"{catname} tries to climb the fence, but one of the boards snaps halfway up and {his} leg slams through the fence and gets stuck!
 ",,"{catname} intenta escalar la valla, pero, mientras sube, uno de los tablones se parte ¡y se le atasca la pata!
 ","{catname} essaie de grimper à la barrière, mais une des planches se brise alors qu'{he} a parcouru la moitié de la distance. Sa patte passe avec fracas à travers la barrière et reste coincée&nbsp;!","{catname} versucht den Zaun hochzuklettern, doch eines der Bretter zerbricht und {his} Bein bleibt im Loch stecken!
-","{catname} cerca di arrampicarsi su per la staccionata, ma a metà strada una delle tavole si stacca, una delle sue zampe sbatte contro la staccionata e si incastra!","{catname} tenta escalar a cerca, mas uma das tábuas quebra no meio do caminho e sua perna atravessa a cerca e fica presa!",{catname} 尝试爬篱笆，但一块木板在半路断裂，{his}腿撞破篱笆被卡住了！
+","{catname} cerca di arrampicarsi su per la staccionata, ma a metà strada una delle tavole si stacca, una delle sue zampe sbatte contro la staccionata e si incastra!","{catname} tenta escalar a cerca, mas uma das tábuas quebra no meio do caminho e sua perna atravessa a cerca e fica presa!",{catname} 尝试爬篱笆，但一块木板在半路断裂，{his}腿猛地戳穿篱笆，被死死卡住！
 EVENT_TALLFENCE_REW4_M,,,,,,,,
 EVENT_TALLFENCE_REW4_F,,,,,,,,
 EVENT_TALLFENCE_REW4_N,,,,,,,,
@@ -1617,7 +1617,7 @@ En marchant sur les morceaux de verre brisé, {catname} trouve un autre moyen de
 
 Camminando sulle schegge di vetro rotto, {catname} trova una via alternativa verso la prossima battaglia, permettendo ai gatti di tendere un'imboscata!","{catname} pega uma pedra que estava por perto e a atira pela janela!
 
-Passando por cima dos cacos de vidro, {catname} encontra uma rota alternativa para a próxima batalha, permitindo que os gatos preparem uma emboscada!","{catname} 拿起附近的石头，将其扔进窗户！
+Passando por cima dos cacos de vidro, {catname} encontra uma rota alternativa para a próxima batalha, permitindo que os gatos preparem uma emboscada!","{catname} 拿起附近的石头，奋力砸向窗户！
 
 踩过破碎的玻璃碎片，{catname}找到了下一场战斗的替代路线，使猫咪们得以伏击！"
 EVENT_CLOSEDWINDOW_REW1_M,,,,,,,,
@@ -1672,7 +1672,7 @@ La finestra va in frantumi, e piccole schegge di vetro volano dappertutto, tagli
 
 A janela se estilhaça e minúsculos fragmentos de vidro voam por toda parte, cortando {catname} como se fossem mil facas minúsculas!","{catname} 用{his}的爪子猛击玻璃！
 
-窗户碎裂，细小玻璃碎片四处飞溅，像千百把小刀一样割伤了{catname}！"
+窗户碎裂，无数细小的玻璃碴如锋利的小刀四处飞溅，划伤了{catname}！"
 EVENT_CLOSEDWINDOW_REW3_M,,,,,,,,
 EVENT_CLOSEDWINDOW_REW3_F,,,,,,,,
 EVENT_CLOSEDWINDOW_REW3_N,,,,,,,,
@@ -1743,7 +1743,7 @@ Salta al interior de la habitación ¡y descubre una ruta sigilosa hacia el sigu
 EVENT_CLOSEDWINDOW_REW6,"Even without an exterior latch, {catname} deftly slides {his} paw under the frame and lifts the window open!
 ",,"Aunque la ventana no tenga cerrojo exterior, {catname} pasa la pata por debajo del marco con destreza ¡y la abre!
 ","Même en absence de loquet à l'extérieur, {catname} passe sa patte avec dextérité sous l'encadrement et arrive à soulever la fenêtre&nbsp;!","Auch wenn es keinen Riegel zu geben scheint, bekommt {catname} das Fenster zu fassen und kann es nach oben schieben!
-","Anche senza un fermo esterno, {catname} infila abilmente la sua zampa sotto al telaio e solleva la finestra, aprendola!","Mesmo sem uma trava externa, {catname} habilmente desliza sua pata por baixo da moldura e levanta a janela para abri-la!",即使没有外部闩锁，{catname} 灵巧地将爪子滑到窗框下方，掀开了窗户！
+","Anche senza un fermo esterno, {catname} infila abilmente la sua zampa sotto al telaio e solleva la finestra, aprendola!","Mesmo sem uma trava externa, {catname} habilmente desliza sua pata por baixo da moldura e levanta a janela para abri-la!",虽然没有外面的插销，{catname} 还是灵巧地将爪子探入窗框下方，掀开了窗户！
 EVENT_CLOSEDWINDOW_REW6_M,,,,,,,,
 EVENT_CLOSEDWINDOW_REW6_F,,,,,,,,
 EVENT_CLOSEDWINDOW_REW6_N,,,,,,,,
@@ -1795,7 +1795,7 @@ EVENT_CLOSEDWINDOW_REW8,"All that broken glass looks dangerous!
 
 {catname} ignora la finestra e prosegue.","Todos esses cacos de vidro parecem perigosos!
 
-{catname} ignora a janela e continua andando.","所有那些破碎的玻璃看起来很危险！
+{catname} ignora a janela e continua andando.","那些破碎的玻璃看起来很危险！
 
 {catname} 忽视窗户，继续前进。"
 EVENT_CLOSEDWINDOW_REW8_M,,,,,,,,
@@ -1832,16 +1832,16 @@ EVENT_BAITEDMOUSETRAP_REW3,"{catname} tries to quickly swipe off the bait before
 
 {catname} ulula dal dolore mentre il metallo ferisce la sua zampa!","{catname} tenta rapidamente roubar a isca antes que a armadilha seja acionada, mas não é veloz o suficiente!
 
-{catname} uiva de dor enquanto o metal machuca sua pata!","{catname} 试图快速擦掉诱饵，以免陷阱触发，但动作不够快！
+{catname} uiva de dor enquanto o metal machuca sua pata!","{catname} 试图快速偷走诱饵，以免陷阱触发，但动作不够快！
 
-{catname} 尖叫着疼痛，金属撞伤了{his}爪子！"
+{catname} 尖叫着疼痛，金属夹伤了{his}爪子！"
 EVENT_BAITEDMOUSETRAP_REW3_M,,,,,,,,
 EVENT_BAITEDMOUSETRAP_REW3_F,,,,,,,,
 EVENT_BAITEDMOUSETRAP_REW3_N,,,,,,,,
 EVENT_BAITEDMOUSETRAP_REW4,"{catname} tries to disarm the mousetrap but accidentally trips it and the metal arm slams shut on {him}!
 ",,"{catname} intenta desactivar la ratonera, pero ¡la activa por accidente y la pieza metálica se le viene encima!
 ","{catname} essaie de désarmer le piège à souris, mais le déclenche par accident. Le bras en métal se referme violemment sur {him}&nbsp;!","{catname} versucht die Mausefalle zu deaktivieren, löst sie aber stattdessen aus. Die Metallvorrichtung schnappt zu!
-",,"{catname} tenta desarmar a ratoeira, mas acidentalmente a aciona e o braço de metal se fecha sobre sua pata!",{catname} 试图拆除鼠夹，却意外触发了陷阱，金属臂猛地夹住了{him}！
+",,"{catname} tenta desarmar a ratoeira, mas acidentalmente a aciona e o braço de metal se fecha sobre sua pata!",{catname} 试图拆除鼠夹，却意外触发了陷阱，金属杆猛地夹住了{him}！
 EVENT_BAITEDMOUSETRAP_REW4_M,,,,,,"{catname} cerca di disinnescare la trappola, ma la fa cadere accidentalmente e il braccio metallico si chiude su di lui!",,
 EVENT_BAITEDMOUSETRAP_REW4_F,,,,,,"{catname} cerca di disinnescare la trappola, ma la fa cadere accidentalmente e il braccio metallico si chiude su di lei!",,
 EVENT_BAITEDMOUSETRAP_REW4_N,,,,,,"{catname} cerca di disinnescare la trappola, ma la fa cadere accidentalmente e il braccio metallico si chiude di scatto!",,
@@ -1910,7 +1910,7 @@ Au moment où {he} se relève pour s'en aller, un des chats suit {catname}...","
 Anschließend steht {catname}, um weiterzugehen und eine der Katzen kommt mit&nbsp;…
 ",,"{catname} entra na brincadeira e recebe as boas-vindas dos outros!
 
-Quando {catname} se levanta para ir embora, um dos gatos lhe segue...","{catname}加入了这场乐趣，并被欢迎加入战斗！
+Quando {catname} se levanta para ir embora, um dos gatos lhe segue...","{catname}加入了这场狂欢，被热情地接纳了！
 
 当{catname}起身准备离开时，有只猫跟着{him}走出去……"
 EVENT_CATSINHEAT_REW4_M,,,,,,"{catname} si unisce al divertimento e viene accolto nella mischia!
@@ -1963,7 +1963,7 @@ O corpo de {catname} é devastado por defeitos congênitos, à medida que o para
 
 {catname}刚刚成为了{his}自己的曾曾祖父母！
 
-随着时间悖论的追赶，{catname}的身体遍布先天缺陷！"
+随着时间悖论的到来，{catname}的身体遍布先天缺陷！"
 EVENT_CATSINHEAT_ALT_REW5_B_M,,,,,,"La peggiore delle eventualità si è appena verificata...
 
 {catname} si tramuta nel suo bis-bis-bisnonno!
@@ -2217,7 +2217,7 @@ EVENT_SPIDERWEBS_QUES,"Dense cobwebs line the walls and ceiling, blocking {catna
 EVENT_SPIDERWEBS_QUES_M,,,,,,,,
 EVENT_SPIDERWEBS_QUES_F,,,,,,,,
 EVENT_SPIDERWEBS_QUES_N,,,,,,,,
-EVENT_SPIDERWEBS_REW1,{catname} finds a small gap amidst the webs and wriggles {his} way carefully through the sticky maze!,,"{catname} encuentra un pequeño hueco entre las telarañas y, con cuidado, ¡consigue escabullirse del pegajoso laberinto!",{catname} trouve une petite ouverture à travers les toiles et arrive à sortir de ce dédale adhésif en se tortillant méticuleusement&nbsp;!,{catname} findet eine kleine Lücke und zwängt sich vorsichtig durch das klebrige Labyrinth!,"{catname} trova un piccolo passaggio tra le ragnatele, e si divincola con cautela attraverso il labirinto appiccoso!",{catname} encontra uma pequena abertura entre as teias e se esgueira cuidadosamente pelo labirinto pegajoso!,{catname} 在蛛网中找到一个小缝隙，小心地钻过这片黏稠的迷宫！
+EVENT_SPIDERWEBS_REW1,{catname} finds a small gap amidst the webs and wriggles {his} way carefully through the sticky maze!,,"{catname} encuentra un pequeño hueco entre las telarañas y, con cuidado, ¡consigue escabullirse del pegajoso laberinto!",{catname} trouve une petite ouverture à travers les toiles et arrive à sortir de ce dédale adhésif en se tortillant méticuleusement&nbsp;!,{catname} findet eine kleine Lücke und zwängt sich vorsichtig durch das klebrige Labyrinth!,"{catname} trova un piccolo passaggio tra le ragnatele, e si divincola con cautela attraverso il labirinto appiccoso!",{catname} encontra uma pequena abertura entre as teias e se esgueira cuidadosamente pelo labirinto pegajoso!,{catname} 在蛛网中找到一个小缝隙，小心地钻过这片黏糊糊的迷宫！
 EVENT_SPIDERWEBS_REW1_M,,,,,,,,
 EVENT_SPIDERWEBS_REW1_F,,,,,,,,
 EVENT_SPIDERWEBS_REW1_N,,,,,,,,
@@ -2239,7 +2239,7 @@ Dall'interno del labirinto appiccicoso, {catname} scorge un'ombra oscura che si 
 
 De dentro do labirinto pegajoso, {catname} vê uma sombra escura se movendo rapidamente pelas teias em sua direção!","{catname} 试图穿过浓密的树冠，却被蛛网缠住牢牢困住了...
 
-从黏稠的迷宫中，{catname}看到一个黑影迅速穿过蛛网向它靠近！"
+从黏糊糊的迷宫中，{catname}看到一个黑影迅速穿过蛛网向它靠近！"
 EVENT_SPIDERWEBS_REW3_M,,,,,,,,
 EVENT_SPIDERWEBS_REW3_F,,,,,,,,
 EVENT_SPIDERWEBS_REW3_N,,,,,,,,
@@ -2736,7 +2736,7 @@ Die Klauen des Streuners kratzen {catname} wieder und wieder, bis {catname} schl
 
 Gli artigli del randagio lacerano {catname} ancora e ancora, finché {catname} fugge con la coda tra le zampe!","{catname} simplesmente não consegue acertar um golpe no pequeno patife!
 
-As garras do gato de rua rasgam {catname} repetidamente, até que {catname} foge com o rabo entre as pernas.","{catname} 只是无法击中这小无赖！
+As garras do gato de rua rasgam {catname} repetidamente, até que {catname} foge com o rabo entre as pernas.","{catname} 怎么也打不着这小无赖！
 
 流浪猫的爪子一次又一次地撕扯着 {catname}，直到 {catname} 夹着尾巴逃跑。"
 EVENT_STRAYCAT_REW4_M,,,,,,,,
@@ -3036,7 +3036,7 @@ EVENT_BALLOFFLESH_REW7_M,,,,,,"{catname} non vuole mangiarla, ma qualcosa di pri
 EVENT_BALLOFFLESH_REW7_F,,,,,,"{catname} non vuole mangiarla, ma qualcosa di primitivo dentro di sé la spinge in uno stato di frenesia che le fa divorare la strana carne!",,
 EVENT_BALLOFFLESH_REW7_N,,,,,,"Sebbene non voglia mangiarla, qualcosa di primitivo dentro di sé spinge in uno stato di frenesia {catname}, che divora la strana carne!",,
 EVENT_SPOOKYAPPARATION_NAME,Spooky Apparition,updated ✔️,Aparición espeluznante,Effrayante apparition,Geisterhafte Erscheinung,Apparizione Spaventosa,Aparição Assustadora,恐怖幻影
-EVENT_SPOOKYAPPARATION_QUES,{catname} finds a spooky apparition! Spectral tears wash silently down its face as it watches {his} every move...,,¡{catname} encuentra una aparición espeluznante! Lágrimas espectrales caen en silencio por su rostro mientras observa atentamente los movimientos de {catname}.,{catname} tombe sur une apparition qui lui fait peur&nbsp;! Des larmes spectrales coulent silencieusement sur ses joues alors qu'elle observe {catname} et ses moindres mouvements...,{catname} trifft auf eine geisterhafte Erscheinung! Ohne einen Ton scheint sie zu weinen und sie beobachtet jede {his}er Bewegungen&nbsp;…,{catname} si imbatte in un'apparizione spaventosa! Lacrime spettrali rigano quel volto che osserva ogni sua mossa...,{catname} encontra uma aparição assustadora! Lágrimas espectrais escorrem silenciosamente pelo seu rosto enquanto ela observa cada movimento seu...,{catname}发现了一个恐怖幻影！幽魂的泪水默默地从它脸上流淌，注视着{his}的每一个动作……
+EVENT_SPOOKYAPPARATION_QUES,{catname} finds a spooky apparition! Spectral tears wash silently down its face as it watches {his} every move...,,¡{catname} encuentra una aparición espeluznante! Lágrimas espectrales caen en silencio por su rostro mientras observa atentamente los movimientos de {catname}.,{catname} tombe sur une apparition qui lui fait peur&nbsp;! Des larmes spectrales coulent silencieusement sur ses joues alors qu'elle observe {catname} et ses moindres mouvements...,{catname} trifft auf eine geisterhafte Erscheinung! Ohne einen Ton scheint sie zu weinen und sie beobachtet jede {his}er Bewegungen&nbsp;…,{catname} si imbatte in un'apparizione spaventosa! Lacrime spettrali rigano quel volto che osserva ogni sua mossa...,{catname} encontra uma aparição assustadora! Lágrimas espectrais escorrem silenciosamente pelo seu rosto enquanto ela observa cada movimento seu...,{catname}发现了一个恐怖幻影！它无声地流着泪，注视着{his}的每一个动作……
 EVENT_SPOOKYAPPARATION_QUES_M,,,,,,,,
 EVENT_SPOOKYAPPARATION_QUES_F,,,,,,,,
 EVENT_SPOOKYAPPARATION_QUES_N,,,,,,,,
@@ -3210,7 +3210,7 @@ EVENT_BUTCHTUTORIAL_REW1,"{catname}'s punch misses completely, smashing hard int
 
 [i]""Você quebrou a pata só tentando me acertar! Sua [img:str] é tão baixa, por que você escolheu essa opção?""[/i]","{catname} 的拳头完全落空，狠狠地砸到了地上！
 
-[i]“你只是在试图打我时就把爪子弄断了！你的 [img:str] 太低了，为什么你会选择那个选项？”[/i]"
+[i]“你连打都没打着我，就把爪子弄断了！你的 [img:str] 太低了，为什么你会选择那个选项？”[/i]"
 EVENT_BUTCHTUTORIAL_REW1_M,,,,,,"Il pugno di {catname} manca completamente il bersaglio, colpendo duramente il suolo!
 
 [i]""Ti sei rotto la zampa solo per cercare di colpirmi! La tua [img:str] è troppo bassa, perché hai scelto quell'opzione?""[/i]",,
@@ -3232,7 +3232,7 @@ EVENT_BUTCHTUTORIAL_REW2,"{catname} points cleverly behind Butch, distracting hi
 
 [i]""Ora, ora, a esperteza em pessoa! Você tem sorte de sua [img:int] ser tão alta, ou então estaria mastigando pedras!""[/i]","{catname} 聪明地指向布奇身后，分散了他的注意力。
 
-[i]“你好呀，花里胡哨的先生！你真幸运你的 [img:int] 这么高，否则你就得啃石头了！”[/i]"
+[i]“你好呀，小机灵鬼！真幸运你的 [img:int] 有这么高，否则你就得啃石头了！”[/i]"
 EVENT_BUTCHTUTORIAL_REW2_M,,,,,,"{catname} indica scaltramente dietro Butch, distraendolo.
 
 [i]""Oh, ma guarda che furbizia! Sei fortunato ad avere un'[img:int] così alta, altrimenti ora staresti sgranocchiando rocce!""[/i]",,
@@ -3271,9 +3271,9 @@ Hier. Kannst nich sagen, ich würde nix für dich tun&nbsp;…“[/i]","[i]""Dia
 
 Ecco. Poi non dire che non faccio mai niente per te...""[/i]","[i]""É isso aí! Acerte onde dói!
 
-Aqui. Não diga que eu nunca fiz nada por você...""[/i]","[i]“太棒了！打他们痛的地方！
+Aqui. Não diga que eu nunca fiz nada por você...""[/i]","[i]“太棒了！就得往痛处打！
 
-这里。别说我没帮过你……”[/i]"
+拿着。别说我没帮过你……”[/i]"
 EVENT_BUTCH_REW3,"[i]""A cat who likes to take a punch, huh? Sicko…
 
 This is a judgement-free zone, though... So here.""[/i]",,"«Te mola que te den duro, ¿eh? Estás fatal...
@@ -3422,7 +3422,7 @@ Caccole? O cacca!""[/i]","[i]""Ok! Você! O que é melhor?
 
 Catarro? Ou cocô!""[/i]","[i]“好！你！哪个更好？
 
-鼻屎？还是屎！”[/i]"
+鼻屎？还是粑粑！”[/i]"
 EVENT_FRANK_REW1,"[i]""That right! Them is tasty!
 
 You win!""[/i]",,"«¡Sí, qué ricos!
@@ -3465,7 +3465,7 @@ Hier dein Preis!“[/i]","[i]""Per tutti i molari! Anche a te piace cacca!?
 
 Tu vinci mio premio!""[/i]","[i]""Santo molar! Você também gosta de cocô!?
 
-Você ganhou meu prêmio!""[/i]","[i]“我的天啊！你也喜欢屎！？
+Você ganhou meu prêmio!""[/i]","[i]“我的天啊！你也喜欢粑粑！？
 
 你赢得了我的奖品！”[/i]"
 EVENT_FRANK_REW4,"[i]""Doodie are the best cuz your butt is their mommy!
@@ -3480,7 +3480,7 @@ Du gewinnst Franks Spiel!“[/i]","[i]""Cacca è meglio perché il tuo sedere è
 
 Vinci il gioco di Frank!""[/i]","[i]""Cocô é o melhor porque seu bumbum é a mamãe deles!
 
-Você venceu o jogo do Frank!""[/i]","[i]“屎是最棒的，因为你的屁股是它们的妈妈！
+Você venceu o jogo do Frank!""[/i]","[i]“粑粑是最棒的，因为你的屁股是它们的妈妈！
 
 你赢了弗兰克的游戏！”[/i]"
 EVENT_FRANK2_QUES,"[i]""Bet you never guess what best…
@@ -3557,7 +3557,7 @@ Tu vinci gran premio!""[/i]","[i]""Frank acha que você está lendo a nossa ment
 
 Você ganhou o grande prêmio!""[/i]","[i]“弗兰克觉得你能读懂我们的脑子！
 
-你赢得大奖！”[/i]"
+你赢了大奖！”[/i]"
 EVENT_TINK_NAME,Tink,,Tink,Tink,Tink,Tink,Tink,丁克
 EVENT_TINK_QUES,"[i]""Ok, ugly. Answer me this… Which is better?
 
@@ -3713,8 +3713,8 @@ Ist für einen guten Zweck&nbsp;…“[/i]","[i]""Sì, ho della roba. Quanto vor
 
 É para uma boa causa…""[/i]","[i]“是啊，我有些东西。你愿意捐多少？
 
-都是为了好 cause…”[/i]"
-EVENT_TRACY_REW1,"[i]""Uh, here. Take this... You deserve it!""[/i]",,«Pues toma esto... ¡Te lo mereces!».,"[i]«&nbsp;Oh, oui. Tiens, prends ça... Tu le mérites&nbsp;!&nbsp;»[/i]","[i]„Äh, hier. Nimm das&nbsp;… Hast du dir verdient!“[/i]","[i]""Ah, ecco. Prendi questo... te lo meriti!""[/i]","[i]""Ah, aqui. Tome isto... Você merece!""[/i]",[i]“呃，拿着…你值得拥有！”[/i]
+都是为了做善事…”[/i]"
+EVENT_TRACY_REW1,"[i]""Uh, here. Take this... You deserve it!""[/i]",,«Pues toma esto... ¡Te lo mereces!».,"[i]«&nbsp;Oh, oui. Tiens, prends ça... Tu le mérites&nbsp;!&nbsp;»[/i]","[i]„Äh, hier. Nimm das&nbsp;… Hast du dir verdient!“[/i]","[i]""Ah, ecco. Prendi questo... te lo meriti!""[/i]","[i]""Ah, aqui. Tome isto... Você merece!""[/i]",[i]“呃，拿着…你应得的！”[/i]
 EVENT_TRACY_REW2,{catname} gets a random stat down… Temporarily.,,Se reduce un atributo de {catname} al azar... temporalmente.,{catname} reçoit une baisse de stats aléatoire... et temporaire.,{catname} erhält einen Malus auf ein zufälliges Attribut&nbsp;… Vorübergehend.,Una statistica casuale di {catname} si riduce... temporaneamente.,{catname} obtém um atributo aleatório diminuído... temporariamente.,{catname} 暂时降低一个随机属性…
 EVENT_TRACY_REW2_M,,,,,,,,
 EVENT_TRACY_REW2_F,,,,,,,,
@@ -3835,7 +3835,7 @@ EVENT_TRAGEDY_REW1,{catname} feels like an outcast in the group. {He} strays a b
 EVENT_TRAGEDY_REW1_M,,,,,,,,
 EVENT_TRAGEDY_REW1_F,,,,,,,,
 EVENT_TRAGEDY_REW1_N,,,,,,,,
-EVENT_TRAGEDY_REW2,{catname} remembers a time when things were easier and wishes {he} was back home.,,{catname} recuerda una época en la que las cosas eran más fáciles y desearía estar de vuelta en casa.,{catname} se souvient d'une époque où les choses étaient plus simples. {He} aimerait rentrer à la maison.,"{catname} erinnert sich an die guten alten Zeiten und wünschte, dass {he} wieder zu Hause wäre.","{catname} ricorda un periodo più semplice, e vorrebbe essere di nuovo a casa.",{catname} se lembra de uma época em que as coisas eram mais fáceis e deseja estar de volta em casa.,{catname} 想起了曾经一切都更简单的时候，渴望 {he} 能回到家。
+EVENT_TRAGEDY_REW2,{catname} remembers a time when things were easier and wishes {he} was back home.,,{catname} recuerda una época en la que las cosas eran más fáciles y desearía estar de vuelta en casa.,{catname} se souvient d'une époque où les choses étaient plus simples. {He} aimerait rentrer à la maison.,"{catname} erinnert sich an die guten alten Zeiten und wünschte, dass {he} wieder zu Hause wäre.","{catname} ricorda un periodo più semplice, e vorrebbe essere di nuovo a casa.",{catname} se lembra de uma época em que as coisas eram mais fáceis e deseja estar de volta em casa.,{catname} 想起了从前无忧无虑的日子，渴望 {he} 能回到家。
 EVENT_TRAGEDY_REW2_M,,,,,,,,
 EVENT_TRAGEDY_REW2_F,,,,,,,,
 EVENT_TRAGEDY_REW2_N,,,,,,,,
@@ -3843,7 +3843,7 @@ EVENT_TRAGEDY_REW3,{catname} recalls fond memories of being cared for by {his} m
 EVENT_TRAGEDY_REW3_M,,,,,,{catname} rievoca dolci ricordi di quando sua madre si prendeva cura di lui.,,
 EVENT_TRAGEDY_REW3_F,,,,,,{catname} rievoca dolci ricordi di quando sua madre si prendeva cura di lei.,,
 EVENT_TRAGEDY_REW3_N,,,,,,{catname} rievoca dolci ricordi delle attenzioni di sua madre.,,
-EVENT_TRAGEDY_REW4,{catname} experiences existential dread. What's the point of it all if it just ends in death?,,{catname} tiene una crisis existencial. ¿Qué sentido tiene la vida si al final terminas muriéndote?,"{catname} fait l'expérience d'une crainte existentielle. À quoi bon tout ça, si la finalité est la mort&nbsp;?","{catname} hat eine Existenzkrise. Was hat das Leben für einen Sinn, wenn man doch am Ende stirbt?","{catname} sperimenta un terrore esistenziale. Qual è il senso di tutto, se poi la morte è in agguato?",{catname} vivencia um medo existencial. Qual o sentido disso se tudo termina em morte?,{catname} 感受到存在的恐惧。如果一切都以死亡终结，那有什么意义呢？
+EVENT_TRAGEDY_REW4,{catname} experiences existential dread. What's the point of it all if it just ends in death?,,{catname} tiene una crisis existencial. ¿Qué sentido tiene la vida si al final terminas muriéndote?,"{catname} fait l'expérience d'une crainte existentielle. À quoi bon tout ça, si la finalité est la mort&nbsp;?","{catname} hat eine Existenzkrise. Was hat das Leben für einen Sinn, wenn man doch am Ende stirbt?","{catname} sperimenta un terrore esistenziale. Qual è il senso di tutto, se poi la morte è in agguato?",{catname} vivencia um medo existencial. Qual o sentido disso se tudo termina em morte?,{catname} 陷入了存在主义危机。如果最终难免一死，那这一切都有什么意义？
 EVENT_TRAGEDY_REW4_M,,,,,,,,
 EVENT_TRAGEDY_REW4_F,,,,,,,,
 EVENT_TRAGEDY_REW4_N,,,,,,,,
@@ -3867,7 +3867,7 @@ EVENT_TRAGEDY_REW7,"{catname} feels emotionally drained... This adventure has be
 
 {catname} iniciará a próxima batalha sem mana.","{catname} 感到情绪枯竭…… 这次冒险真是一次磨难。
 
-{catname} 下一场战斗不会开始时拥有法力值。"
+{catname} 下一场战斗开始时不会拥有法力值。"
 EVENT_TRAGEDY_REW7_M,,,,,,"{catname} si sente emotivamente svuotato... quest'avventura è stata un vero calvario.
 
 {catname} inizierà la prossima battaglia senza mana.",,
@@ -3877,7 +3877,7 @@ EVENT_TRAGEDY_REW7_F,,,,,,"{catname} si sente emotivamente svuotata... quest'avv
 EVENT_TRAGEDY_REW7_N,,,,,,"{catname} si sente insensibile... quest'avventura è stata un vero calvario.
 
 {catname} inizierà la prossima battaglia senza mana.",,
-EVENT_TRAGEDY_REW8,{catname} accidentally snags {himself} on a rusted nail. {He} can't stop the bleeding!,,{catname} se engancha por accidente con un clavo oxidado. ¡No puede parar la hemorragia!,{catname} se pique accidentellement sur un clou rouillé. {He} ne fait que saigner&nbsp;!,{catname} reißt sich {his}e Pfote an einem rostigen Nagel auf. {He} kann die Blutung nicht stoppen!,{catname} calpesta per errore un chiodo arrugginito. Non riesce a fermare l'emorragia!,{catname} se prende acidentalmente em um prego enferrujado e não consegue estancar o sangramento!,{catname} 不小心被锈钉刮伤了。{He} 不能阻止流血！
+EVENT_TRAGEDY_REW8,{catname} accidentally snags {himself} on a rusted nail. {He} can't stop the bleeding!,,{catname} se engancha por accidente con un clavo oxidado. ¡No puede parar la hemorragia!,{catname} se pique accidentellement sur un clou rouillé. {He} ne fait que saigner&nbsp;!,{catname} reißt sich {his}e Pfote an einem rostigen Nagel auf. {He} kann die Blutung nicht stoppen!,{catname} calpesta per errore un chiodo arrugginito. Non riesce a fermare l'emorragia!,{catname} se prende acidentalmente em um prego enferrujado e não consegue estancar o sangramento!,{catname} 不小心被锈钉刮伤了。{He} 血流不止！
 EVENT_TRAGEDY_REW8_M,,,,,,,,
 EVENT_TRAGEDY_REW8_F,,,,,,,,
 EVENT_TRAGEDY_REW8_N,,,,,,,,
@@ -4055,7 +4055,7 @@ Es beißt zu und lässt nicht mehr los!
 
 A coisa se agarra ao seu corpo!","{catname}感觉脚下的土里有个硬块，挖了出来……
 
-它抓住了{him}！"
+那东西抓住了{him}！"
 EVENT_TRAGEDY_REW18_M,,,,,,"{catname} avverte qualcosa di bitorzoluto nella terra sotto le sue zampe, e decide di scavare...
 
 Quello gli si attacca addosso!",,
@@ -4281,7 +4281,7 @@ EVENT_BLESSING_REW19_N,,,,,,,,
 EVENT_BLESSING_REW20,"{catname} finds a syringe full of a strange liquid. {He} doesn't hesitate!
 ",,"{catname} encuentra una jeringuilla llena de un líquido extraño. ¡No se lo piensa dos veces!
 ",{catname} trouve une seringue remplie d'un étrange liquide. {He} n'hésite pas une seule seconde&nbsp;!,"{catname} findet eine Spritze mit einer merkwürdigen Flüssigkeit. {He} zögert keinen Augenblick!
-",{catname} trova una siringa colma di uno strano liquido. Non esita!,{catname} encontra uma seringa cheia de um líquido estranho e não pensa duas vezes!,{catname} 发现了一支装满奇异液体的注射器。{He} 毫不犹豫！
+",{catname} trova una siringa colma di uno strano liquido. Non esita!,{catname} encontra uma seringa cheia de um líquido estranho e não pensa duas vezes!,{catname} 发现了一支装满奇异液体的注射器。{He} 毫不犹豫的扎了自己！
 EVENT_BLESSING_REW20_M,,,,,,,,
 EVENT_BLESSING_REW20_F,,,,,,,,
 EVENT_BLESSING_REW20_N,"{catname} finds a syringe full of a strange liquid. They don't hesitate!
@@ -4306,7 +4306,7 @@ EVENT_BLESSING_REW21_M,,,,,,,,
 EVENT_BLESSING_REW21_F,,,,,,,,
 EVENT_BLESSING_REW21_N,,,,,,,,
 EVENT_HAPPENING_NAME,Something's Happening!,updated ✔️,Acontecimiento,Il se passe quelque chose&nbsp;!,Etwas passiert!,Sta Succedendo Qualcosa!,Algo Está Acontecendo!,有事情发生了！
-EVENT_HAPPENING_FOG_REW,A dense fog starts rolling in. The cats can barely see in front of them!,,Una niebla espesa rodea a los gatos. ¡Apenas ven lo que tienen delante de las narices!,Un épais brouillard commence à s'installer. Les chats peinent à voir devant eux&nbsp;!,Dichter Nebel zieht auf. Die Katzen können ihre Pfoten kaum vor den Augen sehen!,Una densa nebbia inizia ad ammassarsi. I gatti riescono a malapena a vedere davanti a loro!,Uma densa neblina começa a se formar. Os gatos mal conseguem enxergar à sua frente!,浓雾开始弥漫开来。猫咪们几乎看不清前方！
+EVENT_HAPPENING_FOG_REW,A dense fog starts rolling in. The cats can barely see in front of them!,,Una niebla espesa rodea a los gatos. ¡Apenas ven lo que tienen delante de las narices!,Un épais brouillard commence à s'installer. Les chats peinent à voir devant eux&nbsp;!,Dichter Nebel zieht auf. Die Katzen können ihre Pfoten kaum vor den Augen sehen!,Una densa nebbia inizia ad ammassarsi. I gatti riescono a malapena a vedere davanti a loro!,Uma densa neblina começa a se formar. Os gatos mal conseguem enxergar à sua frente!,浓雾弥漫开来。猫咪们几乎看不清前方！
 EVENT_HAPPENING_RAIN_REW,"The sky darkens with clouds and raindrops drizzle down, forming small puddles on the ground and wetting the cats' soft fur.",,Las nubes oscurecen el cielo y empieza a caer una llovizna que forma pequeños charcos en el suelo y moja el suave pelaje de los gatos.,"Des nuages viennent assombrir le ciel et des gouttes de pluie se mettent à tomber, formant de petites flaques sur le sol et mouillant le poil duveteux des chats.",Der Himmel verdunkelt sich und es fängt an zu regnen. Pfützen bilden sich auf dem Boden und die Katzen sind schnell durchnässt.,"Il cielo si oscura di nuvole, e gocce di pioggia iniziano a cadere e a formare piccole pozzanghere sul suolo, bagnando la morbida pelliccia dei gatti.","O céu escurece com nuvens e gotas de chuva caem, formando pequenas poças no chão e molhando a pelagem macia dos gatos.",天空布满乌云，细雨纷纷洒下，地上形成小水洼，打湿了猫咪们柔软的毛发。
 EVENT_HAPPENING_HEAVYRAIN_REW,"Dark clouds churn above as a heavy rain begins to pelt down, drenching the cats in a constant deluge.",,Nubes oscuras se revuelven en el cielo y empiezan a caer chuzos de punta. Los gatos terminan calados en un diluvio constante.,"Les sombres nuages se déchaînent dans le ciel et maintenant, une lourde pluie s'abat. Ce déluge incessant trempe les chats.",Dunkle Wolken ziehen über den Himmel und ein starker Platzregen setzt ein. Die Katzen sind völlig durchnässt.,"Nuvole oscure si agitano in cielo mentre un acquazzone inizia a scrosciare, inzuppando i gatti sotto un diluvio costante.","Nuvens escuras se agitam no céu enquanto uma chuva torrencial começa a cair, encharcando os gatos em um dilúvio constante.",乌云翻滚，倾盆大雨开始猛烈落下，猫咪们被持续的暴雨浇湿。
 EVENT_HAPPENING_WINDY_REW,"A strong wind howls around the cats. Dirt and debris kicked up from the tempest pelt against them, nearly knocking the cats off their feet!",,"Un fuerte viento aúlla alrededor de los gatos. Se ven golpeados por la tierra y los escombros que levanta el vendaval, ¡y casi salen volando!","Un vent fort fait rage autour du groupe. Il est bombardé par la terre et les débris que la tempête emporte, jusqu'à presque en perdre l'équilibre.",Ein starker Wind zieht plötzlich auf. Schutt und Dreck fliegt durch die Luft und fegt die Katzen fast von ihren Füßen!,"Un forte vento ulula intorno ai gatti. Sporcizia e detriti spinti dalla tempesta si abbattono su di loro, facendoli quasi finire zampe all'aria!","Um vento forte uiva ao redor dos gatos. Poeira e detritos levantados pela tempestade os atingem com força, quase os derrubando!",狂风在猫咪们周围呼啸。风暴卷起的尘土和杂物撞击着它们，几乎将猫咪们吹倒！
@@ -4596,9 +4596,9 @@ Der Tag des jüngsten Gerichts ist gekommen!","Fasci accecanti di luce sacra pro
 
 È il giorno del giudizio!","Raios ofuscantes de luz sagrada vindos dos céus começam a atingir o solo próximo, obliterando tudo o que é atingido por seus raios mortais.
 
-É o dia do julgamento!","来自天上的圣光刺眼的光束开始击打附近的地面，摧毁被其致命光线击中的一切。
+É o dia do julgamento!","圣光从天而降，刺眼的光束轰击着附近的地面，摧毁致命光线击中的一切。
 
-这是审判日！"
+审判日降临了！"
 EVENT_HAPPENING_PANDEMONIUM_REW,"A strange fervor grips the minds of the cats, and they tear about in a frantic pandemonium, striking at anything, or anyone, that gets in their way!",,Un extraño fervor se adueña de las mentes de los gatos y se desata el caos más absoluto; ¡hacen trizas todo lo que se les ponga por delante!,"Une drôle de ferveur se saisit de l'esprit des chats. Ils balancent leurs griffes dans un chaos frénétique, frappant tout ce qu'ils voient ou qui se tient sur leur route&nbsp;!",Ein unerklärlicher Eifer ergreift die Katzen und sie schlagen im Wahnsinn gefangen um sich!,"Uno strano fervore afferra le menti dei gatti, che iniziano a correre in un pandemonio frenetico, colpendo qualunque cosa e creatura si ponga sul loro cammino!","Um fervor estranho toma conta da mente dos gatos, e eles saem em disparada num pandemônio frenético, atacando tudo e todos que cruzam seu caminho!",一股奇异的狂热抓住了猫咪们的心智，它们在疯狂的混乱中撕扯，攻击任何挡路的东西或人！
 EVENT_HAPPENING_THEHOLLOWING_REW,"Strange muffled cries fill the night... the howls and screams of the dead, awakened from their slumber...
 
@@ -4628,7 +4628,7 @@ Nasser Schnee klatscht auf sie herab und in der Ferne ist lautes Donnergrollen z
 
 I gatti si preparano a resistere al torrente ghiacciato, mentre la neve li colpisce in faccia e il tuono rimbomba nell’aria!","Um vento gélido e violento varre a região, congelando os gatos até a alma!
 
-Os gatos se protegem da torrente congelada, enquanto a neve se acumula em seus rostos e os trovões explodem no ar!","一阵猛烈的寒风掠过，直刺猫咪们的内心！
+Os gatos se protegem da torrente congelada, enquanto a neve se acumula em seus rostos e os trovões explodem no ar!","一阵猛烈的寒风席卷而来，冻得猫们直打哆嗦！
 
 即使雪花贴在脸上，雷声在空气中隆隆作响，猫们依然顶着冰封的激流稳住身体！"
 EVENT_HAPPENING_HURRICANE_REW,"A terrible hurricane rips through the area, tossing everything up in the air and into a violent turmoil of wind and water!",,Un terrible huracán asola el lugar y hace que todo vuele por los aires en una violenta vorágine de agua y viento.,"Un ouragan terrible déchire les environs, projetant tout et n'importe quoi en l'air en mêlant avec une violence chaotique le vent et l'eau&nbsp;!","Ein schrecklicher Orkan zieht über die Gegend und reißt alles mit, was nicht niet- und nagelfest ist!","Un terribile uragano si abbatte sulla zona, proiettando tutto in aria dentro una turbolenza di vento e acqua!","Um furacão devastador assola a região, lançando objetos para o alto e mergulhando tudo em uma violenta tempestade de vento e água!",一场可怕的飓风撕裂了这个地区，将一切卷入风与水的暴乱之中！
@@ -4654,7 +4654,7 @@ Passerà un po' di tempo prima del loro prossimo bagno!","Espinhos estranhos com
 
 Os gatos olham para baixo, espantados, enquanto finos espinhos se projetam de seus pelos!
 
-Vai demorar um pouco até o próximo banho!","奇异的荆棘开始从一切事物上生长……
+Vai demorar um pouco até o próximo banho!","奇异的荆棘开始从各种东西上生长……
 
 猫咪们惊讶地低头看到细细的荆棘从它们的毛发下伸出！
 
@@ -4817,7 +4817,7 @@ Se siente idiota y se va sigilosamente como si no hubiera pasado nada antes de q
 
 Claro que era uma tolice. É melhor sair sorrateiramente como se nada tivesse acontecido, antes que os outros gatos percebam.","{catname} 擦了擦灯，但什么也没发生。
 
-{He} 感觉自己像个傻瓜，然后偷偷溜走，仿佛什么事也没发生一样，赶在其他猫注意到之前。"
+{He} 感觉自己像个傻瓜，趁别的猫还没注意，赶紧装作若无其事的样子偷偷溜走了。"
 EVENT_ANODDLAMP_REW1_M,,,,,,"{catname} strofina la lampada, ma non succede nulla.
 
 Sentendosi uno sciocco, sgattaiola via come se niente fosse successo prima che gli altri gatti se ne rendano conto.",,
@@ -5494,7 +5494,7 @@ Sem querer se tornar a próxima vítima, o grupo foge apavorado!","{catname} 摆
 
 猫咪们惊恐地往下看，发现垃圾箱里全是猫咪的骸骨！箱子内壁满是抓痕……真是恐怖的死法！
 
-不想成为下一个受害者，队伍惊慌逃离！"
+因为不想成为下一个受害者，队伍惊慌逃离！"
 EVENT_LOCKEDDUMPSTER_REW2_M,,,,,,,,
 EVENT_LOCKEDDUMPSTER_REW2_F,,,,,,,,
 EVENT_LOCKEDDUMPSTER_REW2_N,,,,,,,,
@@ -5562,7 +5562,7 @@ La cassaforte esplode, investendo i gatti con una grandinata di detriti in fiamm
 
 O cofre explode, atingindo os gatos com uma chuva de destroços flamejantes!","{catname} 试图打开保险柜，但这是个陷阱！
 
-保险柜爆炸，将猫咪们淋上一阵燃烧的碎片！"
+保险柜爆炸，燃烧的碎片如雨点般砸向猫咪们！"
 EVENT_SAFE_REW2_M,,,,,,,,
 EVENT_SAFE_REW2_F,,,,,,,,
 EVENT_SAFE_REW2_N,,,,,,,,
@@ -5583,7 +5583,7 @@ Contiene solo il teschio di un piccolo essere umano... {catname} non vede perch�
 
 Ele contém apenas o crânio de uma criança humana... {catname} não consegue entender por que iria querer algo assim, mas, ainda assim, inexplicavelmente, sua pata se estende e o toca lentamente!","{catname} 巧妙地打开了保险柜并往里窥视……
 
-里面只有一个小人类孩子的头骨……{catname} 不明白为何{he}会想要那个，然而{his}的爪子却莫名其妙地慢慢伸进去了并触碰到它！"
+里面只有一个人类小孩子的头骨……{catname} 不明白为何{he}会想要那个，然而{his}的爪子却莫名其妙地慢慢伸进去了并触碰到它！"
 EVENT_SAFE_REW3_M,,,,,,,,
 EVENT_SAFE_REW3_F,,,,,,,,
 EVENT_SAFE_REW3_N,,,,,,,,
@@ -5743,7 +5743,7 @@ C'è qualcosa di strano nel colpire un gatto imbottito... ma magari potrebbe com
 
 Há algo estranho em bater num gato de pelúcia... mas por que não tentar?","{catname} 发现了某种彩罐。
 
-打击一个毛绒猫玩偶感觉怪怪的……不过{he}干脆试试看？"
+敲打这只填充猫总觉得怪怪的……不过{he}干脆试一试吧？"
 EVENT_SOMEKINDOFPINATA_QUES_M,,,,,,,,
 EVENT_SOMEKINDOFPINATA_QUES_F,,,,,,,,
 EVENT_SOMEKINDOFPINATA_QUES_N,,,,,,,,
@@ -5942,7 +5942,7 @@ Une boue verte et gluante recouvre entièrement {catname} et l'empoisonne&nbsp;!
 
 Um líquido verde espirrou em {catname}, causando um envenenamento!","{catname}靠近桶，没等反应，它就爆炸了！
 
-绿色泥浆喷溅到{catname}身上，中毒了{him}！"
+绿色泥浆喷溅到{catname}身上，{him}中毒了！"
 EVENT_AVATOFTOXICWASTE_REW7_M,,,,,,"{catname} si avvicina, ma prima che possa fare qualsiasi cosa, la vasca esplode!
 
 Una fanghiglia verde si sparge su {catname}, avvelenandolo!",,
@@ -6014,7 +6014,7 @@ EVENT_AVATOFTOXICWASTE_REW12_M,,,,,,,,
 EVENT_AVATOFTOXICWASTE_REW12_F,,,,,,,,
 EVENT_AVATOFTOXICWASTE_REW12_N,,,,,,,,
 EVENT_DECAYINGCARCASS_NAME,Decaying Carcass,,Cadáver en descomposición,Carcasse en décomposition,Verwesender Kadaver,Carcassa in Putrefazione,Carcaça Decomposta,腐烂的尸体
-EVENT_DECAYINGCARCASS_QUES,"{catname} comes across the decaying remains of a long dead creature. It appears to move slightly, but {he} thinks it might have just been the numerous insects slowly devouring it.",,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.","{catname} trouve les restes décomposés d'une créature morte depuis bien longtemps. Elle semble légèrement se mouvoir, mais {catname} se rend finalement compte qu'il s'agit en fait des innombrables insectes qui la dévorent à petit feu depuis tout ce temps.","{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.","{catname} si imbatte nei resti putrefatti di una creatura morta da tempo. Sembra muoversi leggermente, ma {catname} pensa che possa essere dovuto ai numerosi insetti che la stanno lentamente divorando.","{catname} se depara com os restos mortais em decomposição de uma criatura morta há muito tempo. Ela parece se mover levemente, mas talvez sejam apenas os inúmeros insetos a devorando lentamente.",{catname} 发现了一具已死多时生物的腐烂残骸。它似乎在微微移动，但 {he} 认为那可能只是无数昆虫在慢慢啃食它。
+EVENT_DECAYINGCARCASS_QUES,"{catname} comes across the decaying remains of a long dead creature. It appears to move slightly, but {he} thinks it might have just been the numerous insects slowly devouring it.",,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.","{catname} trouve les restes décomposés d'une créature morte depuis bien longtemps. Elle semble légèrement se mouvoir, mais {catname} se rend finalement compte qu'il s'agit en fait des innombrables insectes qui la dévorent à petit feu depuis tout ce temps.","{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.","{catname} si imbatte nei resti putrefatti di una creatura morta da tempo. Sembra muoversi leggermente, ma {catname} pensa che possa essere dovuto ai numerosi insetti che la stanno lentamente divorando.","{catname} se depara com os restos mortais em decomposição de uma criatura morta há muito tempo. Ela parece se mover levemente, mas talvez sejam apenas os inúmeros insetos a devorando lentamente.",{catname} 发现了一具已死多时生物的腐烂残骸。它似乎在微微颤动，但 {he} 认为那可能只是无数昆虫在慢慢啃食它。
 EVENT_DECAYINGCARCASS_QUES_M,,,,,,,,
 EVENT_DECAYINGCARCASS_QUES_F,,,,,,,,
 EVENT_DECAYINGCARCASS_QUES_N,"{catname} comes across the decaying remains of a long dead creature. It appears to move slightly, but they think it might have just been the numerous insects slowly devouring it.",,"{catname} se encuentra con los restos en descomposición de una criatura que lleva tiempo muerta. Parece moverse levemente, pero {catname} piensa que deben de ser los numerosos insectos que la devoran lentamente.",,"{catname} entdeckt die verwesenden Überreste einer inzwischen unerkenntlichen Kreatur. Bei genauerem Hinsehen scheint sie sich ein wenig zu bewegen, aber wahrscheinlich waren das nur die etlichen Insekten, die sich an ihrem Fleisch laben.",,,{catname} 发现了一具已死多时生物的腐烂残骸。它似乎在微微移动，但 they 认为那可能只是无数昆虫在慢慢啃食它。
@@ -6026,7 +6026,7 @@ EVENT_DECAYINGCARCASS_REW2,"{catname} feasts on the ripe flesh, it's been a whil
 EVENT_DECAYINGCARCASS_REW2_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW2_F,,,,,,,,
 EVENT_DECAYINGCARCASS_REW2_N,,,,,,,,
-EVENT_DECAYINGCARCASS_REW3,"{catname} bites into the rotting carcass and swallows the flesh, still writhing with small things. ",eat bad,"{catname} le da un bocado al cadáver putrefacto y se traga la carne, incluidos los bichos que se retuercen en su interior. ",{catname} mord la carcasse en décomposition et en avale la chair alors qu'elle grouille encore de petits organismes.,{catname} beißt in den verwesenden Kadaver und schluckt einen Brocken Fleisch herunter. Die Insekten auf ihm kitzeln ein wenig. ,"{catname} morde la carcassa putrida e ingoia la carne, che si contorce ancora per via di alcune cose al suo interno.","{catname} morde a carcaça em decomposição e engole a carne, ainda repleta de pequenas coisas.",{catname} 咬向腐烂的尸体，吞下仍在蠕动的小虫肉。
+EVENT_DECAYINGCARCASS_REW3,"{catname} bites into the rotting carcass and swallows the flesh, still writhing with small things. ",eat bad,"{catname} le da un bocado al cadáver putrefacto y se traga la carne, incluidos los bichos que se retuercen en su interior. ",{catname} mord la carcasse en décomposition et en avale la chair alors qu'elle grouille encore de petits organismes.,{catname} beißt in den verwesenden Kadaver und schluckt einen Brocken Fleisch herunter. Die Insekten auf ihm kitzeln ein wenig. ,"{catname} morde la carcassa putrida e ingoia la carne, che si contorce ancora per via di alcune cose al suo interno.","{catname} morde a carcaça em decomposição e engole a carne, ainda repleta de pequenas coisas.",{catname} 咬向腐烂的尸体，吞下还在蠕动的肉块，里面还有一些小生物。
 EVENT_DECAYINGCARCASS_REW3_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW3_F,,,,,,,,
 EVENT_DECAYINGCARCASS_REW3_N,,,,,,,,
@@ -6058,14 +6058,14 @@ EVENT_DECAYINGCARCASS_REW10,"{His} eyes alert, {catname} takes in every detail o
 EVENT_DECAYINGCARCASS_REW10_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW10_F,,,,,,,,
 EVENT_DECAYINGCARCASS_REW10_N,"Their eyes alert, {catname} takes in every detail of the corpse. By studying the inverted flesh of bones and sinews, {catname} feels like they have a better grasp of anatomy.",,"Con los ojos bien abiertos, {catname} observa cada detalle del cadáver. Estudiando la carne invertida de los huesos y tendones, mejoran sus conocimientos de anatomía.",,"{catname} untersucht vorsichtig jede noch so kleine Auffälligkeit an der Leiche. Dadurch, dass etliche Knochen und Muskeln freigelegt sind, lernt {catname} einiges über die Anatomie dieses Wesens.",,,眼睛警觉，{catname} 观察尸体的每一个细节。通过研究反转的骨肉和肌腱，{catname} 感觉对解剖学有了更深入的理解。
-EVENT_DECAYINGCARCASS_REW11,The pungent stench of the decaying carcass overwhelms {catname}'s senses. Unable to focus {he} turns away instead.,examine bad,"El fuerte hedor del cadáver en descomposición abruma los sentidos de {catname}, que es incapaz de concentrarse y da media vuelta.","La puissante odeur de carcasse en décomposition atteint {catname} et submerge ses sens. Incapable de se concentrer, {he} s'en va.",Der stechende Geruch der verwesenden Leiche überwältigt die Sinne von {catname}. {He} er dreht sich um und geht schleunigst weiter.,"La puzza pungente della carcassa in decomposizione ha la meglio sui sensi di {catname}. Incapace di concentrarsi, {catname} sceglie di fuggire.","O odor pungente da carcaça em decomposição domina os sentidos de {catname}. Sem conseguir se concentrar, não é possível evitar o impulso de se virar de costas.",腐烂尸体的刺鼻臭味让 {catname} 感官不堪重负。无法集中注意力，{he} 转过身去。
+EVENT_DECAYINGCARCASS_REW11,The pungent stench of the decaying carcass overwhelms {catname}'s senses. Unable to focus {he} turns away instead.,examine bad,"El fuerte hedor del cadáver en descomposición abruma los sentidos de {catname}, que es incapaz de concentrarse y da media vuelta.","La puissante odeur de carcasse en décomposition atteint {catname} et submerge ses sens. Incapable de se concentrer, {he} s'en va.",Der stechende Geruch der verwesenden Leiche überwältigt die Sinne von {catname}. {He} er dreht sich um und geht schleunigst weiter.,"La puzza pungente della carcassa in decomposizione ha la meglio sui sensi di {catname}. Incapace di concentrarsi, {catname} sceglie di fuggire.","O odor pungente da carcaça em decomposição domina os sentidos de {catname}. Sem conseguir se concentrar, não é possível evitar o impulso de se virar de costas.",腐烂尸体的刺鼻臭味让 {catname} 感官不堪重负。无法集中注意力，{he} 只好转过身去。
 EVENT_DECAYINGCARCASS_REW11_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW11_F,,,,,,,,
-EVENT_DECAYINGCARCASS_REW11_N,The pungent stench of the decaying carcass overwhelms {catname}'s senses. Unable to focus they turn away instead.,,"El fuerte hedor del cadáver en descomposición abruma los sentidos de {catname}, que es incapaz de concentrarse y da media vuelta.",,"{catname} wird vom stechenden Geruch der verwesenden Leiche überwältigt, dreht sich um und geht schleunigst weiter.",,,腐烂尸体的刺鼻臭味让 {catname} 感官不堪重负。无法集中注意力，他们转过身去。
-EVENT_DECAYINGCARCASS_REW12,"{catname} extends a paw, prodding the carcass gently. As {he} does, a swarm of flies takes to the air and {catname} jumps back. It's too late however, as an opportunistic parasite latches on.",examine bad rare,"{catname} alarga una pata y toca el cadáver con cuidado. Entonces, sale un enjambre de moscas y {catname} se echa hacia atrás, pero es demasiado tarde y un parásito oportunista se le pega.","{catname} tend la patte, tapotant la carcasse avec précaution. Ce faisant, un essaim de mouches s'envole et {catname} fait un bond en arrière. Mais il est trop tard. Un parasite opportuniste s'est attaché à {him}.","{catname} streckt eine Pfote aus und stupst den Kadaver vorsichtig an. Ein Schwarm Fliegen wird aufgescheucht und {catname} springt zurück, doch es ist zu spät. Ein Parasit beißt sich an {his}em Arm fest!","{catname} allunga una zampa, pungolando gentilmente la carcassa. Non appena lo fa, uno sciame di mosche si solleva in aria e {catname} salta all'indietro. Troppo tardi, però, visto che un parassita opportunista riesce ad aggrapparsi.","{catname} estende uma pata, cutucando a carcaça delicadamente. Ao fazer isso, um enxame de moscas levanta voo e {catname} recua num salto. Era tarde demais, pois um parasita oportunista se agarra ao seu corpo.",{catname} 伸出爪子，轻轻戳了戳尸体。正当 {he} 这么做时，一群苍蝇飞了起来，{catname} 跳开了。然而已经太迟，一只机会主义的寄生虫附着上了。
+EVENT_DECAYINGCARCASS_REW11_N,The pungent stench of the decaying carcass overwhelms {catname}'s senses. Unable to focus they turn away instead.,,"El fuerte hedor del cadáver en descomposición abruma los sentidos de {catname}, que es incapaz de concentrarse y da media vuelta.",,"{catname} wird vom stechenden Geruch der verwesenden Leiche überwältigt, dreht sich um und geht schleunigst weiter.",,,腐烂尸体的刺鼻臭味让 {catname} 感官不堪重负。无法集中注意力，他们只好转过身去。
+EVENT_DECAYINGCARCASS_REW12,"{catname} extends a paw, prodding the carcass gently. As {he} does, a swarm of flies takes to the air and {catname} jumps back. It's too late however, as an opportunistic parasite latches on.",examine bad rare,"{catname} alarga una pata y toca el cadáver con cuidado. Entonces, sale un enjambre de moscas y {catname} se echa hacia atrás, pero es demasiado tarde y un parásito oportunista se le pega.","{catname} tend la patte, tapotant la carcasse avec précaution. Ce faisant, un essaim de mouches s'envole et {catname} fait un bond en arrière. Mais il est trop tard. Un parasite opportuniste s'est attaché à {him}.","{catname} streckt eine Pfote aus und stupst den Kadaver vorsichtig an. Ein Schwarm Fliegen wird aufgescheucht und {catname} springt zurück, doch es ist zu spät. Ein Parasit beißt sich an {his}em Arm fest!","{catname} allunga una zampa, pungolando gentilmente la carcassa. Non appena lo fa, uno sciame di mosche si solleva in aria e {catname} salta all'indietro. Troppo tardi, però, visto che un parassita opportunista riesce ad aggrapparsi.","{catname} estende uma pata, cutucando a carcaça delicadamente. Ao fazer isso, um enxame de moscas levanta voo e {catname} recua num salto. Era tarde demais, pois um parasita oportunista se agarra ao seu corpo.",{catname} 伸出爪子，轻轻戳了戳尸体。正当 {he} 这么做时，一群苍蝇飞了起来，{catname} 跳开了。然而已经太迟，一只寄生虫已趁机爬上了他。
 EVENT_DECAYINGCARCASS_REW12_M,,,,,,,,
 EVENT_DECAYINGCARCASS_REW12_F,,,,,,,,
-EVENT_DECAYINGCARCASS_REW12_N,"{catname} extends a paw, prodding the carcass gently. As they do, a swarm of flies takes to the air and {catname} jumps back. It's too late however, as an opportunistic parasite latches on.",,"{catname} alarga una pata y toca el cadáver con cuidado. Entonces, sale un enjambre de moscas y {catname} se echa hacia atrás, pero es demasiado tarde y un parásito oportunista se le pega.",,{catname} streckt eine Pfote aus und stupst den Kadaver vorsichtig an. Ein Schwarm Fliegen wird aufgescheucht und ein Parasit beißt sich am Arm von {catname} fest.,,,{catname} 伸出爪子，轻轻戳了戳尸体。正当他们这么做时，一群苍蝇飞了起来，{catname} 跳开了。然而已经太迟，一只机会主义的寄生虫附着上了。
+EVENT_DECAYINGCARCASS_REW12_N,"{catname} extends a paw, prodding the carcass gently. As they do, a swarm of flies takes to the air and {catname} jumps back. It's too late however, as an opportunistic parasite latches on.",,"{catname} alarga una pata y toca el cadáver con cuidado. Entonces, sale un enjambre de moscas y {catname} se echa hacia atrás, pero es demasiado tarde y un parásito oportunista se le pega.",,{catname} streckt eine Pfote aus und stupst den Kadaver vorsichtig an. Ein Schwarm Fliegen wird aufgescheucht und ein Parasit beißt sich am Arm von {catname} fest.,,,{catname} 伸出爪子，轻轻戳了戳尸体。正当他们这么做时，一群苍蝇飞了起来，{catname} 跳开了。然而已经太迟，一只寄生虫已趁机爬上了他。
 EVENT_APOOP_NAME,A Poop,,Caca,Caca,Ein Häufchen,Una Cacca,Um Cocô,一坨粪便
 EVENT_APOOP_QUES,"{catname} finds a small pile of excrement.
 
@@ -6144,9 +6144,9 @@ Was auch immer für eine Kreatur ihn hinterlassen hat, muss Münzen ziemlich gel
 
 Alla creatura che l'ha lasciata doveva piacere mangiare l'oro!","Sem hesitar, {catname} ataca o cocô e o aniquila.
 
-Seja lá qual for a criatura que as deixou para trás, devia gostar de comer ouro!","毫不犹豫，{catname} 扑向粪便，将其肢解。
+Seja lá qual for a criatura que as deixou para trás, devia gostar de comer ouro!","毫不犹豫，{catname} 扑向粪便，将其弄得粉碎。
 
-留下粪便的生物一定很喜欢吃金子！"
+留下留下它的生物肯定很喜欢吃金子！"
 EVENT_APOOP_REW2_M,,,,,,,,
 EVENT_APOOP_REW2_F,,,,,,,,
 EVENT_APOOP_REW2_N,,,,,,,,
@@ -6162,7 +6162,7 @@ Was für ein Schlamassel, aber alles scheint nochmal gut gegangen zu sein.","Per
 
 Ha combinato un macello, ma non sembra essere successo altro.","Sem querer correr riscos, {catname} ataca o pequeno monte de excremento, espalhando detritos pelas paredes.
 
-Foi uma grande bagunça, mas aparentemente nada mais aconteceu.","小心翼翼地，{catname} 打击了那小堆排泄物，碎屑溅满了墙壁。
+Foi uma grande bagunça, mas aparentemente nada mais aconteceu.","{catname} 小心翼翼地打击了那小堆排泄物，碎屑溅满了墙壁。
 
 {He} 弄得一团糟，但似乎没有发生其他事情。"
 EVENT_APOOP_REW3_M,,,,,,,,
@@ -6185,7 +6185,7 @@ Il resto del gruppo arretra di un passo, chiaramente disgustato.","{catname} ava
 
 O resto do grupo dá um passo para trás, claramente enojado.","{catname} 猛扑过去，用爪子碾碎了粪便！排泄物四处飞溅，弄得 {catname} 的皮毛臭气熏天。
 
-队伍其他成员后退了一步，显然很恶心。"
+队伍其他成员后退了一步，显然极为厌恶。"
 EVENT_APOOP_REW4_M,,,,,,,,
 EVENT_APOOP_REW4_F,,,,,,,,
 EVENT_APOOP_REW4_N,,,,,,,,
@@ -6266,7 +6266,7 @@ Son estomac en est complètement retourné. {catname} commence à se sentir mala
 {His} Bauch fängt bereits an zu grummeln und {catname} wird schlecht&nbsp;…
 ",,"Conforme o cocô desliza para baixo, {catname} começa a perceber o quão ruim foi a ideia.
 
-Seu estômago se revira com o mal-estar...","当它滑下去时，{catname} 开始意识到这主意有多糟糕。
+Seu estômago se revira com o mal-estar...","当它咽下去时，{catname} 开始意识到这主意有多糟糕。
 
 {His} 胃开始翻腾，{he} 感到恶心……"
 EVENT_APOOP_REW7_M,,,,,,"Mentre gli scivola giù in gola, {catname} inizia a capire che è stata davvero una cattiva idea.
@@ -6286,7 +6286,7 @@ Se le revuelve el estómago y empieza a encontrarse mal...
 Das Bauchgrummeln ist ohrenbetäubend und {catname} wird schlecht&nbsp;…
 ","Mentre scivola giù per la sua gola, {catname} inizia a capire che è stata davvero una cattiva idea.
 
-Lo stomaco di {catname} si rivolta, e comincia a sentirsi male...",,"当它滑下去时，{catname} 开始意识到这主意有多糟糕。
+Lo stomaco di {catname} si rivolta, e comincia a sentirsi male...",,"当它咽下去时，{catname} 开始意识到这主意有多糟糕。
 
 他们的胃开始翻腾，感到恶心……"
 EVENT_APOOP_REW8,"{catname} begins to eat the poop but lets out a cry of pain as {he} swallows.
@@ -6304,7 +6304,7 @@ Die merkwürdige braune Masse bewegt sich wie von selbst und bläht {catname} vo
 
 Lo strano escremento scivola e si espande al suo interno...","{catname} começa a comer as fezes, mas solta um grito de dor ao engolir.
 
-O excremento estranho se move e se expande dentro de seu corpo...","{catname} 开始吃粪便，但吞咽时发出痛苦的叫声。
+O excremento estranho se move e se expande dentro de seu corpo...","{catname} 开始吃屎，但吞咽时发出痛苦的叫声。
 
 奇怪的排泄物在 {him} 体内移动并膨胀……"
 EVENT_APOOP_REW8_M,,,,,,,,
@@ -6328,10 +6328,10 @@ EVENT_APOOP_REW9,"{catname} looks carefully at the poop and finds a small object
 EVENT_APOOP_REW9_M,,,,,,,,
 EVENT_APOOP_REW9_F,,,,,,,,
 EVENT_APOOP_REW9_N,,,,,,,,
-EVENT_APOOP_REW10,Buried in the poop {catname} thinks {he} sees something shiny!,,¡{catname} cree que ve algo brillante enterrado en la caca!,{catname} semble distinguer quelque chose qui brille enfoui dans le caca&nbsp;!,Mitten im Häufchen glaubt {catname} etwas funkeln zu sehen!,{catname} pensa di vedere qualcosa di luccicante sepolto nella cacca!,"Enterrado nas fezes, {catname} pensa ter visto algo brilhante!",埋在屎里，{catname} 认为{he} 看到了一些闪亮的东西！
+EVENT_APOOP_REW10,Buried in the poop {catname} thinks {he} sees something shiny!,,¡{catname} cree que ve algo brillante enterrado en la caca!,{catname} semble distinguer quelque chose qui brille enfoui dans le caca&nbsp;!,Mitten im Häufchen glaubt {catname} etwas funkeln zu sehen!,{catname} pensa di vedere qualcosa di luccicante sepolto nella cacca!,"Enterrado nas fezes, {catname} pensa ter visto algo brilhante!",{catname} 认为{he} 看到了一些闪亮的东西埋在屎里！
 EVENT_APOOP_REW10_M,,,,,,,,
 EVENT_APOOP_REW10_F,,,,,,,,
-EVENT_APOOP_REW10_N,Buried in the poop {catname} thinks they see something shiny!,,¡{catname} cree que ve algo brillante enterrado en la caca!,,Mitten im Häufchen glaubt {catname} etwas funkeln zu sehen!,,,埋在屎里，{catname} 认为他们看到了一些闪亮的东西！
+EVENT_APOOP_REW10_N,Buried in the poop {catname} thinks they see something shiny!,,¡{catname} cree que ve algo brillante enterrado en la caca!,,Mitten im Häufchen glaubt {catname} etwas funkeln zu sehen!,,,{catname} 认为他们看到了一些闪亮的东西埋在屎里！
 EVENT_APOOP_REW11,"{catname} looks closely at the poop...
 
 [i]""This is incredible! It will make a fantastic hat!""[/i]
@@ -7013,7 +7013,7 @@ E leva o grupo direto para uma emboscada!","{catname} 感觉附近黑暗中潜�
 EVENT_MUMMIFIEDCORPSE_REW6_M,,,,,,,,
 EVENT_MUMMIFIEDCORPSE_REW6_F,,,,,,,,
 EVENT_MUMMIFIEDCORPSE_REW6_N,,,,,,,,
-EVENT_MUMMIFIEDCORPSE_REW7,{catname} tries to pry into the fossilized remains but cuts {himself} on the hard exterior.,examine bad,"{catname} intenta escudriñar los restos fosilizados, pero se corta con el duro exterior.","{catname} tente de fouiller parmi les restes fossilisés, mais se coupe sur son enveloppe dure.","{catname} versucht die fossilisierten Überreste auseinanderzureißen, schneidet sich aber an dem spitzen Gestein.",{catname} cerca di scavare nei resti fossilizzati ma si taglia con la dura parte esterna.,"{catname} tenta chegar aos restos fossilizados, mas acaba se cortando durante a tentativa!",{catname} 试图撬开化石化的遗骸，却被硬壳划伤了{himself}。
+EVENT_MUMMIFIEDCORPSE_REW7,{catname} tries to pry into the fossilized remains but cuts {himself} on the hard exterior.,examine bad,"{catname} intenta escudriñar los restos fosilizados, pero se corta con el duro exterior.","{catname} tente de fouiller parmi les restes fossilisés, mais se coupe sur son enveloppe dure.","{catname} versucht die fossilisierten Überreste auseinanderzureißen, schneidet sich aber an dem spitzen Gestein.",{catname} cerca di scavare nei resti fossilizzati ma si taglia con la dura parte esterna.,"{catname} tenta chegar aos restos fossilizados, mas acaba se cortando durante a tentativa!",{catname} 试图撬开石化的遗骸，却被硬壳划伤了{himself}。
 EVENT_MUMMIFIEDCORPSE_REW7_M,,,,,,,,
 EVENT_MUMMIFIEDCORPSE_REW7_F,,,,,,,,
 EVENT_MUMMIFIEDCORPSE_REW7_N,,,,,,,,
@@ -7029,7 +7029,7 @@ Se da la vuelta ¡y ve que tenía a la criatura justo detrás!","{catname} sent 
 
 {catname} se vira para ver a criatura logo atrás!","{catname} 的毛发竖起，因为{he}感觉到有什么东西悄悄进入了房间……
 
-{catname} 转身看到生物正站在{him}身后！"
+{catname} 转身看到那东西正站在{him}身后！"
 EVENT_MUMMIFIEDCORPSE_REW8_M,,,,,,"Il pelo di {catname} si drizza mentre avverte qualcosa che entra furtivamente nella stanza...
 
 {catname} si gira e si ritrova la creatura in piedi proprio dietro di lui!",,
@@ -7759,7 +7759,7 @@ C'est un piège&nbsp;!","{catname} betrachtet das komische Zeichen und achtet ni
 
 Es war eine Falle!",,"{catname} contempla a estranha figura de madeira por um instante, sem prestar atenção ao que está ao redor...
 
-É uma armadilha!","{catname} 沉思那个奇怪的木制小人一会儿，没有注意周围的环境……
+É uma armadilha!","{catname} 对着那个奇怪的木制小人沉思了一会儿，没有注意周围的环境……
 
 这是个陷阱！"
 EVENT_OMINOUSSIGN_REW7_M,,,,,,"{catname} contempla la strana figura di legno per un po', non prestando attenzione a ciò che lo circonda...
@@ -8269,7 +8269,7 @@ EVENT_SMELLYBAG_REW7_N,,,,,,"La borsa balza in avanti e attacca {catname}!
 EVENT_SMELLYBAG_REW8,"As {catname} goes to strike what {he} thought was just a bag, it bites {his} face!
 ",destroy bad rare,"Cuando {catname} se dispone a golpear lo que pensaba que era solo una bolsa, ¡esta le muerde la cara!
 ","Quand {catname} s'apprête à frapper ce qu'{he} pensait être un simple sac, celui-ci lui mord le visage&nbsp;!","Bevor {catname} zuschlagen kann, beißt {him} die Stinketasche plötzlich mitten ins Gesicht! Es war gar keine normale Tasche!
-","Appena {catname} prova ad attaccare ciò che pensava essere una borsa, subisce un morso in faccia!","Quando {catname} tenta atacar o que pensava ser apenas uma sacola, a coisa morde seu rosto!",当{catname}准备攻击以为只是个袋子时，它咬了{his}脸！
+","Appena {catname} prova ad attaccare ciò che pensava essere una borsa, subisce un morso in faccia!","Quando {catname} tenta atacar o que pensava ser apenas uma sacola, a coisa morde seu rosto!",当{catname}准备攻击那以为只是个袋子的东西时，它咬了{his}脸！
 EVENT_SMELLYBAG_REW8_M,,,,,,,,
 EVENT_SMELLYBAG_REW8_F,,,,,,,,
 EVENT_SMELLYBAG_REW8_N,,,,,,,,
@@ -8634,7 +8634,7 @@ EVENT_HUMANSKIN_REW1,"{catname} tugs at the loose skin with {his} teeth, pulling
 EVENT_HUMANSKIN_REW1_M,,,,,,,,
 EVENT_HUMANSKIN_REW1_F,,,,,,,,
 EVENT_HUMANSKIN_REW1_N,,,,,,,,
-EVENT_HUMANSKIN_REW2,{catname} twitches as {he} chews on the dry skin. {He} feels a terrible itching sensation in {his} head as {catname}'s eyes mutate and become round!,eat good rare,{catname} tiene un espasmo al morder la piel seca. Nota un picor horrible en la cabeza ¡y sus ojos mutan y se vuelven redondos!,"{catname} tremblote en mâchant cette peau desséchée. {He} ressent une horrible sensation de démangeaison dans sa tête, puis ses yeux mutent et deviennent tout ronds&nbsp;!","{catname} zuckt zusammen, als {he} auf der trockenen Haut herumkaut. {His} Kopf fängt an zu jucken und die Augen von {catname} mutieren! Sie sind ganz rund geworden!",{catname} si contrae mentre mastica la pelle secca. Avverte una terribile sensazione di prurito in testa mentre i suoi occhi mutano e diventano rotondi!,"{catname} se contorce enquanto mastiga a pele seca, sentindo uma coceira terrível na cabeça enquanto seus olhos se transformam e ficam redondos!",{catname} 咀嚼干燥的皮肤时抽搐。{He} 感到头部强烈瘙痒，{catname} 的眼睛变异变圆！
+EVENT_HUMANSKIN_REW2,{catname} twitches as {he} chews on the dry skin. {He} feels a terrible itching sensation in {his} head as {catname}'s eyes mutate and become round!,eat good rare,{catname} tiene un espasmo al morder la piel seca. Nota un picor horrible en la cabeza ¡y sus ojos mutan y se vuelven redondos!,"{catname} tremblote en mâchant cette peau desséchée. {He} ressent une horrible sensation de démangeaison dans sa tête, puis ses yeux mutent et deviennent tout ronds&nbsp;!","{catname} zuckt zusammen, als {he} auf der trockenen Haut herumkaut. {His} Kopf fängt an zu jucken und die Augen von {catname} mutieren! Sie sind ganz rund geworden!",{catname} si contrae mentre mastica la pelle secca. Avverte una terribile sensazione di prurito in testa mentre i suoi occhi mutano e diventano rotondi!,"{catname} se contorce enquanto mastiga a pele seca, sentindo uma coceira terrível na cabeça enquanto seus olhos se transformam e ficam redondos!",{catname} 咀嚼干燥的皮肤时抽搐了。{He} 感到头部强烈瘙痒，{catname} 的眼睛变异变圆！
 EVENT_HUMANSKIN_REW2_M,,,,,,,,
 EVENT_HUMANSKIN_REW2_F,,,,,,,,
 EVENT_HUMANSKIN_REW2_N,{catname} twitches as they chew on the dry skin. They feel a terrible itching sensation in their head as {catname}'s eyes mutate and become round!,eat good rare,{catname} tiene un espasmo al morder la piel seca. Nota un picor horrible en la cabeza ¡y sus ojos mutan y se vuelven redondos!,,{catname} zuckt beim Herumkauen auf der trockenen Haut plötzlich zusammen. Der Kopf fängt an zu jucken und die Augen von {catname} mutieren! Sie sind ganz rund geworden!,,,{catname} 咀嚼干燥的皮肤时抽搐。它们感到头部强烈瘙痒，{catname} 的眼睛变异变圆！
@@ -8658,7 +8658,7 @@ Dort findet {catname} etwas&nbsp;…","{catname} esamina i lembi penzolanti dell
 
 Vede qualcosa nascosto all'interno...","{catname} examina as dobras soltas de pele. Olhando para a... boca?
 
-Há algo escondido ali...","{catname} 检查松动的皮肤瓣。往……嘴里看？
+Há algo escondido ali...","{catname} 检查松动的皮肤瓣。看向……嘴里？
 
 {He} 看到那里隐藏着些什么……"
 EVENT_HUMANSKIN_REW5_M,,,,,,,,
@@ -8760,7 +8760,7 @@ EVENT_HUMANSKIN_REW9,{catname} walks around the strange husk but doesn't see any
 EVENT_HUMANSKIN_REW9_M,,,,,,,,
 EVENT_HUMANSKIN_REW9_F,,,,,,,,
 EVENT_HUMANSKIN_REW9_N,,,,,,,,
-EVENT_HUMANSKIN_REW10,{catname} notices that the eyebrows on the head seem intact. {catname} tears the eyebrows off and wears them!,loot good rare,{catname} se da cuenta de que las cejas de la cabeza están intactas. ¡Las arranca y se las pone!,{catname} remarque que les sourcils de la tête semblent intacts. {He} lui arrache ses sourcils et les porte à sa place&nbsp;!,"{catname} bemerkt, dass die Augenbrauen auf dem Kopf noch immer intakt sind. {catname} reißt sie ab und trägt sie ab jetzt selbst!",{catname} nota che le sopracciglia della testa sembrano intatte. {catname} le strappa e le indossa!,{catname} percebe que as sobrancelhas da cabeça parecem intactas. {catname} arranca as sobrancelhas para usá-las!,{catname} 注意到头上的眉毛似乎完好无损。{catname} 撕下了眉毛，戴了上去！
+EVENT_HUMANSKIN_REW10,{catname} notices that the eyebrows on the head seem intact. {catname} tears the eyebrows off and wears them!,loot good rare,{catname} se da cuenta de que las cejas de la cabeza están intactas. ¡Las arranca y se las pone!,{catname} remarque que les sourcils de la tête semblent intacts. {He} lui arrache ses sourcils et les porte à sa place&nbsp;!,"{catname} bemerkt, dass die Augenbrauen auf dem Kopf noch immer intakt sind. {catname} reißt sie ab und trägt sie ab jetzt selbst!",{catname} nota che le sopracciglia della testa sembrano intatte. {catname} le strappa e le indossa!,{catname} percebe que as sobrancelhas da cabeça parecem intactas. {catname} arranca as sobrancelhas para usá-las!,{catname} 注意到头上的眉毛似乎完好无损。{catname} 撕下了眉毛，戴在脸上！
 EVENT_HUMANSKIN_REW10_M,,,,,,,,
 EVENT_HUMANSKIN_REW10_F,,,,,,,,
 EVENT_HUMANSKIN_REW10_N,,,,,,,,
@@ -8952,7 +8952,7 @@ Ne fuoriescono piccole ossa. Onestamente è piuttosto disgustosa... giusto?","{c
 
 Há pequenos ossos saindo dela. É realmente bem nojenta... ou será que não?","{catname} 发现了一团由毛块和毛发组成的毛球。
 
-里面还有细小的骨头露出来。说实话，挺恶心的……还是不一定？"
+里面还有细小的骨头露出来。说实话，挺恶心的……还是说？"
 EVENT_HAIRBALL_QUES_M,,,,,,,,
 EVENT_HAIRBALL_QUES_F,,,,,,,,
 EVENT_HAIRBALL_QUES_N,,,,,,,,
@@ -9005,9 +9005,9 @@ Cette boule de poils est à la fois molle et croustillante. {catname} ne sait pa
 Der Haarballen ist knackig und weich zugleich. {catname} glaubt, dass {he} jetzt nie wieder etwas essen kann.
 ",,"Esta pode ser a pior coisa que {catname} já colocou na boca, e olha que já foram muitas!
 
-A bola de pelos é crocante e mole ao mesmo tempo. {catname} acha que nunca mais vai querer comer.","这可能是 {catname} 吃过的最糟糕的东西，经历过的真的不少！
+A bola de pelos é crocante e mole ao mesmo tempo. {catname} acha que nunca mais vai querer comer.","这可能是 {catname} 吃过的最糟糕的东西，经历过的也不少！
 
-毛球又脆又烂。{catname} 觉得 {he} 可能永远都不会再吃东西了。"
+毛球又脆又烂。{catname} 觉得 {he} 可能永远都不想再吃东西了。"
 EVENT_HAIRBALL_REW4_M,,,,,,"Questa deve essere la cosa peggiore che {catname} si sia mai infilato in bocca, e se ne è infilate tante!
 
 La palla di pelo è al tempo stesso croccante e molliccia. {catname} pensa che potrebbe non voler mangiare mai più.",,
@@ -9131,7 +9131,7 @@ A grama dá lugar a espinheiros que rasgam a pele de {catname}!","{catname} 跳�
 EVENT_TALLGRASS_REW3_M,,,,,,,,
 EVENT_TALLGRASS_REW3_F,,,,,,,,
 EVENT_TALLGRASS_REW3_N,,,,,,,,
-EVENT_TALLGRASS_REW4,"{catname} strikes at the grass. Before {he} can react, large brambles lash out at them, grabbing all the cats!",destroy bad rare,"{catname} golpea la hierba. Antes de que pueda reaccionar, ¡salen unas grandes zarzas que agarran a los gatos!","{catname} frappe les herbes. Avant qu'{he} puisse réagir, de grosses roncières se déchaînent sur le groupe, attrapant tous les chats&nbsp;!","{catname} will sich durch das hohe Gras schlagen. Doch bevor {he} reagieren kann, schießen Dornengestrüppe hervor und schnappen sich die Katzen!","{catname} colpisce l'erba. Prima che possa reagire, grossi rovi ne emergono, afferrando tutti i gatti!","{catname} ataca a grama. Antes que seja possível reagir, grandes espinheiros se prendem ao grupo, agarrando todos os gatos!",{catname} 打击草丛。还没反应过来，大的荆棘藤条抽向他们，抓住了所有的猫！
+EVENT_TALLGRASS_REW4,"{catname} strikes at the grass. Before {he} can react, large brambles lash out at them, grabbing all the cats!",destroy bad rare,"{catname} golpea la hierba. Antes de que pueda reaccionar, ¡salen unas grandes zarzas que agarran a los gatos!","{catname} frappe les herbes. Avant qu'{he} puisse réagir, de grosses roncières se déchaînent sur le groupe, attrapant tous les chats&nbsp;!","{catname} will sich durch das hohe Gras schlagen. Doch bevor {he} reagieren kann, schießen Dornengestrüppe hervor und schnappen sich die Katzen!","{catname} colpisce l'erba. Prima che possa reagire, grossi rovi ne emergono, afferrando tutti i gatti!","{catname} ataca a grama. Antes que seja possível reagir, grandes espinheiros se prendem ao grupo, agarrando todos os gatos!",{catname} 打击草丛。还没反应过来，大荆棘藤条抽向他们，抓住了所有的猫！
 EVENT_TALLGRASS_REW4_M,,,,,,,,
 EVENT_TALLGRASS_REW4_F,,,,,,,,
 EVENT_TALLGRASS_REW4_N,,,,,,,,
@@ -10166,7 +10166,7 @@ EVENT_LOCKET_REW2_N,"{catname} opens the locket and stares at the oddly familiar
 
 {catname} ist dieser Person noch nie begegnet, doch vielleicht wird sich das noch ändern?",,,"{catname}打开怀表，凝视着里面那个奇异熟悉的面孔。
 
-{catname}知道他们从未见过他们，但或许他们会？"
+{catname}知道他们从未见过他们，但或许将来会？"
 EVENT_LOCKET_REW3,"{catname} tries to open the locket, but try as {he} might, it remains clamped shut. Oh, well.",open bad,"{catname} intenta abrir el guardapelo, pero, por mucho que lo intente, no cede. Pues nada.","{catname} essaie d'ouvrir le médaillon, mais {he} a beau essayer, l'objet s'y refuse. Bon, tant pis.","{catname} versucht, das Medaillon zu öffnen, doch es bleibt fest verschlossen. Na ja.","{catname} prova ad aprire il pendente, ma per quanto si sforzi esso rimane ben serrato. Beh, pazienza.","{catname} tenta abrir o medalhão, mas, por mais que tente, ele permanece trancado. Ah, paciência.",{catname}试图打开怀表，但不管{he}怎样努力，怀表依然紧闭。算了。
 EVENT_LOCKET_REW3_M,,,,,,,,
 EVENT_LOCKET_REW3_F,,,,,,,,
@@ -10179,7 +10179,7 @@ EVENT_LOCKET_REW5,"After closer examination, {catname} discovers it is made of g
 EVENT_LOCKET_REW5_M,,,,,,,,
 EVENT_LOCKET_REW5_F,,,,,,,,
 EVENT_LOCKET_REW5_N,,,,,,,,
-EVENT_LOCKET_REW6,"Looking closely at the locket, {catname} discovers a hidden compartment on the back! {He} pops it open!",examine good rare,{catname} examina el guardapelo de cerca ¡y descubre un compartimento oculto en la parte de atrás! Lo abre...,"En observant le médaillon de plus près, {catname} découvre un compartiment secret à l'arrière&nbsp;! {He} l'ouvre d'un coup&nbsp;!",{catname} sieht genauer hin und entdeckt ein verstecktes Fach auf der Rückseite! {He} öffnet es gespannt!,"Guardando il pendente da vicino, {catname} scopre uno scompartimento segreto sul retro! Lo apre!","Ao examinar o medalhão com atenção, {catname} descobre um compartimento secreto na parte de trás e o abre!",仔细观察吊坠，{catname} 发现背面有一个隐藏的隔层！{He} 弹开了它！
+EVENT_LOCKET_REW6,"Looking closely at the locket, {catname} discovers a hidden compartment on the back! {He} pops it open!",examine good rare,{catname} examina el guardapelo de cerca ¡y descubre un compartimento oculto en la parte de atrás! Lo abre...,"En observant le médaillon de plus près, {catname} découvre un compartiment secret à l'arrière&nbsp;! {He} l'ouvre d'un coup&nbsp;!",{catname} sieht genauer hin und entdeckt ein verstecktes Fach auf der Rückseite! {He} öffnet es gespannt!,"Guardando il pendente da vicino, {catname} scopre uno scompartimento segreto sul retro! Lo apre!","Ao examinar o medalhão com atenção, {catname} descobre um compartimento secreto na parte de trás e o abre!",仔细观察吊坠，{catname} 发现背面有一个隐藏的隔层！{He} 啪的一声打开了它！
 EVENT_LOCKET_REW6_M,,,,,,,,
 EVENT_LOCKET_REW6_F,,,,,,,,
 EVENT_LOCKET_REW6_N,"Looking closely at the locket, {catname} discovers a hidden compartment on the back! They pop it open!",examine good rare,{catname} examina el guardapelo de cerca ¡y descubre un compartimento oculto en la parte de atrás! Lo abre...,,"{catname} sieht genauer hin, entdeckt ein verstecktes Fach auf der Rückseite und öffnet es gespannt!",,,仔细观察吊坠，{catname} 发现背面有一个隐藏的隔层！他们弹开了它！
@@ -10300,7 +10300,7 @@ Un fœtus géant et furieux sort de l'œuf en rampant, ce qui horrifie {catname}
 
 Erschrocken springt {catname} zurück, als ein riesiger, wütender Fötus hervorkriecht!",,"Sem dar muita importância, {catname} golpeia o ovo, quebrando a casca.
 
-Assustado, {catname} salta para trás ao ver um feto gigante e furioso sair rastejando de dentro dele!","毫不在意地，{catname} 猛击蛋壳，使其破裂。
+Assustado, {catname} salta para trás ao ver um feto gigante e furioso sair rastejando de dentro dele!","{catname} 想都没想就猛击蛋壳，使其破裂。
 
 惊恐之中，{catname} 跳开了，因为一个巨大的愤怒胎儿爬了出来！"
 EVENT_WEIRDEGG_REW4_M,,,,,,"Senza perdere troppo tempo, {catname} colpisce l'uovo, rompendone il guscio.
@@ -10332,7 +10332,7 @@ Es scheint bald zu schlüpfen!","{catname} raccoglie lo strano uovo. È caldo al
 
 Sta per schiudersi!","{catname} pega o ovo estranho. Ele está quente ao toque e é possível ouvir sons felizes de gorgolejo lá dentro.
 
-Está prestes a chocar!","{catname} 拿起了奇怪的蛋。摸起来温暖，{he} 能听到里面传来快乐的咕噜声。
+Está prestes a chocar!","{catname} 拿起了奇怪的蛋。蛋摸起来很温暖，{he} 能听到里面传来快乐的咕噜声。
 
 它快要孵化了！"
 EVENT_WEIRDEGG_REW6_M,,,,,,,,
@@ -10352,7 +10352,7 @@ L'orripilante mostro che c'era all'interno lo colpisce brutalmente prima che {ca
 
 O monstro horripilante que estava dentro lhe fere antes que {catname} consiga empurrá-lo para longe!","{catname} 试图拿起它，但它爆开了！
 
-里面的恐怖怪物在 {catname} 推开它之前击打了 {him}！"
+里面的恐怖怪物在 {catname} 推开它之前击中了 {him}！"
 EVENT_WEIRDEGG_REW7_M,,,,,,,,
 EVENT_WEIRDEGG_REW7_F,,,,,,,,
 EVENT_WEIRDEGG_REW7_N,,,,,,,,
@@ -10417,7 +10417,7 @@ Plötzlich fühlt sich {catname} so selbstbewusst wie nie zuvor.",,"{catname} ab
 
 {catname} sente uma onda de confiança invadir seu corpo.","{catname} 翻开它，看到弹出的三页折页，{his} 眼睛瞪得大大的！
 
-{catname} 感到一股自信的浪潮涌上心头。"
+{catname} 感到一股自信涌上心头。"
 EVENT_RACYMAGAZINE_REW1_M,,,,,,"{catname} lo sfoglia, e sgrana gli occhi davanti al pieghevole a tre pagine che salta fuori!
 
 {catname} si sente travolto da un'ondata di sicurezza.",,
@@ -10934,10 +10934,10 @@ EVENT_GRATINGINTHEFLOOR_REW2,{catname} throws the grate open and crawls inside..
 EVENT_GRATINGINTHEFLOOR_REW2_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW2_F,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW2_N,,,,,,,,
-EVENT_GRATINGINTHEFLOOR_REW3,"{catname} pushes the grate aside, but as {he} does, a swarm of rats crawl out, biting and poisoning all the cats!",bash bad,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.","{catname} pousse la grille un peu plus loin, mais ce faisant, une horde de rats en sort en rasant le sol, mordant et empoisonnant l'ensemble du groupe&nbsp;!","{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!","{catname} non fa in tempo a spostare di lato la grata che un branco di ratti ne striscia fuori, mordendo e avvelenando tutti i gatti!","{catname} empurra a grade para o lado, mas, ao fazer isso, um enxame de ratos sai rastejando, mordendo e envenenando todos os gatos!",{catname} 推开格栅，但就在这时，一群老鼠爬了出来，咬伤并中毒了所有猫！
+EVENT_GRATINGINTHEFLOOR_REW3,"{catname} pushes the grate aside, but as {he} does, a swarm of rats crawl out, biting and poisoning all the cats!",bash bad,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.","{catname} pousse la grille un peu plus loin, mais ce faisant, une horde de rats en sort en rasant le sol, mordant et empoisonnant l'ensemble du groupe&nbsp;!","{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!","{catname} non fa in tempo a spostare di lato la grata che un branco di ratti ne striscia fuori, mordendo e avvelenando tutti i gatti!","{catname} empurra a grade para o lado, mas, ao fazer isso, um enxame de ratos sai rastejando, mordendo e envenenando todos os gatos!",{catname} 推开格栅，但就在这时，一群老鼠爬了出来，咬伤并让所有猫都中了毒！
 EVENT_GRATINGINTHEFLOOR_REW3_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW3_F,,,,,,,,
-EVENT_GRATINGINTHEFLOOR_REW3_N,"{catname} pushes the grate aside, but as they do, a swarm of rats crawl out, biting and poisoning all the cats!",,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.",,"{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!",,,{catname} 推开格栅，但就在他们这么做时，一群老鼠爬了出来，咬伤并中毒了所有猫！
+EVENT_GRATINGINTHEFLOOR_REW3_N,"{catname} pushes the grate aside, but as they do, a swarm of rats crawl out, biting and poisoning all the cats!",,"{catname} aparta la reja, pero entonces sale de debajo una colonia de ratas que muerden y envenenan a todos los gatos.",,"{catname} öffnet das Gitter, doch noch im gleichen Moment springt ein Schwarm Ratten heraus, die alle Katzen beißen und sie vergiften!",,,{catname} 推开格栅，但就在他们这么做时，一群老鼠爬了出来，咬伤并让所有猫都中毒了！
 EVENT_GRATINGINTHEFLOOR_REW4,"{catname} breaks the grate open, and to {his} horror, a giant fetus crawls out and attacks!",bash bad rare,"{catname} rompe la reja para abrirla, pero ¡ve con angustia como un feto gigante sale de ella y ataca!","{catname} brise la grille pour ouvrir le passage, mais quelque chose d'horrifiant en sort et l'attaque&nbsp;: un fœtus géant&nbsp;!","{catname} öffnet das Gitter. Angewidert muss {he} dabei zusehen, wie ein riesiger Fötus herauskriecht und angreift!","{catname} scassina la grata, e con orrore vede un feto gigante che ne striscia fuori e attacca!","{catname} arromba a grade e, para seu horror, um feto gigante sai rastejando e ataca!",{catname} 撬开格栅，令 {his} 惊恐的是，一个巨大的胎儿爬了出来并发动攻击！
 EVENT_GRATINGINTHEFLOOR_REW4_M,,,,,,,,
 EVENT_GRATINGINTHEFLOOR_REW4_F,,,,,,,,
@@ -11150,9 +11150,9 @@ EVENT_BROKENTV_REW9,"Annoyed by the constant buzzing of the television, {catname
 EVENT_BROKENTV_REW9_M,,,,,,"Infastidito dal brusio costante del televisore, {catname} lo lascia perdere.",,
 EVENT_BROKENTV_REW9_F,,,,,,"Infastidita dal brusio costante del televisore, {catname} lo lascia perdere.",,
 EVENT_BROKENTV_REW9_N,,,,,,"Provando fastidio per il brusio costante del televisore, {catname} lascia perdere.",,
-EVENT_BUTCH3_QUES,I got one for ya. What's best? Scabs or cuts?,,"«Tengo una pregunta para ti: ¿qué es mejor, costras o cortes?».",Dis voir. C'est quoi le meilleur pour toi&nbsp;: les coupures ou les croûtes&nbsp;?,Hab ein Rätsel für dich. Was ist besser? Schorf oder ein Schnitt?,"Ne ho una per te: cos'è meglio, croste o tagli?",Eu tenho uma pergunta para você. O que é melhor? Sarna ou cortes?,我告诉你一个。哪个更好？结痂还是伤口？
+EVENT_BUTCH3_QUES,I got one for ya. What's best? Scabs or cuts?,,"«Tengo una pregunta para ti: ¿qué es mejor, costras o cortes?».",Dis voir. C'est quoi le meilleur pour toi&nbsp;: les coupures ou les croûtes&nbsp;?,Hab ein Rätsel für dich. Was ist besser? Schorf oder ein Schnitt?,"Ne ho una per te: cos'è meglio, croste o tagli?",Eu tenho uma pergunta para você. O que é melhor? Sarna ou cortes?,我给你个选择题。哪个更好？结痂还是伤口？
 EVENT_BUTCH3_REW1,"Ya know what they say. What hurts ya makes you tougher, right? So take... This!",,«Ya sabes lo que dicen: lo que te hace daño te hace más fuerte. Así que... ¡toma!».,"Tu sais ce qu'on dit, ce qui ne nous tue pas nous rend plus forts. Alors... prends ça&nbsp;!","Du weißt ja, was man sagt. Was einem wehtut, macht einen stärker. Oder? Also&nbsp;… ist das hier für dich!","Sai come si dice. Quel che ti ferisce ti rende più forte, no? Allora... prendi questo!","Sabe o que dizem? O que te machuca te fortalece, não é? Então, tome... isto!",你知道他们怎么说的。伤害你的是让你更坚强，对吧？那就接招吧……！
-EVENT_BUTCH3_REW2,"Heck kid, you'll need tough skin out there, but that's a bit excessive tho. You do you, kiddo.",,"«Madre mía, colega. En la vida hay que tener la piel dura, pero eso igual es pasarse un poco. Bueno, tú sabrás».","Bah dis, c'est vrai qu'il faut avoir la peau dure, mais je crois que là c'est un peu excessif. Enfin, tu fais comme tu veux.","Puh, na ja, man braucht zwar eine dicke Haut da draußen, aber das ist ganz schön extrem. Wie du willst.","Accidenti, là fuori ci vuole la pelle dura... ma così è un tantino esagerato. Fai come ti pare.","Puxa, jovem, você vai precisar ser casca grossa lá fora, mas isso é um pouco exagerado. Bem, faça como quiser.",哎，孩子，你在外面需要厚脸皮，但这未免也太过分了。随你便，小子。
+EVENT_BUTCH3_REW2,"Heck kid, you'll need tough skin out there, but that's a bit excessive tho. You do you, kiddo.",,"«Madre mía, colega. En la vida hay que tener la piel dura, pero eso igual es pasarse un poco. Bueno, tú sabrás».","Bah dis, c'est vrai qu'il faut avoir la peau dure, mais je crois que là c'est un peu excessif. Enfin, tu fais comme tu veux.","Puh, na ja, man braucht zwar eine dicke Haut da draußen, aber das ist ganz schön extrem. Wie du willst.","Accidenti, là fuori ci vuole la pelle dura... ma così è un tantino esagerato. Fai come ti pare.","Puxa, jovem, você vai precisar ser casca grossa lá fora, mas isso é um pouco exagerado. Bem, faça como quiser.",哎，孩子，你在外面需要厚脸皮，但这也有点过头了。随你便，小子。
 EVENT_BUTCH3_REW3,"This kiddo's lookin' to start somethin'! Save it for the alley! Here. It's not much, but you can take my backup slice.",,"«¿Quieres guerra? ¡Mejor resérvate para el callejón! Toma; no es mucho, pero te puedes quedar mi repuesto».","Toi, je sais que tu vas t'attirer des ennuis&nbsp;! Garde ton énergie pour la rue. Tiens, ce n'est pas grand-chose, mais ma tranche de secours est à toi.","Sieht aus, als wenn du ganz schön auf Ärger aus bist! Na schön. Hier, für dich. Ist nicht viel, aber kannste von mir aus haben.","Qui qualcuno ha voglia di attaccare briga! Conserva quest'atteggiamento! Tieni. Non è granché, ma puoi prenderti la mia lama di riserva.","Você quer arrumar confusão, hein! Guarda isso pra rua! Toma. Não é muita coisa, mas pode pegar minha fatia reserva.",这个小子想挑事！把它留到小巷里去！给你。没多少钱，但你可以拿我的备用一片。
 EVENT_BUTCH3_REW4,"Dang, that's a mean stabby you got. But we'z friends tho, right? Here, take this. Should help.",,"«¡Hala! Menudo filo tienes. Pero somos colegas, ¿no? Toma, llévate esto. Debería serte de ayuda».","Bon sang, t'es pas là pour rigoler, ça se voit. Mais on est potes, hein&nbsp;? Tiens, prends ça. Ça devrait t'être utile.","Uff, sieht ganz schön übel aus, was du da hast. Aber ganz unter Freunden? Das ist für dich. Hilft dir hoffentlich.","Accidenti, quello sì che è un bel coltellaccio cattivo. Ma noi siamo amici, giusto? Tieni, prendi questo. Dovrebbe aiutarti.","Caramba, essa sua facada é das boas. Mas nós somos amigos, né? Toma, fica com isso. Deve ajudar.",哎呀，那刺得真狠。不过我们是朋友，对吧？来，拿这个。应该有帮助。
 EVENT_WATCHINGHEAD_NAME,Watching Head,,Cabeza observadora,Tête observatrice,Beobachterkopf,Testa Scrutatrice,Cabeça Observante,注视着头颅
@@ -11593,7 +11593,7 @@ La maggior parte sembra spazzatura, ma riesce a recuperare dei rottami!","{catna
 
 A maioria parece lixo, mas ainda há algumas coisas que podem ser aproveitadas!","{catname} 爬上堆积物，拉扯着一些物品，寻找有用的东西。
 
-大多数看起来像是废品，但 {he} 设法打捞出了一些碎片！"
+大多数看起来像是废品，但 {he} 设法打淘出了一些碎片！"
 EVENT_WALLOFCATS_REW1_M,,,,,,,,
 EVENT_WALLOFCATS_REW1_F,,,,,,,,
 EVENT_WALLOFCATS_REW1_N,"{catname} climbs onto the pile and pulls at some of the objects, looking for anything useful.
@@ -11611,7 +11611,7 @@ Das meiste sieht wirklich nur nach Müll aus, aber immerhin findet {catname} ein
 EVENT_WALLOFCATS_REW2,"Wrinkling {his} nose at the stench of the pile, {catname} digs around until {he} feels an object against {his} paw, deep within the pile. {He} pulls it out!
 ",loot good rare,"El hedor de la pila hace que {catname} arrugue la nariz. Mete la pata en el fondo de la pila hasta notar un objeto y lo saca.
 ","Plissant le nez en captant l'odeur nauséabonde du tas, {catname} le fouille jusqu'à sentir un objet contre sa patte au plus profond de la masse. {He} tire dessus pour le faire sortir&nbsp;!","{catname} rümpft die Nase von dem Gestank, gräbt aber in dem Haufen herum, bis {he} etwas Hartes ertastet. {He} zieht den Gegenstand hervor!
-","Stropicciandosi il naso per via del fetore della pila, {catname} scava in giro finché sente un oggetto contro la zampa, sepolto in profondità. Lo estrae!","Franzindo o nariz com o fedor da pilha, {catname} cava até sentir um objeto contra a pata, bem no fundo, e o puxa para fora!",{catname} 因为堆积物的恶臭而皱起鼻子，挖掘直到在堆里深处感觉到一个物体碰到 {his} 爪子。{He} 把它拉了出来！
+","Stropicciandosi il naso per via del fetore della pila, {catname} scava in giro finché sente un oggetto contro la zampa, sepolto in profondità. Lo estrae!","Franzindo o nariz com o fedor da pilha, {catname} cava até sentir um objeto contra a pata, bem no fundo, e o puxa para fora!",{catname} 因为堆积物的恶臭而皱起鼻子，他挖掘着直到在堆里深处感觉一个物体碰到了 {his} 爪子。{He} 把它拉了出来！
 EVENT_WALLOFCATS_REW2_M,,,,,,,,
 EVENT_WALLOFCATS_REW2_F,,,,,,,,
 EVENT_WALLOFCATS_REW2_N,"Wrinkling their nose at the stench of the pile, {catname} digs around until they feel an object against their paw, deep within the pile. They pull it out!
@@ -12532,7 +12532,7 @@ EVENT_BEARTRAP_REW1,{catname} uses a stick to safely disarm the trap.,disarm goo
 EVENT_BEARTRAP_REW1_M,,,,,,,,
 EVENT_BEARTRAP_REW1_F,,,,,,,,
 EVENT_BEARTRAP_REW1_N,,,,,,,,
-EVENT_BEARTRAP_REW2,"With lightning fast reflexes, {catname} triggers the trap and jumps back as it snaps shut right in {his} face!",disarm good rare,"Con reflejos rapidísimos, ¡{catname} activa el cepo y se echa hacia atrás justo antes de que se le cierre en la cara!","Avec des réflexes éclairs, {catname} déclenche le piège et fait un bond en arrière avant qu'il ne se referme à un poil de son visage&nbsp;!","Dank {his}er blitzschnellen Reflexe löst {catname} die Falle aus und springt zurück, als sie zuschnappt!","Grazie ai suoi riflessi veloci come la luce, {catname} fa scattare la trappola e balza all'indietro mentre quella si chiude di scatto a pochi centimetri dal suo viso!","Com reflexos extremamente rápidos, {catname} aciona a armadilha e salta para trás quando ela se fecha bem na sua frente!",凭借 lightning 快速的反应，{catname}触发了陷阱，跳开了，陷阱就在{his}脸前啪地关上了！
+EVENT_BEARTRAP_REW2,"With lightning fast reflexes, {catname} triggers the trap and jumps back as it snaps shut right in {his} face!",disarm good rare,"Con reflejos rapidísimos, ¡{catname} activa el cepo y se echa hacia atrás justo antes de que se le cierre en la cara!","Avec des réflexes éclairs, {catname} déclenche le piège et fait un bond en arrière avant qu'il ne se referme à un poil de son visage&nbsp;!","Dank {his}er blitzschnellen Reflexe löst {catname} die Falle aus und springt zurück, als sie zuschnappt!","Grazie ai suoi riflessi veloci come la luce, {catname} fa scattare la trappola e balza all'indietro mentre quella si chiude di scatto a pochi centimetri dal suo viso!","Com reflexos extremamente rápidos, {catname} aciona a armadilha e salta para trás quando ela se fecha bem na sua frente!",反应快如闪电的{catname}触发了陷阱，并且跳开了，陷阱就在{his}脸前啪地关上了！
 EVENT_BEARTRAP_REW2_M,,,,,,,,
 EVENT_BEARTRAP_REW2_F,,,,,,,,
 EVENT_BEARTRAP_REW2_N,,,,,,,,
@@ -13520,7 +13520,7 @@ EVENT_OASIS_REW2,"The cats drag themselves into the oasis and lay in the small p
 ",good rare,"Los gatos avanzan arrastrándose hasta el oasis y se meten en la pequeña charca. ¡Beben tanto como pueden!
 ","Les chats se traînent jusqu'à l'oasis et se couchent dans le petit plan d'eau, tout en buvant autant d'eau que possible&nbsp;!","Die Katzen schleppen sich in das Zentrum der Oase, baden in dem kleinen Becken und trinken so viel sie können!
 ","I gatti si trascinano nell'oasi e si gettano nella piccola pozza, bevendo tanto quanto i loro stomaci riescono a tollerare!","Os gatos se arrastam até o oásis e se deitam na pequena poça, bebendo o máximo que conseguem!",猫咪们拖着自己进入绿洲，躺在小池塘里，尽可能多地喝水！
-EVENT_OASIS_REW3,"The warm water tastes salty, but {catname} continues drinking from the briny pool in desperation, poisoning {himself}!",bad,"El agua está caliente y salada, pero {catname} tiene tanta sed que no deja de beber ¡y se envenena!","L'eau chaude a un goût de sel, mais {catname}, dans son désespoir, continue à boire dans l'étang saumâtre et s'empoisonne&nbsp;!","Das warme Wasser schmeckt salzig, aber {catname} trinkt verzweifelt weiter. {catname} hat sich vergiftet!","L'acqua calda ha un sapore salato, ma {catname} continua a bere dalla pozza salmastra in preda alla disperazione, avvelenandosi!","A água morna tem gosto salgado, mas {catname} continua bebendo da poça salobra em desespero, envenenando-se!",温暖的水尝起来有点咸，但{catname}绝望地继续从咸水池喝水，中毒了{himself}！
+EVENT_OASIS_REW3,"The warm water tastes salty, but {catname} continues drinking from the briny pool in desperation, poisoning {himself}!",bad,"El agua está caliente y salada, pero {catname} tiene tanta sed que no deja de beber ¡y se envenena!","L'eau chaude a un goût de sel, mais {catname}, dans son désespoir, continue à boire dans l'étang saumâtre et s'empoisonne&nbsp;!","Das warme Wasser schmeckt salzig, aber {catname} trinkt verzweifelt weiter. {catname} hat sich vergiftet!","L'acqua calda ha un sapore salato, ma {catname} continua a bere dalla pozza salmastra in preda alla disperazione, avvelenandosi!","A água morna tem gosto salgado, mas {catname} continua bebendo da poça salobra em desespero, envenenando-se!",温暖的水尝起来有点咸，但{catname}绝望地继续从咸水池喝水，{himself}中毒了！
 EVENT_OASIS_REW3_M,,,,,,,,
 EVENT_OASIS_REW3_F,,,,,,,,
 EVENT_OASIS_REW3_N,,,,,,,,
@@ -13644,7 +13644,7 @@ Logra esquivar la mayoría de los dardos, pero alguno le ha dado.","Des fléchet
 
 {He} schafft es, den meisten auszuweichen, wird aber von ein paar von ihnen getroffen.",,"Dardos envenenados voam das fendas enquanto {catname} desce as escadas correndo!
 
-{catname} consegue se desviar da maioria deles, mas seu corpo é atingido por alguns.","当{catname}跑下楼梯时，中毒镖从槽中射出！
+{catname} consegue se desviar da maioria deles, mas seu corpo é atingido por alguns.","当{catname}跑下楼梯时，毒镖从槽中射出！
 
 {He}设法躲开了大部分镖，但还是中了几支。"
 EVENT_MYSTERIOUSTOMB1_REW1_M,,,,,,"Dardi avvelenati volano fuori dalle fessure mentre {catname} corre giù per le scale!
@@ -13883,7 +13883,7 @@ La mummia spalanca gli occhi e inizia a sollevarsi uscendo dal sarcofago!","Quan
 
 Seus olhos se abrem de repente e ela começa a sair do sarcófago!","当盖子掉落时，{catname}低头看着躺在里面的木乃伊……
 
-它的眼睛突然睁开，开始从石棺中升起！"
+它的眼睛突然睁开，开始从石棺中起身！"
 EVENT_MYSTERIOUSTOMB3_REW3_M,,,,,,,,
 EVENT_MYSTERIOUSTOMB3_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSTOMB3_REW3_N,,,,,,,,
@@ -14050,7 +14050,7 @@ Er starrt {catname} aus leeren Augenhöhlen an.","Una vecchia testa rugosa e avv
 
 Osserva {catname} imperturbabile.","Uma cabeça velha, enrugada e mirrada está enfiada no aro de um pneu.
 
-Ela encara {catname} com um olhar vago.","一个干瘪、枯萎的老头藏在轮胎的环内。
+Ela encara {catname} com um olhar vago.","一个干瘪、枯萎的老头颅被塞在轮胎的环内。
 
 它呆呆地盯着{catname}。"
 EVENT_HEADINATIRE_QUES_M,,,,,,,,
@@ -14123,14 +14123,14 @@ EVENT_HEADINATIRE_REW6_N,,,,,,"{catname} salta oltre lo pneumatico e prosegue, p
 EVENT_HEADINATIRE_REW7,"{catname} tries to dart past the head but it reaches out and bites into {his} leg!
 ",run bad,"{catname} intenta dejar atrás la cabeza a toda prisa, pero esta se le acerca ¡y le muerde la pata!
 ","{catname} tente de rapidement s'écarter de la tête, mais elle se rapproche et lui mord la patte&nbsp;!","{catname} versucht, an dem Kopf vorbeizurennen, doch er beißt {him} ins Bein!
-","{catname} cerca di scattare oltre la testa, che però si allunga e morde una delle sue zampe!","{catname} tenta passar rapidamente pela cabeça, mas ela se estica e morde sua perna!",{catname}试图从头旁边快速穿过，但头伸出手咬住了{his}的腿！
+","{catname} cerca di scattare oltre la testa, che però si allunga e morde una delle sue zampe!","{catname} tenta passar rapidamente pela cabeça, mas ela se estica e morde sua perna!",{catname}试图从头旁边快速穿过，但头伸出来咬住了{his}的腿！
 EVENT_HEADINATIRE_REW7_M,,,,,,,,
 EVENT_HEADINATIRE_REW7_F,,,,,,,,
 EVENT_HEADINATIRE_REW7_N,,,,,,,,
 EVENT_HEADINATIRE_REW8,"{catname} turns to run away but the head leaps forward and rips into {his} body, crushing bones! {catname} barely manages to wriggle free from its deadly grasp!
 ",run bad rare,"{catname} se dispone a huir, pero la cabeza salta hacia su cuerpo ¡y le machaca los huesos! {catname} logra liberarse a duras penas de su letal agarre.
 ","{catname} se retourne pour s'enfuir, mais la tête fait un bond en avant pour l'attaquer et lui écrase les os&nbsp;! {catname} réussit difficilement à se dégager de son étreinte mortelle&nbsp;!","{catname} will weiterrennen, doch der Kopf springt plötzlich auf {him} zu, beißt {him} und bricht {his}e Knochen! {catname} entkommt gerade so aus seinem tödlichen Griff!
-",,"{catname} tenta fugir, mas a cabeça salta para a frente e ataca o corpo de {catname}, esmagando seus ossos! {catname} mal consegue se libertar de seu aperto mortal!",{catname} 转身逃跑，但头部猛地跳向前撕咬 {his} 的身体，骨头被粉碎了！{catname} 勉强挣脱了致命的掌握！
+",,"{catname} tenta fugir, mas a cabeça salta para a frente e ataca o corpo de {catname}, esmagando seus ossos! {catname} mal consegue se libertar de seu aperto mortal!",{catname} 转身逃跑，但头部猛地跳向前撕咬 {his} 的身体，骨头被粉碎了！{catname} 勉强挣脱了致命的魔爪！
 EVENT_HEADINATIRE_REW8_M,,,,,,"{catname} si gira per fuggire, ma la testa balza in avanti e squarcia il suo corpo, spaccandogli le ossa! {catname} riesce a malapena a liberarsi da quella morsa mortale!",,
 EVENT_HEADINATIRE_REW8_F,,,,,,"{catname} si gira per fuggire, ma la testa balza in avanti e squarcia il suo corpo, spaccandole le ossa! {catname} riesce a malapena a liberarsi da quella morsa mortale!",,
 EVENT_HEADINATIRE_REW8_N,,,,,,"{catname} si gira per fuggire, ma la testa balza in avanti e squarcia il suo corpo, spaccandone le ossa! {catname} riesce a malapena a liberarsi da quella morsa mortale!",,
@@ -14661,7 +14661,7 @@ Gli altri gatti si affrettano a trascinare {catname} al sicuro.","Suor e sangue 
 
 Os outros gatos lhe arrastam apressadamente para um lugar seguro.","汗水和血液像热铁上的水珠一样从{catname}的毛发中蒸发。{catname}昏倒在地，身体被辐射重创。
 
-其他猫迅速把{him}拖离到安全地带。"
+其他猫迅速把{him}拖到安全地带。"
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW4_M,,,,,,,,
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW4_F,,,,,,,,
 EVENT_ELEPHANTSFOOTEVENCLOSER_REW4_N,,,,,,,,
@@ -14856,7 +14856,7 @@ Ne estraggono i pezzi rimanenti e danno un'occhiata all'enorme ferita sanguinant
 
 Eles extraem os pedaços restantes e olham para o abismo sangrento no topo da cabeça de {catname}. Eles têm quase certeza de que deveria haver mais cérebro ali... Bem, paciência!","猫咪们拉扯着{catname}头骨里的钟乳石，石块断成了几块……
 
-它们取出了剩余的碎块，低头看着{catname}头上的血洞。它们确定那里应该有更多大脑……算了！"
+它们取出了剩余的碎块，低头看着{catname}头上的血洞。它们确定那里本应该有更多大脑……算了！"
 EVENT_JAGGEDPATHWAY_STALACTITE_REW4_M,,,,,,,,
 EVENT_JAGGEDPATHWAY_STALACTITE_REW4_F,,,,,,,,
 EVENT_JAGGEDPATHWAY_STALACTITE_REW4_N,,,,,,,,
@@ -14982,7 +14982,7 @@ Lo straniero afferra con decisione la zampa di {catname}, che dovrà giocare di 
 
 O estranho estende a mão e agarra a pata de {catname}, forçando-lhe a jogar novamente!","刀子猛然砍下，切掉了 {catname} 的手指！
 
-[i]你到底在努力吗？！这次认真点！[/i]
+[i]你到底在干什么？！这次认真点！[/i]
 
 陌生人伸手抓住了 {catname} 的爪子，强迫 {him} 再次游戏！"
 EVENT_MYSTERIOUSSTRANGER_REW4_M,,,,,,,,
@@ -15594,7 +15594,7 @@ EVENT_BROKENCANISTER_REW4,"The liquid looks soothing, and {catname} rubs some on
 
 {catname} ulula di dolore mentre il liquido acido brucia la sua pelle!","O líquido parece ser algo relaxante, e {catname} esfrega um pouco em seu rosto...
 
-{catname} uiva de dor enquanto o líquido ácido queima sua pele!","液体看起来很舒缓，{catname} 把些擦在 {his} 脸上...
+{catname} uiva de dor enquanto o líquido ácido queima sua pele!","液体看起来很温和，{catname} 把些擦在 {his} 脸上...
 
 {catname} 疼痛地嚎叫，因为酸性的液体烧伤了 {his} 皮肤！"
 EVENT_BROKENCANISTER_REW4_M,,,,,,,,
@@ -15674,7 +15674,7 @@ Cerca di sputarla, ma la sostanza appiccicosa si incolla dappertutto, causando u
 
 {catname} tenta cuspir, mas a substância pegajosa gruda em tudo e lhe envenena!","{catname} 舔了绿色黏液。味道极其恶心！
 
-{He} 试图吐出来，但粘稠的物质粘在一切上，中毒了 {catname}！"
+{He} 试图吐出来，但粘稠的物质粘在一切上，{catname}中毒了！"
 EVENT_BROKENCANISTER_REW7_M,,,,,,,,
 EVENT_BROKENCANISTER_REW7_F,,,,,,,,
 EVENT_BROKENCANISTER_REW7_N,"{catname} licks the green goo. It tastes absolutely vile!
@@ -15685,7 +15685,7 @@ Intenta escupirla, pero se le ha pegado a la lengua. ¡{catname} termina envenen
 
 {catname} versucht ihn auszuspucken, doch die Flüssigkeit ist total klebrig und giftig!",,,"{catname} 舔了绿色黏液。味道极其恶心！
 
-他们试图吐出来，但粘稠的物质粘在一切上，中毒了 {catname}！"
+他们试图吐出来，但粘稠的物质粘在一切上，{catname}中毒了！"
 EVENT_BROKENCANISTER_REW8,"The strange goo tastes gross going down but {catname} keeps going. {He} begins to feel strange...
 ",lick bad rare,"La extraña sustancia está asquerosa, pero {catname} sigue bebiendo. Empieza a tener una sensación muy rara...
 ","Cette drôle de vase verte a un goût horrible dans sa bouche, mais {catname} ne s'arrête pas. {He} commence à se sentir mal.","Der komische Schleim schmeckt im Abgang ziemlich widerlich, aber {catname} hört nicht auf. {He} fühlt sich ganz komisch&nbsp;…
@@ -16176,7 +16176,7 @@ Alla fine il gruppo emerge, esausto. Le tossine nell'aria hanno avvelenato tutti
 
 Por fim, o grupo emerge, exausto. As toxinas do ar penetraram em seus corpos, envenenando a todos.","猫咪们在蜿蜒的墓穴中迷路。他们开始被陈旧有毒的空气呛住。
 
-最终队伍筋疲力尽地出来了。空气中的毒素已经渗入，**中毒**了整个队伍。"
+最终队伍筋疲力尽地出来了。空气中的毒素已经渗入，整个队伍都中毒了。"
 EVENT_TRAVERSETHENECROPOLIS_REW2,"{catname} leads the way down into the necropolis.
 
 The other cats hear a loud scraping sound and suddenly {catname} goes flying past them, bleeding profusely.
@@ -16838,7 +16838,7 @@ Delle rocce collassano giù dal soffitto sopra il gruppo! I detriti si fanno str
 
 Rochas do teto desabam sobre o grupo e detritos se infiltram na fenda, selando-a.","{catname} 用{his}武器猛击墙壁……
 
-天花板的岩石坍塌下来，砸在{him}和队伍身上！碎石塞进了裂缝，将其封住了。"
+天花板的岩石坍塌下来，砸在{him}和队伍身上！碎石塞进了裂缝，封住了洞口。"
 EVENT_CRACKINTHEWALL_REW4_M,,,,,,,,
 EVENT_CRACKINTHEWALL_REW4_F,,,,,,,,
 EVENT_CRACKINTHEWALL_REW4_N,,,,,,,,
@@ -17230,7 +17230,7 @@ EVENT_PITOFSNAKES_REW1_N,,,,,,,,
 EVENT_PITOFSNAKES_REW2,"{catname} leaps into the pit, unleashing an awe-inspiring flurry of defensive blows, surrounded on all sides by snakes!
 ",,"{catname} se lanza al pozo, donde ataca con una ráfaga de golpes defensivos impresionantes a las serpientes que rodean su posición en todas direcciones.
 ","{catname} bondit dans la fosse et, les serpents l'entourant de tous côtés, déchaîne une impressionnante frénésie de coups défensifs&nbsp;!","{catname} springt in die Grube und zeigt, was {he} kann! Gekonnt besiegt {he} eine Schlange nach der anderen und weicht ihren Angriffen aus!
-",,"{catname} salta para dentro do fosso, desferindo uma série impressionante de golpes defensivos quando as cobras lhe cercam!",{catname}跳进坑里，施展令人敬畏的防御连击，四面被蛇群包围！
+",,"{catname} salta para dentro do fosso, desferindo uma série impressionante de golpes defensivos quando as cobras lhe cercam!",{catname}跳进坑里，施展令人敬畏的防御连击，蛇群从四周包围过来！
 EVENT_PITOFSNAKES_REW2_M,,,,,,"{catname} balza nella fossa, scatenando una raffica stupefacente di colpi difensivi, circondato da ogni parte da serpenti!",,
 EVENT_PITOFSNAKES_REW2_F,,,,,,"{catname} balza nella fossa, scatenando una raffica stupefacente di colpi difensivi, circondata da ogni parte da serpenti!",,
 EVENT_PITOFSNAKES_REW2_N,,,,,,"{catname} balza nella fossa, scatenando una raffica stupefacente di colpi difensivi contro i serpenti circostanti!",,
@@ -17258,7 +17258,7 @@ Il corpo di {catname} inizia a mutare per via di tutto il veleno che scorre nell
 
 O corpo de {catname} começa a sofrer mutações devido a todo o veneno que corre em suas veias.","当{catname}跌出蛇坑时，满身咬伤数量惊人，但他设法幸存下来…
 
-{catname}的身体开始因为体内流动的剧毒而变异。"
+{catname}的体内流动着剧毒，身体开始变异。"
 EVENT_PITOFSNAKES_REW4_M,,,,,,,,
 EVENT_PITOFSNAKES_REW4_F,,,,,,,,
 EVENT_PITOFSNAKES_REW4_N,"The sheer number of bites covering {catname} when they stumble out of the pit is alarming, but they manage to survive...
@@ -17272,7 +17272,7 @@ Debido a todo el veneno que fluye por sus venas, su cuerpo empieza a mutar.
 Der Körper von {catname} mutiert von dem ganzen Gift.
 ",,,"当{catname}跌出蛇坑时，满身咬伤数量惊人，但它们设法幸存下来…
 
-{catname}的身体开始因为体内流动的剧毒而变异。"
+{catname}的体内流动着剧毒，身体开始变异。"
 EVENT_PITOFSNAKES_REW5,{catname} manages to leap over the snakes and makes it away unscathed.,,{catname} logra saltar sobre las serpientes y escapar sin un rasguño.,{catname} réussit à sauter par-dessus les serpents et s'en sort indemne.,"{catname} schafft es, unbescholten über die Schlangengrube zu springen.","{catname} riesce a superare i serpenti con un salto, e se la cava senza danni.",{catname} consegue saltar por cima das cobras e escapa incólume.,{catname}成功跳过蛇群，安然无恙地逃离。
 EVENT_PITOFSNAKES_REW5_M,,,,,,,,
 EVENT_PITOFSNAKES_REW5_F,,,,,,,,
@@ -18124,7 +18124,7 @@ Die Pfoten werden taub, aber irgendwie mag {catname} das Gefühl!
 
 Le sue zampe si intorpidiscono, ma la trova una sensazione gradevole!",,"{catname}试图打破冰块，但太冷了……
 
-他们的爪子全都麻木了，但他们喜欢这种感觉！"
+他们的爪子全都麻木了，但他们还挺享受这种感觉的！"
 EVENT_FROZENHUMANOID_REW3,{catname} tries to break through the ice but only ends up exhausted and cold...,,"{catname} intenta romper el hielo, pero solo logra agotarse y coger frío...","{catname} essaie de briser la glace, mais se fait gagner par le froid et la fatigue...","{catname} versucht, das Eis zu zerschlagen, aber am Ende ist {he} nur erschöpft und friert&nbsp;…","{catname} cerca di rompere il ghiaccio, ma finisce solo per stancarsi e patire il freddo...","{catname} tenta quebrar o gelo, mas acaba apenas com frio e sentindo muito cansaço...",{catname}试图打破冰块，但最终只是筋疲力尽又冷得发抖……
 EVENT_FROZENHUMANOID_REW3_M,,,,,,,,
 EVENT_FROZENHUMANOID_REW3_F,,,,,,,,
@@ -18142,7 +18142,7 @@ EVENT_DEADMAMMOTH_QUES_N,,,,,,,,
 EVENT_DEADMAMMOTH_REW1,"Although a bit crunchy from being frozen, the meat is still edible and the cats enjoy a feast!
 ",,"Aunque está un poco crujiente por estar congelada, la carne aún se puede comer ¡y los gatos se ponen las botas!
 ","Bien qu'un peu croquante, car encore congelée, la viande est toujours bonne et le groupe fait un bon festin&nbsp;!","Auch wenn es stellenweise noch ein bisschen gefroren ist, ist das Fleisch essbar und die Katzen genießen das Festmahl!
-","Anche se un po' croccante essendo congelata, la carne è ancora commestibile, e i gatti si godono un banchetto!","Apesar de estar um pouco crocante por ter sido congelada, a carne ainda é comestível e os gatos apreciam o banquete!",虽然有点因为冰冻而有点硬，但肉还是可以吃，猫们享受了一顿盛宴！
+","Anche se un po' croccante essendo congelata, la carne è ancora commestibile, e i gatti si godono un banchetto!","Apesar de estar um pouco crocante por ter sido congelada, a carne ainda é comestível e os gatos apreciam o banquete!",虽然因为冻住了而有点硬，但肉还是可以吃，猫们享受了一顿盛宴！
 EVENT_DEADMAMMOTH_REW2,"{catname} bites into the large mammoth...
 
 The meat is still tender and fresh!
@@ -18160,7 +18160,7 @@ La carne è ancora tenera e fresca!","{catname} dá uma mordida no enorme mamute
 
 A carne ainda está macia e fresca!","{catname}咬了一口那块大猛犸象肉……
 
-肉仍然鲜嫩新鲜！"
+肉仍然鲜嫩！"
 EVENT_DEADMAMMOTH_REW2_M,,,,,,,,
 EVENT_DEADMAMMOTH_REW2_F,,,,,,,,
 EVENT_DEADMAMMOTH_REW2_N,,,,,,,,
@@ -18299,7 +18299,7 @@ EVENT_MYSTERIOUSTENT_REW2,{catname} pushes {his} way through the tent door and f
 EVENT_MYSTERIOUSTENT_REW2_M,,,,,,,,
 EVENT_MYSTERIOUSTENT_REW2_F,,,,,,,,
 EVENT_MYSTERIOUSTENT_REW2_N,,,,,,,,
-EVENT_MYSTERIOUSTENT_REW3,Inside the tent {catname} finds a bedraggled shop keeper with a few wares.,,"Dentro de la tienda, {catname} encuentra una dependienta desaliñada con varios artículos a la venta.","À l'intérieur de la tente, {catname} trouve une vendeuse qui propose quelques marchandises.","Im Inneren des Zelts findet {catname} eine ungepflegte Verkäuferin, die ein paar Waren anzubieten hat.","Dentro la tenda, {catname} trova un negoziante malridotto con poche merci.","Dentro da tenda, {catname} encontra um comerciante maltrapilho com algumas mercadorias.",帐篷里，{catname} 发现一个衣衫褴褛的店主和一些货物。
+EVENT_MYSTERIOUSTENT_REW3,Inside the tent {catname} finds a bedraggled shop keeper with a few wares.,,"Dentro de la tienda, {catname} encuentra una dependienta desaliñada con varios artículos a la venta.","À l'intérieur de la tente, {catname} trouve une vendeuse qui propose quelques marchandises.","Im Inneren des Zelts findet {catname} eine ungepflegte Verkäuferin, die ein paar Waren anzubieten hat.","Dentro la tenda, {catname} trova un negoziante malridotto con poche merci.","Dentro da tenda, {catname} encontra um comerciante maltrapilho com algumas mercadorias.",帐篷里，{catname} 发现一个衣衫褴褛的店主在出售一些货物。
 EVENT_MYSTERIOUSTENT_REW3_M,,,,,,,,
 EVENT_MYSTERIOUSTENT_REW3_F,,,,,,,,
 EVENT_MYSTERIOUSTENT_REW3_N,,,,,,,,
@@ -18516,7 +18516,7 @@ Le da tanto miedo que vuelve a trepar por la cuerda tan rápido como puede ¡y h
 
 {catname} klettert das Seil schnell wieder hinauf und rennt verängstigt aus der Höhle!",,,"声音在下面的洞穴中回响，{catname} 听到了他们父亲严厉的声音！
 
-他们急忙爬回绳索并恐惧地逃离洞穴！"
+他们吓得急忙爬回绳索并逃离洞穴！"
 EVENT_MYSTERIOUSCAVE1_REW4,"Strange sounds and voices fill the cave and {catname}'s mind fills with chaos!
 
 {He} scrambles to safety outside the cave, visibly shaken with fear.
@@ -19649,7 +19649,7 @@ EVENT_BALLOFCANCER_QUES_N,,,,,,,,
 EVENT_BALLOFCANCER_REW1,"{catname} tries to eat from the large mass of flesh. It doesn't taste great but satisfies {him} a tad.
 ",,"{catname} intenta comerse la gran masa de carne. No sabe muy bien, pero llena un poco.
 ","{catname} essaie de manger une partie de la masse de chair. Le goût n'est pas terrible, mais elle satisfait un peu son appétit.","{catname} probiert einen Bissen der Fleischmasse. Sie ist nicht das Leckerste, was {he} je gegessen hat, aber besser als nichts.
-",,"{catname} tenta comer um pedaço da grande massa de carne. Não tem um gosto dos melhores, mas satisfaz um pouco sua fome.",{catname} 试图从那大块肉团中取食。味道不好，但勉强满足了 {him} 一点点。
+",,"{catname} tenta comer um pedaço da grande massa de carne. Não tem um gosto dos melhores, mas satisfaz um pouco sua fome.",{catname} 试图从那大块肉团中取食。味道不好，但 {him} 勉强填了填肚子。
 EVENT_BALLOFCANCER_REW1_M,,,,,,"{catname} cerca di mangiare dal grosso ammasso di carne. Non ha un ottimo sapore, ma gli procura un minimo di soddisfazione.",,
 EVENT_BALLOFCANCER_REW1_F,,,,,,"{catname} cerca di mangiare dal grosso ammasso di carne. Non ha un ottimo sapore, ma le procura un minimo di soddisfazione.",,
 EVENT_BALLOFCANCER_REW1_N,,,,,,"{catname} cerca di mangiare dal grosso ammasso di carne. Non ha un ottimo sapore, ma ne ricava un minimo di soddisfazione.",,
@@ -19863,9 +19863,9 @@ EVENT_CRACKINTHEEARTH_REW3,"As {catname} approaches the crevice a terrifying mon
 
 {catname} riesce a malapena a sottrarsi alla sua presa!","Quando {catname} se aproxima da fenda, um monstro terrível surge e ataca!
 
-{catname} quase não consegue escapar de suas garras!","当 {catname} 靠近裂缝时，一只可怕的怪物升起并攻击{him}！
+{catname} quase não consegue escapar de suas garras!","当 {catname} 靠近裂缝时，一只可怕的怪物出现并攻击{him}！
 
-{catname} 勉强逃脱了它的掌握！"
+{catname} 勉强逃离了！"
 EVENT_CRACKINTHEEARTH_REW3_M,,,,,,,,
 EVENT_CRACKINTHEEARTH_REW3_F,,,,,,,,
 EVENT_CRACKINTHEEARTH_REW3_N,,,,,,,,
@@ -20278,7 +20278,7 @@ Ela estremece, como se não estivesse acostumada ao ar frio do laboratório.
 
 它发抖着，似乎不习惯实验室里冰冷的空气。
 
-{catname} 帮助擦拭罐子上留着的粘液，照顾这只友善的生物！"
+{catname} 帮友善的生物擦掉身上的黏液！"
 EVENT_MYSTERIOUSJAR_REW2_M,,,,,,,,
 EVENT_MYSTERIOUSJAR_REW2_F,,,,,,,,
 EVENT_MYSTERIOUSJAR_REW2_N,,,,,,,,
@@ -20393,7 +20393,7 @@ Perplexe, {catname} examine les environs.","Ein kleiner Fötus schwebt mit frage
 
 [i]""Espere, eu não estava aqui agora mesmo?""[/i] {catname} olha ao redor com perplexidade, sem entender nada.","一个小胎儿漂浮在 {catname} 面前，脸上带着好奇的表情。
 
-[i]“等等，我不是刚刚还在这里吗？”[/i] {catname} 困惑地环顾四周。"
+[i]“等等，我不是刚来过这儿吗？”[/i] {catname} 困惑地环顾四周。"
 EVENT_STEVENFETUS_QUES2_M,,,,,,,,
 EVENT_STEVENFETUS_QUES2_F,,,,,,,,
 EVENT_STEVENFETUS_QUES2_N,,,,,,,,
@@ -20498,7 +20498,7 @@ Quello sogghigna, tira fuori un feto ancora più piccolo e lo scaglia contro {ca
 
 Ele dá um sorriso irônico, pega um feto ainda menor e o atira em {catname}!","{catname}试图与这个奇怪的漂浮胎儿交流。
 
-它狡黠一笑，掏出一个更小的胎儿扔向{catname}！"
+它得意地坏笑，掏出一个更小的胎儿扔向{catname}！"
 EVENT_STEVENFETUS_REW2_M,,,,,,,,
 EVENT_STEVENFETUS_REW2_F,,,,,,,,
 EVENT_STEVENFETUS_REW2_N,,,,,,,,
@@ -20701,7 +20701,7 @@ EVENT_SMALLBLACKHOLE_REW1_N,"{catname}'s hand disappears into the darkness of th
 EVENT_SMALLBLACKHOLE_REW1A,"With great effort, {catname} pulls {his} arm from the black hole clutching a rare item in {his} paw!
 ",,"Haciendo un gran esfuerzo, {catname} logra sacar la pata del agujero negro ¡y ha sacado un objeto inusual!
 ","Avec de grands efforts, {catname} retire sa patte du trou noir en serrant dans sa patoune un objet rare&nbsp;!","Es kostet {him} große Anstrengung, aber schließlich schafft es {catname}, den Arm herauszuziehen&nbsp;… Zusammen mit einem seltenen Gegenstand!
-","Con grande sforzo, {catname} estrae la zampa dal buco nero tenendo stretto un oggetto raro!","Com grande esforço, {catname} puxa seu braço do buraco negro, segurando um item raro em sua pata!",经过极大努力，{catname}从黑洞中拉出了{his}的手臂，爪子里抓着一件稀有物品！
+","Con grande sforzo, {catname} estrae la zampa dal buco nero tenendo stretto un oggetto raro!","Com grande esforço, {catname} puxa seu braço do buraco negro, segurando um item raro em sua pata!",费了好大劲，{catname}从黑洞中拉出了{his}的手臂，爪子里抓着一件稀有物品！
 EVENT_SMALLBLACKHOLE_REW1A_M,,,,,,,,
 EVENT_SMALLBLACKHOLE_REW1A_F,,,,,,,,
 EVENT_SMALLBLACKHOLE_REW1A_N,,,,,,,,
@@ -20771,7 +20771,7 @@ Nur einen Augenblick später taucht {catname} wieder auf, doch {his} Körper ist
 
 Un battito di palpebre più tardi, {catname} si ritrova dall'altro lato, col corpo deformato e devastato da gravi mutazioni.","{catname} estende a mão em direção ao buraco negro e seu corpo é completamente sugado para dentro!
 
-Num piscar de olhos, {catname} sai voando pelo outro lado com o corpo deformado e repleto de mutações graves.","{catname}伸手触摸黑洞，彻底被吸入其中！
+Num piscar de olhos, {catname} sai voando pelo outro lado com o corpo deformado e repleto de mutações graves.","{catname}伸手触摸黑洞，整个被吸了进去！
 
 眨眼间，{catname}被从另一侧甩出，身体变形，严重变异。"
 EVENT_SMALLBLACKHOLE_REW4_M,,,,,,,,
@@ -20998,7 +20998,7 @@ Realizzando di aver commesso un errore, {catname} si volta per fuggire, ma ormai
 
 Percebendo seu erro, {catname} se vira para ir embora, mas é tarde demais!","跟着白兔进入洞穴后，{catname} 突然发现自己被许多猫的尸体包围……
 
-意识到错误的{catname} 转身要离开，但已经太迟了！"
+{catname} 意识到不对转身要离开，但已经太迟了！"
 EVENT_WHITERABBIT_REW8_M,,,,,,,,
 EVENT_WHITERABBIT_REW8_F,,,,,,,,
 EVENT_WHITERABBIT_REW8_N,,,,,,,,
@@ -21021,7 +21021,7 @@ Il suo volto fragile e terrorizzato sembra fuori luogo in questo mondo mostruoso
 
 Seu rosto frágil e aterrorizado parece fora de lugar neste mundo monstruoso.","{catname} 发现一只藏在大蕨叶下的流浪猫。
 
-它脆弱而惊恐的脸庞在这个怪异的世界显得格外不合群。"
+它脆弱而惊恐的脸庞在这个怪异的世界显得格格不入。"
 EVENT_STRAYCAT_ALT_JURASSIC_QUES_M,,,,,,,,
 EVENT_STRAYCAT_ALT_JURASSIC_QUES_F,,,,,,,,
 EVENT_STRAYCAT_ALT_JURASSIC_QUES_N,,,,,,,,
@@ -21132,7 +21132,7 @@ Olhando para o cadáver, {catname} percebe que o conhecia, e então seus olhos s
 
 {catname} matou seu próprio bisavô! Sua existência começa a se esvair...","流浪猫几乎没有反抗就瘫倒在地死去。
 
-俯视着尸体，{catname} 短暂地认出了些什么，然后{his}的眼神逐渐恍惚。
+俯视着尸体，{catname} 恍惚间觉得眼熟，然后{his}的眼神变得空洞。
 
 {catname} 杀了自己的曾祖父！{He} 感觉自己的存在正在消逝……"
 EVENT_STRAYCAT_ALT_REW6_M,,,,,,,,
@@ -21607,9 +21607,9 @@ O grupo de {catname} se reúne para observar o funcionamento do dispositivo. Nã
 
 {catname} olha em volta para os outros e todos seguem para a próxima área.","{catname}按下复制按钮，机器突然活跃起来！
 
-{catname}们聚集在一起观看机器工作。不太刺激？
+{catname}们聚集在一起观看机器运转。好像也没什么特别刺激的？
 
-{catname}环顾其他{catname}们，然后他们继续前进到下一个区域。"
+{catname}环顾其他{catname}们，然后他们继续前往下一个区域。"
 EVENT_MYSTERIOUSMACHINE_BAD_REW1_M,,,,,,,,
 EVENT_MYSTERIOUSMACHINE_BAD_REW1_F,,,,,,,,
 EVENT_MYSTERIOUSMACHINE_BAD_REW1_N,,,,,,,,
@@ -22092,7 +22092,7 @@ EVENT_DEATH_REW9,"{catname} tries to dash off but Death swoops into his way.
 
 [i]""Não, não, não... Você não pode simplesmente fugir e sair impune! Sua morte já está atrasada!""[/i]","{catname}试图冲出去，但死亡挡住了他的去路。
 
-[i]“不不不……你不能就这样逃脱！你的末日早已到来！”[/i]"
+[i]“不不不……你不能就这样逃脱！你的末日早该来了”！”[/i]"
 EVENT_DEATH_REW9_M,,,,,,,,
 EVENT_DEATH_REW9_F,,,,,,,,
 EVENT_DEATH_REW9_N,,,,,,,,
@@ -22189,7 +22189,7 @@ QEVENT_THROBBINGARTERY_REW1,"{catname} bites into the artery and a dark red liqu
 
 ","{catname} mord dans l'artère et un liquide rouge et sombre gicle. Les chats lapent le sang chaud avec enthousiasme, faisant s'envoler le stress de leur long voyage...","{catname} beißt in die Arterie und eine dunkelrote Flüssigkeit schießt aus ihr hervor. Die Katzen schlecken das warme Blut genüsslich auf und die Anstrengungen ihrer Reise sind schnell vergessen&nbsp;…
 
-",{catname} morde l'arteria e un liquido rosso scuro ne sgorga. I gatti leccano con entusiasmo il sangue caldo e avvertono lo stress del loro lungo viaggio che viene spazzato via...,{catname} morde a artéria e um líquido vermelho escuro jorra. Os gatos lambem o sangue quente com entusiasmo e sentem o estresse da longa jornada desaparecer...,{catname} 咬住动脉，暗红色的液体喷涌而出。猫们兴奋地舔着温热的血液，感受到长途跋涉的压力逐渐消散……
+",{catname} morde l'arteria e un liquido rosso scuro ne sgorga. I gatti leccano con entusiasmo il sangue caldo e avvertono lo stress del loro lungo viaggio che viene spazzato via...,{catname} morde a artéria e um líquido vermelho escuro jorra. Os gatos lambem o sangue quente com entusiasmo e sentem o estresse da longa jornada desaparecer...,{catname} 咬住动脉，暗红色的液体喷涌而出。猫们兴奋地舔着温热的血液，感受到长途跋涉的疲惫一扫而光……
 QEVENT_THROBBINGARTERY_REW1_M,,,,,,,,
 QEVENT_THROBBINGARTERY_REW1_F,,,,,,,,
 QEVENT_THROBBINGARTERY_REW1_N,,,,,,,,
@@ -22364,7 +22364,7 @@ Un liquide noir et toxique coule des veines et recouvre {catname}&nbsp;!","{catn
 Giftige schwarze Flüssigkeit aus den Adern übergießt {him}!
 ",,"{catname} se prende nas veias torcidas ao tentar mordê-las e mal consegue se libertar!
 
-Um líquido preto e tóxico escorre das veias sobre seu corpo!","{catname} 试图咬断血管时被缠住，几乎无法挣脱！
+Um líquido preto e tóxico escorre das veias sobre seu corpo!","{catname} 试图咬断血管时被缠住，好不容易才挣脱！
 
 血管中流出有毒的黑色液体淋在{him}身上！"
 QEVENT_WALLOFFLESH_REW10_M,,,,,,"{catname} si impiglia nelle vene mentre cerca di morderle e riesce a malapena a liberarsi!
@@ -22399,7 +22399,7 @@ Le pareti attorno ai gatti rimasti ondeggiano e si dispiegano, invitandoli a sce
 Subitamente, o altar se inverte, sugando {catname} para as profundezas das veias e nervos palpitantes.
 As paredes ao redor dos gatos ondulam e se desenrolam, convidando-os para as profundezas do [a:shake]DOMÍNIO PULSANTE[/a]!","{Catname} 躺在献祭台上，房间开始震动...
 突然，祭坛倒转，将{Catname}吸入一个跳动的血管和肌腱深坑。
-剩余的猫周围的墙壁波动展开，招引它们深入 [a:shake]跳动域[/a]！"
+剩余的猫周围的墙壁波动展开，指引它们深入 [a:shake]跳动领域[/a]！"
 QEVENT_MEATALTAR_REW1_M,,,,,,,,
 QEVENT_MEATALTAR_REW1_F,,,,,,,,
 QEVENT_MEATALTAR_REW1_N,,,,,,,,
@@ -22559,7 +22559,7 @@ QEVENT_OBELISK_MOON_REW_PYRO3_N,,,,,,,,
 QEVENT_OBELISK_REW1,{catname} touches the obelisk. {He} feels {his} body mutate!,touch good,{catname} toca el obelisco ¡y nota como su cuerpo muta!,{catname} touche l'obélisque. {He} sent son corps muter&nbsp;!,"{catname} berührt den Obelisk. {He} spürt, wie {his} Körper mutiert!",{catname} tocca l'obelisco e sente il suo corpo mutare!,{catname} toca o obelisco e sente seu corpo se transformar!,{catname} 触摸方尖碑。{He} 感觉到自己的身体发生了突变！
 QEVENT_OBELISK_REW1_M,,,,,,,,
 QEVENT_OBELISK_REW1_F,,,,,,,,
-QEVENT_OBELISK_REW1_N,{catname} touches the obelisk. They feel their body mutate!,touch good N,{catname} toca el obelisco ¡y nota como su cuerpo muta!,,{catname} berührt den Obelisk. {catname} mutiert!,{catname} tocca l'obelisco e sente il suo corpo mutare!,,{catname} 触摸方尖碑。Ta 感觉自己的身体发生了变异！
+QEVENT_OBELISK_REW1_N,{catname} touches the obelisk. They feel their body mutate!,touch good N,{catname} toca el obelisco ¡y nota como su cuerpo muta!,,{catname} berührt den Obelisk. {catname} mutiert!,{catname} tocca l'obelisco e sente il suo corpo mutare!,,{catname} 触摸方尖碑。他们感觉自己的身体发生了变异！
 QEVENT_OBELISK_REW2,"As {catname} touches the obelisk, {his} whole body convulses as a strange power from the obelisk mutates {him}!",touch good rare,"Cuando {catname} toca el obelisco, todo su cuerpo convulsiona ¡y el extraño poder del obelisco hace que mute!","En touchant l'obélisque, {catname} convulse de tout son corps. L'étrange pouvoir de l'obélisque l'a fait muter&nbsp;!","Als {catname} den Obelisk berührt, zucken all {his}e Muskeln zusammen und die seltsame Kraft des Obelisken mutiert {him}!","Non appena {catname} tocca l'obelisco, tutto il suo corpo inizia ad avere le convulsioni e subisce una mutazione causata da uno strano potere proveniente dall'obelisco!","Quando {catname} toca o obelisco, todo o seu corpo se convulsiona enquanto um estranho poder que sai do obelisco lhe transforma!",当 {catname} 触摸方尖碑时，{his} 全身抽搐，方尖碑的奇异力量使 {him} 突变！
 QEVENT_OBELISK_REW2_M,,,,,,,,
 QEVENT_OBELISK_REW2_F,,,,,,,,
@@ -22659,7 +22659,7 @@ Cuando {catname} vuelve en sí, descubre que su cuerpo se ha retorcido y deforma
 
 Nach einem kurzen Augenblick der Verwirrung stellt sich heraus, dass der Körper von {catname} mutiert ist.",,"Imagens da mente de uma criatura insondável passam pela mente de {catname} enquanto sua língua existe simultaneamente em duas dimensões.
 
-Quando {catname} recupera os sentidos, seu corpo está retorcido e deformado.","不可思议生物心灵的影像闪过 {catname} 脑海，当它们的舌头同时存在于两个维度。
+Quando {catname} recupera os sentidos, seu corpo está retorcido e deformado.","当它们的舌头同时存在于两个维度时，不可名状生物的思维影像闪过 {catname} 脑海。
 
 当 {catname} 恢复意识时，它们发现自身身体已经扭曲变形。"
 QEVENT_DIMENSIONXPORTAL_REW3,"{catname} is not the smartest cat that ever lived. Far from it in fact.
@@ -23078,7 +23078,7 @@ QEVENT_TIMEMACHINE_ICEAGE_QUES,"The cats approach the time machine, weary from t
 QEVENT_TIMEMACHINE_ICEAGE_PAST_ANSW,Go Further Into the Past,,Ir a un pasado más remoto,Aller plus loin dans le passé,Weiter in die Vergangenheit,Vai ancora più indietro nel passato,Ir mais longe no passado,深入过去
 QEVENT_TIMEMACHINE_ICEAGE_REW1,The party bravely travels even further into the past!,,"Con valentía, ¡el grupo viaja a un pasado aún más distante!",Le groupe voyage courageusement encore plus loin dans le passé&nbsp;!,Die Gruppe nimmt ihren Mut zusammen und reist noch weiter in die Vergangenheit!,Il gruppo viaggia coraggiosamente ancora più indietro nel passato!,O grupo viaja corajosamente para ainda mais longe no passado!,队伍勇敢地继续深入过去的时光！
 QEVENT_TIMEMACHINE_HOME_ANSW,Return Home,,Volver a casa,Rentrer à la maison,Nach Hause zurückkehren,Torna a casa,Voltar para casa,返回家园
-QEVENT_TIMEMACHINE_ICEAGE_REW2,As the party huddles in the time machine they dream of the warm comforts of home.,,"Cuando el grupo se acurruca en la máquina del tiempo, los gatos sueñan con el calor y la comodidad de su hogar.","Les membres du groupe, blottis dans la machine temporelle rêvent de leur maison chaleureuse et confortable.",Die Gruppe rutscht in der Zeitmaschine eng zusammen und wärmt sich mit Gedanken an ihr Zuhause auf.,"Mentre il gruppo si stringe nella macchina del tempo, tutti sognano le calde comodità di casa.","Enquanto o grupo se aconchega na máquina do tempo, eles sonham com o conforto do lar.",当队伍蜷缩在时光机里时，他们梦想着温暖舒适的家。
+QEVENT_TIMEMACHINE_ICEAGE_REW2,As the party huddles in the time machine they dream of the warm comforts of home.,,"Cuando el grupo se acurruca en la máquina del tiempo, los gatos sueñan con el calor y la comodidad de su hogar.","Les membres du groupe, blottis dans la machine temporelle rêvent de leur maison chaleureuse et confortable.",Die Gruppe rutscht in der Zeitmaschine eng zusammen und wärmt sich mit Gedanken an ihr Zuhause auf.,"Mentre il gruppo si stringe nella macchina del tempo, tutti sognano le calde comodità di casa.","Enquanto o grupo se aconchega na máquina do tempo, eles sonham com o conforto do lar.",当队伍蜷缩在时光机里时，他们想象着温暖舒适的家。
 QEVENT_TIMEMACHINE_JURASSIC_QUES,"After an arduous journey through the Jurassic, the time machine is a welcome sight to the cats.",,"Tras un arduo periplo por el Jurásico, los gatos agradecen encontrar la máquina del tiempo.","Après une longue et dure journée dans le Jurassique, le groupe est soulagé de revoir la machine temporelle.",Nach einer mühsamen Reise durch das Jura ist die Zeitmaschine ein willkommener Anblick.,"Dopo un arduo viaggio nel Giurassico, la macchina del tempo è una vista gradita agli occhi dei gatti.","Após uma árdua jornada pelo período Jurássico, a máquina do tempo é uma visão bem-vinda para os gatos.",经历了侏罗纪时期的艰难旅程后，时光机对于猫咪们来说是一个受欢迎的景象。
 QEVENT_TIMEMACHINE_JURASSIC_INFINITE_ANSW,Enter The Infinite,,Adentrarse en el infinito,Pénétrer dans l'Infini,In die Unendlichkeit reisen,Entra nell'Infinito,Entrar no Infinito,进入无限
 QEVENT_TIMEMACHINE_JURASSIC_REW1,"The cats pile into the time machine and activate it!
@@ -23114,7 +23114,7 @@ Lá dentro, os gatos sonham em se aconchegar em casa e tirar longas sonecas.","�
 QEVENT_TIMEMACHINE_FUTURE_QUES,"The time machine seems less out of place here in the future, but it is a welcome sight for the cats!",,"Ahora que está en el futuro, la máquina del tiempo no parece tan fuera de lugar, pero ¡los gatos agradecen verla!","La machine temporelle semble moins détoner ici, dans le futur, mais le groupe est tout de même content de la voir&nbsp;!","Hier in der Zukunft wirkt die Zeitmaschine gar nicht mehr fehl am Platze. Die Katzen sind froh, zu ihr zurückgekehrt zu sein!","Qui nel futuro la macchina del tempo sembra meno fuori luogo, ma di certo è una vista gradita agli occhi dei gatti!","A máquina do tempo parece menos deslocada aqui no futuro, mas é uma visão bem-vinda para os gatos!",时光机在未来看起来不那么格格不入，但对猫咪们来说依然是一个受欢迎的景象！
 QEVENT_TIMEMACHINE_FUTURE_FUTURE_ANSW,Go Further Into the Future,,Ir a un futuro más remoto,Aller plus loin dans le futur,Weiter in die Zukunft,Vai ancora più avanti nel futuro,Ir mais longe no futuro,深入未来
 QEVENT_TIMEMACHINE_FUTURE_REW1,The time machine activates and the cats travel even further into the future!,,La máquina del tiempo se activa ¡y los gatos viajan a un futuro aún más distante!,La machine temporelle s'active et le groupe voyage encore plus loin dans le futur&nbsp;!,Die Zeitmaschine springt an und die Katzen reisen noch weiter in die Zukunft!,La macchina del tempo si attiva e i gatti viaggiano ancora più avanti nel futuro!,A máquina do tempo é ativada e os gatos viajam para ainda mais longe no futuro!,时光机启动了，猫咪们甚至深入未来！
-QEVENT_TIMEMACHINE_FUTURE_REW2,The cats wonder if the kittens back home will even believe the stories they now have to tell.,,El grupo se pregunta si los gatitos que aguardan su regreso en casa se creerán las historias de su viaje.,Les membres du groupe se demandent si les chatons à la maison vont croire les histoires qu'ils auront à raconter.,"Die Katzen fragen sich, ob ihre Mitbewohner zu Hause überhaupt glauben werden, was sie hier erlebt haben.",I gatti si domandano se i micetti a casa riusciranno a credere alle storie che avranno da raccontare.,Os gatos se perguntam se os filhotes em casa vão acreditar nas histórias que eles agora têm para contar.,猫咪们想知道家里的小猫是否会相信他们现在必须讲述的故事。
+QEVENT_TIMEMACHINE_FUTURE_REW2,The cats wonder if the kittens back home will even believe the stories they now have to tell.,,El grupo se pregunta si los gatitos que aguardan su regreso en casa se creerán las historias de su viaje.,Les membres du groupe se demandent si les chatons à la maison vont croire les histoires qu'ils auront à raconter.,"Die Katzen fragen sich, ob ihre Mitbewohner zu Hause überhaupt glauben werden, was sie hier erlebt haben.",I gatti si domandano se i micetti a casa riusciranno a credere alle storie che avranno da raccontare.,Os gatos se perguntam se os filhotes em casa vão acreditar nas histórias que eles agora têm para contar.,猫咪们不禁怀疑，家里的小猫崽们是否会相信他们如今必须讲述的这些故事。
 QEVENT_TIMEMACHINE_THEEND_QUES,"The cats approach the time machine, still pondering the strange things they have seen.",,Los gatos se acercan a la máquina del tiempo sin dejar de reflexionar acerca de las rarezas que han presenciado.,"Le groupe s'approche de la machine temporelle, se questionnant encore sur les choses étranges qu'il a pu voir.","Die Katzen nähern sich der Zeitmaschine und können noch immer nicht ganz fassen, was für unglaubliche Dinge sie erlebt haben.","I gatti si avvicinano alla macchina del tempo, pensando ancora alle strane cose a cui hanno assistito.","Os gatos se aproximam da máquina do tempo, ainda refletindo sobre as coisas estranhas que viram.",猫咪们走近时光机，仍在思考他们所见过的奇异事物。
 QEVENT_TIMEMACHINE_THEEND_INFINITE_ANSW,Enter The Infinite,,Adentrarse en el infinito,Pénétrer dans l'Infini,In die Unendlichkeit reisen,Entra nell'Infinito,Entrar no Infinito,进入无限
 QEVENT_TIMEMACHINE_THEEND_REW1,"Ready for anything, the cats climb aboard the time machine and travel to the Infinite!",,Los gatos están listos para lo que les echen; se suben a la máquina del tiempo ¡y viajan al infinito!,"Prêt à tout, le groupe grimpe dans la machine temporelle et vogue vers l'Infini&nbsp;!","Die Katzen sind bereit für alles, steigen in die Zeitmaschine und reisen in die Unendlichkeit!","Pronti a tutto, i gatti si arrampicano all'interno della macchina del tempo e viaggiano verso l'Infinito!","Preparados para tudo, os gatos embarcam na máquina do tempo e viajam para o Infinito!",准备好面对一切，猫咪们登上时光机前往无限！
@@ -23338,7 +23338,7 @@ Der Körper von {catname} wird verzerrt und ein menschlicher Kopf wächst aus ih
 
 Il suo corpo cambia, da esso sbuca una testa umana e {catname} entra in uno stato evolutivo superiore!","Enquanto {catname} lambe a esfera, sua mente é inundada pelo conhecimento sobre todas as coisas.
 
-O corpo de {catname} se transforma para um estado evoluído quando uma cabeça humana surge e cresce em seu corpo!","{catname} 舔着球体时，{his}的思维被关于万物的知识淹没。
+O corpo de {catname} se transforma para um estado evoluído quando uma cabeça humana surge e cresce em seu corpo!","{catname} 舔着球体时，关于万物的知识涌入{his}脑海。
 
 {catname}的身体发生变化，长出了人类的头部，进入了进化形态！"
 QEVENT_GLOWINGORB_REW2_M,,,,,,,,
@@ -23349,7 +23349,7 @@ QEVENT_GLOWINGORB_REW2_N,"As {catname} licks the orb, their mind is overwhelmed 
 
 Su cuerpo cambia; le sale una cabeza humana ¡y se convierte en un ser evolucionado!",,"{catname} schleckt die Kugel ab und erhält verbotenes Wissen über alle Dinge dieser Existenz.
 
-Der Körper von {catname} wird verzerrt und ein menschlicher Kopf wächst aus ihm hervor!",,,"{catname} 舔着球体时，他们的思维被关于万物的知识淹没。
+Der Körper von {catname} wird verzerrt und ein menschlicher Kopf wächst aus ihm hervor!",,,"{catname} 舔着球体时，关于万物的知识涌入他们的脑海。
 
 {catname}的身体发生变化，长出了人类的头部，进入了进化形态！"
 QEVENT_GLOWINGORB_REW3,"{catname} approaches the orb and licks it...
