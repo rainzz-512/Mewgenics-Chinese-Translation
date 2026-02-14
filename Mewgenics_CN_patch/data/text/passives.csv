@@ -1,9 +1,9 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
 PASSIVE_SELFASSURED_NAME,Self-Assured,,Confianza,Assurance,Selbstsicher,Autostima,Autoconfiança,自信满满
 PASSIVE_SELFASSURED_DESC,Gain a random stat up whenever you down a unit.,,Obtiene aumento de un atributo al azar cuando abate a una unidad.,Stat aléatoire&nbsp;+1&nbsp;quand vous tuez une unité.,"Erhalte einen Bonus auf ein zufälliges Attribut, wenn du eine Einheit besiegst.",Ottieni un aumento casuale di una statistica ogni volta che mandi KO un'unità.,Obtenha um atributo aleatório aumentado ao deixar uma unidade inconsciente.,"每击倒一个单位，
-获得随机属性提升。"
+随机属性 +1。"
 PASSIVE_SELFASSURED2_DESC,Gain All Stats Up whenever you down a unit.,,Obtiene aumento total cuando abate a una unidad.,Hausse de stats quand vous tuez une unité.,"Erhalte einen Bonus auf alle Attribute, wenn du eine Einheit besiegst.",Ottieni Aumento delle Statistiche ogni volta che mandi KO un'unità.,Obtenha todos os atributos aumentados ao deixar uma unidade inconsciente.,"每击倒一个单位，
-获得全属性提升。"
+全属性 +1。"
 PASSIVE_LUCKDRAIN_NAME,Luck Drain,,Chupasuerte,Drain de chances,Glück absaugen,Carico di Fortuna,Dreno de Sorte,幸运吸收
 PASSIVE_LUCKDRAIN_DESC,Gain +1 [img:lck] whenever a unit is downed.,,Obtiene +1 [img:lck] cuando una unidad es abatida.,[img:lck]&nbsp;+1&nbsp;quand une unité est abattue.,"Erhalte +1&nbsp;[img:lck], wenn eine Einheit besiegt wird.",Ottieni +1 alla [img:lck] ogni volta che un'unità viene messa KO.,Obtenha +1 de [img:lck] sempre que uma unidade ficar inconsciente.,"每击倒一个单位，获得 +1 [img:lck]。
 "
@@ -73,8 +73,8 @@ PASSIVE_DEATHPROOF_DESC,"While downed, you have a 25% chance to revive with 1 HP
 每回合结束有25%的几率以1生命值复活。
 "
 PASSIVE_DEATHPROOF2_DESC,"While downed, you have a 33% chance to revive with 10 HP and All Stats Up at the end of each round.",,"Mientras esta unidad está abatida, tiene un 33 % de probabilidad de resucitar con 10 PS y aumento total al final de cada ronda.","Quand vous êtes K.O., vous avez 33&nbsp;% de chances de vous relever avec 10&nbsp;PV et Hausse de stats à la fin de chaque manche.","Bist du in Ohnmacht gefallen, besteht am Ende jeder Runde eine 33%ige Wahrscheinlichkeit, dass du mit 10&nbsp;LP und einem Bonus auf alle Attribute wiederauferstehst.","Quando sei KO, hai il 33% di probabilità di resuscitare con 10 PS e Aumento delle Stastistiche alla fine di ogni turno.","Enquanto estiver inconsciente, você possui 33% de chance de reviver com 10 PV e todos os atributos aumentados no final de cada rodada.","倒地时，
-每回合结束有33%的
-几率以10生命值和全属性提升复活。
+每回合结束有 33% 的几率
+以 10 生命值和全属性 +1 复活。
 "
 PASSIVE_LEADER_NAME,Leader,,Líder,Leader,Anführer,Leader,Líder,领袖
 PASSIVE_LEADER_DESC,Adjacent allies have +1 Damage and +1 Range.,,Los aliados adyacentes obtienen +1 de daño y +1 de alcance.,Les alliés adjacents bénéficient de Dégâts&nbsp;+1&nbsp;et Portée&nbsp;+1.,Benachbarte Verbündete haben +1&nbsp;Schaden und +1&nbsp;Reichweite.,Gli alleati adiacenti hanno +1 al Danno e +1 al Raggio d'Azione.,Aliados adjacentes possuem +1 de dano e +1 de alcance.,"相邻的盟友获得+1伤害和+1射程。
@@ -119,9 +119,9 @@ Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de v
 "
 PASSIVE_LATEBLOOMER_NAME,Late Bloomer,,Floración tardía,Maturité tardive,Spätzünder,Maturazione Lenta,Amadurecimento Tardio,迟缓成长者
 PASSIVE_LATEBLOOMER_DESC,"On your 5th turn, you gain All Stats Up 3.",,"En el quinto turno, obtiene 3 de aumento total.","À votre 5e&nbsp;tour, vous gagnez Hausse de stats&nbsp;+3.",Erhalte in deinem fünften Zug einen Bonus von 3 auf alle Attribute.,"Al tuo quinto turno, ottieni Aumento delle Statistiche 3.","No seu quinto turno, obtenha todos os atributos aumentados 3.","在你的第5回合，
-获得全属性提升3。"
+全属性 +3。"
 PASSIVE_LATEBLOOMER2_DESC,"On your 3rd turn, you gain All Stats Up 3.",,"En el tercer turno, obtiene 3 de aumento total.","À votre 3e&nbsp;tour, vous gagnez Hausse de stats&nbsp;+3.",Erhalte in deinem dritten Zug einen Bonus von 3 auf alle Attribute.,"Al tuo terzo turno, ottieni Aumento delle Statistiche 3.","No seu terceiro turno, obtenha todos os atributos aumentados 3.","在你的第3回合，
-获得全属性提升3。"
+全属性 +3。"
 PASSIVE_STUDY_NAME,Study,,Estudio,Étude,Forscher,Studio,Estudo,研究
 PASSIVE_STUDY_DESC,Gain +1 [img:int] whenever you hit a new type of unit with an attack or ability.,,Obtiene +1 [img:int] cuando golpea a un tipo de unidad nuevo con un ataque o una habilidad.,[img:int]&nbsp;+1&nbsp;quand vous touchez un nouveau type d'unité avec une attaque ou une compétence.,"Erhalte +1&nbsp;[img:int], wenn du einen neuen Einheitentyp mit einem Angriff oder einer Fähigkeit triffst.",Ottieni +1 all'[img:int] ogni volta che colpisci un nuovo tipo di unità con un attacco o un'abilità.,Obtenha +1 de [img:int] sempre que atingir um novo tipo de unidade com um ataque ou habilidade.,"每当你用攻击或技能击中一种新类型的单位时，
 
@@ -191,9 +191,9 @@ PASSIVE_AMPLIFY2_DESC,+1 Magic Damage for every 3 [img:cha] you have.,,+1 de da�
 "
 PASSIVE_DEATHBOON_NAME,Death Boon,,Bendición letal,Faveur funeste,Todessegen,Dono della Morte,Benefício Mortal,死亡恩赐
 PASSIVE_DEATHBOON_DESC,"When you're downed, all allies gain All Stats Up.",,"Cuando esta unidad está abatida, todos los aliados obtienen aumento total.","Quand vous êtes K.O., tous les alliés gagnent Hausse de stats.","Wenn du in Ohnmacht fällst, erhalten alle Verbündeten einen Bonus auf alle Attribute.","Quando sei KO, tutti gli alleati ottengono Aumento delle Statistiche.","Ao ficar inconsciente, todos os aliados obtêm todos os atributos aumentados.","当你倒地时，
-所有盟友获得全属性提升。"
+所有盟友全属性 +1。"
 PASSIVE_DEATHBOON2_DESC,"When you're downed, all allies gain All Stats Up 2.",,"Cuando esta unidad está abatida, todos los aliados obtienen 2 de aumento total.","Quand vous êtes K.O., tous les alliés gagnent Hausse de stats&nbsp;+2.","Wenn du in Ohnmacht fällst, erhalten alle Verbündeten einen Bonus von 2 auf alle Attribute.","Quando sei KO, tutti gli alleati ottengono Aumento delle Statistiche 2.","Ao ficar inconsciente, todos os aliados obtêm todos os atributos aumentados 2.","当你倒地时，
-所有盟友获得全属性提升 2。"
+所有盟友全属性 +2。"
 PASSIVE_SANTASANGRE_NAME,Santa Sangre,,Santa sangre,Santa Sangre,Santa Sangre,Santa Sangre,Santo Sangue,圣诞血歌
 PASSIVE_SANTASANGRE_DESC,"When you're downed, allies heal 12 HP. Excess healing is converted to Shield.",,"Cuando esta unidad es abatida, los aliados recuperan 12 PS. El exceso de curación se convierte en escudo.","Quand vous êtes K.O., les alliés récupèrent 12&nbsp;PV. Le soin excédentaire est converti en Défense.","Wenn du in Ohnmacht fällst, heilen sich Verbündete um 12&nbsp;LP. Überschüssige Heilung wird in Schild verwandelt.","Quando sei KO, gli alleati recuperano 12 PS. La guarigione in eccesso viene convertita in Scudo.","Ao ficar inconsciente, aliados curam 12 PV. Qualquer cura em excesso é convertida em escudo.","当你倒地时，
 盟友恢复 12 生命值。
@@ -206,8 +206,7 @@ PASSIVE_UNSCARRED_DESC,While at full hp you have 100% critical hit chance.,,"Cua
 你拥有 100% 暴击率。"
 PASSIVE_UNSCARRED2_DESC,"While at full hp you have 100% critical hit chance, +5 Mana Regeneration  and +1 All Stats Up.",,"Cuando tiene todos los PS, tiene un 100 % de probabilidad de golpe crítico, +5 de regeneración de maná y +1 de aumento total.","Tant que vous avez tous vos PV, vous avez 100&nbsp;% de chances de coup critique, Récupération de mana&nbsp;+5&nbsp;et Hausse de stats&nbsp;+1.","Du hast eine kritische Trefferchance von 100&nbsp;%, +5&nbsp;Manaregeneration und einen Bonus auf alle Attribute, wenn du volle LP hast.","Quando sei a salute piena, hai il 100% di probabilità di colpo critico, +5 a Rigenerazione Mana e +1 Aumento delle Statistiche.","Enquanto estiver com a saúde completa, você possui 100% de chance de crítico, +5 de regeneração de mana e +1 de todos os atributos aumentados.","当生命值满时，
 你拥有 100% 暴击率，
-+5 法力回复 和 +1 全属性提升。
-"
+法力回复 +5 和全属性 +1。"
 PASSIVE_DAUNT_NAME,Daunt,,Amenaza,Dissuasion,Abschreckend,Intimidazione,Intimidação,胆怯
 PASSIVE_DAUNT_DESC,Small enemies won't attack you.,,Los enemigos pequeños no atacan a esta unidad.,Les petits ennemis ne vous attaqueront pas.,Kleine Gegner greifen dich nicht an.,I nemici piccoli non ti attaccheranno.,Inimigos pequenos não atacam você.,小敌人不会攻击你。
 PASSIVE_DAUNT2_DESC,"Small enemies won't attack you.
@@ -386,15 +385,15 @@ PASSIVE_SCAVENGER2_DESC,"If your trinket slot is empty, equip a big consumable f
 "
 PASSIVE_ZENKAIBOOST_NAME,Zenkai Boost,,Aumento de saiyán,Boost Zenkai,Zenkai-Erweckung,Potenziamento Zenkai,Reforço Zenkai,全开提升
 PASSIVE_ZENKAIBOOST_DESC,"If you end battle with 1 HP, gain +1 to a random stat permanently and start the next battle at full HP with All Stats Up 3.",,"Si acaba el combate con 1 PS, obtiene +1 de un atributo al azar para siempre y empieza el siguiente combate con todos los PS y 3 de aumento total.","Si vous terminez un combat avec 1&nbsp;PV, gagnez +1&nbsp;à une stat aléatoire de façon permanente et commencez le prochain combat avec tous vos PV et Hausse de stats&nbsp;+3.","Wenn du einen Kampf mit 1&nbsp;LP beendest, erhältst du dauerhaft +1 auf ein zufälliges Attribut und beginnst den nächsten Kampf mit vollen LP und einem Bonus von 3 auf alle Attribute.","Se termini la battaglia con 1 PS, ottieni +1 a una statistica casuale in modo permanente e inizi la battaglia successiva con la salute piena e Aumento delle Statistiche 3.","Se você finalizar a batalha com 1 PV, obtenha +1 em um atributo aleatório de forma permanente e inicie a próxima batalha com saúde completa e todos os atributos aumentados 3.","如果战斗结束时生命值为1，
-永久随机提升1点属性，
+随机属性永久 +1，
 并且
 下一场战斗开始时以满生命值和
-全属性+3状态开始。"
+全属性 +3 状态开始。"
 PASSIVE_ZENKAIBOOST2_DESC,"If you end battle with 1 HP, gain +1 to 3 random stats permanently and start the next battle at full HP with All Stats Up 3.",,"Si acaba el combate con 1 PS, obtiene +1 de tres atributos al azar para siempre y empieza el siguiente combate con todos los PS y 3 de aumento total.","Si vous terminez un combat avec 1&nbsp;PV, gagnez&nbsp;+1&nbsp;à trois stats aléatoires de façon permanente et commencez le prochain combat avec tous vos PV et Hausse de stats&nbsp;+3.","Wenn du einen Kampf mit 1&nbsp;LP beendest, erhältst du dauerhaft +1 auf drei zufällige Attribute und beginnst den nächsten Kampf mit vollen LP und einem Bonus von 3 auf alle Attribute.","Se termini la battaglia con 1 PS, ottieni +1 a tre statistiche casuali in modo permanente e inizi la battaglia successiva con la salute piena e Aumento delle Statistiche 3.","Se você finalizar a batalha com 1 PV, obtenha +1 em três atributos aleatórios de forma permanente e inicie a próxima batalha com saúde completa e todos os atributos aumentados 3.","如果战斗结束时生命值为1，
-永久随机提升3点属性，
+随机 3 项属性永久 +1，
 并且
 下一场战斗开始时以满生命值和
-全属性+3状态开始。"
+全属性 +3 状态开始。"
 PASSIVE_PROTECTION_NAME,Protection,,Protección,Protection,Schutz,Protezione,Proteção,保护
 PASSIVE_PROTECTION_DESC,,,,,,,,
 PASSIVE_PROTECTION2_DESC,,,,,,,,
@@ -619,7 +618,7 @@ PASSIVE_DANCINGLIGHTS_NAME,Dancing Lights,,Luces danzantes,Ballet lumineux,Tanze
 PASSIVE_DANCINGLIGHTS_DESC,"When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.",,"Cuando cambia de postura, por cada espacio de armadura vacío, emite un destello. Si todos los espacios están vacíos, obtiene +1 de un atributo al azar.","Quand vous changez de posture, produisez une Étincelle pour chaque emplacement d'armure vide. Si tous les emplacements sont vides, +1&nbsp;à une stat aléatoire.","Wenn du deine Haltung wechselst, versprühst du für jeden leeren Rüstungsplatz einen Funken. Wenn alle Plätze leer sind, erhältst du +1 auf ein zufälliges Attribut.","Quando cambi postura, per ogni slot armatura vuoto, emetti una Scintilla. Se tutti gli slot sono vuoti, ottieni +1 a una statistica casuale.","Ao trocar de postura, emita uma fagulha para cada espaço de armadura vazio. Se todos os espaços de armadura estiverem vazios, obtenha +1 em um atributo aleatório.","当你切换姿态时，
 每个空置的装备槽会发出一次火花。
 如果所有装备槽均为空，
-随机属性获得+1。"
+随机属性 +1。"
 PASSIVE_DANCINGLIGHTS2_DESC,"When you switch stances, for each empty armor slot, emit a Sparkle. If all slots are empty gain +1 to a random stat.
 While all armor slots are empty, you have +1 Magic Damage.",,"Cuando cambia de postura, por cada espacio de armadura vacío, emite un destello. Si todos los espacios están vacíos, obtiene +1 de un atributo al azar.
 Mientras todos los espacios de armadura están vacíos, obtiene +1 de daño mágico.","Quand vous changez de posture, produisez une Étincelle pour chaque emplacement d'armure vide. Si tous les emplacements sont vides, +1&nbsp;à une stat aléatoire. Tant que les emplacements d'armure sont vides&nbsp;: Dégâts magiques&nbsp;+1.","Wenn du deine Haltung wechselst, versprühst du für jeden leeren Rüstungsplatz einen Funken. Wenn alle Plätze leer sind, erhältst du +1 auf ein zufälliges Attribut.
@@ -627,7 +626,7 @@ Wenn alle Rüstungsplätze leer sind, erhältst du +1&nbsp;magischen Schaden.","
 Enquanto todos os espaços de armadura estiverem vazios, você possui +1 de dano mágico.","当你切换姿态时，
 每个空置的装备槽会发出一次火花。
 如果所有装备槽均为空，
-随机属性获得+1。
+随机属性 +1。
 当所有护甲槽均为空时，
 获得+1 魔法伤害。"
 //butcher,,,,,,,,
@@ -839,7 +838,7 @@ Sempre que aplicar apodrecimento, você aplica +1 de apodrecimento.","所有苍�
 PASSIVE_SCHADENFREUDE_NAME,Schadenfreude,,Schadenfreude,Schadenfreude,Schadenfreude,Schadenfreude,Schadenfreude,幸灾乐祸
 PASSIVE_SCHADENFREUDE_DESC,Your [img:str] and [img:con] are increased by 2 for each disorder your party has.,,El [img:str] y el [img:con] aumentan en 2 por cada trastorno que tenga el grupo.,Vos points de [img:str] et [img:con] sont augmentés de&nbsp;2&nbsp;pour chaque Trouble dans votre équipe.,"Für jede Störung, unter der deine Gruppe leidet, sind deine [img:str] und [img:con] um 2 erhöht.",La tua [img:str] e la tua [img:con] aumentano di 2 per ogni disturbo presente nel tuo gruppo.,Sua [img:str] e [img:con] são aumentadas em 2 para cada transtorno que seu grupo possui.,"你的[img:str]和[img:con]因队伍中每个异常状态而增加2。
 "
-PASSIVE_SCHADENFREUDE2_DESC,All of your stats are increased by 2 for each disorder your party has.,,Todos los atributos aumentan en 2 por cada trastorno que tenga el grupo.,Toutes vos stats sont augmentées de&nbsp;2&nbsp;pour chaque Trouble dans votre équipe.,"Für jede Störung, unter der deine Gruppe leidet, sind all deine Attribute um 2 erhöht.",Tutte le tue statistiche aumentano di 2 per ogni disturbo presente nel tuo gruppo.,Todos os seus atributos são aumentados em 2 para cada transtorno que seu grupo possui.,"你所有的属性因队伍中每个异常状态而增加2。
+PASSIVE_SCHADENFREUDE2_DESC,All of your stats are increased by 2 for each disorder your party has.,,Todos los atributos aumentan en 2 por cada trastorno que tenga el grupo.,Toutes vos stats sont augmentées de&nbsp;2&nbsp;pour chaque Trouble dans votre équipe.,"Für jede Störung, unter der deine Gruppe leidet, sind all deine Attribute um 2 erhöht.",Tutte le tue statistiche aumentano di 2 per ogni disturbo presente nel tuo gruppo.,Todos os seus atributos são aumentados em 2 para cada transtorno que seu grupo possui.,"你所有的属性因队伍中每个异常状态而 +2。
 "
 PASSIVE_GURGITATOR_NAME,Gurgitator,,Regurgitación,Gargantua,Würger,Rigurgitatore,Gurgitação,咕嚕器
 PASSIVE_GURGITATOR_DESC,"Whenever you heal over your max HP, gain +1 [img:str].",,"Cuando los PS recuperados superan el máximo, obtiene +1 [img:str].",[img:str]&nbsp;+1&nbsp;quand vous vous soignez au-delà de vos PV max.,"Erhalte immer, wenn du mehr als deine max. LP geheilt wirst, +1&nbsp;[img:str].","Ogni volta che ti curi oltre i tuoi PS massimi, ottieni +1 alla [img:str].","Sempre que se curar acima de sua saúde máxima, obtenha +1 de [img:str].","每当你治疗超过最大生命值时，
@@ -930,10 +929,10 @@ PASSIVE_FRENZY2_DESC,"When you down a unit, gain +2 [img:str] and +2 [img:spd]."
 获得+2 [img:str] 和 +2 [img:spd]。"
 PASSIVE_AVENGER_NAME,Avenger,,Venganza,Vengeance,Rächer,Vendetta,Vingador,复仇者
 PASSIVE_AVENGER_DESC,"When an allied cat is downed, gain All Stats Up 2 and heal 8.",,"Cuando una unidad aliada está abatida, obtiene 2 de aumento total, recupera 8 PS.","Quand un chat allié est K.O., gagnez Hausse de stats&nbsp;+2&nbsp;et soignez-vous de 8.","Erhalte einen Bonus von 2 auf alle Attribute und heile dich um 8&nbsp;LP, wenn eine verbündete Katze in Ohnmacht fällt.","Quando un gatto alleato va KO, ottieni Aumento delle Statistiche 2 e ti curi di 8 PS.","Quando um gato aliado fica inconsciente, obtenha todos os atributos aumentados 2 e cure 8 PV.","当友方猫咪倒地时，
-获得全属性提升 2 并且回复 8 点生命值。
-"
+全属性 +2，
+回复 8 点生命值。"
 PASSIVE_AVENGER2_DESC,"When an allied cat is downed, gain All Stats Up 2, heal 50% of your max HP, and take an extra turn.",,"Cuando una unidad aliada está abatida, obtiene 2 de aumento total, recupera un 50 % de sus PS máximos y juega un turno extra.","Quand un chat allié est K.O., gagnez Hausse de stats&nbsp;+2, soignez 50&nbsp;% de vos PV max. et jouez un tour de plus.","Erhalte einen Bonus von 2 auf alle Attribute und heile dich um 50&nbsp;% deiner max. LP und erhalte einen zusätzlichen Zug, wenn eine verbündete Katze in Ohnmacht fällt.","Quando un gatto alleato va KO, ottieni Aumento delle Statistiche 2, ti curi del 50% dei tuoi PS massimi ed effettui un turno aggiuntivo.","Quando um gato aliado fica inconsciente, obtenha todos os atributos aumentados 2, cure 50% da sua saúde máxima e ganhe um turno adicional.","当友方猫咪倒地时，
-获得全属性提升 2，
+全属性 +2，
 回复最大生命值的 50%，
 并获得额外回合。"
 PASSIVE_SCARS_NAME,Scars,,Cicatrices,Balafres,Narben,Cicatrici,Cicatrizes,疤痕
@@ -1177,7 +1176,7 @@ PASSIVE_MERCILESS_DESC,"When you deal 10 or more damage in a single hit, gain +2
 "
 PASSIVE_MERCILESS2_DESC,"When you deal 10 or more damage in a single hit, gain +2 [img:shield], All Stats Up, and refresh your movement action.",,"Cuando inflige 10 de daño o más con un solo golpe, obtiene +2 [img:shield], aumento total y se restaura la acción de movimiento.","Quand vous infligez au moins 10&nbsp;points de dégâts en un seul coup, gagnez [img:shield]&nbsp;+2, Hausse de stats et réinitialisez votre action de déplacement.","Erhalte +2&nbsp;[img:shield], einen Bonus auf alle Attribute und frische deine Bewegungsaktion auf, wenn du 10 oder mehr Schaden mit einem Treffer verursachst.","Quando infliggi 10 o più di danno in un singolo colpo, ottieni +2 allo [img:shield], Aumento delle Statistiche e ricarichi la tua azione di movimento.","Ao causar 10 ou mais de dano em um único golpe, obtenha +2 de [img:shield], todos os atributos aumentados e reinicie sua ação de movimento.","当你单次打出10点或以上伤害时，
 
-获得+2 [img:shield]，全属性提升，
+获得+2 [img:shield]，全属性 +1，
 并刷新你的移动行动。"
 //druid,,,,,,,,
 PASSIVE_SUPERCROW_NAME,Super Crow!,,Supercuervo,Super corbeau&nbsp;!,Superkrähe!,Super-Corvo!,Super Corvo!,超级乌鸦！
@@ -1318,7 +1317,7 @@ PASSIVE_ENCORE2_DESC,"Your musical spells cost 1 less mana. When you use a music
 当你使用音乐技能时，
 刷新你的基础动作。"
 PASSIVE_SUPERFRIENDS_NAME,Super Friends,,Superamistad,Super compagnons,Superfreunde,Super Amici,Super Amigos,超级好友
-PASSIVE_SUPERFRIENDS_DESC,"Familiars spawned by spells gain All Stats Up 2, but that spell gets disabled until the spawned familiars die.",,"Los familiares generados con hechizos obtienen 2 de aumento total, pero ese hechizo se deshabilita hasta que los familiares generados mueren.","Les familiers invoqués par des sorts gagnent Hausse de stats&nbsp;+2, mais ce sort est désactivé jusqu'à la mort des familiers invoqués.","Begleiter, die durch Zauber gerufen werden, erhalten einen Bonus von 2 auf alle Attribute. Der Beschwörungszauber wird deaktiviert, bis der jeweilige Begleiter stirbt.","I famigli generati dagli incantesimi ottengono Aumento delle Statistiche 2, ma quell'incantesimo viene disattivato finché i famigli generati non muoiono.","Familiares gerados por encantamentos obtêm todos os atributos aumentados 2, mas o encantamento em questão fica desabilitado até que os familiares gerados morram.","由法术召唤的侍从获得全属性提升2，
+PASSIVE_SUPERFRIENDS_DESC,"Familiars spawned by spells gain All Stats Up 2, but that spell gets disabled until the spawned familiars die.",,"Los familiares generados con hechizos obtienen 2 de aumento total, pero ese hechizo se deshabilita hasta que los familiares generados mueren.","Les familiers invoqués par des sorts gagnent Hausse de stats&nbsp;+2, mais ce sort est désactivé jusqu'à la mort des familiers invoqués.","Begleiter, die durch Zauber gerufen werden, erhalten einen Bonus von 2 auf alle Attribute. Der Beschwörungszauber wird deaktiviert, bis der jeweilige Begleiter stirbt.","I famigli generati dagli incantesimi ottengono Aumento delle Statistiche 2, ma quell'incantesimo viene disattivato finché i famigli generati non muoiono.","Familiares gerados por encantamentos obtêm todos os atributos aumentados 2, mas o encantamento em questão fica desabilitado até que os familiares gerados morram.","由法术召唤的侍从获得全属性 +2，
 
 但该法术会被禁用，
 直到召唤的侍从死亡。"
@@ -1327,7 +1326,7 @@ Your spawning spells cost 50% less mana.",,"Los familiares generados con hechizo
 Los hechizos de generación cuestan un 50 % menos de maná.","Les familiers invoqués par des sorts gagnent Hausse de stats&nbsp;+2, mais ce sort est désactivé jusqu'à la mort des familiers invoqués. Vos sorts d'invocation coûtent 50&nbsp;% de mana en moins.","Begleiter, die durch Zauber gerufen werden, erhalten einen Bonus von 2 auf alle Attribute. Der Beschwörungszauber wird deaktiviert, bis der jeweilige Begleiter stirbt.
 Deine Beschwörungszauber kosten 50&nbsp;% weniger Mana.","I famigli generati dagli incantesimi ottengono Aumento delle Statistiche 2, ma quell'incantesimo viene disattivato finché i famigli generati non muoiono.
 I tuoi incantesimi di evocazione costano il 50% in meno di mana.","Familiares gerados por encantamentos obtêm todos os atributos aumentados 2, mas o encantamento em questão fica desabilitado até que os familiares gerados morram.
-Seus encantamentos de geração custam 50% a menos de mana.","由法术召唤的侍从获得全属性提升2，
+Seus encantamentos de geração custam 50% a menos de mana.","由法术召唤的侍从获得全属性 +2，
 
 但该法术会被禁用，
 直到召唤的侍从死亡。
@@ -1358,7 +1357,7 @@ PASSIVE_WILDSTYLE_NAME,Wild Style,,Estilo salvaje,Style sauvage,Tiergestalt,Stil
 PASSIVE_WILDSTYLE_DESC,"The first time you shapeshift each turn, gain an extra turn.",,"La primera vez que esta unidad cambia de forma cada turno, obtiene un turno extra.","La première fois que vous changez de forme à chaque tour, obtenez un tour bonus.",Erhalte für deine erste Verwandlung pro Zug einen zusätzlichen Zug.,"La prima volta che cambi forma in ogni turno, ottieni un turno aggiuntivo.","Na primeira vez em que você muda de forma em cada turno, obtenha um turno adicional.","每回合第一次变形时，
 获得额外回合。"
 PASSIVE_WILDSTYLE2_DESC,"The first time you shapeshift each turn, gain All Stats Up and an extra turn.",,"La primera vez que esta unidad cambia de forma cada turno, obtiene aumento total y un turno extra.","La première fois que vous changez de forme à chaque tour, obtenez Hausse de stats et un tour bonus.",Erhalte für deine erste Verwandlung pro Zug einen Bonus auf alle Attribute und einen zusätzlichen Zug.,"La prima volta che cambi forma in ogni turno, ottieni Aumento delle Statistiche e un turno aggiuntivo.","Na primeira vez em que você muda de forma em cada turno, obtenha todos os atributos aumentados e um turno adicional.","每回合第一次变形时，
-获得全属性提升和额外回合。"
+获得全属性 +1 和额外回合。"
 PASSIVE_BUDDYSYSTEM_NAME,Buddy System,,Sistema de colegas,Complicité,Bester Kumpel,Sistema di Coppia,Sistema de Amizade,伙伴系统
 PASSIVE_BUDDYSYSTEM_DESC,"When you lose [img:divineshield], your crow gains +1 [img:divineshield]. When your crow loses [img:divineshield], gain +1 [img:divineshield].",,"Al perder [img:divineshield], el cuervo obtiene +1 [img:divineshield]. Cuando el cuervo pierde [img:divineshield], obtiene +1 [img:divineshield].","Quand vous perdez [img:divineshield], votre corbeau gagne [img:divineshield]&nbsp;+1. Quand votre corbeau perd [img:divineshield], vous gagnez [img:divineshield]&nbsp;+1.","Deine Krähe erhält +1&nbsp;[img:divineshield], wenn du [img:divineshield] verlierst. Du erhältst +1&nbsp;[img:divineshield], wenn deine Krähe [img:divineshield] verliert.","Quando perdi [img:divineshield], il tuo corvo guadagna +1 allo [img:divineshield]. Quando il tuo corvo perde [img:divineshield], ottieni +1 allo [img:divineshield].","Ao perder [img:divineshield], seu corvo obtém +1 de [img:divineshield]. Quando seu corvo perde [img:divineshield], obtenha +1 de [img:divineshield].","当你失去 [img:divineshield] 时，
 你的乌鸦获得 +1 [img:divineshield]。
@@ -1418,9 +1417,9 @@ Al usar un hechizo musical, recupera 1 PS y obtiene +1 de un atributo al azar.",
 Wenn du einen Musikzauber wirkst, heilst du 1&nbsp;LP und erhältst +1 auf ein zufälliges Attribut.","I tuoi incantesimi musicali costano il 50% di mana in meno.
 Quando usi un incantesimo musicale, recuperi 1 PS e ottieni +1 a una statistica casuale.","Seus encantamentos musicais custam 50% a menos de mana.
 Ao utilizar um encantamento musical, cure 1 PV e obtenha +1 em um atributo aleatório.","你的音乐法术消耗法力值降低50%。
-
 当你使用音乐法术时，
-治疗1点生命值并随机获得+1点属性。
+治疗1点生命值，
+随机属性 +1。
 "
 PASSIVE_MEGAMINIONS_NAME,Mega Minions,,Megasecuaces,Méga serviteurs,Bombastische Begleiter,Mega Sgherri,Mega Servos,超级小兵
 PASSIVE_MEGAMINIONS_DESC,Every 3rd familiar you spawn is upgraded into a Champion.,,Cada tercer familiar que se genera mejora a adalid.,Chaque 3e&nbsp;familier que vous invoquez est amélioré en Champion.,"Jeder dritte Begleiter, den du rufst, ist ein Champion.",Ogni terzo famiglio che generi viene trasformato in Campione.,Cada terceiro familiar gerado por você é aprimorado para um campeão.,"你召唤的每第3个宠物都会升级为冠军。
@@ -1732,22 +1731,21 @@ PASSIVE_INFINITEREBIRTH2_DESC,"At the end of each round, if there is a body on t
 你将以满生命值重生。"
 PASSIVE_SACRIFICIALLAMB_NAME,Sacrificial Lamb,,Chivo expiatorio,Agneau sacrificiel,Opferlamm,Agnello Sacrificale,Cordeirinho,牺牲羔羊
 PASSIVE_SACRIFICIALLAMB_DESC,"When you're downed, allies gain All Stats Up and take an extra turn.",,"Cuando esta unidad está abatida, los aliados obtienen aumento total y juegan un turno extra.","Quand vous êtes K.O., vos alliés gagnent Hausse de stats et jouent un tour bonus.","Wenn du in Ohnmacht fällst, erhalten Verbündete einen Bonus auf alle Attribute und einen zusätzlichen Zug.","Quando vai KO, gli alleati ottengono Aumento delle Statistiche ed effettuano un turno aggiuntivo.","Ao ficar inconsciente, aliados obtêm todos os atributos aumentados e ganham um turno adicional.","当你倒地时，
-盟友获得全部属性提升并获得额外回合。
-"
+盟友全部属性 +1，
+获得额外回合。"
 PASSIVE_SACRIFICIALLAMB2_DESC,"When you're downed, allies gain All Stats Up and take an extra turn.
 You can't get injuries.",,"Cuando esta unidad está abatida, los aliados obtienen aumento total y juegan un turno extra.
 Esta unidad no puede sufrir lesiones.","Quand vous êtes K.O., vos alliés gagnent Hausse de stats et jouent un tour bonus. Vous ne pouvez pas vous blesser.","Wenn du in Ohnmacht fällst, erhalten Verbündete einen Bonus auf alle Attribute und einen zusätzlichen Zug.
 Du kannst keine Verletzungen erleiden.","Quando vai KO, gli alleati ottengono Aumento delle Statistiche ed effettuano un turno aggiuntivo.
 Non puoi subire ferite.","Ao ficar inconsciente, aliados obtêm todos os atributos aumentados e ganham um turno adicional.
 Você não pode sofrer ferimentos.","当你倒地时，
-盟友获得全部属性提升并获得额外回合。
-
+盟友获得全部属性 +1 ，
+获得额外回合。
 你不会受伤。"
 PASSIVE_SERVUSMORTEM_NAME,Servus Mortem,,Servus mortem,Servus Mortem,Servus Mortem,Servus Mortem,Servus Mortem,死亡仆从
 PASSIVE_SERVUSMORTEM_DESC,Destroy a random non-boss enemy at the start of each battle.,,Destruye a un enemigo que no sea jefe al azar al inicio de cada combate.,Détruisez un ennemi (sauf les Boss) au début de chaque combat.,Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner.,Distruggi un nemico casuale che non sia un boss all'inizio di ogni battaglia.,Destrua um inimigo aleatório (exceto chefes) no início de cada batalha.,"在每场战斗开始时摧毁一个随机
 的非Boss敌人。"
 PASSIVE_SERVUSMORTEM2_DESC,"Destroy a random enemy at the start of each battle. If this hits a boss, deal 50 damage instead.",,"Destruye a un enemigo al azar al inicio de cada combate. Si golpea a un jefe, le inflige 50 de daño en su lugar.","Détruisez un ennemi aléatoire au début de chaque combat. S'il s'agit d'un Boss, infligez 50&nbsp;points de dégâts à la place.","Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner. Wenn diese Fähigkeit einen Boss trifft, verursache stattdessen 50&nbsp;Schaden.","Distruggi un nemico casuale all'inizio di ogni battaglia. Se colpisci un boss, invece, infliggi 50 di danno.","Destrua um inimigo aleatório (exceto chefes) no início de cada batalha. Se esta habilidade golpear um chefe, cause 50 de dano.","在每场战斗开始时摧毁一个随机敌人。
-
 如果击中Boss，
 则改为造成50点伤害。"
 PASSIVE_OFFLOADPAIN_NAME,Offload Pain,,Descarga de dolor,Douleur partagée,Schaden weitergeben,Guarigione Dolorosa,Descarregamento de Dor,卸除痛苦
@@ -1936,7 +1934,7 @@ Al infligir un golpe crítico, obtiene un aumento de un atributo al azar.","Vos 
 Wenn du einen kritischen Treffer verursachst, erhältst du einen Bonus auf ein zufälliges Attribut.","I tuoi colpi alle spalle sono sempre critici.
 Quando metti a segno un colpo critico, ottieni il miglioramento di un statistica casuale.","Suas apunhaladas são sempre críticas.
 Ao acertar um golpe crítico, obtenha um atributo aleatório aumentado.","你的背刺攻击总是暴击。
-当你造成暴击时，获得一个随机属性提升。
+当你造成暴击时，随机属性 +1。
 "
 PASSIVE_GOLDENCLAWS_NAME,Golden Claws,,Garras doradas,Griffes dorées,Goldene Klauen,Artigli Dorati,Garras Douradas,金爪
 PASSIVE_GOLDENCLAWS_DESC,Gain +1 Damage for each coin you collect.,,Obtiene +1 de daño por cada moneda que recoja.,Confère Dégâts&nbsp;+1&nbsp;pour chaque pièce ramassée.,"Erhalte für jede Münze, die du einsammelst, +1&nbsp;Schaden.",Ottieni +1 al Danno per ogni moneta raccolta.,Obtenha +1 de dano para cada moeda que você coletar.,"每收集一枚金币，
@@ -2211,7 +2209,7 @@ PASSIVE_CATCHPROJECTILES_DESC,"33% chance to block enemy projectiles and a 100% 
 PASSIVE_CATCHPROJECTILES2_DESC,"50% chance to block enemy projectiles and a 100% chance to block allied projectiles. If you block a projectile, gain +1 Bonus Attack and +1 All Stats Up.",,"Tiene un 50 % de probabilidad de bloquear los proyectiles enemigos y un 100 % de probabilidad de bloquear todos los proyectiles aliados. Si bloquea un proyectil, obtiene +1 de bonificación de ataque y +1 de aumento total.","50&nbsp;% de chances de parer les projectiles ennemis et 100&nbsp;% de chances de parer les projectiles alliés. Si vous parez un projectile, Attaque bonus&nbsp;+1&nbsp;et Hausse de stats&nbsp;+1.","50%ige Wahrscheinlichkeit, gegnerische Geschosse zu blockieren und 100%ige Wahrscheinlichkeit, Geschosse von Verbündeten zu blockieren. Erhalte +1&nbsp;Bonusangriff und einen Bonus auf alle Attribute, wenn du ein Geschoss blockierst.","50% di probabilità di bloccare i proiettili nemici e 100% di probabilità di bloccare quelli alleati. Se blocchi un proiettile, ottieni +1 Attacco Bonus e +1 Aumento delle Statistiche.","50% de chance de bloquear projéteis inimigos e 100% de chance de bloquear projéteis aliados. Ao bloquear um projétil, obtenha +1 ataque bônus e +1 todos os atributos aumentados.","50% 几率格挡敌方投射物，
 100% 几率格挡友方投射物。
 格挡投射物时，
-获得 +1 额外攻击和 +1 全属性提升。
+获得 +1 额外攻击和全属性 +1。
 "
 PASSIVE_TRICKYTRAPS_NAME,Tricky Traps,,Cepos con truco,Pièges sournois,Gefährliche Fallen,Trappole Insidiose,Armadilhas Grudentas,狡猾陷阱
 PASSIVE_TRICKYTRAPS_DESC,Damage and effects from your traps are doubled.,,Se duplican los efectos y el daño de los cepos.,Les dégâts et effets de vos pièges sont doublés.,Schaden und Effekte deiner Fallen sind verdoppelt.,Il danno e gli effetti delle tue trappole sono raddoppiati.,O dano e os efeitos de suas armadilhas são dobrados.,"你的陷阱造成的伤害和效果翻倍。
@@ -2642,15 +2640,14 @@ PASSIVE_ETERNAL_DESC,"When you are downed for the 1st time each battle, take no 
 不受伤害并以半生命值复活。"
 PASSIVE_ETERNAL2_DESC,"When you are downed for the 1st time each battle, take no injuries and revive with half HP, All Stats Up 2, and immediately take an extra turn.",,"Cuando esta unidad está abatida por primera vez en cada combate, no sufre lesiones y resucita con la mitad de sus PS y 2 de aumento total, y juega un turno extra inmediatamente.","Lorsque vous êtes K.O. pour la première fois en combat, vous ne recevez aucune blessure, vous récupérez la moitié de vos PV, vous gagnez Hausse de stats&nbsp;+2&nbsp;et vous jouez immédiatement 1&nbsp;tour supplémentaire.","Wenn du zum ersten Mal im Kampf in Ohnmacht fällst, erleidest du keine Verletzungen und wirst mit der Hälfte deiner LP und einem Bonus von 2 auf alle Attribute wiederbelebt und erhältst sofort einen zusätzlichen Zug.","Quando vai KO per la prima volta in ogni battaglia, non subisci ferite e resusciti con metà dei tuoi PS, Aumento delle Statistiche 2 ed effettui immediatamente un turno aggiuntivo.","Ao ficar inconsciente pela primeira vez em cada batalha, não sofra ferimentos e reviva com saúde pela metade, todos os atributos aumentados 2 e obtenha um turno adicional imediatamente.","每次战斗中第一次倒地时，
 不受伤害并以半生命值复活，
-全属性提升 2，并立即获得额外行动。
+全属性 +2，并立即获得额外行动。
 "
 PASSIVE_BLESSED_NAME,Blessed,,Bendición,Faveur,Gesegnet,Benedizione,Benção,被祝福者
-PASSIVE_BLESSED_DESC,Gain +1 to 2 random stats at the start of each turn.,,Obtiene +1 de dos atributos al azar al inicio de cada turno.,"Au début de chaque tour, +1&nbsp;à 2&nbsp;stats au hasard.",Erhalte am Anfang jedes Zuges +1 auf 2 zufällige Attribute.,Ottieni +1 a 2 statistiche casuali all'inizio di ogni turno.,Obtenha +1 em 2 atributos aleatório no início de cada turno.,"每回合开始时随机获得 +1
-至 2
-项属性提升。"
-PASSIVE_BLESSED2_DESC,+3 Health Regeneration Gain +1 to 3 random stats at the start of each turn.,,Obtiene +3 de regeneración de salud. Obtiene +1 de tres atributos al azar al inicio de cada turno.,"Régénération de PV&nbsp;+3. Au début de chaque tour, +1&nbsp;à 3&nbsp;stats au hasard.",+3&nbsp;Lebensregeneration. Erhalte am Anfang jedes Zuges +1 auf 3 zufällige Attribute.,+3 a Rigenerazione Salute. Ottieni +1 a 3 statistiche casuali all'inizio di ogni turno.,+3 de regeneração de saúde. Obtenha +1 em 3 atributos aleatório no início de cada turno.,"+3 生命值回复 每回合开始
-时随
-机获得 +1 至 3 项属性提升。
+PASSIVE_BLESSED_DESC,Gain +1 to 2 random stats at the start of each turn.,,Obtiene +1 de dos atributos al azar al inicio de cada turno.,"Au début de chaque tour, +1&nbsp;à 2&nbsp;stats au hasard.",Erhalte am Anfang jedes Zuges +1 auf 2 zufällige Attribute.,Ottieni +1 a 2 statistiche casuali all'inizio di ogni turno.,Obtenha +1 em 2 atributos aleatório no início de cada turno.,"每回合开始时，
+随机 2 项属性 +1。"
+PASSIVE_BLESSED2_DESC,+3 Health Regeneration Gain +1 to 3 random stats at the start of each turn.,,Obtiene +3 de regeneración de salud. Obtiene +1 de tres atributos al azar al inicio de cada turno.,"Régénération de PV&nbsp;+3. Au début de chaque tour, +1&nbsp;à 3&nbsp;stats au hasard.",+3&nbsp;Lebensregeneration. Erhalte am Anfang jedes Zuges +1 auf 3 zufällige Attribute.,+3 a Rigenerazione Salute. Ottieni +1 a 3 statistiche casuali all'inizio di ogni turno.,+3 de regeneração de saúde. Obtenha +1 em 3 atributos aleatório no início de cada turno.,"每回合开始时，
++3 生命值回复，
+随机 3 项属性 +1。
 "
 PASSIVE_EVILPATRON_NAME,Evil Patron,,Patrón malvado,Divinité maléfique,Bösartiger Schutzpatron,Mecenate Crudele,Patrocínio Maléfico,邪恶庇护者
 PASSIVE_EVILPATRON_DESC,"Your healing abilities deal damage to enemies.
@@ -2698,27 +2695,23 @@ Beginne jeden Kampf mit mehreren Gegenständen in der Nähe.","Quando prendi un 
 Inizi ogni battaglia con dei raccoglibili nelle vicinanze.","Ao pegar um coletável que não seja uma moeda, aliados obtêm o mesmo efeito.
 Inicie cada batalha com coletáveis próximos.","当你拾取非金币道具时，
 盟友获得同样的效果。
-每场战斗开始时，附近有拾取物。
-"
+每场战斗开始时，附近有拾取物。"
 PASSIVE_CARETAKER_NAME,Caretaker,,Cuidados,Aux petits soins,Pfleger,Custode,Cuidador,看护者
 PASSIVE_CARETAKER_DESC,"When you heal another unit, heal yourself for half that amount.",,"Cuando cura a otra unidad, también recupera la mitad de esa cantidad.","Lorsque vous soignez une unité, vous recevez la moitié des soins prodigués.","Wenn du eine andere Einheit heilst, heilst du dich selbst um die Hälfte dieser Heilung.","Quando curi un'altra unità, curi anche te per la metà di quell'ammontare.","Ao curar outra unidade, cure-se pela metade da quantidade que foi curada.","当你治疗其他单位时，
-为自己回复相当于一半治疗量的生命值。
-"
+为自己回复相当于一半治疗量的生命值。"
 PASSIVE_CARETAKER2_DESC,"When you heal another unit, heal yourself for the same amount. ",,"Cuando cura a otra unidad, también recupera esa cantidad. ","Lorsque vous soignez une unité, vous recevez la totalité des soins prodigués.","Wenn du eine andere Einheit heilst, heilst du dich selbst in der gleichen Höhe. ","Quando curi un'altra unità, curi anche te per lo stesso ammontare.","Ao curar outra unidade, cure-se pela mesma quantidade.","当你治疗其他单位时，
-为自己回复相当于同样治疗量的生命值。
-"
+为自己回复相当于同样治疗量的生命值。"
 PASSIVE_MORALEBOOST_NAME,Morale Boost,,Aumento de moral,Remonter le moral,Moralpredigt,Innalzamento del Morale,Reforço de Moral,士气提升
 PASSIVE_MORALEBOOST_DESC,Allies gain All Stats Up whenever you kill something.,,"Cuando mata algo, todos los aliados obtienen aumento total.",Les unités alliées obtiennent Hausse de stats lorsque vous tuez quelque chose.,"Verbündete erhalten einen Bonus auf alle Attribute, wenn du etwas tötest.",Gli alleati ottengono Aumento delle Statistiche ogni volta che uccidi qualcosa.,Aliados obtêm todos os atributos aumentados sempre que você mata algo.,"每当你击杀敌人时，
-盟友获得全属性提升。"
+盟友全属性 +1。"
 PASSIVE_MORALEBOOST2_DESC,"Allies gain All Stats Up whenever you kill something.
 When you kill something, refresh your basic attack. ",,"Cuando mata algo, todos los aliados obtienen aumento total.
 Cuando mata algo, restaura su ataque básico. ","Les unités alliées obtiennent Hausse de stats lorsque vous tuez quelque chose. Lorsque vous tuez quelque chose, vous réinitialisez votre attaque de base.","Verbündete erhalten einen Bonus auf alle Attribute, wenn du etwas tötest.
 Frische deinen Grundangriff auf, wenn du etwas tötest. ","Gli alleati ottengono Aumento delle Statistiche ogni volta che uccidi qualcosa.
 Quando uccidi qualcosa, ricarichi il tuo attacco base.","Aliados obtêm todos os atributos aumentados sempre que você mata algo.
 Ao matar algo, reinicie seu ataque básico.","每当你击杀敌人时，
-盟友获得全属性提升。
-击杀敌人时，刷新你的基础攻击。
-"
+盟友全属性 +1，
+刷新你的基础攻击。"
 PASSIVE_RANGEDMEDIC_NAME,Ranged Medic,,Médico a distancia,Toubib distant,Fernheilung,Cure a Distanza,Medicina à Distância,远程医疗兵
 PASSIVE_RANGEDMEDIC_DESC,Your basic attack is a ranged lobbed attack that heals allies and damages enemies.,,El ataque básico es un ataque en arco a distancia que cura a los aliados y daña a los enemigos.,Votre attaque de base devient une attaque en cloche à distance qui soigne les unités alliées et inflige des dégâts aux ennemis.,"Dein Grundangriff wird zum Fernkampfangriff, der Hindernisse ignoriert. Er heilt Verbündete und verursacht Schaden bei Gegnern.",Il tuo attacco base è un attacco a distanza a parabola che cura gli alleati e danneggia i nemici.,Seu ataque básico é um ataque à distância em arco que cura aliados e causa dano a inimigos.,"你的基础攻击是远程抛掷攻击，
 治疗盟友并伤害敌人。"
@@ -2782,17 +2775,14 @@ PASSIVE_ALMSFORTHEPOOR2_DESC,"When you gain coins, you gain +1 [img:divineshield
 PASSIVE_PURIFIER_NAME,Purifier,,Purificador,Dissipation,Reiniger,Purificazione,Purificação,净化者
 PASSIVE_PURIFIER_DESC,Your basic attack removes debuffs from allies.,,El ataque básico elimina las desventajas de los aliados.,Votre attaque de base retire les malus des unités alliées.,Dein Grundangriff entfernt Schwächungen von Verbündeten.,Il tuo attacco base rimuove i malus dagli alleati.,Seu ataque básico remove enfraquecimentos de aliados.,"你的普通攻击会移除盟友的减益状态。
 "
-PASSIVE_PURIFIER2_DESC,Your basic attack removes debuffs from allies and gives them All Stats Up.,,El ataque básico elimina las desventajas de los aliados y les otorga aumento total.,Votre attaque de base retire les malus des unités alliées et leur octroie Hausse de stats.,Dein Grundangriff entfernt Schwächungen von Verbündeten und verleiht ihnen einen Bonus auf alle Attribute.,Il tuo attacco base rimuove i malus dagli alleati e fornisce loro Aumento delle Statistiche.,Seu ataque básico remove enfraquecimentos de aliados e concede a eles todos os atributos aumentados.,"你的普通攻击会移除盟友的减益
-效果并给予他们全属性提升。"
+PASSIVE_PURIFIER2_DESC,Your basic attack removes debuffs from allies and gives them All Stats Up.,,El ataque básico elimina las desventajas de los aliados y les otorga aumento total.,Votre attaque de base retire les malus des unités alliées et leur octroie Hausse de stats.,Dein Grundangriff entfernt Schwächungen von Verbündeten und verleiht ihnen einen Bonus auf alle Attribute.,Il tuo attacco base rimuove i malus dagli alleati e fornisce loro Aumento delle Statistiche.,Seu ataque básico remove enfraquecimentos de aliados e concede a eles todos os atributos aumentados.,"你的普通攻击会移除盟友的减益效果并给予他们全属性 +1。"
 PASSIVE_VENERATEDTOUCH_NAME,Venerated Touch,,Toque venerado,Toucher vénéré,Verehrte Berührung,Tocco Venerabile,Toque Venerável,尊敬之触
-PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成2层困惑，
-
+PASSIVE_VENERATEDTOUCH_DESC,Your basic attack inflicts Confusion 2 on enemies and gives +2 [img:shield] to allies.,,El ataque básico inflige 2 de confusión a los enemigos y otorga +2 [img:shield] a los aliados.,Votre attaque de base inflige Confusion&nbsp;+2&nbsp;aux ennemis et octroie [img:shield]&nbsp;+2&nbsp;aux unités alliées.,Dein Grundangriff verursacht Verwirrung&nbsp;2 bei Gegnern und verleiht Verbündeten +2&nbsp;[img:shield].,Il tuo attacco base infligge Confusione 2 ai nemici e fornisce +2 allo [img:shield] agli alleati.,Seu ataque básico aplica confusão 2 em inimigos e concede +2 de [img:shield] a aliados.,"你的普通攻击对敌人造成混乱 2，
 并给予盟友 +2 [img:shield]。"
-PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成3层困惑，
-
+PASSIVE_VENERATEDTOUCH2_DESC,Your basic attack inflicts Confusion 3 on enemies and has a 50% chance to Stun. It also gives +3 [img:shield] to allies and a 50% chance for All Stats Up.,,"El ataque básico inflige 3 de confusión a los enemigos y tiene un 50 % de probabilidad de aturdir. Además, otorga +3 [img:shield] a los aliados y tiene un 50 % de probabilidad de obtener aumento total.",Votre attaque de base inflige Confusion&nbsp;+3&nbsp;aux ennemis et a 50&nbsp;% de chances d'infliger Étourdissement. Elle octroie [img:shield]&nbsp;+3&nbsp;aux unités alliées et a 50&nbsp;% de chances de leur octroyer Hausse de stats.,Dein Grundangriff verursacht Verwirrung&nbsp;3 und mit 50%iger Wahrscheinlichkeit Betäubung bei Gegnern. Außerdem verleiht er Verbündeten +3&nbsp;[img:shield] und mit 50%iger Wahrscheinlichkeit einen Bonus auf alle Attribute.,Il tuo attacco base infligge Confusione 3 ai nemici e ha il 50% di probabilità di infliggere Stordimento. Fornisce inoltre +3 allo [img:shield] agli alleati e un 50% di probabilità di ottenere Aumento delle Statistiche.,Seu ataque básico aplica confusão 3 em inimigos e possui 50% de chance de atordoar. Ele também concede +e de [img:shield] a aliados e possui 50% de chance de conceder todos os atributos aumentados.,"你的普通攻击对敌人造成混乱 3，
 有 50% 几率造成眩晕。
 它还给予盟友 +3 [img:shield] 以及
-50% 几率获得全属性提升。"
+50% 几率全属性 +1。"
 PASSIVE_PROTECTTHEWEAK_NAME,Protect the Weak,,Protección para los débiles,Protection des faibles,Schütze die Schwachen,Protezione dei Deboli,Proteção dos Fracos,保护弱者
 PASSIVE_PROTECTTHEWEAK_DESC,Allies with 5 or fewer HP gain +50% dodge chance.,,Los aliados con 5 PS o menos obtienen un +50 % de probabilidad de esquiva.,Les unités alliées avec 5&nbsp;PV ou moins gagnent Chances d'esquive&nbsp;+50&nbsp;%.,Verbündete mit 5 oder weniger LP erhalten +50&nbsp;% Ausweichchance.,Gli alleati con 5 PS o inferiori ottengono un +50% di probabilità di schivata.,Aliados com 5 ou menos PV obtêm 50% de chance de esquiva.,"生命值在 5 或以下的
 盟友获得 +
@@ -3049,9 +3039,9 @@ PASSIVE_MAGICGURU_DESC,"Your allies have +1 Mana Regeneration. When an ally spen
 获得全属性提升。"
 PASSIVE_MAGICGURU2_DESC,"Your allies have +1 Mana Regeneration. When an ally spends 7+ mana to cast a spell, they gain All Stats Up. When you spend mana, each ally gains +1 mana.",,"Los aliados tienen +1 de regeneración de maná. Cuando un aliado gasta más de 7 de maná para lanzar un hechizo, obtiene aumento total. Cuando esta unidad gasta maná, cada aliado obtiene +1 de maná.","Les unités alliées reçoivent Régénération de mana&nbsp;+1. Lorsqu'une unité alliée dépense 7&nbsp;mana ou plus pour lancer un sort, elle gagne Hausse de stats. Lorsque vous dépensez du mana, chaque unité alliée reçoit 1&nbsp;mana.","Deine Verbündeten haben +1&nbsp;Manaregeneration. Wenn ein Verbündeter 7+&nbsp;Mana ausgibt, um einen Zauber zu wirken, erhält er einen Bonus auf alle Attribute. Wenn du Mana ausgibst, erhält jeder Verbündete +1&nbsp;Mana.","I tuoi alleati hanno +1 a Rigenerazione Mana. Quando un alleato spende 7+ mana per lanciare un incantesimo, ottiene Aumento delle Statistiche. Quando tu spendi mana, ogni alleato ottiene +1 mana.","Seus aliados possuem +1 de regeneração de mana. Quando um aliado gastar 7 ou mais de mana em um encantamento, ele obtém todos os atributos aumentados. Quando você gasta mana, cada aliado obtém +1 de mana.","你的盟友拥有+1 法力值回复。
 
-当一名盟友消耗7+ 法力值施放法术时，
-获得全属性提升。当你消耗法力值时，
-每个盟友获得+1 法力值。"
+当一名盟友消耗 7+ 法力值施放法术时，
+获得全属性 +1 。当你消耗法力值时，
+每个盟友获得 +1 法力值。"
 PASSIVE_ONE_NAME,One,,Uno,Un,Eins,Uno,Um,一
 PASSIVE_ONE_DESC,"When you end your turn, if you cast exactly 1 spell, double cast your next spell.",,"Al final del turno, si lanza exactamente 1 hechizo, se duplica el siguiente.","À la fin de votre tour, si vous n'avez lancé qu'un seul sort, votre prochain sort est lancé 2&nbsp;fois.","Wenn du deinen Zug beendest und genau einen Zauber gewirkt hast, wird dein nächster Zauber zweimal gewirkt.","Quando termini il tuo turno, se lanci esattamente 1 incantesimo, lanci due volte il tuo incantesimo successivo.","Ao finalizar seu turno, se lançar exatamente 1 encantamento, realize um lançamento duplo em seu próximo encantamento.","当你结束回合时，
 如果刚好施放了1个法术，
@@ -3178,10 +3168,12 @@ PASSIVE_BECKON2_DESC,Your basic attack has +4 Knockback and Chain Knockback.,,El
 "
 PASSIVE_MINDTEMPEST_NAME,Mind Tempest,,Tempestad mental,Tempête de cerveau,Gedankensturm,Bufera della Mente,Tempestade da Mente,心灵风暴
 PASSIVE_MINDTEMPEST_DESC,"After every sixth spell you cast, gain All Stats Up and +1 Magic Damage.",,"Tras cada seis hechizos lanzados, obtiene aumento total y +1 de daño mágico.","Tous les 6&nbsp;sorts que vous lancez, Dégâts magiques&nbsp;+1&nbsp;et Hausse de stats.","Nach jedem sechsten Zauber, den du wirkst, erhältst du einen Bonus auf alle Attribute und +1&nbsp;magischen Schaden.","Dopo ogni sesto incantesimo lanciato, ottieni Aumento delle Statistiche e +1 al Danno Magico.","Após cada sexto encantamento que você lança, obtenha todos os atributos aumentados e +1 de dano mágico.","每施放第六个法术后，
-获得全属性提升和+1魔法伤害。
+全属性 +1，
+魔法伤害 +1 。
 "
 PASSIVE_MINDTEMPEST2_DESC,"After every sixth spell you cast, gain All Stats Up, +1 Magic Damage, and reduce the cost of your spells by 1 mana.",,"Tras cada seis hechizos lanzados, obtiene aumento total, +1 de daño mágico y reduce en 1 de maná el coste de sus hechizos.","Tous les 6&nbsp;sorts que vous lancez, Dégâts magiques&nbsp;+1, Hausse de stats et le coût en mana de vos sorts diminue de 1.","Nach jedem sechsten Zauber, den du wirkst, erhältst du einen Bonus auf alle Attribute und +1&nbsp;magischen Schaden und reduzierst die Kosten deiner Zauber um 1&nbsp;Mana.","Dopo ogni sesto incantesimo lanciato, ottieni Aumento delle Statistiche, +1 al Danno Magico e riduci il costo degli incantesimi di 1 mana.","Após cada sexto encantamento que você lança, obtenha todos os atributos aumentados, +1 de dano mágico e reduza o custo dos seus encantamentos em 1 de mana.","每施放第六个法术后，
-获得全属性提升、+1魔法伤害，
+全属性 +1，
+魔法伤害 +1 ，
 并且法术消耗减少1点法力值。"
 PASSIVE_OVERFLOW_NAME,Overflow,,Desbordamiento,Débordement,Überfluss,Traboccamento,Transbordamento,溢出
 PASSIVE_OVERFLOW_DESC,"While at full mana, gain +2 Brace and Flying Movement. Your mana is uncapped.",,"Con el maná a tope, obtiene +2 de refuerzo y movimiento volador. El maná no tiene límite.","Lorsque vous avez tout votre mana, Garde&nbsp;+1&nbsp;et Déplacement en vol. Votre mana n'a pas de limite.","Während du volles Mana hast, erhältst du +2&nbsp;Wappnen und fliegst. Dein Mana hat keine Obergrenze.","Quando hai il mana pieno, ottieni +2 alla Guardia e Movimento Volante. Il tuo mana non ha limite massimo.","Enquanto estiver com a mana completa, obtenha +2 de preparação e movimento voador. Sua mana não possui mais limites.","在法力值满时，
@@ -3330,7 +3322,7 @@ Você gera uma poça de gosma sempre que sofrer golpes. Você não pode equipar 
 会生成一滩爬行物。
 你不能装备面部护甲。"
 DISORDER_DEPRESSION_NAME,Depression,,Depresión,Dépression,Depression,Depressione,Depressão,抑郁症
-DISORDER_DEPRESSION_DESC,Adjacent units get All Stats Down 2.,,Las unidades adyacentes reciben 2 de reducción total.,Baisse de stats&nbsp;+2&nbsp;pour toutes les unités adjacentes.,Benachbarte Einheiten erleiden einen Malus von 2 auf alle Attribute.,Le unità adiacenti subiscono Diminuzione delle Statistiche 2.,Unidades adjacentes obtêm todos os atributos diminuídos 2.,相邻单位 全属性下降2。
+DISORDER_DEPRESSION_DESC,Adjacent units get All Stats Down 2.,,Las unidades adyacentes reciben 2 de reducción total.,Baisse de stats&nbsp;+2&nbsp;pour toutes les unités adjacentes.,Benachbarte Einheiten erleiden einen Malus von 2 auf alle Attribute.,Le unità adiacenti subiscono Diminuzione delle Statistiche 2.,Unidades adjacentes obtêm todos os atributos diminuídos 2.,相邻单位 全属性 -2。
 DISORDER_BROKENLIMB_NAME,Broken Limb,,Extremidad rota,Membre cassé,Gebrochene Gliedmaßen,Arto Fratturato,Membro Quebrado,断肢
 DISORDER_BROKENLIMB_DESC,You can't equip trinkets or consumables. +2 Thorns.,,No se pueden equipar baratijas ni consumibles. +2 de espinas.,Vous ne pouvez pas équiper d'accessoire ou de consommable. Épines&nbsp;+2.,"Du kannst weder Zubehör, noch Verbrauchsgegenstände ausrüsten. +2&nbsp;Dornen.",Non puoi equipaggiare ciondoli o consumabili. +2 Spine.,Você não pode equipar acessórios ou consumíveis. +2 de espinhos.,"你无法装备饰品或消耗品。
 +2 荆棘。"
@@ -3498,15 +3490,14 @@ DISORDER_ZOOMIES_NAME,The Zoomies,,Azogue,Crise de folie,Zoomies,Iperattività,G
 DISORDER_ZOOMIES_DESC,Your movement action is a dash attack.,,La acción de movimiento se convierte en un ataque relámpago.,Votre action de déplacement est une attaque impulsée.,Deine Bewegungsaktion ist ein Ansturmangriff.,La tua azione di movimento è un attacco in scatto.,Sua ação de movimento é um ataque de impulso.,你的移动动作是冲刺攻击。
 DISORDER_SCHRODINGERDISORDER_NAME,Schrödinger's Syndrome,,Síndrome de Schrödinger,Syndrome de Schrödinger,Schrödingers Syndrom,Sindrome di Schrödinger,Síndrome de Schrödinger,薛定谔综合症
 DISORDER_SCHRODINGERDISORDER_DESC,"50% chance to start each battle dead, or alive with max hp and all stats up.",,Tiene un 50 % de probabilidad de empezar cada combate muerto o bien vivo con todos los PS y todos los atributos al máximo.,"50&nbsp;% de chances de commencer chaque combat sans vie, ou en vie avec vos PV au max et Hausse de stats.","Mit 50%iger Wahrscheinlichkeit bist du am Anfang des Kampfes entweder tot, oder am Leben mit max. LP und einem Bonus auf alle Attribute.","50% di probabilità di iniziare ogni battaglia senza vita, o in vita con i PS al massimo e tutte le statistiche aumentate.","50% de chance de iniciar cada batalha morto, ou vivo com saúde máxima e todos os atributos aumentados.","每场战斗开始时有50%的几率处于死亡状态，
-
-或生命值最大且所有属性提升。"
+或生命值回满，全属性 +1。"
 DISORDER_SCALYSCABS_NAME,Scaly Scabs,,Costras escamosas,Croûtes écailleuses,Schuppiger Schorf,Croste Squamose,Crostas Escamosas,鳞状结痂
 DISORDER_SCALYSCABS_DESC,,,,,,,,
 DISORDER_FATTYLIVER_NAME,Fatty Liver,,Hígado graso,Stéatose hépatique,Fettleber,Fegato Grasso,Gordura no Fígado,脂肪肝
 DISORDER_FATTYLIVER_DESC,"Whenever you lose HP, you permanently lose 1 [img:con].",,"Cuando pierde PS, pierde para siempre 1 [img:con].","Chaque fois que vous perdez des PV, [img:con]&nbsp;-1&nbsp;de façon permanente.","Wenn du LP verlierst, verlierst du dauerhaft 1&nbsp;[img:con].","Ogni volta che perdi PS, perdi permanentemente 1 di [img:con].","Sempre que perder saúde, perca permanentemente 1 de [img:con].","每当你失去生命值时，
 永久失去1点[img:con]。"
 DISORDER_COMMONCOLD_NAME,The Common Cold,,Resfriado común,Rhume commun,Erkältung,Raffreddore Comune,Resfriado,普通感冒
-DISORDER_COMMONCOLD_DESC,Start each battle with All Stats Down. 30% chance of recovering at the end of each round. Contagious.,,Empieza cada combate con reducción total. 30 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.,Vous commencez chaque combat avec Baisse de stats. 30&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"Beginne jeden Kampf mit einem Malus auf alle Attribute. 30%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.",Inizi ogni battaglia con Diminuzione delle Statistiche. 30% di probabilità di guarire alla fine di ogni round. Contagioso.,Inicie cada batalha com todos os atributos diminuídos. 30% de chance de se recuperar no final de cada rodada. Contagioso.,"每场战斗开始时所有属性下降。
+DISORDER_COMMONCOLD_DESC,Start each battle with All Stats Down. 30% chance of recovering at the end of each round. Contagious.,,Empieza cada combate con reducción total. 30 % de probabilidad de recuperarse al final de cada ronda. Es contagioso.,Vous commencez chaque combat avec Baisse de stats. 30&nbsp;% de chances de récupération à la fin de chaque manche. Contagieux.,"Beginne jeden Kampf mit einem Malus auf alle Attribute. 30%ige Wahrscheinlichkeit, dass du dich am Ende der Runde erholst. Ansteckend.",Inizi ogni battaglia con Diminuzione delle Statistiche. 30% di probabilità di guarire alla fine di ogni round. Contagioso.,Inicie cada batalha com todos os atributos diminuídos. 30% de chance de se recuperar no final de cada rodada. Contagioso.,"每场战斗开始时全属性 -1。
 每回合结束时有30%几率恢复。
 具传染性。"
 DISORDER_POX_NAME,Pox,,Sífilis,Vérole,Pocken,Vaiolo,Varíola,天花
@@ -3631,7 +3622,7 @@ Aprenda o encantamento Descanso (se possuir um espaço de encantamento vazio).",
 DISORDER_DIABETES_NAME,Diabetes,,Diabetes,Diabète,Diabetes,Diabete,Diabetes,糖尿病
 DISORDER_DIABETES_DESC,"When you end your turn, if you haven't eaten food, gain All Stats Down and Confusion 1. Each time you eat food, cleanse all your debuffs and gain +1 [img:int].",,"Al final del turno, si no ha comido nada, sufre reducción total y 1 de confusión. Cada vez que come, elimina todas sus desventajas y obtiene +1 [img:int].","À la fin de votre tour, si vous n'avez pas mangé de nourriture, Baisse de stats et Confusion&nbsp;+1. Chaque fois que vous mangez, vos malus sont dissipés et [img:int]&nbsp;+1.","Wenn du deinen Zug beendest und kein Essen gegessen hast, erleidest du einen Malus auf alle Attribute und Verwirrung&nbsp;1. Jedes Mal, wenn du etwas isst, reinigst du alle Schwächungen und erhältst +1&nbsp;[img:int].","Quando finisci il tuo turno, se non hai mangiato, ottieni Diminuzione delle Statistiche e Confusione 1. Ogni volta che mangi, rimuovi tutti i tuoi malus e ottieni +1 all'[img:int].","Ao finalizar seu turno, se não tiver comido nenhum alimento, obtenha todos os atributos aumentados e confusão 1. A cada vez que come um alimento, purifique todos os seus enfraquecimentos e obtenha +1 de [img:int].","当你回合结束时，
 如果你没有进食，
-获得全属性下降和困惑。
+全属性 -1 和混乱 +1。
 每次你进食时，
 清除所有负面状态并获得+1 [img:int]。
 "
@@ -3675,13 +3666,10 @@ Am Ende jedes Kampfes findest du mit 50%iger Wahrscheinlichkeit eine Pille.","In
 Ottieni Aumento delle Statistiche 3 ogni volta che mangi una pillola.
 Hai il 50% di probabilità di trovare una pillola alla fine di ogni battaglia.","Inicie cada batalha com todos os atributos diminuídos 2.
 Obtenha todos os atributos aumentados 3 sempre que comer uma pílula.
-Você possui 50% de chance de encontrar uma pílula no final de cada batalha.","每场战斗开始时获得全属性下降2。
-
-每次服用药丸时获得全属性提升3。
-
+Você possui 50% de chance de encontrar uma pílula no final de cada batalha.","每场战斗开始时全属性 -2。
+每次服用药丸时全属性 +3 。
 每场战斗结束时，
-你有50%的几率找到一颗药丸。
-"
+你有50%的几率找到一颗药丸。"
 DISORDER_BORROWEDTIME_NAME,Borrowed Time,,Tiempo prestado,Temps compté,Die Zeit rinnt,Tempo Rubato,Prorrogação,借来的时间
 DISORDER_BORROWEDTIME_DESC,+50% dodge chance. Doomed 3.,,+50 % de probabilidad de esquiva. 3 de condenación.,Chances d'esquive&nbsp;+50&nbsp;%. Damnation&nbsp;+3.,+50&nbsp;% Ausweichchance. Todesurteil&nbsp;3.,+50% probabilità di schivata. Condanna 3.,+50% de chance de esquiva. Ruína 3.,"+50% 闪避几率。注定 3。
 "
@@ -3712,8 +3700,9 @@ No início do seu turno, se estiver perto de algum cocô, mova-se automaticament
 DISORDER_NECROPHAGE_NAME,Necrophage,,Necrofagia,Nécrophagie,Nekrophagie,Necrofagia,Necrofagia,食尸者
 DISORDER_NECROPHAGE_DESC,"At the start of your turn, if there's a dead body near you, move towards it and eat it to gain All Stats Up and heal 4 HP.",,"Al inicio del turno, si hay un cadáver cerca, se mueve hacia él y se lo come para obtener aumento total y recuperar 4 PS.","Au début de votre tour, si vous êtes proche d'un cadavre, vous vous en rapprochez pour le manger et obtenir Hausse de stats et PV&nbsp;+4.","Wenn sich am Anfang deines Zuges eine Leiche in deiner Nähe befindet, bewegst du dich automatisch auf sie zu und frisst sie auf. Du erhältst einen Bonus auf alle Attribute und heilst 4&nbsp;LP.","All'inizio del tuo turno, se c'è un cadavere vicino a te, ti muovi verso di esso e lo mangi per ottenere Aumento delle Statistiche e recuperare 4 PS.","No início do seu turno, se houver um corpo próximo a você, mova-se até ele e o coma para obter todos os atributos aumentados e curar 4 PV.","你的回合开始时，
 如果附近有尸体，
-向它移动并吃掉以获得全属性提
-升并治疗4生命值。"
+向它移动并吃掉，
+全属性提 + 1，
+治疗4生命值。"
 DISORDER_CROHNSDISEASE_NAME,Crohn's Disease,,Enfermedad de Crohn,Maladie de Crohn,Morbus Crohn,Morbo di Crohn,Doença de Crohn,克罗恩病
 DISORDER_CROHNSDISEASE_DESC,"At the end of your turn, you have a 20% chance to poop all over the place!",,"Al final del turno, tiene un 20 % de probabilidad de hacer caca por todas partes.","À la fin de votre tour, 20&nbsp;% de chances de faire caca partout&nbsp;!","Am Ende deines Zuges besteht eine 20%ige Wahrscheinlichkeit, dass du Häufchen legst!","Alla fine del tuo turno, hai il 20% di probabilità di fare la cacca dappertutto!","No final do seu turno, você possui uma chance de 20% de fazer cocô por toda parte!","你的回合结束时，
 有20%的几率到处拉屎！"
@@ -3752,11 +3741,9 @@ Dein Grundangriff verursacht Gift&nbsp;1 und Schwäche&nbsp;1.
 Il tuo attacco base infligge Veleno 1 e Debolezza 1.
 15% di probabilità di guarigione alla fine di ogni round. Contagioso.","Inicie cada batalha com todos os atributos diminuídos, veneno 1 e fraqueza 1.
 Seu ataque básico aplica veneno 1 e fraqueza 1.
-15% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时获得全属性下降、
-
-1层中毒 和1层虚弱。
-你的基础攻击附加1层中毒 和1层虚弱。
-"
+15% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时获得全属性 -1、
+中毒 1 和虚弱 1。
+你的基础攻击附加中毒 1 和虚弱 1。"
 DISORDER_THEFLU_NAME,The Flu,,Gripe,Grippe,Grippe,Influenza,Gripe,流感
 DISORDER_THEFLU_DESC,"Start each battle with Slow 5 and Weakness 5.
 Your basic attack inflicts Slow 1 and Weakness 1.
@@ -3942,7 +3929,7 @@ DISORDER_DARKONE_DESC,"At end of your turn, deal 1 damage to all units and heal 
 对所有单位造成1点伤害，
 并治疗等同于造成的伤害值。
 每当你击倒一个盟友，
-获得全属性提升。"
+全属性 +1 。"
 DISORDER_FLAMINGFISTS_NAME,Flaming Fists,,Puños de llamas,Poings enflammés,Brennende Fäuste,Pugni Infuocati,Punhos Flamejantes,烈焰拳
 DISORDER_FLAMINGFISTS_DESC,Your basic attacks inflict Burn 1. Start with Burn 1.,,El ataque básico inflige 1 de quemadura. Empieza con 1 de quemadura.,Votre attaque de base inflige Brûlure&nbsp;+1. Vous commencez avec Brûlure&nbsp;+1.,Dein Grundangriff verursacht Verbrennung&nbsp;1. Beginne jeden Kampf mit Verbrennung&nbsp;1.,I tuoi attacchi base infliggono Bruciatura 1. Inizi con Bruciatura 1.,Seus ataques básicos aplicam queimadura 1. Inicie com queimadura 1.,"你的基础攻击附加燃烧1。
 开始时获得燃烧1。"

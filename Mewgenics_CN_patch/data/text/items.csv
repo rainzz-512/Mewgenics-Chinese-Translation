@@ -53,7 +53,7 @@ ITEM_BAGOFGLASS_DESC,"Use: Spawn Glass on an adjacent tile.
 Geht nach Benutzung mit 5%iger Wahrscheinlichkeit kaputt.","Uso: Generi Vetro su una casella adiacente.
 5% di probabilità di rompersi quando viene utilizzato.","Uso: gere vidro em um espaço adjacente.
 5% de chance de quebrar após o uso.","使用：在相邻的格子生成玻璃。
-使用时有5%机率破损。"
+使用时有5%几率破损。"
 ITEM_BAGOFGLITTER_NAME,Bag o' Glitter,,Bolsa de brillibrilli,Sac de paillettes,Glitzertasche,Sacco di Brillantini,Saco de Purpurina,闪光粉袋
 ITEM_BAGOFGLITTER_DESC,"Use: Inflict Blind 2 on an adjacent unit.
 5% chance to break when used.",,"Uso: Inflige 2 de ceguera a una unidad adyacente.
@@ -72,7 +72,7 @@ ITEM_BAGOFMEAT_DESC,"Use: Spawn Meat on an adjacent tile.
 Geht nach Benutzung mit 5%iger Wahrscheinlichkeit kaputt.","Uso: Generi Carne su una casella adiacente.
 5% di probabilità di rompersi quando viene utilizzato.","Uso: gere carne em um espaço adjacente.
 5% de chance de quebrar após o uso.","使用：在相邻的格子生成肉块。
-使用时有5%机率破损。"
+使用时有5%几率破损。"
 ITEM_BAGOFROCKS_NAME,Bag of Rocks,,Bolsa de rocas,Sac de pierres,Steintasche,Sacco di Rocce,Saco de Pedras,一袋石头
 ITEM_BAGOFROCKS_DESC,Use: A melee attack that inflicts Bruise.,,Uso: Lanza un ataque cuerpo a cuerpo que inflige moratón.,Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Contusion.,"Benutzen: Ein Nahkampfangriff, der Beulen verursacht.",Uso: Un attacco corpo a corpo che infligge Livido.,Uso: um ataque corpo-a-corpo que aplica contusão.,"使用：一个近战攻击，
 造成挫伤。"
