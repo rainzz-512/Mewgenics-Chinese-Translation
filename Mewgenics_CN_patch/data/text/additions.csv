@@ -230,9 +230,9 @@ Die verbleibenden Katzen fühlen sich stärker. Eine von ihnen durchsucht zöger
 
 I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
 
-Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname}躺在祭坛顶端被献祭。祭坛感到满意。
+Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname} 躺在祭坛顶端被献祭。祭坛感到满意。
 
-剩下的猫们感到力量增强，其中一只勉强拉扯着{catname}的尸体，回收有用的部分。"
+剩下的猫们感到力量增强，其中一只勉强拉扯着 {catname} 的尸体，回收有用的部分。"
 QEVENT_MEATALTAR_REW2B_M,,,,,,,,
 QEVENT_MEATALTAR_REW2B_F,,,,,,,,
 QEVENT_MEATALTAR_REW2B_N,,,,,,,,
@@ -251,7 +251,7 @@ Die verbleibenden Katzen fühlen sich großartig!
 
 Gli altri gatti però si sentono alla grande!","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
 
-Os gatos restantes estão se sentindo ótimos!","{Catname}躺在祭坛顶端被献祭。祭坛感到满意。
+Os gatos restantes estão se sentindo ótimos!","{Catname} 躺在祭坛顶端被献祭。祭坛感到满意。
 
 剩下的猫们感觉非常好！"
 QEVENT_MEATALTAR_REW3B_M,,,,,,,,
