@@ -202,8 +202,8 @@ ABILITY_DUMP2_DESC,Spawn a poop on an adjacent tile. Inflict Poison 3 and a 15% 
 施加3层中毒并有15%几率使其眩晕。
 "
 ABILITY_SNACK_NAME,Snacks,,Aperitivo,Goûter,Snacks,Spuntini,Lanche,小零食
-ABILITY_SNACK_DESC,Heal yourself or another unit within four tiles 1 HP.,,Recupera 1 PS o se los devuelve a otra unidad en un radio de 4 casillas.,Soignez-vous ou une autre unité à moins de 4&nbsp;cases de 1&nbsp;PV.,Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP.,Curi te o un'altra unità entro quattro caselle di 1 PS.,Cure 1 PV de si ou de outra unidade dentro de quatro espaços de distância.,"治疗你自己或另一单位，
-范围内四格，恢复1点生命值。"
+ABILITY_SNACK_DESC,Heal yourself or another unit within four tiles 1 HP.,,Recupera 1 PS o se los devuelve a otra unidad en un radio de 4 casillas.,Soignez-vous ou une autre unité à moins de 4&nbsp;cases de 1&nbsp;PV.,Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP.,Curi te o un'altra unità entro quattro caselle di 1 PS.,Cure 1 PV de si ou de outra unidade dentro de quatro espaços de distância.,"治疗你自己或4格内的另一单位，
+恢复1点生命值。"
 ABILITY_SNACK2_DESC,Heal yourself or another unit 1 HP. 50% chance to also give +1 [img:con].,,Recupera 1 PS o se los devuelve a otra unidad. Tiene un 50 % de probabilidad de otorgar también +1 [img:con].,Soignez-vous ou une autre unité de 1&nbsp;PV. L'unité soignée a 50&nbsp;% de chances de gagner [img:con]&nbsp;+1.,"Heile dich oder eine anderen Einheit innerhalb von vier Feldern um 1&nbsp;LP. 50%ige Wahrscheinlichkeit, außerdem +1&nbsp;[img:con] zu verleihen.",Curi te o un'altra unità entro quattro caselle di 1 PS. 50% di probabilità di ottenere anche +1 alla [img:con].,Cure 1 PV de si ou de outra unidade. 50% de chance de também conceder +1 de [img:con].,"治疗你自己或另一单位1点生命值。
 
 50%几率额外获得+1 [img:con]。"
@@ -1138,8 +1138,8 @@ ABILITY_CRUSADE_DESC,You and your allies move toward the nearest enemy.,,Esta un
 ABILITY_CRUSADE2_DESC,You and your allies move toward the nearest enemy and gain +1 [img:str].,,Esta unidad y sus aliados se mueven hacia el enemigo más cercano y obtienen +1 [img:str].,Vous et vos alliés vous déplacez vers l'ennemi le plus proche et gagnez [img:str]&nbsp;+1.,Du und deine Verbündeten bewegen sich auf den nächsten Gegner zu und erhalten +1&nbsp;[img:str].,Tu e i tuoi alleati vi muovete verso il nemico più vicino e ottenete +1 alla [img:str].,Você e seus aliados se movem na direção do inimigo mais próximo e obtêm +1 de [img:str].,"你和你的盟友向最近的敌人移动并获得+1 [img:str]。
 "
 ABILITY_HALLOWEDGROUND_NAME,Hallowed Ground,,Terreno sagrado,Terre bénie,Geheiligter Boden,Terra Consacrata,Solo Sagrado,圣地
-ABILITY_HALLOWEDGROUND_DESC,Spawn a blessing pickup on an empty tile in range.,,Genera un recogible de bendición en una casilla vacía dentro de su radio de alcance.,Fait apparaître une ressource bénie sur une case vide à portée.,Erschaffe ein gesegnetes Kreuz auf einem leeren Feld in Reichweite.,Generi un raccoglibile benedetto su una casella vuota nel raggio d'azione.,Gere um coletável de benção em um espaço vazio dentro do alcance.,"在范围内的空地上生成一个祝福拾取物。
-"
+ABILITY_HALLOWEDGROUND_DESC,Spawn a blessing pickup on an empty tile in range.,,Genera un recogible de bendición en una casilla vacía dentro de su radio de alcance.,Fait apparaître une ressource bénie sur une case vide à portée.,Erschaffe ein gesegnetes Kreuz auf einem leeren Feld in Reichweite.,Generi un raccoglibile benedetto su una casella vuota nel raggio d'azione.,Gere um coletável de benção em um espaço vazio dentro do alcance.,"在范围内的空地上生成一个
+祝福拾取物。"
 ABILITY_HALLOWEDGROUND2_DESC,Spawn a blessing pickup on any empty tile.,,Genera un recogible de bendición en cualquier casilla vacía.,Fait apparaître une ressource bénie sur n'importe quelle case vide.,Erschaffe ein gesegnetes Kreuz auf einem beliebigen leeren Feld.,Generi un raccoglibile benedetto su una qualsiasi casella vuota.,Gere um coletável de benção em qualquer espaço vazio.,"在任意空地上生成一个祝福拾取物。
 "
 ABILITY_ENLIGHTEN_NAME,Enlighten,,Iluminación,Illumination,Erleuchten,Illuminazione,Iluminação,启迪
@@ -2011,7 +2011,7 @@ ABILITY_ENERGYBLAST_DESC,A high damage spell that hits a single target.,,Un hech
 "
 ABILITY_ENERGYBLAST2_DESC,A high damage spell that hits a single target and deals extra damage equal to your [img:int].,,"Un hechizo que inflige mucho daño, golpea a un solo objetivo e inflige una cantidad de daño extra igual a su [img:int].",Un sort puissant qui frappe une seule cible et inflige des dégâts supplémentaires équivalents à votre [img:int].,"Ein Zauber, der hohen Schaden bei einem Einzelziel und zusätzlichen Schaden in Höhe deiner [img:int] verursacht.","Un incantesimo che infligge danno elevato, colpisce un singolo bersaglio e infligge danno aggiuntivo pari alla tua [img:int].",Um encantamento de dano alto que atinge um alvo único e causa dano adicional equivalente à sua [img:int].,"一个对单个目标造成高伤害并额
 外造成等同于你[img:int] 伤害的法术。"
-ABILITY_MAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法导弹
+ABILITY_MAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法飞弹
 ABILITY_MAGICMISSILE_DESC,Shoot an infinite-range projectile that can't miss.,,Dispara un proyectil de alcance infinito que no puede fallar.,Tire un projectile à portée infinie qui ne rate jamais sa cible.,"Verschieße ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann.",Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio.,Dispare um projétil de alcance infinito que não pode errar.,"发射一个不会失手的无限射程弹幕。
 "
 ABILITY_MAGICMISSILE2_DESC,Shoot an infinite-range projectile that can't miss. Emit 3 Sparkles.,,Dispara un proyectil de alcance infinito que no puede fallar. Emite 3 destellos.,Tire un projectile à portée infinie qui ne rate jamais sa cible. Produit 3&nbsp;Étincelles.,"Verschieße ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann. Versprühe 3&nbsp;Funken.",Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio. Emette 3 Scintille.,Dispare um projétil de alcance infinito que não pode errar. Emita 3 fagulhas.,"发射一个不会失手的无限射程弹幕。
@@ -2278,11 +2278,11 @@ ABILITY_CORRUPT2_DESC,"Injure yourself, then gain +3 Magic Damage and emit a Spa
 然后获得+3魔法伤害并发出火花。
 "
 ABILITY_JOLT_NAME,Jolt,,Sacudida,Électrochoc,Schock,Scossa,Solavanco,电击
-ABILITY_JOLT_DESC,Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.,,Dispara un rayo que inflige 1 de daño y hace retroceder 3 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 1&nbsp;point de dégâts et repousse l'unité touchée de 3&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 1&nbsp;Schaden verursacht und die Einheit, die er trifft, 3&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 1 di danno e respinge l'unità colpita di 3 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 1 de dano e empurra unidades que atinge 3 espaços na direção em que foi lançado.,"发射一枚闪电，造成1点伤
-害并将击中单位向其面朝方向击退3格。
+ABILITY_JOLT_DESC,Shoot a lightning bolt that deals 1 damage and knocks the unit it hits 3 tiles in the direction it's facing.,,Dispara un rayo que inflige 1 de daño y hace retroceder 3 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 1&nbsp;point de dégâts et repousse l'unité touchée de 3&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 1&nbsp;Schaden verursacht und die Einheit, die er trifft, 3&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 1 di danno e respinge l'unità colpita di 3 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 1 de dano e empurra unidades que atinge 3 espaços na direção em que foi lançado.,"发射一枚闪电，造成1点伤害
+并将击中单位向其面朝方向击退3格。
 "
-ABILITY_JOLT2_DESC,Shoot a lightning bolt that deals 2 damage and knocks the unit it hits 6 tiles in the direction it's facing.,,Dispara un rayo que inflige 2 de daño y hace retroceder 6 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 2&nbsp;points de dégâts et repousse l'unité touchée de 6&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 2&nbsp;Schaden verursacht und die Einheit, die er trifft, 6&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 2 di danno e respinge l'unità colpita di 6 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 2 de dano e empurra unidades que atinge 6 espaços na direção em que foi lançado.,"发射一枚闪电，造成2点伤
-害并将击中单位向其面朝方向击退6格。
+ABILITY_JOLT2_DESC,Shoot a lightning bolt that deals 2 damage and knocks the unit it hits 6 tiles in the direction it's facing.,,Dispara un rayo que inflige 2 de daño y hace retroceder 6 casillas a la unidad que golpee en la dirección hacia la que mire.,Tire un éclair qui inflige 2&nbsp;points de dégâts et repousse l'unité touchée de 6&nbsp;cases en face d'elle.,"Verschieße einen Blitz, der 2&nbsp;Schaden verursacht und die Einheit, die er trifft, 6&nbsp;Felder in die Richtung stößt, in die sie blickt.",Spari un fulmine che infligge 2 di danno e respinge l'unità colpita di 6 caselle nella direzione in cui è rivolta.,Dispare um raio que causa 2 de dano e empurra unidades que atinge 6 espaços na direção em que foi lançado.,"发射一枚闪电，造成2点伤害
+并将击中单位向其面朝方向击退6格。
 "
 ABILITY_SMOLDER_NAME,Smolder,,Llameante,Combustion,Schwelen,Braci,Fumegante,闷烧
 ABILITY_SMOLDER_DESC,Inflict Burn 1 and +1 [img:spd] to a unit in range.,,Inflige +1 de quemadura y +1 [img:spd] a una unidad dentro de su radio de alcance.,Inflige Brûlure&nbsp;+1&nbsp;et [img:spd]&nbsp;+1&nbsp;à une unité à portée.,Verursache Verbrennung&nbsp;1 und +1&nbsp;[img:spd] bei einer Einheit in Reichweite.,Infliggi Bruciatura 1 e +1 alla [img:spd] a un'unità nel raggio d'azione.,Aplique queimadura 1 e +1 de [img:spd] em uma unidade dentro do alcance.,"对范围内的单位施加1层灼烧和+1 [img:spd]。
@@ -2438,9 +2438,9 @@ ABILITY_TEACH2_DESC,Reduce the cost of a unit's spells by 1 until the end of the
 持续到其回合结束。
 此技能可以以自己为目标。"
 ABILITY_HOMINGBLASTS_NAME,Homing Blasts,,Explosiones dirigidas,Missiles à tête chercheuse,Suchgeschosse,Esplosioni a Ricerca,Explosões Perseguidoras,追踪爆裂
-ABILITY_HOMINGBLASTS_DESC,Shoot 3 Magic Missiles at random enemies.,,Dispara 3 misiles mágicos a enemigos al azar.,Tire 3&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 3&nbsp;magische Geschosse auf zufällige Gegner.,Spara 3 Missili Magici contro nemici casuali.,Dispare 3 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 3 枚魔法导弹。
+ABILITY_HOMINGBLASTS_DESC,Shoot 3 Magic Missiles at random enemies.,,Dispara 3 misiles mágicos a enemigos al azar.,Tire 3&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 3&nbsp;magische Geschosse auf zufällige Gegner.,Spara 3 Missili Magici contro nemici casuali.,Dispare 3 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 3 枚魔法飞弹。
 "
-ABILITY_HOMINGBLASTS2_DESC,Shoot 4 Magic Missiles at random enemies.,,Dispara 4 misiles mágicos a enemigos al azar.,Tire 4&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 4&nbsp;magische Geschosse auf zufällige Gegner.,Spara 4 Missili Magici contro nemici casuali.,Dispare 4 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 4 枚魔法导弹。
+ABILITY_HOMINGBLASTS2_DESC,Shoot 4 Magic Missiles at random enemies.,,Dispara 4 misiles mágicos a enemigos al azar.,Tire 4&nbsp;missiles magiques sur des ennemis aléatoires.,Schieße 4&nbsp;magische Geschosse auf zufällige Gegner.,Spara 4 Missili Magici contro nemici casuali.,Dispare 4 mísseis mágicos em inimigos aleatórios.,"对随机敌人射出 4 枚魔法飞弹。
 "
 ABILITY_REPLICATE_NAME,Replicate,,Duplicado,Duplication,Replikation,Replica,Replicação,复制
 ABILITY_REPLICATE_DESC,The next spell you cast is cast twice.,,Se duplica el siguiente hechizo que lance esta unidad.,Votre prochain sort se lancera deux fois.,"Der nächste Zauber, den du wirkst, wird zweimal ausgelöst.",Il prossimo incantesimo che lanci verrà lanciato due volte.,O próximo encantamento que você lançar é lançado duas vezes.,"你接下来施放的法术会被施放两次。
@@ -3151,7 +3151,7 @@ ABILITY_VURP2_DESC,"Vomit up the last consumable you ate this battle and equip i
 [s:.7](Um lançamento por turno.)[/s]","呕吐出本场战斗中你最后吃下的消耗品并装备它。
 
 [s:.7](每回合限用一次。)[/s]"
-ABILITY_SLICEANDDICE_NAME,Slice and Dice,,Corte en canal,Julienne,Zurechtstutzen,Affettamento,Fatiar e Picar,切割与斩击
+ABILITY_SLICEANDDICE_NAME,Slice and Dice,,Corte en canal,Julienne,Zurechtstutzen,Affettamento,Fatiar e Picar,切片与剁碎
 ABILITY_SLICEANDDICE_DESC,"Dash forward one tile and do a spin attack with Cleave, then repeat twice more.",,"Se lanza hacia delante una casilla y realiza un ataque giratorio con Incisión. Luego, lo repite 2 veces más.",Vous foncez en avant sur 1&nbsp;case et effectuez une attaque tournoyante avec Fendoir. Vous recommencez 2&nbsp;fois.,Stürme ein Feld vorwärts und führe einen Wirbelangriff mit Schlachten aus. Wiederhole diese Aktion noch zweimal.,"Scatti in avanti di una casella ed esegui un attacco rotante con Fendente, poi il tutto si ripete altre due volte.","Dê um impulso de 1 espaço para a frente e realize um ataque giratório com cisão, e então repita isto mais duas vezes.","向前冲刺一格并用横扫进行旋转攻击，
 
 然后重复两次。"
@@ -3964,8 +3964,8 @@ ABILITY_INTIMIDATE_NAME,Intimidate,,Coacción,Intimidation,Einschüchtern,Intimi
 ABILITY_INTIMIDATE_DESC,Inflict Fear on an adjacent unit.,,Inflige miedo a una unidad adyacente.,Peur sur une unité adjacente.,Verursache bei einer benachbarten Einheit Angst.,Infliggi Paura a un'unità adiacente.,Aplique medo em uma unidade adjacente.,对相邻单位附加恐惧效果。
 ABILITY_INTIMIDATE2_DESC,Inflict Fear on a unit up to five tiles away.,,Inflige miedo a una unidad hasta a 5 casillas de distancia.,Peur sur une unité dans un rayon de 5&nbsp;cases.,Verursache bei einer Einheit in bis zu fünf Feldern Entfernung Angst.,Infliggi Paura a un'unità distante fino a cinque caselle.,Aplique medo em uma unidade dentro de 5 espaços de distância.,"对最多5格之外的单位附加恐惧效果。
 "
-ABILITY_TOSS_NAME,Toss,,Empuje,Lancer,Wurf,Lancio,Lançamento,投掷
-ABILITY_TOSS_DESC,Throw an adjacent unit to an open tile.,,Lanza una unidad adyacente a una casilla vacía.,Vous jetez une unité adjacente sur une case libre.,Wirf eine benachbarte Einheit auf ein freies Feld.,Lanci un'unità adiacente su una casella libera.,Jogue uma unidade adjacente em um espaço aberto.,将相邻单位掷向一个空置格子。
+ABILITY_TOSS_NAME,Toss,,Empuje,Lancer,Wurf,Lancio,Lançamento,摔投
+ABILITY_TOSS_DESC,Throw an adjacent unit to an open tile.,,Lanza una unidad adyacente a una casilla vacía.,Vous jetez une unité adjacente sur une case libre.,Wirf eine benachbarte Einheit auf ein freies Feld.,Lanci un'unità adiacente su una casella libera.,Jogue uma unidade adjacente em um espaço aberto.,将相邻单位掷向一个空格子。
 ABILITY_TOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.",,Lanza una unidad adyacente hacia una casilla y le inflige daño extra si choca contra algo.,Vous jetez une unité adjacente sur une case qui reçoit des dégâts supplémentaires si elle percute quelque chose.,"Wirf eine benachbarte Einheit auf ein Feld und füge ihr zusätzlichen Schaden zu, wenn sie mit etwas zusammenstößt.","Lanci un'unità adiacente su una casella, infliggendo danno bonus se entra in collisione con qualcosa.","Jogue uma unidade adjacente em um espaço aberto, causando dano bônus se ela colidir com algo.","将相邻单位掷向一个格子，
 如果碰撞到物体则造成额外伤害。
 "
@@ -3974,7 +3974,7 @@ ABILITY_WRESTLETOSS_DESC,"Throw an adjacent unit to an open tile.
 [s:.7](Se puede lanzar una vez por turno).[/s]",Vous jetez une unité adjacente sur une case libre. [s:.7](Une fois par tour.)[/s],"Wirf eine benachbarte Einheit auf ein freies Feld.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Lanci un'unità adiacente su una casella libera.
 [s:.7](Lanciabile una volta per turno.)[/s]","Jogue uma unidade adjacente em um espaço aberto.
-[s:.7](Um lançamento por turno.)[/s]","将相邻单位掷向一个空置格子。
+[s:.7](Um lançamento por turno.)[/s]","将相邻单位掷向一个空格子。
 [s:.7](每回合可施放一次。)[/s]"
 ABILITY_WRESTLETOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.
 [s:.7](Castable once per turn.)[/s]",,"Lanza una unidad adyacente hacia una casilla y le inflige daño extra si choca contra algo.
@@ -6011,16 +6011,16 @@ ABILITY_DRAINATTACK_NAME,Drain Attack,,Ataque drenante,Attaque drainante,Saugang
 ABILITY_DRAINATTACK_DESC,A melee attack with Lifesteal.,,Un ataque cuerpo a cuerpo con robavida.,Attaque au corps-à-corps dotée de Vol de vie.,"Ein Nahkampfangriff, der Leben absaugt.",Un attacco corpo a corpo con RubaVita.,Um ataque corpo-a-corpo com roubo de vida.,一次带有吸血效果的近战攻击。
 ABILITY_HOOK_NAME,Hook,,Pesca,Crochet,Haken,Gancio,Gancho,钩子
 ABILITY_HOOK_DESC,Pull an enemy to you.,,Atrae a una unidad hacia esta.,Vous attirez un ennemi vers vous.,Zieh einen Gegner an dich heran.,Attiri un nemico verso di te.,Puxe um inimigo na sua direção.,将敌人拉向你。
-ABILITY_BASICMAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法导弹
+ABILITY_BASICMAGICMISSILE_NAME,Magic Missile,,Misil mágico,Missile magique,Magisches Geschoss,Missile Magico,Míssil Mágico,魔法飞弹
 ABILITY_BASICMAGICMISSILE_DESC,"Shoot an infinite-range projectile that can't miss.
 [s:.7](This attack's damage scales with your [img:int])[/s]",,"Dispara un proyectil de alcance infinito que no puede fallar.
 [s:.7](El daño de este ataque aumenta con el [img:int]).[/s]",Vous tirez un projectile sans limite de portée qui ne peut pas échouer. [s:.7](Les dégâts augmentent en fonction de votre [img:int]).[/s],"Feuere ein Geschoss mit unendlicher Reichweite, das nicht verfehlen kann.
 [s:.7](Der Schaden dieses Angriffs ist abhängig von deiner [img:int].)[/s]","Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio.
 [s:.7](Il danno di questo attacco aumenta con la tua [img:int])[/s]","Dispare um projétil de alcance infinito que não pode errar.
-[s:.7](O dano deste ataque aumenta de acordo com a sua [img:int])[/s]","射出一枚无法被击中的无限射程投射物。
+[s:.7](O dano deste ataque aumenta de acordo com a sua [img:int])[/s]","射出一枚不会失误的无限射程投射物。
 
 [s:.7](该攻击的伤害随你的[img:int]而变化)[/s]"
-ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,摔投
+ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,背摔
 ABILITY_SUPLEX_DESC,Grab a unit in front of you and slam it into the tile behind you.,,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella.,Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous.,Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir.,Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te.,Agarre uma unidade à sua frente e jogue-a no espaço atrás de você.,"抓住你面前的单位，
 将其猛击到你身后的格子中。"
 ABILITY_SUPLEX2_DESC,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.",,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella. Le inflige 3 de moratón e inmovilización.,"Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous, ce qui lui inflige Contusion&nbsp;+3&nbsp;et Immobilisation.",Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir. Du verursachst Beulen&nbsp;3 und Unbeweglich.,"Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te, infliggendole Livido 3 e Immobilizzazione.","Agarre uma unidade à sua frente e jogue-a no espaço atrás de você, aplicando contusão 3 e imobilização.","抓住你面前的单位，
@@ -6366,7 +6366,7 @@ ABILITY_MECHSUITBARRAGE_DESC,Fire the machine guns!,,¡Dispara las ametralladora
 ABILITY_MECHDASH_NAME,Thrusters,,Propulsores,Propulseurs,Schub aktivieren,Propulsori,Propulsores,推进器
 ABILITY_MECHDASH_DESC,Dash forward and light fires in your path.,,Se lanza hacia delante y prende fuego a todo en su camino.,Vous foncez en avant et créez des incendies sur votre passage.,Stürme vorwärts und hinterlasse Feuer auf deinem Weg.,Scatti in avanti e generi incendi sul tuo cammino.,Dê um impulso para frente e acenda fogos pelo caminho.,"向前冲刺，
 点燃你路径上的火焰。"
-ABILITY_MECHSUIT_NAME,Mech Suit,,Traje robótico,Costume mécha,Mechanzug,Tuta per Mech,Traje Mecha,机甲套装
+ABILITY_MECHSUIT_NAME,Mech Suit,,Traje robótico,Costume mécha,Mechanzug,Tuta per Mech,Traje Mecha,机械战甲
 ABILITY_MECHSUIT_DESC,"Summon a mech suit that can be piloted.
 [s:.7](Castable once per battle.)[/s]",,"Invoca un traje robótico que se puede pilotar.
 [s:.7](Se puede lanzar una vez por combate).[/s]",Vous invoquez un costume mécha qui peut être piloté. [s:.7](Une fois par combat.)[/s],"Beschwöre einen Mechanzug.

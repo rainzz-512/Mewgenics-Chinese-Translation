@@ -610,7 +610,7 @@ BOSS_RATKING_NAME,Rat King,,Rey Rata,Roi des rats,Der Rattenkönig,Re Ratto,Rei 
 BOSS_CANCREEPER_NAME,Can Creeper,,Reptacubos,Poubellard,Der Kannenkriecher,Melma di Lattina,Lataria,罐头爬行者
 BOSS_TRAMPY_NAME,Trampy,,Trompas,Bibine,Trampy,Trampy,Tropel,流浪者
 BOSS_SLIME_NAME,Big Slime,,Gran Malababa,Gros vasard,Großer Schleim,Gelatina Grande,Gelatina,大史莱姆
-BOSS_MAMAMAGGOT_NAME,Mama Maggot,,Mamá Gusano,Mamasticot,Mama Made,Mamma Larva,Mamãe Verme,蛆妈妈
+BOSS_MAMAMAGGOT_NAME,Mama Maggot,,Mamá Gusano,Mamasticot,Mama Made,Mamma Larva,Mamãe Verme,妈妈蛆
 BOSS_THIEFCAT_NAME,Dack,,Dack,Dack,Dack,Dack,Dack,达克
 BOSS_CLERICCAT_NAME,Marshmallow,,Esponjita,Guimauve,Marshmallow,Marshmallow,Marshmallow,棉花糖
 BOSS_BUTCHERCAT_NAME,Gein,,Gein,Gein,Gein,Gein,Gein,吉恩
@@ -650,7 +650,7 @@ BOSS_PYROPHINA_QUOTE_2,[a:shake]GGGRRRRRAAAAAAAGGAAA![/a],,[a:shake]¡GRRRRRAAAA
 BOSS_ZARATANA_NAME,Zaratana,,Zaratana,Zaratana,Zaratana,Zaratana,Zaratana,扎拉塔纳
 BOSS_ZARATANA_QUOTE_1,[a:shake]GRUMBLE GRUMBLE![/a],,"[a:shake]¡GRRRR, GRRRRR![/a]",[a:shake]*GROGNE*[/a],[a:shake]GRUMMEL GRUMMEL![/a],[a:shake]GRUMBLE GRUMBLE![/a],[a:shake]RESMUNGO RESMUNGO![/a],[a:shake]咕噜咕噜！[/a]
 BOSS_ZARATANA_QUOTE_2,"[a:shake]GRUNT, SNORT[/s]",,"[a:shake]Grrrr, burp.[/s]","[a:shake]GRAH, SNIFF[/s]","[a:shake]GRUNZ, PRUST[/s]","[a:shake]GRUNT, SNORT[/s]","[a:shake]GRUNHIDO, BUFO[/s]",[a:shake]咕噜，哼哼[/s]
-BOSS_PYROPHINA_VS_ZARATANA_NAME,Pyrophina vs Zaratana,,Pyrophina contra Zaratana,Pyrophina contre Zaratana,Pyrophina vs. Zaratana,Pyrophina contro Zaratana,Pyrophina vs Zaratana,火焰女王对决扎拉塔娜
+BOSS_PYROPHINA_VS_ZARATANA_NAME,Pyrophina vs Zaratana,,Pyrophina contra Zaratana,Pyrophina contre Zaratana,Pyrophina vs. Zaratana,Pyrophina contro Zaratana,Pyrophina vs Zaratana,火菲娜对决扎拉塔娜
 BOSS_PYROPHINA_VS_ZARATANA_QUOTE_1,[a:shake]*General giant screeching and roaring*[/a],,[a:shake]*Se oyen chillidos y rugidos descomunales*.[/a],[a:shake]*vacarme de crissements et de rugissements*[/a],[a:shake]*Allgemeines Kreischen und Brüllen*[/a],[a:shake]*Gridi e ruggiti di giganti*[/a],[a:shake]*Grunhidos e rugidos gigantescos*[/a],[a:shake]*巨大的尖叫和咆哮声*[/a]
 BOSS_TERMINATOR_1_NAME,C-800,,C-800,C-800,C-800,C-800,G-800,终结者C-800
 BOSS_TERMINATOR_1_QUOTE_1,"Meowsta la vista, baby.",,"Sayonara, baby.","Miaousta la vista, baby.","Miausta la vista, Baby.","Miaosta la vista, baby.","Miausta la vista, baby.",喵斯塔，再见，宝贝。

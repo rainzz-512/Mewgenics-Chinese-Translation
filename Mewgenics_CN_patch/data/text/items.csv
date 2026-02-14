@@ -1266,7 +1266,7 @@ ITEM_SPITBALL_DESC,Use: A ranged attack that inflicts Slow.,,Uso: Lanza un ataqu
 施加减速状态。"
 ITEM_SPRINGBOARD_NAME,Spring Board,,Trampolín,Tremplin,Sprungbrett,Trampolino a Molla,Prancha de Mola,弹簧板
 ITEM_SPRINGBOARD_DESC,Use: A melee attack that lobs a unit back 3 tiles.,,Uso: Lanza un ataque cuerpo a cuerpo que hace retroceder 3 casillas a una unidad.,Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Recul +3&nbsp;à une unité.,"Benutzen: Ein Nahkampfangriff, der Einheiten 3&nbsp;Felder zurückschleudert.",Uso: Un attacco corpo a corpo che scaglia un'unità indietro di 3 caselle.,Uso: um ataque corpo-a-corpo que lança uma unidade em arco para trás por 3 espaços.,"使用：一次近战攻击，
-将一个单位抛回3格。"
+让一个单位往后3格。"
 ITEM_STACY100_NAME,Stacy 100,,Stacy 100,Stacy 100,Stacy 100,Stacy 100,Stacy 100,斯泰西100
 ITEM_STACY100_DESC,"Use: Spawn a Stacy.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Genera una Stacy.
@@ -2838,7 +2838,7 @@ ARMOR_STONEHELMET_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 
 ARMOR_THERELIC_NAME,The Relic,,Reliquia,La Relique,Das Relikt,La Reliquia,A Relíquia,遗物
 ARMOR_THERELIC_DESC,"When you lose [img:divineshield], emit a Sparkle for every point of damage blocked.",,"Al perder [img:divineshield], esta unidad emite un destello por cada punto de daño bloqueado.","Quand vous perdez [img:divineshield], vous émettez une étincelle pour chaque dégât bloqué.","Wenn du [img:divineshield] verlierst, versprühst du einen Funken pro Schadenspunkt, den du blockiert hast.","Quando perdi [img:divineshield], emetti una Scintilla per ogni punto danno bloccato.","Ao perder [img:divineshield], emita uma fagulha para cada ponto de dano bloqueado.","当你失去 [img:divineshield] 时，
 每挡下一点伤害释放一次火花。"
-ARMOR_THROBBINGCROWN_NAME,Throbbing Crown,,Corona palpitante,Couronne lancinante,Pulsierende Krone,Corona Pulsante,Coroa Pulsante,跳动的冠冕
+ARMOR_THROBBINGCROWN_NAME,Throbbing Crown,,Corona palpitante,Couronne lancinante,Pulsierende Krone,Corona Pulsante,Coroa Pulsante,跳动冠冕
 ARMOR_THROBBINGCROWN_DESC,Tentacles attack all adjacent tiles at the end of your turn.,,Los tentáculos atacan todas las casillas adyacentes al final del turno.,Des tentacules attaquent les cases adjacentes à la fin de votre tour.,Tentakel greifen am Ende deines Zuges alle benachbarten Felder an.,"Alla fine del tuo turno, i tentacoli attaccano tutte le caselle adiacenti.",Tentáculos atacam todos os espaços adjacentes no final do seu turno.,"触手在你回合结束时攻击所有相邻格子。
 "
 ARMOR_TIEDYEBANDANA_NAME,Tie Dye Bandana,,Pañuelo teñido,Bandana hippie,Selbstgefärbtes Bandana,Bandana Tie Dye,Bandana Tie Dye,扎染头巾
@@ -3109,7 +3109,7 @@ ARMOR_POLYP_NAME,Glowing Pelt,,Pellejo resplandeciente,Pelage scintillant,Leucht
 ARMOR_POLYP_DESC,+1 Health Regen. 25% chance to spawn a Charmed Clot when you take damage.,,+1 de regeneración de salud. 25 % de probabilidad de generar un coágulo embrujado al sufrir daño.,Régénération de PV +1. 25&nbsp;% de chances d'invoquer un caillot envoûté quand vous subissez des dégâts.,"+1&nbsp;Lebensregeneration. 25%ige Wahrscheinlichkeit, ein freundliches Blutgerinnsel zu rufen, wenn du Schaden erleidest.",+1 a Rigenerazione Salute. 25% di probabilità di generare un Grumo Ammaliato quando subisci danno.,"+1 de regeneração de saúde, 25% de chance de gerar um coágulo enfeitiçado ao sofrer dano.","+1 生命值回复。
 每次受到伤害时25%几率生成一个被魅惑的
 凝块。"
-ARMOR_PYROPHINASTOENAIL_NAME,Pryophina's Toenail,,Uña del pie de Pyrophina,Ongle de pied de Pyrophina,Pyrophinas Zehennagel,Unghia del Piede di Pyrophina,Unha do Pé de Pyrophina,普里奥菲娜的脚趾甲
+ARMOR_PYROPHINASTOENAIL_NAME,Pryophina's Toenail,,Uña del pie de Pyrophina,Ongle de pied de Pyrophina,Pyrophinas Zehennagel,Unghia del Piede di Pyrophina,Unha do Pé de Pyrophina,火菲娜的脚趾甲
 ARMOR_PYROPHINASTOENAIL_DESC,Fire Immunity.,,Inmunidad al fuego.,Immunité au feu.,Immun gegen Feuer.,Immunità al fuoco.,Imunidade contra fogo.,火焰免疫。
 ARMOR_QUARTZNECKLACE_NAME,Quartz Necklace,,Gargantilla de cuarzo,Collier de quartz,Quarzkette,Collana di Quarzo,Colar de Quartzo,石英项链
 ARMOR_QUARTZNECKLACE_DESC,+1 Brace.,,+1 de refuerzo.,Garde +1.,+1&nbsp;Wappnen.,+1 alla Guardia.,+1 de preparação,+1 坚毅。
@@ -4941,13 +4941,13 @@ SETBONUS_RAG_NAME,Rags Set Bonus!,,¡Bonificación de conjunto harapiento!,Bonus
 SETBONUS_RAG_DESC,,,,,,,,
 ,,,,,,,,
 ARMOR_RATHAT_NAME,Rat Hat,,Gorro ratonil,Chapeau de rat,Rattenhut,Cappello da Ratto,Chapéu de Rato,鼠帽
-ARMOR_RATHAT_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉鼠。
+ARMOR_RATHAT_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉红小鼠。
 "
 ARMOR_RATMASK_NAME,Rat Mask,,Máscara ratonil,Masque de rat,Rattenmaske,Maschera da Ratto,Máscara de Rato,鼠面罩
-ARMOR_RATMASK_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉鼠。
+ARMOR_RATMASK_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉红小鼠。
 "
 ARMOR_RATNECKLACE_NAME,Rat Necklace,,Gargantilla ratonil,Collier de rat,Rattenhalskette,Collana da Ratto,Colar de Rato,鼠项链
-ARMOR_RATNECKLACE_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉鼠。
+ARMOR_RATNECKLACE_DESC,Start battle with a Charmed Pinky.,,Empieza el combate con una rosita embrujada.,Vous débutez le combat avec un auriculaire envoûté.,Beginne den Kampf mit einem freundlichen Pinky.,Inizi la battaglia con un Topo Pinky Ammaliato.,Inicie a batalha com um ratinho enfeitiçado.,"战斗开始时拥有一个被魅惑的粉红小鼠。
 "
 SETBONUS_RAT_NAME,Rat Set Bonus!,,¡Bonificación de conjunto ratonil!,Bonus d'ensemble&nbsp;: rat&nbsp;!,Setbonus: Rattenrüstung!,Bonus Set: Ratto!,Bônus de Conjunto de Rato!,鼠套装奖励！
 SETBONUS_RAT_DESC,Start battle with 2 Charmed Rats.,,Empieza el combate con 2 ratas embrujadas.,Vous débutez le combat avec 2&nbsp;rats envoûtés.,Beginne den Kampf mit zwei&nbsp;freundlichen Ratten.,Inizi la battaglia con 2 Ratti Ammaliati.,Inicie a batalha com 2 ratos enfeitiçados.,"战斗开始时拥有2只被魅惑的老鼠。
@@ -5699,7 +5699,7 @@ ARMOR_FARTFACE_DESC,Side Quest Item. Apply Poison 1 to everything at the start o
 "
 ARMOR_FARTFACE_FIXED_NAME,Robo Fart Face,,Caraculo robótico,Face de pet robot,Robo-Furzgesicht,Faccia da Peto Robotica,Cara de Pum Robô,机器人屁脸
 ARMOR_FARTFACE_FIXED_DESC,Apply Poison 1 to all enemies at the start of the battle.,,Aplica 1 de veneno a todos los enemigos al inicio del combate.,Tous les ennemis subissent Poison +1&nbsp;en début de combat.,Verursache am Anfang des Kampfes bei allen Gegnern Gift&nbsp;1.,Applica Veleno 1 a tutti i nemici all'inizio della battaglia.,Aplique veneno 1 em todos os inimigos no início da batalha.,在战斗开始时对所有敌人施加1层中毒。
-ARMOR_GUILLOTINASHEAD_NAME,Guillotina's Head,,Cabeza de Guillotina,Tête de Guillotina,Guillotinas Kopf,Testa di Guillotina,Cabeça de Guilhotina,断头台的头颅
+ARMOR_GUILLOTINASHEAD_NAME,Guillotina's Head,,Cabeza de Guillotina,Tête de Guillotina,Guillotinas Kopf,Testa di Guillotina,Cabeça de Guilhotina,断头台的头
 ARMOR_GUILLOTINASHEAD_DESC,"Take it to the Meat Altar in the Throbbing Domain.
 All battles are Hard battles. Enemies will attack you instead of your allies if they can. Units that contact or attack you have a chance to be Feared. Your basic attack has a +10% chance to inflict Fear.",,"Hay que llevarla al altar de carne, en el Dominio Palpitante.
 Todos los combates se libran en modo Difícil. Si pueden, los enemigos atacarán a esta unidad en vez de a sus aliados. Las unidades que entren en contacto con ella o la ataquen pueden sufrir miedo. El ataque básico tiene +10 % de probabilidad de infligir miedo.","Amenez-la à l'Autel de chair dans le Domaine lancinant.
@@ -5742,7 +5742,7 @@ ARMOR_PRINCESSHAT_DESC,Side Quest Item. Fragile. Equipped cat cannot use any act
 "
 ARMOR_PRINCESSHAT_FIXED_NAME,Used Princess Hat,,Gorro de princesa usado,Coiffe de princesse usée,Gebrauchter Prinzessinnenhut,Cappello da Principessa Usato,Chapéu de Princesa Usado,用过的公主帽
 ARMOR_PRINCESSHAT_FIXED_DESC,,,,,,,,
-ARMOR_PUTRIDLEECH_NAME,Putrid Leech,,Sanguijuela putrefacta,Sangsue putride,Verfaulter Blutegel,Sanguisuga Putrida,Sanguessuga Pútrida,腐烂的水蛭
+ARMOR_PUTRIDLEECH_NAME,Putrid Leech,,Sanguijuela putrefacta,Sangsue putride,Verfaulter Blutegel,Sanguisuga Putrida,Sanguessuga Pútrida,腐烂水蛭
 ARMOR_PUTRIDLEECH_DESC,"Take it to the Throbbing Artery in the Boneyard.
 You never level up and die when downed. You have Lifesteal on all of your attacks and abilities.",,"Hay que llevarla a la arteria palpitante, en el cementerio.
 Esta unidad no sube de nivel y muere al caer abatida. Todos sus ataques y habilidades tienen robavida.","Ammenez-la à l'Artère lancinante dans le Cimetière.
@@ -6028,10 +6028,10 @@ ITEM_PERSUASIONDEVICE_FIXED_DESC,"Use to permanently charm a non-boss enemy. It 
 [s:.7](Um uso por batalha.)[/s]","用于永久魅惑非Boss敌人。
 它会加入你的队伍。
 [s:.7](每场战斗可使用一次。)[/s]"
-ITEM_PYROPHINASCOLLAR_NAME,Pyrophina's Collar,,Collar de Pyrophina,Collier de Pyrophina,Pyrophinas Halsband,Collare di Pyrophina,Coleira de Pyrophina,火焰菲娜的项圈
-ITEM_PYROPHINASCOLLAR_DESC,Pyrophina joins you on your journey. She wishes to activate an obelisk on the moon.,,Pyrophina se une a la aventura con el deseo de activar un obelisco en la luna.,Pyrophina se joint à vous. Elle souhaite activer un obélisque sur la lune.,Pyrophina begleitet dich auf deiner Reise. Sie möchte einen Obelisk auf dem Mond aktivieren.,Pyrophina si unisce a te nel tuo viaggio. Vuole attivare un obelisco sulla luna.,Pyrophina se junta a você em sua jornada. Ela deseja ativar um obelisco na Lua.,"火焰菲娜加入了你的旅程。
+ITEM_PYROPHINASCOLLAR_NAME,Pyrophina's Collar,,Collar de Pyrophina,Collier de Pyrophina,Pyrophinas Halsband,Collare di Pyrophina,Coleira de Pyrophina,火菲娜的项圈
+ITEM_PYROPHINASCOLLAR_DESC,Pyrophina joins you on your journey. She wishes to activate an obelisk on the moon.,,Pyrophina se une a la aventura con el deseo de activar un obelisco en la luna.,Pyrophina se joint à vous. Elle souhaite activer un obélisque sur la lune.,Pyrophina begleitet dich auf deiner Reise. Sie möchte einen Obelisk auf dem Mond aktivieren.,Pyrophina si unisce a te nel tuo viaggio. Vuole attivare un obelisco sulla luna.,Pyrophina se junta a você em sua jornada. Ela deseja ativar um obelisco na Lua.,"火菲娜加入了你的旅程。
 她希望激活月球上的方尖碑。"
-ITEM_SCALDINGORB_NAME,Scalding Orb,,Orbe abrasador,Orbe brûlant,Siedende Kugel,Sfera Rovente,Orbe Escaldante,烫伤球
+ITEM_SCALDINGORB_NAME,Scalding Orb,,Orbe abrasador,Orbe brûlant,Siedende Kugel,Sfera Rovente,Orbe Escaldante,灼热宝珠
 ITEM_SCALDINGORB_DESC,"Feed it to the Man in the Moon.
 Toss it to allies with open weapon slots to avoid taking Burn 3 each turn!
 Applies Burn 3 to units adjacent to allies that catch it.",,"Hay que dárselo de comer al Hombre Lunar.
@@ -6095,7 +6095,7 @@ RECARREGAMENTO: a morte de qualquer aliado.","使用：
 对你视线内的任何目标造成5点伤害。
 
 重新装填：任一盟友死亡。"
-ITEM_THROBBINGGRISTLE_NAME,Throbbing Gristle,,Cartílago palpitante,Cartilage lancinant,Pulsierender Knorpel,Cartilagine Pulsante,Cartilagem Pulsante,跳动的筋膜
+ITEM_THROBBINGGRISTLE_NAME,Throbbing Gristle,,Cartílago palpitante,Cartilage lancinant,Pulsierender Knorpel,Cartilagine Pulsante,Cartilagem Pulsante,跳动软骨
 ITEM_THROBBINGGRISTLE_DESC,"Take it to the Wall of Flesh in the Caves.
 All units die when they get downed.
 Use: A melee attack that turns things it kills into Meat.",,"Hay que llevarlo al muro de carne que hay en las cuevas.

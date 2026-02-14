@@ -4457,9 +4457,11 @@ Der Gestank legt sich wie ein dickflüssiger Sirup über die empfindlichen Näsc
 
 La puzza dell'ingorgo liberato permea l'aria come densa melassa che aggredisce i nasi sensibili dei gatti...","Um cano de esgoto próximo se rompe, desencadeando uma reação em cadeia em outros canos da região! O esgoto jorra para o ar, acumulando-se em grandes montes de lodo.
 
-O mau cheiro do entupimento liberado impregna o ar como um melaço espesso atacando o nariz sensível dos gatos...","附近的下水道管道爆发，引发了附近其他管道的连锁反应！污水喷涌而出，堆积成大量污泥。
+O mau cheiro do entupimento liberado impregna o ar como um melaço espesso atacando o nariz sensível dos gatos...","附近的下水道管道爆发，引发了附近其他管道的连锁反应！
+污水喷涌而出，堆积成大量污泥。
 
-阻塞物释放出的恶臭如浓稠的糖浆般弥漫空气，刺激着猫咪们敏感的鼻子…"
+阻塞物释放出的恶臭如浓稠的糖浆般弥漫空气，
+刺激着猫咪们敏感的鼻子…"
 EVENT_HAPPENING_PAYDAY_REW,"It's payday! Various coins lay scattered about, carelessly dropped in a rush to spend them!",,¡Hoy se cobra! Hay varias monedas desperdigadas por el suelo; se le deben de haber caído a alguien en un descuido en pleno afán consumista.,C'est jour de paie&nbsp;! Diverses pièces sont éparpillées un peu partout. Quelqu'un les a probablement laissé tomber par erreur en s'empressant d'aller les dépenser&nbsp;!,"Es ist Zahltag! Zahlreiche Münzen liegen herum. Wer auch immer sie verloren hat, muss mehr als genug gehabt haben.","È giorno di paga! Ci sono diverse monete sparse dappertutto, lasciate cadere distrattamente nella smania di spenderle!","É dia de pagamento! Várias moedas estão espalhadas por todo lado, jogadas descuidadamente na pressa de gastá-las!",发薪日到了！各种硬币散落一地，匆忙花费时被随意丢弃！
 EVENT_HAPPENING_HUNTINGSEASON_REW,"The cats notice an abundance of bear traps laid out.
 
@@ -12378,7 +12380,8 @@ EVENT_TRASHBAGS_QUES,{catname} finds a bunch of trash bags. They look full!,,{ca
 EVENT_TRASHBAGS_QUES_M,,,,,,,,
 EVENT_TRASHBAGS_QUES_F,,,,,,,,
 EVENT_TRASHBAGS_QUES_N,,,,,,,,
-EVENT_TRASHBAGS_REW1,{catname} rips the bags open and devours anything that looks remotely edible. In one of the bags {he} finds a weird foot.,eat good,{catname} rompe las bolsas y devora todo lo que parezca remotamente comestible. En una de las bolsas encuentra un pie de lo más extraño.,"{catname} ouvre les sacs en les déchirant et dévore tout ce qui semble comestible. Dans l'un des sacs, {he} trouve un étrange pied.","{catname} reißt die Beutel auf und verschlingt alles, was auch nur annähernd essbar aussieht. In einem der Beutel findet {he} einen komischen Fuß.",{catname} apre i sacchi e divora tutto ciò che sembra anche remotamente commestibile. In uno dei sacchi trova uno strano piede.,"{catname} rasga as sacolas e devora tudo que parece remotamente comestível. Em uma das sacolas, há um pé estranho.",{catname} 撕开垃圾袋，吞食所有看起来稍微可入口的东西。在一个袋子里{he}找到了一只奇怪的脚。
+EVENT_TRASHBAGS_REW1,{catname} rips the bags open and devours anything that looks remotely edible. In one of the bags {he} finds a weird foot.,eat good,{catname} rompe las bolsas y devora todo lo que parezca remotamente comestible. En una de las bolsas encuentra un pie de lo más extraño.,"{catname} ouvre les sacs en les déchirant et dévore tout ce qui semble comestible. Dans l'un des sacs, {he} trouve un étrange pied.","{catname} reißt die Beutel auf und verschlingt alles, was auch nur annähernd essbar aussieht. In einem der Beutel findet {he} einen komischen Fuß.",{catname} apre i sacchi e divora tutto ciò che sembra anche remotamente commestibile. In uno dei sacchi trova uno strano piede.,"{catname} rasga as sacolas e devora tudo que parece remotamente comestível. Em uma das sacolas, há um pé estranho.",{catname} 撕开垃圾袋，吞食所有看起来稍微可入口的东西。
+在一个袋子里{he}找到了一只奇怪的脚。
 EVENT_TRASHBAGS_REW1_M,,,,,,,,
 EVENT_TRASHBAGS_REW1_F,,,,,,,,
 EVENT_TRASHBAGS_REW1_N,,,,,,,,
@@ -22189,7 +22192,8 @@ QEVENT_THROBBINGARTERY_REW1,"{catname} bites into the artery and a dark red liqu
 
 ","{catname} mord dans l'artère et un liquide rouge et sombre gicle. Les chats lapent le sang chaud avec enthousiasme, faisant s'envoler le stress de leur long voyage...","{catname} beißt in die Arterie und eine dunkelrote Flüssigkeit schießt aus ihr hervor. Die Katzen schlecken das warme Blut genüsslich auf und die Anstrengungen ihrer Reise sind schnell vergessen&nbsp;…
 
-",{catname} morde l'arteria e un liquido rosso scuro ne sgorga. I gatti leccano con entusiasmo il sangue caldo e avvertono lo stress del loro lungo viaggio che viene spazzato via...,{catname} morde a artéria e um líquido vermelho escuro jorra. Os gatos lambem o sangue quente com entusiasmo e sentem o estresse da longa jornada desaparecer...,{catname} 咬住动脉，暗红色的液体喷涌而出。猫们兴奋地舔着温热的血液，感受到长途跋涉的疲惫一扫而光……
+",{catname} morde l'arteria e un liquido rosso scuro ne sgorga. I gatti leccano con entusiasmo il sangue caldo e avvertono lo stress del loro lungo viaggio che viene spazzato via...,{catname} morde a artéria e um líquido vermelho escuro jorra. Os gatos lambem o sangue quente com entusiasmo e sentem o estresse da longa jornada desaparecer...,"{catname} 咬住动脉，暗红色的液体喷涌而出。
+猫们兴奋地舔着温热的血液，感受到长途跋涉的疲惫一扫而光……"
 QEVENT_THROBBINGARTERY_REW1_M,,,,,,,,
 QEVENT_THROBBINGARTERY_REW1_F,,,,,,,,
 QEVENT_THROBBINGARTERY_REW1_N,,,,,,,,

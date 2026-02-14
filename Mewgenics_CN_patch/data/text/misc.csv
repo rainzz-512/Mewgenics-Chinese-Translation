@@ -294,8 +294,8 @@ HOUSE_DATE_DEC,Dec,,Dic,Déc,Dez,Dic,Dez,12月
 HOUSE_FURNITURE_STAT_COMFORT,{amount} [img:comfort] Comfort,,{amount} [img:comfort] Comodidad,[img:comfort] Bien-être&nbsp;: {amount},{amount} [img:comfort] Komfort,{amount} [img:comfort] Comfort,{amount} de [img:comfort] conforto,{amount} [img:comfort] 舒适度
 HOUSE_FURNITURE_STAT_STIMULATION,{amount} [img:stimulation] Stimulation,,{amount} [img:stimulation] Estimulación,[img:stimulation] Stimulation&nbsp;: {amount},{amount} [img:stimulation] Stimulation,{amount} [img:stimulation] Stimolazione,{amount} de [img:stimulation] estimulação,{amount} [img:stimulation] 刺激度
 HOUSE_FURNITURE_STAT_APPEAL,{amount} [img:appeal] Appeal,,{amount} [img:appeal] Atractivo,[img:appeal] Attractivité&nbsp;: {amount},{amount} [img:appeal] Reiz,{amount} [img:appeal] Attrattiva,{amount} de [img:appeal] apelo,{amount} [img:appeal] 吸引力
-HOUSE_FURNITURE_STAT_HEALTH,{amount} [img:health] Health,,{amount} [img:health] Salud,[img:health] Santé&nbsp;: {amount},{amount} [img:health] Gesundheit,{amount} [img:health] Salute,{amount} de [img:health] saúde,{amount} [img:health] 健康
-HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:evolution] Mutación,[img:evolution] Mutation&nbsp;: {amount},{amount} [img:evolution] Mutation,{amount} [img:evolution] Mutazione,{amount} de [img:evolution] mutação,{amount} [img:evolution] 变异
+HOUSE_FURNITURE_STAT_HEALTH,{amount} [img:health] Health,,{amount} [img:health] Salud,[img:health] Santé&nbsp;: {amount},{amount} [img:health] Gesundheit,{amount} [img:health] Salute,{amount} de [img:health] saúde,{amount} [img:health] 健康度
+HOUSE_FURNITURE_STAT_MUTATION,{amount} [img:evolution] Mutation,,{amount} [img:evolution] Mutación,[img:evolution] Mutation&nbsp;: {amount},{amount} [img:evolution] Mutation,{amount} [img:evolution] Mutazione,{amount} de [img:evolution] mutação,{amount} [img:evolution] 变异度
 HOUSE_STORAGE_NAME,Storage,,Almacén,Rangement,Lager,Deposito,Armazenamento,仓库
 HOUSE_QUEST_STORAGE_NAME,Quest Items,,Objetos de misión,Objets de quête,Questgegenstände,Oggetti missione,Itens de Missões,任务物品
 HOUSE_TRASH_NAME,Trash,,Basura,Poubelle,Müll,Cestino,Lixeira,垃圾
@@ -526,7 +526,7 @@ COMBAT_POPUP_HOLSTER,Holster,,Pistolera,Attaque conservée,Holster,Fondina,Coldr
 COMBAT_POPUP_CATCH,Catch!,,¡Captura!,Attrapé&nbsp;!,Gefangen!,Prendi!,Pegue!,接住！
 COMBAT_POPUP_ENERGIZED,Energized!,,¡Energía!,Énergique&nbsp;!,Energiegeladen!,Energizzato!,Energia!,充满能量！
 COMBAT_POPUP_BADPOOP,Bad Poop!,,¡Caca mala!,Vilain caca&nbsp;!,Schlechter Stuhlgang!,Cacca Brutta!,Cocô ruim!,糟糕的便便！
-COMBAT_POPUP_DEJAVU,Deja Vu,,Déjà vu,Déjà-vu,Déjà-vu,Déjà vu,Déjà vu,似曾相识
+COMBAT_POPUP_DEJAVU,Deja Vu,,Déjà vu,Déjà-vu,Déjà-vu,Déjà vu,Déjà vu,既视感
 COMBAT_POPUP_BUGBITE,Bug Bite!,,¡Picadura!,Morsure d'insecte&nbsp;!,Käferbiss!,Puntura d'insetto!,Picada de inseto!,虫咬！
 COMBAT_POPUP_RECHARGED,Recharged!,,¡Recarga!,Rechargé&nbsp;!,Aufgeladen!,Ricaricato!,Recarregamento!,充能完成！
 COMBAT_POPUP_BRAINSTORM,Brainstorm!,,Lluvia de ideas,Introspection&nbsp;!,Geistesblitz!,Brainstorming!,Troca de ideias!,头脑风暴！
