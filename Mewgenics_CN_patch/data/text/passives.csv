@@ -874,9 +874,9 @@ Seus golpes críticos causam +100% de dano.","你的普通攻击对带有 [img:s
 你的暴击伤害提高100%。"
 PASSIVE_BOWLINGBALL_NAME,Bowling Ball,,Bola de bolos,Boule de bowling,Bowlingkugel,Palla da Bowling,Bola de Boliche,保龄球
 PASSIVE_BOWLINGBALL_DESC,Adjacent and diagonal allied cats get the bonus ability Bowl.,,Los aliados adyacentes y en diagonal obtienen la habilidad de bonificación Bolo.,Les chats alliés adjacents et en diagonale obtiennent la compétence bonus Bowling.,Benachbarte und diagonal benachbarte verbündete Katzen erhalten die Bonusfähigkeit Bowling.,I gatti alleati adiacenti e diagonali ottengono l'abilità bonus Bowling.,Gatos aliados adjacentes e diagonais obtêm a habilidade bônus Boliche.,"相邻和对角线方向的友方猫咪
-获得加成技能 Bowl。"
+获得加成技能投保龄球。"
 PASSIVE_BOWLINGBALL2_DESC,Adjacent and diagonal allied cats get the bonus ability Bowl+.,,Los aliados adyacentes y en diagonal obtienen la habilidad de bonificación Bolo+.,Les chats alliés adjacents et en diagonale obtiennent la compétence bonus Bowling+.,Benachbarte und diagonal benachbarte verbündete Katzen erhalten die Bonusfähigkeit Bowling+.,I gatti alleati adiacenti e diagonali ottengono l'abilità bonus Bowling+.,Gatos aliados adjacentes e diagonais obtêm a habilidade bônus Boliche+.,"相邻和对角线方向的友方猫咪
-获得加成技能 Bowl+。"
+获得加成技能投保龄球+。"
 PASSIVE_TESTY_NAME,Testy,,Mal humor,Bougeotte,Reizbar,Irascibilità,Irritabilidade,易怒
 PASSIVE_TESTY_DESC,"When you take damage, gain +1 movement range until the end of your turn.",,"Al sufrir daño, obtiene +1 de alcance del movimiento hasta el final del turno.","Quand vous subissez des dégâts, gagnez&nbsp;+1&nbsp;de portée de déplacement jusqu'à la fin du tour.","Erhalte bis zum Ende deines Zuges +1&nbsp;Bewegungsreichweite, wenn du Schaden erleidest.","Quando subisci danno, ottieni +1 al raggio di movimento fino alla fine del tuo turno.","Ao sofrer dano, obtenha +1 de alcance de movimento até o fim do seu turno.","当你受到伤害时，
 直到你回合结束，获得+1移动范围。
