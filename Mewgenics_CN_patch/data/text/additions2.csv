@@ -37,7 +37,7 @@ Attraverso la finestra trasparente vede uno strano gatto con una testa in più."
 
 Através da janela transparente, é possível ver um gato estranho com uma cabeça extra.","{catname} 发现了一台带有多个按钮的大型机器。
 
-透过透明的窗户，{he} 看到一只带有额外头部的奇怪猫咪。"
+透过透明的窗户，{he}看到一只带有额外头部的奇怪猫咪。"
 QEVENT_STACYMUTANT1_QUES1_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_F,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_N,"{catname} finds a large machine with several buttons.
@@ -65,7 +65,7 @@ Was für eine Körpermutation soll {he} dem Klon von Stacy verpassen?","{catname
 
 Quale mutazione corporea dovrebbe fornire al clone di Stacy?","{catname} se aproxima da máquina e considera suas opções.
 
-Qual mutação corporal será dada ao clone de Stacy?","{catname} 靠近机器，考虑{his}的选择。
+Qual mutação corporal será dada ao clone de Stacy?","{catname} 靠近机器，考虑{his}选择。
 
 应该给斯泰西克隆体带来什么身体变异？"
 QEVENT_STACYMUTANT1_QUES2_M,,,,,,,,
