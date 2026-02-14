@@ -588,7 +588,7 @@ FURNITURE_NAME_OBJECT_ELECTRONICS_DVDPLAYER,DVD Player,,Reproductor DVD,Lecteur 
 FURNITURE_DESC_OBJECT_ELECTRONICS_DVDPLAYER,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_SPEAKER,Speaker,,Altavoz,Enceinte,Lautsprecher,Altoparlante,Alto-falante,扬声器
 FURNITURE_DESC_OBJECT_ELECTRONICS_SPEAKER,,,,,,,,
-FURNITURE_NAME_OBJECT_BOOKS1,Books A,,Libros A,Livres&nbsp;A,Bücher A,Libri A,Livros A,图书A
+FURNITURE_NAME_OBJECT_BOOKS1,Books A,,Libros A,Livres&nbsp;A,Bücher A,Libri A,Livros A,书籍 A
 FURNITURE_DESC_OBJECT_BOOKS1,,,,,,,,
 FURNITURE_NAME_OBJECT_BOOKS2,Books B,,Libros B,Livres&nbsp;B,Bücher B,Libri B,Livros B,书籍 B
 FURNITURE_DESC_OBJECT_BOOKS2,,,,,,,,
@@ -672,15 +672,15 @@ FURNITURE_NAME_OBJECT_ELECTRONICS_FAN,Small Fan,,Ventilador pequeño,Petit venti
 FURNITURE_DESC_OBJECT_ELECTRONICS_FAN,,,,,,,,
 FURNITURE_NAME_OBJECT_JAR_EMPTY,Broken Jar,,Tarro roto,Bocal cassé,Kaputtes Glas,Barattolo rotto,Pote quebrado,破碎的罐子
 FURNITURE_DESC_OBJECT_JAR_EMPTY,,,,,,,,
-FURNITURE_NAME_OBJECT_JAR_HEAD1,Head In Jar A,,Cabeza en un tarro A,Tête en bocal&nbsp;A,Kopf im Glas A,Testa in barattolo A,Cabeça no pote A,罐子里的头 A
+FURNITURE_NAME_OBJECT_JAR_HEAD1,Head In Jar A,,Cabeza en un tarro A,Tête en bocal&nbsp;A,Kopf im Glas A,Testa in barattolo A,Cabeça no pote A,罐中头 A
 FURNITURE_DESC_OBJECT_JAR_HEAD1,,,,,,,,
-FURNITURE_NAME_OBJECT_JAR_HEAD2,Head In Jar B,,Cabeza en un tarro B,Tête en bocal&nbsp;B,Kopf im Glas B,Testa in barattolo B,Cabeça no pote B,罐子里的头 B
+FURNITURE_NAME_OBJECT_JAR_HEAD2,Head In Jar B,,Cabeza en un tarro B,Tête en bocal&nbsp;B,Kopf im Glas B,Testa in barattolo B,Cabeça no pote B,罐中头 B
 FURNITURE_DESC_OBJECT_JAR_HEAD2,,,,,,,,
 FURNITURE_NAME_OBJECT_JAR_EGGS,Jar of Eggs,,Tarro con huevos,Bocal d'œufs,Glas mit Eiern,Barattolo di uova,Pote de ovos,蛋罐
 FURNITURE_DESC_OBJECT_JAR_EGGS,,,,,,,,
 FURNITURE_NAME_OBJECT_JAR_CAT,Conjoined Cat in Jar,,Gato conjunto en un tarro,Chats fusionnés en bocal,Siamesische Katzen im Glas,Gatto siamese in barattolo,Gatos siameses no pote,连体猫罐
 FURNITURE_DESC_OBJECT_JAR_CAT,,,,,,,,
-FURNITURE_NAME_OBJECT_JAR_FETUS,Fetus in a Jar,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in barattolo,Feto no pote,罐中的胎儿
+FURNITURE_NAME_OBJECT_JAR_FETUS,Fetus in a Jar,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in barattolo,Feto no pote,罐中胎儿
 FURNITURE_DESC_OBJECT_JAR_FETUS,,,,,,,,
 FURNITURE_NAME_OBJECT_LOG,Log,,Tronco,Bûche,Stamm,Tronco,Tronco,日记
 FURNITURE_DESC_OBJECT_LOG,,,,,,,,
@@ -1138,7 +1138,7 @@ FURNITURE_NAME_SMALL_JAR_DISEASES,Jar of Diseases,,Tarro con virus,Bocal de mala
 FURNITURE_DESC_SMALL_JAR_DISEASES,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_EYEBALLS,Jar of Eyeballs,,Tarro con ojos,Bocal de globes oculaires,Glas voller Augen,Barattolo di bulbi oculari,Pote de olhos,眼球罐
 FURNITURE_DESC_SMALL_JAR_EYEBALLS,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_HEART,Heart in a Jar,,Corazón en un tarro,Cœur en bocal,Herz im Glas,Cuore in barattolo,Coração no pote,罐中的心脏
+FURNITURE_NAME_SMALL_JAR_HEART,Heart in a Jar,,Corazón en un tarro,Cœur en bocal,Herz im Glas,Cuore in barattolo,Coração no pote,罐中心脏
 FURNITURE_DESC_SMALL_JAR_HEART,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_SPIDER,Daddy Long Legs,,Araña patilarga,Bocal d'araignées,Weberknecht,Daddy Long Legs,Aranhiço,长腿蜘蛛
 FURNITURE_DESC_SMALL_JAR_SPIDER,,,,,,,,
@@ -1202,7 +1202,7 @@ FURNITURE_NAME_SMALL_EYEBALL,Eyeball,,Ojo,Globe oculaire,Augapfel,Bulbo oculare,
 FURNITURE_DESC_SMALL_EYEBALL,,,,,,,,
 FURNITURE_NAME_SMALL_PERFUME,Perfume,,Perfume,Parfum,Parfüm,Profumo,Perfume,香水
 FURNITURE_DESC_SMALL_PERFUME,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_TADPOLE,Tadpole in a Jar,,Renacuajo en un tarro,Têtard en bocal,Kaulquappe im Glas,Girino in barattolo,Girino no pote,瓶中的蝌蚪
+FURNITURE_NAME_SMALL_JAR_TADPOLE,Tadpole in a Jar,,Renacuajo en un tarro,Têtard en bocal,Kaulquappe im Glas,Girino in barattolo,Girino no pote,罐中蝌蚪
 FURNITURE_DESC_SMALL_JAR_TADPOLE,,,,,,,,
 FURNITURE_NAME_SMALL_JUG,Jug,,Jarra,Carafe,Krug,Brocca,Jarro,水壶
 FURNITURE_DESC_SMALL_JUG,,,,,,,,
