@@ -2637,9 +2637,9 @@ Inicie cada batalha com saúde completa.","你的治疗量额外增加 4 点。
 每次战斗开始时生命值全满。"
 PASSIVE_ETERNAL_NAME,Eternal,,Eternidad,Éternité,Ewig,Eternità,Eternidade,永恒
 PASSIVE_ETERNAL_DESC,"When you are downed for the 1st time each battle, take no injuries and revive with half HP.",,"Cuando esta unidad está abatida por primera vez en cada combate, no sufre lesiones y resucita con la mitad de sus PS.","Lorsque vous êtes K.O. pour la première fois en combat, vous ne recevez aucune blessure et vous récupérez la moitié de vos PV.","Wenn du zum ersten Mal im Kampf in Ohnmacht fällst, erleidest du keine Verletzungen und wirst mit der Hälfte deiner LP wiederbelebt.","Quando vai KO per la prima volta in ogni battaglia, non subisci ferite e resusciti con metà dei tuoi PS.","Ao ficar inconsciente pela primeira vez em cada batalha, não sofra ferimentos e reviva com saúde pela metade.","每次战斗中第一次倒地时，
-不受伤害并以半生命值复活。"
+不造成伤口并以半生命值复活。"
 PASSIVE_ETERNAL2_DESC,"When you are downed for the 1st time each battle, take no injuries and revive with half HP, All Stats Up 2, and immediately take an extra turn.",,"Cuando esta unidad está abatida por primera vez en cada combate, no sufre lesiones y resucita con la mitad de sus PS y 2 de aumento total, y juega un turno extra inmediatamente.","Lorsque vous êtes K.O. pour la première fois en combat, vous ne recevez aucune blessure, vous récupérez la moitié de vos PV, vous gagnez Hausse de stats&nbsp;+2&nbsp;et vous jouez immédiatement 1&nbsp;tour supplémentaire.","Wenn du zum ersten Mal im Kampf in Ohnmacht fällst, erleidest du keine Verletzungen und wirst mit der Hälfte deiner LP und einem Bonus von 2 auf alle Attribute wiederbelebt und erhältst sofort einen zusätzlichen Zug.","Quando vai KO per la prima volta in ogni battaglia, non subisci ferite e resusciti con metà dei tuoi PS, Aumento delle Statistiche 2 ed effettui immediatamente un turno aggiuntivo.","Ao ficar inconsciente pela primeira vez em cada batalha, não sofra ferimentos e reviva com saúde pela metade, todos os atributos aumentados 2 e obtenha um turno adicional imediatamente.","每次战斗中第一次倒地时，
-不受伤害并以半生命值复活，
+不造成伤口并以半生命值复活，
 全属性 +2，并立即获得额外行动。
 "
 PASSIVE_BLESSED_NAME,Blessed,,Bendición,Faveur,Gesegnet,Benedizione,Benção,被祝福者
