@@ -902,7 +902,7 @@ ABILITY_COLDSHOULDER2_DESC,"Deal 1 ice damage and inflict Slow 1 at infinite ran
 [s:.7](Este hechizo cuesta menos).[/s]",Inflige 1&nbsp;point de dégâts de glace et Lenteur&nbsp;+1. Portée infinie. [s:.7](Coût réduit.)[/s],"Verursache 1&nbsp;Eisschaden und Verlangsamung&nbsp;1 mit unendlicher Reichweite.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi 1 di danno da ghiaccio e Rallentamento 1 a raggio d'azione infinito.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cause 1 de dano de gelo e aplique lentidão 1 com alcance infinito.
-[s:.7](Este encantamento custa menos.)[/s]","造成1点冰霜伤害并在无限距离内施加1层减速。
+[s:.7](Este encantamento custa menos.)[/s]","在无限距离内造成1点冰霜伤害并施加1层减速。
 
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_BLOWKISS_NAME,Blow Kiss,,Lanzar beso,Bisous&nbsp;!,Kuss zuwerfen,Bacio della Salute,Mandar Beijo,飞吻
@@ -5794,7 +5794,7 @@ ABILITY_INFEST_NAME,Infest,,Infestación,Infection,Infizieren,Infestazione,Infes
 ABILITY_INFEST_DESC,Toss a spider egg that deals low damage and inflicts Infested.,,Lanza un huevo de araña que inflige poco daño e infestación.,Vous lancez un œuf d'araignée qui inflige de faibles dégâts et Infestation.,"Wirf ein Spinnenei, das niedrigen Schaden verursacht und Infiziert verursacht.",Lanci un uovo di ragno che infligge poco danno e causa Infestato.,Jogue um ovo de aranha que causa dano baixo e aplica infestação.,"投掷一枚蜘蛛卵，
 造成低伤害并施加感染。"
 ABILITY_INFEST2_DESC,Toss a spider egg that deals low damage and inflicts Infested 2.,,Lanza un huevo de araña que inflige poco daño y 2 de infestación.,Vous lancez un œuf d'araignée qui inflige de faibles dégâts et Infestation&nbsp;+2.,"Wirf ein Spinnenei, das niedrigen Schaden verursacht und Infiziert&nbsp;2 verursacht.",Lanci un uovo di ragno che infligge poco danno e causa Infestato 2.,Jogue um ovo de aranha que causa dano baixo e aplica infestação 2.,"投掷一枚蜘蛛卵，
-造成低伤害并施加1层感染。"
+造成低伤害并施加2层感染。"
 ABILITY_COLLECTPELT_NAME,Collect Pelt,,Recogida de pellejo,Collection de fourrures,Pelz sammeln,Raccolta della Pelle,Coletar Pele,收集兽皮
 ABILITY_COLLECTPELT_DESC,Destroy a body. Equip a piece of Cat Hide armor to an empty armor slot.,,Destruye un cadáver. Se equipa una pieza de armadura de pellejo de gato en un espacio de armadura vacío.,Vous détruisez un cadavre. Vous équipez une armure Cat Hide dans un emplacement d'armure vide.,Zerstöre eine Leiche. Rüste eine Rüstung aus Katzenleder in einem freien Rüstungsplatz aus.,Distruggi un corpo. Equipaggi un pezzo di armatura di Pelle di Gatto in uno slot armatura vuoto.,Destrua um corpo. Equipe uma peça de armadura de couro de gato em um espaço de armadura vazio.,"销毁一具尸体。将一件猫皮
 护甲装备到一个空护甲位上。"

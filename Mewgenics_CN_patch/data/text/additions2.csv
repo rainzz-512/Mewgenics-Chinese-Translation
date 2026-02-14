@@ -37,7 +37,7 @@ Attraverso la finestra trasparente vede uno strano gatto con una testa in più."
 
 Através da janela transparente, é possível ver um gato estranho com uma cabeça extra.","{catname} 发现了一台带有多个按钮的大型机器。
 
-透过透明的窗户，{he} 看到一只带有额外头部的奇怪猫咪。"
+透过透明的窗户，{he}看到一只带有额外头部的奇怪猫咪。"
 QEVENT_STACYMUTANT1_QUES1_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_F,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_N,"{catname} finds a large machine with several buttons.
@@ -65,7 +65,7 @@ Was für eine Körpermutation soll {he} dem Klon von Stacy verpassen?","{catname
 
 Quale mutazione corporea dovrebbe fornire al clone di Stacy?","{catname} se aproxima da máquina e considera suas opções.
 
-Qual mutação corporal será dada ao clone de Stacy?","{catname} 靠近机器，考虑{his}的选择。
+Qual mutação corporal será dada ao clone de Stacy?","{catname} 靠近机器，考虑{his}选择。
 
 应该给斯泰西克隆体带来什么身体变异？"
 QEVENT_STACYMUTANT1_QUES2_M,,,,,,,,
@@ -127,18 +127,18 @@ Ein Roboterarm fährt herunter und verpasst {catname} eine Spritze!","{catname} 
 
 Compare un braccio robotico che inietta {catname}!","{catname} puxa a alavanca para pular e a máquina emite um bipe alto.
 
-Um braço robótico desce e injeta algo em {catname}!","{catname}拉动杠杆跳过，机器向{him}发出响亮的哔声。
+Um braço robótico desce e injeta algo em {catname}!","{catname} 拉动杠杆跳过，机器向{him}发出响亮的哔声。
 
-一个机械臂挥下，注射了{catname}！"
+一个机械臂挥下，注射了 {catname}！"
 QEVENT_STACYMUTANT1_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_N,,,,,,,,
-QEVENT_STACYMUTANT1_REW4_B,{catname} has been poisoned and feels sick...,,Han envenenado a {catname} y se siente fatal...,{catname} s'est fait empoisonner. {He} se sent malade...,{catname} wurde vergiftet&nbsp;…,Il veleno è entrato nel flusso sanguigno di {catname} che si sente male...,{catname} se envenenou e se sente doente...,{catname}中毒了，感觉不适...
+QEVENT_STACYMUTANT1_REW4_B,{catname} has been poisoned and feels sick...,,Han envenenado a {catname} y se siente fatal...,{catname} s'est fait empoisonner. {He} se sent malade...,{catname} wurde vergiftet&nbsp;…,Il veleno è entrato nel flusso sanguigno di {catname} che si sente male...,{catname} se envenenou e se sente doente...,{catname} 中毒了，感觉不适...
 QEVENT_STACYMUTANT1_REW4_B_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_B_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_B_N,,,,,,,,
 QEVENT_STACYMUTANT2_NAME,Stacy Experiment,,Experimento de Stacy,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西实验
-QEVENT_STACYMUTANT2_QUES,The machine presents buttons to {catname} with elemental symbols on them.,,La máquina le ofrece a {catname} unos botones con símbolos elementales dibujados.,La machine présente à {catname} des boutons ornés de symboles élémentaires.,Auf der Maschine befinden sich Knöpfe mit Elementarsymbolen.,La macchina davanti a {catname} ha dei pulsanti con simboli elementali.,A máquina apresenta botões com símbolos de elementos para {catname}.,机器向{catname}展示带有元素符号的按钮。
+QEVENT_STACYMUTANT2_QUES,The machine presents buttons to {catname} with elemental symbols on them.,,La máquina le ofrece a {catname} unos botones con símbolos elementales dibujados.,La machine présente à {catname} des boutons ornés de symboles élémentaires.,Auf der Maschine befinden sich Knöpfe mit Elementarsymbolen.,La macchina davanti a {catname} ha dei pulsanti con simboli elementali.,A máquina apresenta botões com símbolos de elementos para {catname}.,机器向 {catname} 展示带有元素符号的按钮。
 QEVENT_STACYMUTANT2_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT2_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT2_QUES_N,,,,,,,,
@@ -172,12 +172,12 @@ QEVENT_STACYMUTANT2_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW3_N,,,,,,,,
 QEVENT_STACYMUTANT2_ANSW4,No Thanks,,"No, gracias",Non merci,"Nein, danke","No, grazie","Não, obrigado",不，谢谢
-QEVENT_STACYMUTANT2_REW4,{catname} pulls the abort lever and the machine injects {him} instead!,,{catname} tira de la palanca para rechazar la opción y la máquina le aplica la inyección en vez de al clon.,{catname} tire le levier d'abandon et se fait piquer par la machine à la place&nbsp;!,{catname} betätigt den Schalter zum abbrechen und die Maschine wählt {him} als neues Ziel!,{catname} tira la leva per annullare e subisce un'iniezione da parte della macchina!,{catname} puxa a alavanca de abortar e a máquina injeta algo em seu próprio corpo!,{catname}拉动终止杠杆，机器改为注射{him}！
+QEVENT_STACYMUTANT2_REW4,{catname} pulls the abort lever and the machine injects {him} instead!,,{catname} tira de la palanca para rechazar la opción y la máquina le aplica la inyección en vez de al clon.,{catname} tire le levier d'abandon et se fait piquer par la machine à la place&nbsp;!,{catname} betätigt den Schalter zum abbrechen und die Maschine wählt {him} als neues Ziel!,{catname} tira la leva per annullare e subisce un'iniezione da parte della macchina!,{catname} puxa a alavanca de abortar e a máquina injeta algo em seu próprio corpo!,{catname} 拉动终止杠杆，机器改为注射{him}！
 QEVENT_STACYMUTANT2_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT2_REW4_N,,,,,,,,
 QEVENT_STACYMUTANT3_NAME,Stacy Experiment,,Experimento de Stacy,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西实验
-QEVENT_STACYMUTANT3_QUES,The clone through the window purrs with excitement as the machine presents {catname} with stat modification buttons...,,El clon al otro lado de la ventana ronronea de emoción cuando la máquina le muestra a {catname} unos botones de modificación de atributos.,Le clone derrière la vitre ronronne d'excitation tandis que la machine présente à {catname} des boutons de modification de caractéristiques...,"Der Klon hinter dem Fenster schnurrt gespannt, als die Maschine {catname} verschiedene Knöpfe für die Modifikation von Attributen präsentiert&nbsp;…",Il clone dall'altra parte del vetro fa le fusa per l'emozione mentre la macchina propone a {catname} dei pulsanti di modifica delle statistiche...,O clone do outro lado da janela ronrona de excitação enquanto a máquina apresenta a {catname} botões de modificação de atributos...,透过窗户，克隆体兴奋地咕噜着，机器向{catname}展示属性修改按钮...
+QEVENT_STACYMUTANT3_QUES,The clone through the window purrs with excitement as the machine presents {catname} with stat modification buttons...,,El clon al otro lado de la ventana ronronea de emoción cuando la máquina le muestra a {catname} unos botones de modificación de atributos.,Le clone derrière la vitre ronronne d'excitation tandis que la machine présente à {catname} des boutons de modification de caractéristiques...,"Der Klon hinter dem Fenster schnurrt gespannt, als die Maschine {catname} verschiedene Knöpfe für die Modifikation von Attributen präsentiert&nbsp;…",Il clone dall'altra parte del vetro fa le fusa per l'emozione mentre la macchina propone a {catname} dei pulsanti di modifica delle statistiche...,O clone do outro lado da janela ronrona de excitação enquanto a máquina apresenta a {catname} botões de modificação de atributos...,透过窗户，克隆体兴奋地咕噜着，机器向 {catname} 展示属性修改按钮...
 QEVENT_STACYMUTANT3_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT3_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT3_QUES_N,,,,,,,,
@@ -197,14 +197,14 @@ QEVENT_STACYMUTANT3_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT3_REW3_N,,,,,,,,
 QEVENT_STACYMUTANT3_ANSW4,No Thanks,,"No, gracias",Non merci,"Nein, danke","No, grazie","Não, obrigado",不，谢谢
-QEVENT_STACYMUTANT3_REW4,The machine injects {catname}. {He} screams in pain as {his} entire body is torn and broken!,,"La máquina le aplica la inyección a {catname}, que grita de dolor cuando su cuerpo se contorsiona y se rompe.",La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",机器注射了{catname}。{He}在全身被撕裂破碎时尖叫着！
+QEVENT_STACYMUTANT3_REW4,The machine injects {catname}. {He} screams in pain as {his} entire body is torn and broken!,,"La máquina le aplica la inyección a {catname}, que grita de dolor cuando su cuerpo se contorsiona y se rompe.",La machine pique {catname}. {He} hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,"Die Maschine spritzt {catname} eine Flüssigkeit. {He} jault laut auf, als {his} gesamter Körper auseinandergerissen wird!",La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,"A máquina injeta algo em {catname}, que grita de dor enquanto seu corpo inteiro é dilacerado e quebrado!",机器注射了 {catname}。{He}在全身被撕裂破碎时尖叫着！
 QEVENT_STACYMUTANT3_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT3_REW4_F,,,,,,,,
-QEVENT_STACYMUTANT3_REW4_N,The machine injects {catname}. They scream in pain as their entire body is torn and broken!,,"La máquina le aplica la inyección a {catname}, que grita de dolor cuando su cuerpo se contorsiona y se rompe.",La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,机器注射了{catname}。他们在全身被撕裂破碎时尖叫着！
+QEVENT_STACYMUTANT3_REW4_N,The machine injects {catname}. They scream in pain as their entire body is torn and broken!,,"La máquina le aplica la inyección a {catname}, que grita de dolor cuando su cuerpo se contorsiona y se rompe.",La machine pique {catname}. Iel hurle de douleur tandis que son corps tout entier se retrouve déchiqueté&nbsp;!,Die Maschine spritzt {catname} eine Flüssigkeit. {catname} jault vor Schmerzen laut auf!,La macchina inietta qualcosa a {catname} che urla di dolore mentre il suo intero corpo viene lacerato!,,机器注射了 {catname}。他们在全身被撕裂破碎时尖叫着！
 QEVENT_STACYMUTANT4_NAME,Stacy Experiment,,Experimento de Stacy,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西实验
 QEVENT_STACYMUTANT4_QUES,"The final phase of mutating the clone is here. {catname} must choose a head mutation!
 ",,Ha llegado la fase final de mutación del clon. {catname} tiene que elegir la última mutación de la cabeza.,La phase finale de mutation du clone est là. {catname} doit choisir une mutation de tête&nbsp;!,"Dies ist die letzte Mutationsphase. {catname} muss eine Mutation für den Kopf wählen!
-",È iniziata la fase finale della mutazione del clone. {catname} deve scegliere una mutazione della testa!,A fase final da mutação do clone foi atingida. {catname} deve selecionar uma mutação de cabeça!,克隆体变异的最终阶段到了。{catname}必须选择一种头部变异！
+",È iniziata la fase finale della mutazione del clone. {catname} deve scegliere una mutazione della testa!,A fase final da mutação do clone foi atingida. {catname} deve selecionar uma mutação de cabeça!,克隆体变异的最终阶段到了。{catname} 必须选择一种头部变异！
 QEVENT_STACYMUTANT4_QUES_M,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_N,,,,,,,,
@@ -266,11 +266,11 @@ QEVENT_STACYMUTANT4_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW3_N,,,,,,,,
 QEVENT_STACYMUTANT4_ANSW4,No Thanks,,"No, gracias",Non merci,"Nein, danke","No, grazie","Não, obrigado",不，谢谢
-QEVENT_STACYMUTANT4_REW4,{catname} guesses what is coming but still winces as the machine injects {him}!,,"{catname} adivina lo que va a ocurrir, pero aun así, hace una mueca cuando la máquina le aplica la inyección.","{catname} se doute de ce qui l'attend, mais tire quand même la gueule quand la machine pique&nbsp;!","{catname} kann sich schon denken, was jetzt passiert, zuckt aber trotzdem zusammen, als {he} eine Spritze von der Maschine bekommt!","{catname} indovina cosa sta per succedere, ma non può fare a meno di sussultare quando subisce l'iniezione dalla macchina.","{catname} adivinha o que está por vir, mas mesmo assim recua quando a máquina injeta algo em seu corpo!",{catname}猜到了即将发生的事，但注射时仍然皱眉！
+QEVENT_STACYMUTANT4_REW4,{catname} guesses what is coming but still winces as the machine injects {him}!,,"{catname} adivina lo que va a ocurrir, pero aun así, hace una mueca cuando la máquina le aplica la inyección.","{catname} se doute de ce qui l'attend, mais tire quand même la gueule quand la machine pique&nbsp;!","{catname} kann sich schon denken, was jetzt passiert, zuckt aber trotzdem zusammen, als {he} eine Spritze von der Maschine bekommt!","{catname} indovina cosa sta per succedere, ma non può fare a meno di sussultare quando subisce l'iniezione dalla macchina.","{catname} adivinha o que está por vir, mas mesmo assim recua quando a máquina injeta algo em seu corpo!",{catname} 猜到了即将发生的事，但注射时仍然皱眉！
 QEVENT_STACYMUTANT4_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW4_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW4_N,,,,,,,,
-QEVENT_STACYMUTANT4_REW5,{Catname} feels exhausted...,,{Catname} siente el agotamiento en el cuerpo.,{Catname} est tout raplapla...,{Catname} ist erschöpft&nbsp;…,{catname} avverte una forte spossatezza...,{Catname} sente um grande cansaço...,{Catname}感到筋疲力尽……
+QEVENT_STACYMUTANT4_REW5,{Catname} feels exhausted...,,{Catname} siente el agotamiento en el cuerpo.,{Catname} est tout raplapla...,{Catname} ist erschöpft&nbsp;…,{catname} avverte una forte spossatezza...,{Catname} sente um grande cansaço...,{Catname} 感到筋疲力尽……
 QEVENT_STACYMUTANT4_REW5_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW5_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW5_N,,,,,,,,
