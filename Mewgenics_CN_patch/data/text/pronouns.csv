@@ -35,7 +35,7 @@ PRONOUN_THEMSELF_UPPER,Themself,replaces {Himself} in other strings,Él,,Er selb
 CATNAME_UNKNOWN_NAME,Unknown,replaces {Catname} in other strings if there was no cat specified (usually an error message),Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido,未知
 CATNAME_UNKNOWN_NAME_POSSESSIVE,Unknown's,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Desconocido,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido,未知的
 ,,,,,,,,
-CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname},{Catname}的
+CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname},{Catname} 的
 CATNAME_POSSESSIVE_FORMAT_M,,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_F,,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_N,,,,,,,,
