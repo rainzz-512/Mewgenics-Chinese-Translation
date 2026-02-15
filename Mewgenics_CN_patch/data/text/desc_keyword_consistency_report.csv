@@ -96,10 +96,10 @@ abilities.csv,1954,ABILITY_SOOTHINGSHOT2_DESC,potential_bad_zh,Charmed,被迷惑
 \n"
 abilities.csv,1959,ABILITY_POISONLACE_DESC,missing_expected_zh,Poison,中毒,Give yourself or an adjacent unit +1 Poison Lace.,给自己或相邻单位 +1 毒缚。
 abilities.csv,1960,ABILITY_POISONLACE2_DESC,missing_expected_zh,Poison,中毒,Give yourself or any other unit +1 Poison Lace.,给自己或其他单位 +1 毒缚。
-abilities.csv,2024,ABILITY_SUPLEX2_DESC,missing_expected_zh,Immobile,无法移动,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.","抓住你面前的单位，
+abilities.csv,2024,ABILITY_SUPLEX2_DESC,missing_expected_zh,Immobile,定身,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.","抓住你面前的单位，
 \n将其猛击到你身后的格子中，
 \n造成3层挫伤和定身。"
-abilities.csv,2024,ABILITY_SUPLEX2_DESC,potential_bad_zh,Immobile,无法移动,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.","抓住你面前的单位，
+abilities.csv,2024,ABILITY_SUPLEX2_DESC,potential_bad_zh,Immobile,定身,"Grab a unit in front of you and slam it into the tile behind you, inflicting Bruise 3 and Immobile.","抓住你面前的单位，
 \n将其猛击到你身后的格子中，
 \n造成3层挫伤和定身。"
 abilities.csv,2026,ABILITY_MOVE_DESC,placeholder_mismatch,,,{he} go,移动
@@ -333,27 +333,27 @@ items.csv,1990,ARMOR_ROTTENARMOR_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a
 \n"
 items.csv,2022,ARMOR_SLIMYHAT_DESC,missing_expected_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2022,ARMOR_SLIMYHAT_DESC,potential_bad_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2024,ARMOR_SLIMYMASK_DESC,missing_expected_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2024,ARMOR_SLIMYMASK_DESC,potential_bad_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2026,ARMOR_SLIMYNECKLACE_DESC,missing_expected_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2026,ARMOR_SLIMYNECKLACE_DESC,potential_bad_zh,Immobile,无法移动,+15% chance to catch projectiles. Inflict Immobile 1 on units that contact you.,"+15% 几率捕捉投射物。
 \n对接触你的
-\n单位施加僵 定身 1。
+\n单位施加 定身 1。
 \n"
 items.csv,2178,SETBONUS_WOOLLY_DESC,missing_expected_zh,Charmed,被迷惑,Start with a Charmed Mammoth Baby.,以被魅惑的猛犸象宝宝开始。
 items.csv,2178,SETBONUS_WOOLLY_DESC,potential_bad_zh,Charmed,被迷惑,Start with a Charmed Mammoth Baby.,以被魅惑的猛犸象宝宝开始。
@@ -416,7 +416,7 @@ mutations.csv,48,MUTATION_EARS_342_DESC,missing_expected_zh,Charmed,被迷惑,20
 \n"
 mutations.csv,50,MUTATION_EARS_344_DESC,missing_expected_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
 mutations.csv,50,MUTATION_EARS_344_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
-mutations.csv,61,MUTATION_EARS_704_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得禁锢 1。
+mutations.csv,61,MUTATION_EARS_704_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得定身 1。
 mutations.csv,77,MUTATION_EYES_306_DESC,missing_expected_zh,Confusion,困惑,Your basic attack has a 10% chance to inflict Confusion 3.,"你的普通攻击有10%的几率造成迷惑3。
 \n"
 mutations.csv,102,MUTATION_EYES_338_DESC,missing_expected_zh,Burn,灼烧,Your basic attack inflicts Burn.,你的普通攻击造成燃烧效果。
@@ -430,7 +430,7 @@ mutations.csv,253,MUTATION_TAIL_334_DESC,missing_expected_zh,Burn,灼烧,Your ba
 mutations.csv,256,MUTATION_TAIL_338_DESC,missing_expected_zh,Burn,灼烧,Your basic attack inflicts Burn 1.,你的普通攻击造成燃烧 1。
 mutations.csv,259,MUTATION_TAIL_342_DESC,missing_expected_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
 mutations.csv,259,MUTATION_TAIL_342_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
-mutations.csv,260,MUTATION_TAIL_703_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得禁锢 1。
+mutations.csv,260,MUTATION_TAIL_703_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得定身 1。
 passives.csv,282,PASSIVE_PUTREFY2_DESCRIPTION,missing_expected_zh,Rot,腐烂,Your basic attack inflicts permanent Rot.,你的基础攻击会造成永久腐败。
 passives.csv,300,PASSIVE_HOOKED2_DESC,missing_expected_zh,Cleave,横扫,"You can use your hook 2 additional times on your turn.
 \nYour hook deals +1 damage and has Cleave.","你在你的回合中可以额外使用 2 次钩爪。
