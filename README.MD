@@ -13,6 +13,11 @@
 本补丁采用 **AI 辅助翻译 + 游戏内测试校对** 的方式制作，后续版本将持续优化翻译质量与术语统一。  
 欢迎提交反馈和修正建议。
 
+### v0.4 更新内容
+- 对 `events` 与 `npc_dialog` 进行了整体验证与本地化润色，提升语句自然度与上下文一致性  
+- 统一游戏内关键词翻译，并修复一小部分错翻与漏翻  
+- 更新能力与被动描述中的术语，统一为“装备槽”以提高翻译一致性
+
 ### v0.3 更新内容
 - 修复并优化残留的部分文本挤压、缩小显示问题  
 - 补充部分未翻译与翻译不完整的文本  
@@ -24,9 +29,23 @@
 - 恢复 `en` 列原版英文文本，修复语言无法正常切换的问题  
 - 多项文本细节与排版优化
 
+### 中文猫名征集（RFC）
+- 欢迎提交中文猫名建议，后续将评估并择优加入补丁  
+- 名字风格不限，可严肃、可搞怪、可古风、可现代  
+- 已新增空白模板：`Mewgenics_CN_patch/catnames_community_template.csv`  
+- 填写方式：第一列“男猫名字”、第二列“女猫”、第三列“中性”；每个单元格填写一个名字，可留空，不要改表头与列顺序  
+- 为避免争议与审核风险，以下类型不纳入：  
+   - 现实人物姓名（公众人物、创作者、主播等）  
+   - 违法违规、仇恨歧视、政治敏感、成人低俗内容  
+   - 明显侵权的商标/品牌名或受版权保护角色名  
+   - 恶意引战、攻击性、侮辱性词汇
+
 ### 致谢
 - 感谢 [DR9K69AI79](https://github.com/DR9K69AI79) 提供字体更改支持  
-- 感谢 [Supuritto](https://github.com/Supuritto) 同步游戏最新文本文档
+- 感谢 [Supuritto](https://github.com/Supuritto) 在补丁开发期间提供贡献与支持
+- 感谢 [TeddyHuang-00](https://github.com/TeddyHuang-00) 在补丁开发期间提供贡献与支持  
+- 感谢 [Xsakura1314](https://github.com/Xsakura1314) 在补丁开发期间提供贡献与支持  
+- 感谢 [Claude-yuliu](https://github.com/Claude-yuliu) 在补丁开发期间提供贡献与支持
 
 ### 安装方法
 1. 在 **Releases** 页面下载最新补丁  
@@ -81,6 +100,11 @@ This project provides a **Chinese translation patch for Mewgenics**, covering mo
 The translation is created using **AI-assisted translation and in-game testing**, and future updates will continue to improve translation quality and terminology consistency.  
 Feedback and correction suggestions are welcome.
 
+### v0.4 Changes
+- Performed full localization polish for `events` and `npc_dialog`, improving fluency and contextual consistency  
+- Unified in-game keyword translations and fixed a small subset of mistranslations/missing lines  
+- Updated terminology in ability/passive descriptions, standardizing to "装备槽" for consistency
+
 ### v0.3 Changes
 - Fixed and optimized remaining cases of compressed/shrunk text display  
 - Added some previously untranslated or partially translated text  
@@ -92,9 +116,23 @@ Feedback and correction suggestions are welcome.
 - Restored original English text in the `en` column, fixing language switching issues  
 - Minor text formatting and localization improvements
 
+### Chinese Cat Name RFC
+- We welcome community suggestions for Chinese cat names and will evaluate them for inclusion in future patch updates  
+- Any naming style is welcome (serious, playful, classical, modern, etc.)  
+- Added blank template: `Mewgenics_CN_patch/catnames_community_template.csv`  
+- How to fill: column 1 = male names, column 2 = female names, column 3 = neutral names; one name per cell, empty cells are allowed, and please keep the header and column order unchanged  
+- To avoid moderation and legal issues, the following categories are excluded:  
+   - Real-person names (public figures, creators, streamers, etc.)  
+   - Illegal, hateful, discriminatory, political-sensitive, explicit/sexual content  
+   - Clearly infringing trademark/brand names or copyrighted character names  
+   - Provocative, abusive, or harassment-oriented naming
+
 ### Acknowledgements
 - Thanks to [DR9K69AI79](https://github.com/DR9K69AI79) for font modification support  
-- Thanks to [Supuritto](https://github.com/Supuritto) for syncing the latest game text files
+- Thanks to [Supuritto](https://github.com/Supuritto) for contributions and support during patch development
+- Thanks to [TeddyHuang-00](https://github.com/TeddyHuang-00) for contributions and support during patch development  
+- Thanks to [Xsakura1314](https://github.com/Xsakura1314) for contributions and support during patch development  
+- Thanks to [Claude-yuliu](https://github.com/Claude-yuliu) for contributions and support during patch development
 
 ### Installation
 1. Download the latest patch from **Releases**  
