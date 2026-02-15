@@ -5393,8 +5393,7 @@ ABILITY_POCKETSAND_DESC,Inflict Blind on all units in a small cone.,,Inflige ceg
 ABILITY_POCKETSAND2_DESC,Inflict Blind 2 on all units in a larger cone.,,Inflige 2 de ceguera a todas las unidades en un área cónica más amplia.,Cécité&nbsp;+2&nbsp;à toutes les unités en large cône.,Verursache Blindheit&nbsp;2 bei allen Einheiten in einem größeren kegelförmigen Bereich.,Infliggi Accecamento 2 a tutte le unità in un cono più grande.,Aplique cegueira em todas as unidades em um cone maior.,"对较大锥形范围内的所有单位施加 2 层致盲。
 "
 ABILITY_NIGHTSHADE_NAME,Nightshade,,Belladona,Belladone,Nachtschatten,Belladonna,Beladona,龙葵
-ABILITY_NIGHTSHADE_DESC,Inflict Poison 4 on an adjacent unit.,,Inflige 4 de veneno a una unidad adyacente.,Poison&nbsp;+4&nbsp;à une unité adjacente.,Verursache Gift&nbsp;4 bei einer benachbarten Einheit.,Infliggi Veleno 4 a un'unità adiacente.,Aplique veneno 4 em uma unidade adjacente.,"对相邻单位施加 4 层中毒。
-"
+ABILITY_NIGHTSHADE_DESC,Inflict Poison 4 on an adjacent unit.,,Inflige 4 de veneno a una unidad adyacente.,Poison&nbsp;+4&nbsp;à une unité adjacente.,Verursache Gift&nbsp;4 bei einer benachbarten Einheit.,Infliggi Veleno 4 a un'unità adiacente.,Aplique veneno 4 em uma unidade adjacente.,对相邻单位施加 4 层中毒。
 ABILITY_NIGHTSHADE2_DESC,"Inflict Poison 4 on an adjacent unit.
 [s:.7](This spell costs less.)[/s]",,"Inflige 4 de veneno a una unidad adyacente.
 [s:.7](Este hechizo cuesta menos).[/s]",Poison&nbsp;+4&nbsp;à une unité adjacente. [s:.7](Coût réduit.)[/s],"Verursache Gift&nbsp;4 bei einer benachbarten Einheit.
@@ -5410,8 +5409,8 @@ ABILITY_SHADOWSHIFT_DESC,"Teleport exactly 2 tiles away, leaving behind a shadow
 [s:.7](Der Schatten verschwindet am Ende deines Zuges.)[/s]","Ti teletrasporti esattamente a 2 caselle di distanza, lasciando dietro di te un'ombra che imita il tuo attacco base.
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Teletransporte-se para exatamente 2 espaços de distância, deixando para trás uma sombra que copia seu ataque básico.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","传送至刚好 2 格远的位置，
-留下一个模仿你基础攻击的
-暗影。
+留下一个模仿你基础攻击的暗影。
+
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SHADOWSHIFT2_DESC,"Teleport up to 3 tiles away, leaving behind a shadow that mimics your basic attack.
 [s:.7](The shadow fades at the end of your turn.)[/s]",,"Se teletransporta 3 casillas y deja una sombra a su paso que copia el ataque básico.
@@ -5419,8 +5418,8 @@ ABILITY_SHADOWSHIFT2_DESC,"Teleport up to 3 tiles away, leaving behind a shadow 
 [s:.7](Der Schatten verschwindet am Ende deines Zuges.)[/s]","Ti teletrasporti fino a un massimo di 3 caselle di distanza, lasciando dietro di te un'ombra che imita il tuo attacco base.
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Teletransporte-se para exatamente 3 espaços de distância, deixando para trás uma sombra que copia seu ataque básico.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","传送至最多 3 格远的位置，
-留下一个模仿你基础攻击的
-暗影。
+留下一个模仿你基础攻击的暗影。
+
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SLINGSHADE_NAME,Slingshade,,Ataque de sombra,Double obscur,Schattenwurf,Ombra Trasferibile,Cópia Sombria,投射暗影
 ABILITY_SLINGSHADE_DESC,"Spawn a shadow up to 3 tiles away that mimics your basic attack.
@@ -5430,6 +5429,7 @@ ABILITY_SLINGSHADE_DESC,"Spawn a shadow up to 3 tiles away that mimics your basi
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Gere uma sombra que copia seu ataque básico em até 3 espaços de distância.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","在最多 3 格远的
 位置生成一个模仿你基础攻击的暗影。
+
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SLINGSHADE2_DESC,"Spawn a shadow up to 5 tiles away that mimics your basic attack.
 [s:.7](The shadow fades at the end of your turn.)[/s]
@@ -5443,39 +5443,30 @@ ABILITY_SLINGSHADE2_DESC,"Spawn a shadow up to 5 tiles away that mimics your bas
 [s:.7](A sombra desaparece no final do seu turno.)[/s]
 [s:.7](Este encantamento possui custo reduzido.)[/s]","在最多 5 格远的
 位置生成一个模仿你基础攻击的暗影。
+
 [s:.7](暗影会在回合结束时消失。)[/s]
 
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_CALTROPS_NAME,Caltrops,,Tetrápodo,Chausse-trappes,Krähenfüße,Piedi di Corvo,Estrepes,铁蒺藜
 ABILITY_CALTROPS_DESC,"Move up to 3 tiles, spreading glass shards on the tiles you walk through.",,Avanza hasta 3 casillas dispersando fragmentos de cristal sobre las casillas por las que pasa.,Vous vous déplacez de 3&nbsp;cases ou moins et laissez une traînée d'éclats de verre sur les cases sur votre passage.,"Bewege dich bis zu 3&nbsp;Felder und hinterlasse Scherben auf den Feldern, über die du gehst.","Ti muovi fino a 3 caselle di distanza, spargendo frammenti di vetro sulle caselle che attraversi.","Mova-se por até 3 espaços, espalhando fragmentos de vidro nos espaços pelos quais você passa.","移动最多 3 格，
-在经过的
-地块上撒布玻璃碎片。
-"
+在经过的地块上撒布玻璃碎片。"
 ABILITY_CALTROPS2_DESC,"Move up to 5 tiles, spreading glass shards on the tiles you walk through.",,Avanza hasta 5 casillas dispersando fragmentos de cristal sobre las casillas por las que pasa.,Vous vous déplacez de 5&nbsp;cases ou moins et laissez une traînée d'éclats de verre sur les cases sur votre passage.,"Bewege dich bis zu 5&nbsp;Felder und hinterlasse Scherben auf den Feldern, über die du gehst.","Ti muovi fino a 5 caselle di distanza, spargendo frammenti di vetro sulle caselle che attraversi.","Mova-se por até 5 espaços, espalhando fragmentos de vidro nos espaços pelos quais você passa.","移动最多 5 格，
-在经过的
-地块上撒布玻璃碎片。
-"
+在经过的地块上撒布玻璃碎片。"
 ABILITY_PIERCESHOT_NAME,Pierce Shot,,Tiro perforante,Tir perçant,Durchschlag,Colpo Perforante,Disparo Perfurante,穿透射击
-ABILITY_PIERCESHOT_DESC,Throw a nail that passes through units and ignores shield.,,Lanza 1 clavo que atraviesa a las unidades e ignora el escudo.,Vous lancez 1&nbsp;clou qui traverse les unités et ignore la défense.,"Wirf einen Nagel, der Einheiten durchbohrt und Schilde ignoriert.",Lanci un chiodo che attraversa le unità e ignora lo scudo.,Lance um prego que atravessa unidades e ignora escudos.,"掷出一枚钉子，
-穿透单位并无视护盾。
+ABILITY_PIERCESHOT_DESC,Throw a nail that passes through units and ignores shield.,,Lanza 1 clavo que atraviesa a las unidades e ignora el escudo.,Vous lancez 1&nbsp;clou qui traverse les unités et ignore la défense.,"Wirf einen Nagel, der Einheiten durchbohrt und Schilde ignoriert.",Lanci un chiodo che attraversa le unità e ignora lo scudo.,Lance um prego que atravessa unidades e ignora escudos.,"掷出一枚钉子，穿透单位并无视护盾。
 "
 ABILITY_PIERCESHOT2_DESC,Throw an infinite range nail that passes through units and ignores shield.,,Lanza 1 clavo con alcance ilimitado que atraviesa a las unidades e ignora el escudo.,Vous lancez 1&nbsp;clou sans limite de portée qui traverse les unités et ignore la défense.,"Wirf einen Nagel mit unendlicher Reichweite, der Einheiten durchbohrt und Schilde ignoriert.",Lanci un chiodo a raggio d'azione infinito che attraversa le unità e ignora lo scudo.,Lance um prego de alcance infinito que atravessa unidades e ignora escudos.,"掷出一枚无限射程的钉子，
-穿透单位并无视护盾。
-"
+穿透单位并无视护盾。"
 ABILITY_CHEAT_NAME,Cheat,,Juego sucio,Triche,Betrüger,Imbroglio,Trapaça,作弊
 ABILITY_CHEAT_DESC,Gain temporary +5 [img:lck] until your next turn.,,Obtiene +5 [img:lck] temporal hasta el próximo turno.,[img:lck] temporaire&nbsp;+5&nbsp;jusqu'à votre prochain tour.,Erhalte vorübergehend +5&nbsp;[img:lck] bis zu deinem nächsten Zug.,Ottieni +5 temporaneo alla [img:lck] fino al tuo prossimo turno.,Obtenha temporariamente +5 de [img:lck] até o seu próximo turno.,"获得临时 +5 [img:lck] 直到你的下一回合。
 "
 ABILITY_CHEAT2_DESC,Gain temporary +10 [img:lck] until your next turn.,,Obtiene +10 [img:lck] temporal hasta el próximo turno.,[img:lck] temporaire&nbsp;+10&nbsp;jusqu'à votre prochain tour.,Erhalte vorübergehend +10&nbsp;[img:lck] bis zu deinem nächsten Zug.,Ottieni +10 temporaneo alla [img:lck] fino al tuo prossimo turno.,Obtenha temporariamente +10 de [img:lck] até o seu próximo turno.,"获得临时 +10 [img:lck] 直到你的下一回合。
 "
 ABILITY_VENOMBARRAGE_NAME,Venom Barrage,,Descarga de veneno,Barrage vénéneux,Giftbeschuss,Raffica Velenosa,Salva de Veneno,剧毒弹幕
-ABILITY_VENOMBARRAGE_DESC,Throw a nail that inflicts Poison 1 and ignores shield at each enemy in your line of sight. ,,Lanza 1 clavo que inflige 1 de veneno e ignora el escudo de cada enemigo en su campo visual. ,Vous lancez 1&nbsp;clou qui inflige Poison&nbsp;+1&nbsp;et ignore la défense des ennemis dans votre ligne de mire.,"Wirf einen Nagel auf jeden Gegner in deiner Sichtlinie, der Gift&nbsp;1 verursacht und Schilde ignoriert. ",Lanci un chiodo che infligge Veleno 1 e ignora lo scudo contro ogni nemico all'interno del tuo campo visivo.,Lance um prego que ignora escudos e aplica veneno 1 em cada inimigo dentro do seu campo de visão.,"向视线内的
-每个敌人掷出一枚钉子，
-施加 1 层中毒
-并无视护盾。"
-ABILITY_VENOMBARRAGE2_DESC,Throw 2 nails that inflict Poison 1 and ignore shield at each enemy in your line of sight. ,,Lanza 2 clavos que infligen 1 de veneno e ignoran el escudo de cada enemigo en su campo visual. ,Vous lancez 2&nbsp;clous qui inflige Poison&nbsp;+1&nbsp;et ignore la défense des ennemis dans votre ligne de mire.,"Wirf zwei Nägel auf jeden Gegner in deiner Sichtlinie, die Gift&nbsp;1 verursachen und Schilde ignorieren. ",Lanci due chiodi che infliggono Veleno 1 e ignorano lo scudo contro ogni nemico all'interno del tuo campo visivo.,Lance 2 pregos que ignoram escudos e aplicam veneno 1 em cada inimigo dentro do seu campo de visão.,"向视线内的
-每个敌人掷出 2 枚钉子，
-施加 1 层中毒
-并无视护盾。"
+ABILITY_VENOMBARRAGE_DESC,Throw a nail that inflicts Poison 1 and ignores shield at each enemy in your line of sight. ,,Lanza 1 clavo que inflige 1 de veneno e ignora el escudo de cada enemigo en su campo visual. ,Vous lancez 1&nbsp;clou qui inflige Poison&nbsp;+1&nbsp;et ignore la défense des ennemis dans votre ligne de mire.,"Wirf einen Nagel auf jeden Gegner in deiner Sichtlinie, der Gift&nbsp;1 verursacht und Schilde ignoriert. ",Lanci un chiodo che infligge Veleno 1 e ignora lo scudo contro ogni nemico all'interno del tuo campo visivo.,Lance um prego que ignora escudos e aplica veneno 1 em cada inimigo dentro do seu campo de visão.,"向视线内的每个敌人掷出一枚钉子，
+施加 1 层中毒并无视护盾。"
+ABILITY_VENOMBARRAGE2_DESC,Throw 2 nails that inflict Poison 1 and ignore shield at each enemy in your line of sight. ,,Lanza 2 clavos que infligen 1 de veneno e ignoran el escudo de cada enemigo en su campo visual. ,Vous lancez 2&nbsp;clous qui inflige Poison&nbsp;+1&nbsp;et ignore la défense des ennemis dans votre ligne de mire.,"Wirf zwei Nägel auf jeden Gegner in deiner Sichtlinie, die Gift&nbsp;1 verursachen und Schilde ignorieren. ",Lanci due chiodi che infliggono Veleno 1 e ignorano lo scudo contro ogni nemico all'interno del tuo campo visivo.,Lance 2 pregos que ignoram escudos e aplicam veneno 1 em cada inimigo dentro do seu campo de visão.,"向视线内的每个敌人掷出 2 枚钉子，
+施加 1 层中毒并无视护盾。"
 ABILITY_LOOTCORPSE_NAME,Loot Corpse,,Saqueamiento de cadáver,Butin de cadavre,Leiche plündern,Bottino del Cadavere,Vasculhar Corpo,搜刮尸体
 ABILITY_LOOTCORPSE_DESC,"Loot 1-3 coins from a body... and possibly something else?
 [s:.7](This might destroy the body)[/s]",,"Saquea 1-3 monedas de un cadáver... y quizá alguna cosita más.
@@ -5500,19 +5491,14 @@ ABILITY_LOOTCORPSE2_DESC,"Loot 1-3 coins from a body... and possibly something e
 [s:.7](这可能不会摧毁尸体)[/s]
 [s:.7](你找到“别的东西”的几率显著增加。)[/s]"
 ABILITY_SEVERARTERY_NAME,Sever Artery,,Corte de arteria,Artère perforée,Arterie durchtrennen,Arteria Recisa,Cortar Artéria,割裂动脉
-ABILITY_SEVERARTERY_DESC,"A weak melee attack. If this crits, inflict Bleed 5.",,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige 5 de hemorragia.","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige Saignement&nbsp;+5.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen Blutung&nbsp;5.,"Un attacco corpo a corpo debole. Se è critico, infligge Sanguinamento 5.","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique sangramento 5.","一次微弱的近战攻击。
-如果暴击，施加 5 层流血。
-"
-ABILITY_SEVERARTERY2_DESC,A weak melee attack. If this crits inflict Bleed 5 and you gain All Stats Up.,,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige 5 de hemorragia y obtiene aumento total.","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige Saignement&nbsp;+5. Vous gagnez Hausse de stats.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen Blutung&nbsp;5 und verleihen dir einen Bonus auf alle Attribute.,"Un attacco corpo a corpo debole. Se è critico, infligge Sanguinamento 5 e ottieni Aumento delle Statistiche.","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique sangramento 5 e obtenha todos os atributos aumentados.","一次微弱的近战攻击。
-如果暴击，
-施加 5 层流血并且
-你获得全属性提升。
+ABILITY_SEVERARTERY_DESC,"A weak melee attack. If this crits, inflict Bleed 5.",,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige 5 de hemorragia.","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige Saignement&nbsp;+5.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen Blutung&nbsp;5.,"Un attacco corpo a corpo debole. Se è critico, infligge Sanguinamento 5.","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique sangramento 5.","一次微弱的近战攻击。如果暴击，
+施加 5 层流血。"
+ABILITY_SEVERARTERY2_DESC,A weak melee attack. If this crits inflict Bleed 5 and you gain All Stats Up.,,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige 5 de hemorragia y obtiene aumento total.","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige Saignement&nbsp;+5. Vous gagnez Hausse de stats.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen Blutung&nbsp;5 und verleihen dir einen Bonus auf alle Attribute.,"Un attacco corpo a corpo debole. Se è critico, infligge Sanguinamento 5 e ottieni Aumento delle Statistiche.","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique sangramento 5 e obtenha todos os atributos aumentados.","一次微弱的近战攻击。如果暴击，
+施加 5 层流血并且你获得全属性提升。
 "
 ABILITY_FADE_NAME,Fade,,Fundido,Disparition,Verschwinden,Dissolvenza,Apagamento,消隐
-ABILITY_FADE_DESC,Gain Stealth 1.,,Obtiene +1 Sigilo.,Furtivité&nbsp;+1.,Erhalte Schleichen&nbsp;1.,Ottieni Furtività 1.,Obtenha furtividade 1.,"获得 1 层潜行。
-"
-ABILITY_FADE2_DESC,Gain Stealth 2.,,Obtiene +2 Sigilo.,Furtivité&nbsp;+2.,Erhalte Schleichen&nbsp;2.,Ottieni Furtività 2.,Obtenha furtividade 2.,"获得 2 层潜行。
-"
+ABILITY_FADE_DESC,Gain Stealth 1.,,Obtiene +1 Sigilo.,Furtivité&nbsp;+1.,Erhalte Schleichen&nbsp;1.,Ottieni Furtività 1.,Obtenha furtividade 1.,获得 1 层潜行。
+ABILITY_FADE2_DESC,Gain Stealth 2.,,Obtiene +2 Sigilo.,Furtivité&nbsp;+2.,Erhalte Schleichen&nbsp;2.,Ottieni Furtività 2.,Obtenha furtividade 2.,获得 2 层潜行。
 ABILITY_SHARPENNAIL_NAME,Sharpen Nail,,Afilado de uñas,Clou affûté,Nägel schärfen,Chiodo Affilato,Afiar Prego,磨利钉子
 ABILITY_SHARPENNAIL_DESC,Gain +1 [img:dex] and +1 Range until the end of the battle.,,Obtiene +1 [img:dex] y +1 de alcance hasta el final del combate.,[img:dex]&nbsp;+1&nbsp;et Portée&nbsp;+1&nbsp;jusqu'à la fin du combat.,Erhalte bis zum Ende des Kampfes +1&nbsp;[img:dex] und +1&nbsp;Reichweite.,Ottieni +1 alla [img:dex] e +1 al raggio d'azione fino alla fine della battaglia.,Obtenha +1 de [img:dex] e +1 de alcance até o final da batalha.,"获得 +1 [img:dex] 和 +1 射程直到战斗结束。
 "
@@ -5540,25 +5526,18 @@ ABILITY_SHANKALT_DESC,An attack that hits 2 times from behind.,,Un ataque que go
 ABILITY_SHANKALT2_DESC,An attack that hits 3 times from behind.,,Un ataque que golpea por la espalda 3 veces.,Attaque qui frappe 3&nbsp;fois à l'arrière.,"Ein Angriff, der 3-mal von hinten trifft.",Un attacco che colpisce 3 volte da dietro.,Um ataque que golpeia 3 vezes por trás.,"一次从背后造成 3 次伤害的攻击。
 "
 ABILITY_STEALKIDNEY_NAME,Steal Kidney,,Robo de riñón,Vol de rein,Niere stehlen,Rubarene,Roubar Rim,偷肾
-ABILITY_STEALKIDNEY_DESC,"A melee attack with increased critical hit chance. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次暴击率增加的
-近战攻击。
-如果暴击且你的
-饰品槽为空，
-获得一个肾脏，
-然后施加 1 层流血。
+ABILITY_STEALKIDNEY_DESC,"A melee attack with increased critical hit chance. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次暴击率增加的近战攻击。
+如果暴击且你的饰品槽为空，
+获得一个肾脏，然后施加 1 层流血。
 "
-ABILITY_STEALKIDNEY2_DESC,"A melee attack with increased critical hit chance that inflicts Bleed and Bruise 1. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada que inflige hemorragia y 1 de moratón. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique, et qui inflige Saignement et Contusion&nbsp;+1. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance, der Blutung und Beulen&nbsp;1 verursacht. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata che infligge Sanguinamento e Livido 1. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico que aplica sangramento e contusão 1. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次暴击率增加的
-近战攻击，
-施加流血和 1 层
-淤伤。
-如果暴击且你的
-饰品槽为空，
-获得一个肾脏，
-然后施加 1 层流血。
+ABILITY_STEALKIDNEY2_DESC,"A melee attack with increased critical hit chance that inflicts Bleed and Bruise 1. If this crits and your trinket slot is empty, gain a kidney, then inflict Bleed 1.",,"Un ataque cuerpo a cuerpo con probabilidad de golpe crítico aumentada que inflige hemorragia y 1 de moratón. Si es un golpe crítico y el espacio de baratijas está vacío, obtiene un riñón e inflige 1 de hemorragia.","Attaque au corps-à-corps avec plus de chances de coup critique, et qui inflige Saignement et Contusion&nbsp;+1. Si elle inflige un coup critique et que votre emplacement d'accessoire est vide, vous récupérez un rein, puis infligez Saignement&nbsp;+1.","Ein Nahkampfangriff mit erhöhter kritischer Trefferchance, der Blutung und Beulen&nbsp;1 verursacht. Wenn er kritisch trifft und du kein Zubehör ausgerüstet hast, erhältst du eine Niere und verursachst Blutung&nbsp;1.","Un attacco corpo a corpo con probabilità di colpo critico aumentata che infligge Sanguinamento e Livido 1. Se questo colpo è critico e il tuo slot per il ciondolo è vuoto, ottieni un rene, poi infliggi Sanguinamento 1.","Um ataque corpo-a-corpo com maior chance de crítico que aplica sangramento e contusão 1. Caso seja crítico e seu espaço de acessório esteja vazio, obtenha um rim e aplique sangramento 1.","一次暴击率增加的近战攻击，
+施加流血和 1 层淤伤。
+如果暴击且你的饰品槽为空，
+获得一个肾脏，然后施加 1 层流血。
 "
 ABILITY_STEALLUCK_NAME,Steal Luck,,Robo de suerte,Chance volée,Glück stehlen,Rubafortuna,Roubar Sorte,窃取幸运
-ABILITY_STEALLUCK_DESC,"A weak melee attack. If this crits, inflict -1 [img:lck] and you gain +1 [img:lck].",,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige -1 [img:lck] y esta unidad obtiene +1 [img:lck].","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige [img:lck]&nbsp;-1. Vous gagnez [img:lck]&nbsp;+1.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen -1&nbsp;[img:lck] und du erhältst +1&nbsp;[img:lck].,"Un attacco corpo a corpo debole. Se è critico, infligge -1 alla [img:lck] e ti fa ottenere +1 alla [img:lck].","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique -1 de [img:lck] e obtenha +1 de [img:lck].","一次微弱的近战攻击。
-如果暴击，施加 -1 [img:lck] 且你获得 +1 [img:lck]。
+ABILITY_STEALLUCK_DESC,"A weak melee attack. If this crits, inflict -1 [img:lck] and you gain +1 [img:lck].",,"Un ataque cuerpo a cuerpo débil. Si es un golpe crítico, inflige -1 [img:lck] y esta unidad obtiene +1 [img:lck].","Faible attaque au corps-à-corps. Si elle inflige un coup critique, inflige [img:lck]&nbsp;-1. Vous gagnez [img:lck]&nbsp;+1.",Ein schwacher Nahkampfangriff. Kritische Treffer verursachen -1&nbsp;[img:lck] und du erhältst +1&nbsp;[img:lck].,"Un attacco corpo a corpo debole. Se è critico, infligge -1 alla [img:lck] e ti fa ottenere +1 alla [img:lck].","Um ataque corpo-a-corpo fraco. Caso seja crítico, aplique -1 de [img:lck] e obtenha +1 de [img:lck].","一次微弱的近战攻击。如果暴击，
+施加 -1 [img:lck] 且你获得 +1 [img:lck]。
 "
 ABILITY_STEALLUCK2_DESC,A weak melee attack that inflicts -1 [img:lck] and you gain +1 [img:lck].,,Un ataque cuerpo a cuerpo débil que inflige -1 [img:lck] y esta unidad obtiene +1 [img:lck].,Faible attaque au corps-à-corps qui inflige [img:lck]&nbsp;-1. Vous gagnez [img:lck]&nbsp;+1.,"Ein schwacher Nahkampfangriff, der -1&nbsp;[img:lck] verursacht. Du erhältst +1&nbsp;[img:lck].",Un attacco corpo a corpo debole che infligge -1 alla [img:lck] e ti fa ottenere +1 alla [img:lck].,Um ataque corpo-a-corpo fraco que aplica -1 de [img:lck] e concede a você +1 de [img:lck].,"一次微弱的近战攻击，
 施加 -1 [img:lck] 且你获得 +1 [img:lck]。
@@ -5580,12 +5559,10 @@ ABILITY_THIEFSWAP2_DESC,"Swap positions with any unit. Swap back at the end of y
 [s:.7](Um lançamento por turno.)[/s]","与任意单位交换位置。
 回合结束时换回。如果该单位是敌人，
 施加 1 层混乱。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_PIERCE_NAME,Pierce,,Perforación,Percée,Durchbohren,Perforazione,Perfurar,穿刺
 ABILITY_PIERCE_DESC,Gain +2 Range. Your attacks pass through units and ignore shield for the rest of the turn.,,Obtiene +2 de alcance. Los ataques atraviesan a las unidades e ignoran el escudo durante el resto del turno.,Portée&nbsp;+2. Vos attaques traversent les unités et ignore la défense pendant le reste du tour.,Erhalte +2&nbsp;Reichweite. Deine Angriffe durchbohren bis zum Ende des Zuges und ignorieren Schilde.,Ottieni +2 al raggio d'azione. I tuoi attacchi attraversano le unità e ignorano lo scudo per il resto del turno.,Obtenha +2 de alcance. Seus ataques atravessam unidades e ignoram escudos pelo resto do turno.,"获得 +2 射程。
-本回合你的
-攻击穿透单位并无视护盾。
+本回合你的攻击穿透单位并无视护盾。
 "
 ABILITY_PIERCE2_DESC,"Gain +4 Range. Your attacks pass through units and ignore shield for the rest of the turn.
 [s:.7](This spell costs less.)[/s]",,"Obtiene +4 de alcance. Los ataques atraviesan a las unidades e ignoran el escudo durante el resto del turno.
@@ -5593,8 +5570,7 @@ ABILITY_PIERCE2_DESC,"Gain +4 Range. Your attacks pass through units and ignore 
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ottieni +4 al raggio d'azione. I tuoi attacchi attraversano le unità e ignorano lo scudo per il resto del turno.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +4 de alcance. Seus ataques atravessam unidades e ignoram escudos pelo resto do turno.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +4 射程。
-本回合你的
-攻击穿透单位并无视护盾。
+本回合你的攻击穿透单位并无视护盾。
 
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_WINDUP_NAME,Wind Up,,Fastidio,Nouveau souffle,Vorbereitung,Caricamento,Dando Corda,蓄力
@@ -5602,12 +5578,12 @@ ABILITY_WINDUP_DESC,Gain +1 Range for the rest of the turn.,,Obtiene +1 de alcan
 ABILITY_WINDUP2_DESC,Gain +1 Range.,,Obtiene +1 de alcance.,Portée&nbsp;+1.,Erhalte +1&nbsp;Reichweite.,Ottieni +1 al raggio d'azione.,Obtenha +1 de alcance.,获得 +1 射程。
 ABILITY_TRIPLENAILS_NAME,Triple Nails,,Triple clavo,Triple clou,Dreifachnagel,Chiodi Tripli,Prego Triplo,三连钉
 ABILITY_TRIPLENAILS_DESC,Throw 3 nails straight and diagonally in front of you. These nails have the effects of your basic attack and ignore shield.,,Lanza 3 clavos en línea recta y en diagonal delante de esta unidad. Esos clavos tienen los efectos del ataque básico e ignoran el escudo.,Vous lancez 3&nbsp;clous devant vous et en diagonale. Ces clous possèdent les effets de votre attaque de base et ignorent la défense.,Wirf 3&nbsp;Nägel gerade und diagonal nach vorn. Die Nägel besitzen die gleichen Eigenschaften wie dein Grundangriff und ignorieren Schilde.,Lanci 3 chiodi in linea retta e in diagonale davanti a te. Questi chiodi hanno gli effetti del tuo attacco base e ignorano lo scudo.,Lance 3 pregos para frente em linha reta e diagonalmente. Esses pregos possuem os efeitos do seu ataque básico e ignoram escudos.,"向你前方直线和对角线方向掷出 3 枚钉子。
-这些钉子具有你基础攻击的
-效果并无视护盾。"
+这些钉子具有你基础攻击的效果并无视护盾。
+"
 ABILITY_TRIPLENAILS2_DESC,Throw 3 nails straight and diagonally in front of you 2 times. These nails have the effects of your basic attack and ignore shield.,,Lanza 3 clavos en línea recta y en diagonal 2 veces delante de esta unidad. Esos clavos tienen los efectos del ataque básico e ignoran el escudo.,Vous lancez 3&nbsp;clous devant vous et en diagonale 2&nbsp;fois. Ces clous possèdent les effets de votre attaque de base et ignorent la défense.,Wirf zweimal 3&nbsp;Nägel gerade und diagonal nach vorn. Die Nägel besitzen die gleichen Eigenschaften wie dein Grundangriff und ignorieren Schilde.,Lanci 3 chiodi in linea retta e in diagonale davanti a te per 2 volte. Questi chiodi hanno gli effetti del tuo attacco base e ignorano lo scudo.,"Lance 3 pregos para frente em linha reta e diagonalmente, 2 vezes. Esses pregos possuem os efeitos do seu ataque básico e ignoram escudos.","向你前方直线和对角线方向掷出 3 枚钉子，
 重复 2 次。
-这些钉子具有你基础攻击的
-效果并无视护盾。"
+这些钉子具有你基础攻击的效果并无视护盾。
+"
 ABILITY_SKINDISGUISE_NAME,Skin Disguise,,Disfraz de piel,Leurre cadavérique,Tarnhaut,Travestimento di Pelle,Troca-Peles,皮囊伪装
 ABILITY_SKINDISGUISE_DESC,"Destroy an adjacent body. Enemies won't attack you until your next turn.
 [s:.7](Castable once per turn.)[/s]",,"Destruye un cadáver adyacente. Los enemigos no atacarán a esta unidad hasta el próximo turno.
@@ -5629,31 +5605,21 @@ ABILITY_SKINDISGUISE2_DESC,"Destroy a body in range 3. Enemies won't attack you 
 [s:.7](此法术免费。每回合限施放一次。)[/s]"
 ABILITY_CHAKRAM_NAME,Chakram,,Chakram,Chakram,Chakram,Chakram,Chakram,环刃
 ABILITY_CHAKRAM_DESC,Throw a projectile that passes through units and then returns to you. This can collect pickups.,,Lanza un proyectil que atraviesa a las unidades y luego regresa con esta unidad. Puede recolectar recogibles.,Vous lancez un projectile qui traverse les unités et revient vers vous. Il peut récupérer les ressources.,"Wirf ein Geschoss, das Einheiten durchbohrt und zu dir zurückkehrt. Das Geschoss kann Gegenstände einsammeln.",Lanci un proiettile che attraversa le unità e poi torna da te. Può prendere dei raccoglibili.,Lance um projétil que atravessa unidades e retorna para você. Isto pode pegar coletáveis.,"掷出一个穿透单位然后返回你手中的投射物。
-这可以收集掉落物。
-"
+这可以收集掉落物。"
 ABILITY_CHAKRAM2_DESC,"Throw a projectile that passes through units and then returns to you. At its apex, it deals increased damage and always crits. This can collect pickups.",,"Lanza un proyectil que atraviesa a las unidades y luego regresa con esta unidad. Puede recolectar recogibles. En su punto álgido, inflige más daño y siempre realiza golpes críticos. Puede recolectar recogibles.","Vous lancez un projectile qui traverse les unités et revient vers vous. À son apogée, il inflige plus de dégâts qui sont toujours critiques. Il peut récupérer les ressources.","Wirf ein Geschoss, das Einheiten durchbohrt und zu dir zurückkehrt. An seinem weitesten Punkt verursacht es erhöhten Schaden und trifft immer kritisch. Das Geschoss kann Gegenstände einsammeln.",Lanci un proiettile che attraversa le unità e poi torna da te. Al suo apice infligge danno aumentato ed è sempre critico. Può prendere dei raccoglibili.,"Lance um projétil que atravessa unidades e retorna para você. Em seu ápice, ele causa maior dano e é sempre crítico. Isto pode pegar coletáveis.","掷出一个穿透单位然后返回你手中的投射物。
 在到达最远点时，
 造成的伤害增加且必定暴击。
-这可以收集掉落物。
-"
+这可以收集掉落物。"
 ABILITY_JITTER_NAME,Jitter,,Terror,Chair de poule,Bibbern,Tremolio,Nervosismo,战栗
-ABILITY_JITTER_DESC,Inflict Confusion 1 on each adjacent unit.,,Inflige 1 de confusión a cada unidad adyacente.,Confusion&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei jeder benachbarten Einheit Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità adiacente.,Aplique confusão 1 em cada unidade adjacente.,"对每个相邻单位施加 1 层混乱。"
+ABILITY_JITTER_DESC,Inflict Confusion 1 on each adjacent unit.,,Inflige 1 de confusión a cada unidad adyacente.,Confusion&nbsp;+1&nbsp;à toutes les unités adjacentes.,Verursache bei jeder benachbarten Einheit Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità adiacente.,Aplique confusão 1 em cada unidade adjacente.,"对每个相邻单位施加 1 层混乱。
+"
 ABILITY_JITTER2_DESC,Inflict Confusion 1 on each unit within 3 tiles of you.,,Inflige 1 de confusión a cada unidad en un radio de 3 casillas.,Confusion&nbsp;+1&nbsp;à toutes les unités dans un rayon de 3&nbsp;cases.,Verursache bei jeder Einheit in bis zu 3&nbsp;Feldern Entfernung Verwirrung&nbsp;1.,Infliggi Confusione 1 a ogni unità entro 3 caselle da te.,Aplique confusão 1 em cada unidade dentro de 3 espaços de distância de você.,"对你 3 格范围内的
-每个单位施加 1 层混乱。
-"
+每个单位施加 1 层混乱。"
 ABILITY_STEALTIME_NAME,Steal Time,,Robo de tiempo,Vol temporel,Zeit stehlen,Rubatempo,Roubo de Tempo,偷取时间
-ABILITY_STEALTIME_DESC,"A melee attack. If this crits, refresh your basic attack and movement actions.",,"Un ataque cuerpo a cuerpo. Si es un golpe crítico, restaura el ataque básico y las acciones de movimiento.","Attaque au corps-à-corps. Si elle inflige un coup critique, votre attaque de base et votre action de déplacement sont rechargées.",Ein Nahkampfangriff. Kritische Treffer frischen deinen Grundangriff und deine Bewegungsaktionen auf.,"Un attacco corpo a corpo. Se risulta critico, ricarichi il tuo attacco base e le azioni di movimento.","Um ataque corpo-a-corpo. Caso seja crítico, reinicie suas ações de ataque básico e movimento.","一次近战攻击。
-如果暴击，
-刷新你的
-基础攻击
-和移动行动。
-"
-ABILITY_STEALTIME2_DESC,"A melee attack with +30% crit chance. If this crits, refresh your basic attack and movement actions.",,"Un ataque cuerpo a cuerpo con un 30 % de probabilidad de crítico. Si es un golpe crítico, restaura el ataque básico y las acciones de movimiento.","Attaque au corps-à-corps avec Chances de coup critique&nbsp;+30&nbsp;%. Si elle inflige un coup critique, votre attaque de base et votre action de déplacement sont rechargées.",Ein Nahkampfangriff mit +30&nbsp;% kritischer Trefferchance. Kritische Treffer frischen deinen Grundangriff und deine Bewegungsaktionen auf.,"Un attacco corpo a corpo con +30% di probabilità di colpo critico. Se risulta critico, ricarichi il tuo attacco base e le azioni di movimento.","Um ataque corpo-a-corpo com +30% de chance de crítico. Caso seja crítico, reinicie suas ações de ataque básico e movimento.","一次暴击率 +30% 的
-近战攻击。
-如果暴击，
-刷新你的
-基础攻击
-和移动行动。
+ABILITY_STEALTIME_DESC,"A melee attack. If this crits, refresh your basic attack and movement actions.",,"Un ataque cuerpo a cuerpo. Si es un golpe crítico, restaura el ataque básico y las acciones de movimiento.","Attaque au corps-à-corps. Si elle inflige un coup critique, votre attaque de base et votre action de déplacement sont rechargées.",Ein Nahkampfangriff. Kritische Treffer frischen deinen Grundangriff und deine Bewegungsaktionen auf.,"Un attacco corpo a corpo. Se risulta critico, ricarichi il tuo attacco base e le azioni di movimento.","Um ataque corpo-a-corpo. Caso seja crítico, reinicie suas ações de ataque básico e movimento.","一次近战攻击。如果暴击，
+刷新你的基础攻击和移动行动。"
+ABILITY_STEALTIME2_DESC,"A melee attack with +30% crit chance. If this crits, refresh your basic attack and movement actions.",,"Un ataque cuerpo a cuerpo con un 30 % de probabilidad de crítico. Si es un golpe crítico, restaura el ataque básico y las acciones de movimiento.","Attaque au corps-à-corps avec Chances de coup critique&nbsp;+30&nbsp;%. Si elle inflige un coup critique, votre attaque de base et votre action de déplacement sont rechargées.",Ein Nahkampfangriff mit +30&nbsp;% kritischer Trefferchance. Kritische Treffer frischen deinen Grundangriff und deine Bewegungsaktionen auf.,"Un attacco corpo a corpo con +30% di probabilità di colpo critico. Se risulta critico, ricarichi il tuo attacco base e le azioni di movimento.","Um ataque corpo-a-corpo com +30% de chance de crítico. Caso seja crítico, reinicie suas ações de ataque básico e movimento.","一次暴击率 +30% 的近战攻击。
+如果暴击，刷新你的基础攻击和移动行动。
 "
 ABILITY_OUTSKIRTS_NAME,Outskirts,,Afueras,Périphérie,Randgebiet,Periferia,Arredores,边缘地带
 ABILITY_OUTSKIRTS_DESC,Teleport to a tile on the edge of the map.,,Se teletransporta a una casilla al borde del mapa.,Vous vous téléportez sur une case au bord de la carte.,Teleportiere dich auf ein Feld am Rand der Karte.,Ti teletrasporti su una casella sul bordo della mappa.,Teletransporte-se para um espaço no limiar do mapa.,传送到地图边缘的一个地块。
@@ -5667,9 +5633,7 @@ ABILITY_POISONDIP_DESC,"Spend all your mana. For every 5 mana spent, your basic 
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Gaste toda a sua mana. Para cada 5 pontos de mana gastos, seu ataque básico aplica +1 de veneno.
 [s:.7](Um lançamento por batalha.)[/s]","消耗你所有的法力。
 每消耗 5 点法力，
-你的
-基础攻击
-施加 +1 中毒。
+你的基础攻击施加 +1 中毒。
 
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_POISONDIP2_DESC,"Spend all your mana. For every 3 mana spent, your basic attack inflicts +1 Poison.
@@ -5679,9 +5643,7 @@ ABILITY_POISONDIP2_DESC,"Spend all your mana. For every 3 mana spent, your basic
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Gaste toda a sua mana. Para cada 3 pontos de mana gastos, seu ataque básico aplica +1 de veneno.
 [s:.7](Um lançamento por batalha.)[/s]","消耗你所有的法力。
 每消耗 3 点法力，
-你的
-基础攻击
-施加 +1 中毒。
+你的基础攻击施加 +1 中毒。
 
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_LUCKYPENNY_NAME,Lucky Penny,,Penique de la suerte,Pièce porte-bonheur,Glückspfennig,Penny Fortunato,Moeda da Sorte,幸运硬币
@@ -5698,38 +5660,34 @@ ABILITY_LINESHOT2_DESC,A stronger attack that hits all units in a straight line.
 "
 ABILITY_HAILOFNAILS_NAME,Hail of Nails,,Lluvia de clavos,Grêle de clous,Nagelhagel,Grandine di Chiodi,Chuva de Pregos,钉雨
 ABILITY_HAILOFNAILS_DESC,An attack that hits all units in a perpendicular line.,,Un ataque que golpea a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft.",Un attacco che colpisce tutte le unità in linea perpendicolare.,Um ataque que golpeia todas as unidades em uma linha perpendicular.,攻击垂直线上所有单位的招式。
-ABILITY_HAILOFNAILS2_DESC,An attack that hits and Immobilizes all units in a perpendicular line.,,Un ataque que golpea e inflige inmovilización a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire et leur inflige Immobilisation.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft und sie bewegungsunfähig macht.",Un attacco che colpisce e infligge Immobilizzazione a tutte le unità in linea perpendicolare.,Um ataque que golpeia e imobiliza todas as unidades em uma linha perpendicular.,"攻击并定身垂直线上所有单位的招式。"
-ABILITY_SPAWNMAGGOTFRIEND_NAME,Spawn Maggot Friend,,Generación de gusano aliado,Invocation d'asticot,Madenfreund rufen,Evoca Larva Amica,Verme Amigo,召唤蛆虫朋友
-ABILITY_SPAWNMAGGOTFRIEND_DESC,Spawn a maggot familiar.,,Genera un familiar gusano.,Vous faites apparaître un asticot de compagnie.,Rufe einen Madenbegleiter.,Evochi un famiglio larva.,Gere um familiar verme.,"召唤一个蛆虫使魔。"
-ABILITY_SPAWNMAGGOTFRIEND2_DESC,Spawn a [img:champion] maggot familiar.,,Genera un familiar gusano [img:champion].,Vous faites apparaître un asticot de compagnie [img:champion].,Rufe einen [img:champion] Madenbegleiter.,Evochi un famiglio larva [img:champion].,Gere um [img:champion] familiar verme.,"召唤一个 [img:champion] 蛆虫
-使魔。"
-ABILITY_SPAWNPOOTERFRIEND_NAME,Spawn Pooter Friend,,Generación de moscón aliado,Invocation de mouche cracheuse,Pupserfreund rufen,Evoca Puzzone Amico,Gerar Amigo Pooter,召唤狙击蝇朋友
-ABILITY_SPAWNPOOTERFRIEND_DESC,Spawn a pooter familiar.,,Genera 1 familiar moscón.,Vous faites apparaître une mouche cracheuse de compagnie.,Rufe einen Pupserbegleiter.,Evochi un famiglio puzzone.,Gere um familiar pooter.,"召唤一个狙击蝇使魔。"
-ABILITY_SPAWNPOOTERFRIEND2_DESC,Spawn 2 pooter familiars.,,Genera 2 familiares moscones.,Vous faites apparaître 2&nbsp;mouches cracheuses de compagnie.,Rufe zwei Pupserbegleiter.,Evochi 2 famigli puzzone.,Gere dois familiares pooters.,"召唤 2 个狙击蝇
-使魔。"
-ABILITY_MARKED_NAME,Marked,,Punto de mira,Marqué,Markieren,Marchio,Marcação,标记
-ABILITY_MARKED_DESC,Inflict Marked on a unit.,,Inflige punto de mira a una unidad.,Inflige Marqué à une unité.,Verursache Markiert bei einer Einheit.,Infliggi Marchio a un'unità.,Aplique marcação em uma unidade.,"对一个单位施加标记。
+ABILITY_HAILOFNAILS2_DESC,An attack that hits and Immobilizes all units in a perpendicular line.,,Un ataque que golpea e inflige inmovilización a todas las unidades en una línea perpendicular.,Attaque qui touche toutes les unités en perpendiculaire et leur inflige Immobilisation.,"Ein Angriff, der alle Einheiten in einer senkrechten Linie trifft und sie bewegungsunfähig macht.",Un attacco che colpisce e infligge Immobilizzazione a tutte le unità in linea perpendicolare.,Um ataque que golpeia e imobiliza todas as unidades em uma linha perpendicular.,"攻击并定身垂直线上所有单位的招式。
 "
-ABILITY_MARKED2_DESC,Inflict Marked on a unit and all other units of the same type.,,Inflige punto de mira a una unidad y a todas las demás unidades del mismo tipo.,Inflige Marqué à une unité et aux unités du même type.,Verursache Markiert bei einer Einheit und allen anderen Einheiten ihres Typs.,Infliggi Marchio a un'unità e a tutte le altre unità dello stesso tipo.,Aplique marcação em uma unidade e em todas as outras unidades do mesmo tipo.,"对一个单位及其所有同类型单位
-施加标记。"
+ABILITY_SPAWNMAGGOTFRIEND_NAME,Spawn Maggot Friend,,Generación de gusano aliado,Invocation d'asticot,Madenfreund rufen,Evoca Larva Amica,Verme Amigo,召唤蛆虫朋友
+ABILITY_SPAWNMAGGOTFRIEND_DESC,Spawn a maggot familiar.,,Genera un familiar gusano.,Vous faites apparaître un asticot de compagnie.,Rufe einen Madenbegleiter.,Evochi un famiglio larva.,Gere um familiar verme.,召唤一个蛆虫使魔。
+ABILITY_SPAWNMAGGOTFRIEND2_DESC,Spawn a [img:champion] maggot familiar.,,Genera un familiar gusano [img:champion].,Vous faites apparaître un asticot de compagnie [img:champion].,Rufe einen [img:champion] Madenbegleiter.,Evochi un famiglio larva [img:champion].,Gere um [img:champion] familiar verme.,召唤一个 [img:champion] 蛆虫使魔。
+ABILITY_SPAWNPOOTERFRIEND_NAME,Spawn Pooter Friend,,Generación de moscón aliado,Invocation de mouche cracheuse,Pupserfreund rufen,Evoca Puzzone Amico,Gerar Amigo Pooter,召唤狙击蝇朋友
+ABILITY_SPAWNPOOTERFRIEND_DESC,Spawn a pooter familiar.,,Genera 1 familiar moscón.,Vous faites apparaître une mouche cracheuse de compagnie.,Rufe einen Pupserbegleiter.,Evochi un famiglio puzzone.,Gere um familiar pooter.,召唤一个狙击蝇使魔。
+ABILITY_SPAWNPOOTERFRIEND2_DESC,Spawn 2 pooter familiars.,,Genera 2 familiares moscones.,Vous faites apparaître 2&nbsp;mouches cracheuses de compagnie.,Rufe zwei Pupserbegleiter.,Evochi 2 famigli puzzone.,Gere dois familiares pooters.,召唤 2 个狙击蝇使魔。
+ABILITY_MARKED_NAME,Marked,,Punto de mira,Marqué,Markieren,Marchio,Marcação,标记
+ABILITY_MARKED_DESC,Inflict Marked on a unit.,,Inflige punto de mira a una unidad.,Inflige Marqué à une unité.,Verursache Markiert bei einer Einheit.,Infliggi Marchio a un'unità.,Aplique marcação em uma unidade.,对一个单位施加标记。
+ABILITY_MARKED2_DESC,Inflict Marked on a unit and all other units of the same type.,,Inflige punto de mira a una unidad y a todas las demás unidades del mismo tipo.,Inflige Marqué à une unité et aux unités du même type.,Verursache Markiert bei einer Einheit und allen anderen Einheiten ihres Typs.,Infliggi Marchio a un'unità e a tutte le altre unità dello stesso tipo.,Aplique marcação em uma unidade e em todas as outras unidades do mesmo tipo.,"对一个单位及其所有同类型单位施加标记。
+"
 ABILITY_SCATTERSHOT_NAME,Scatter Shot,,Tiro de dispersión,Tir éparpillé,Streuschuss,Tiro Frammentato,Tiro Espalhado,散射
 ABILITY_SCATTERSHOT_DESC,Fire a bunch of shots randomly in an area.,,Dispara un montón de tiros al azar en un área.,Vous tirez plusieurs fois au hasard dans une zone.,Gib zufällige Schüsse auf einen bestimmten Bereich ab.,Spari una serie di colpi casuali in un'area.,Realize diversos disparos aleatoriamente em uma área.,向一个区域随机发射一堆子弹。
 ABILITY_SCATTERSHOT2_DESC,Fire a bunch of shots randomly in a large area.,,Dispara un montón de tiros al azar en un área amplia.,Vous tirez plusieurs fois au hasard dans une vaste zone.,Gib zufällige Schüsse auf einen größeren bestimmten Bereich ab.,Spari una serie di colpi casuali in un'area più ampia.,Realize diversos disparos aleatoriamente em uma área grande.,"向一个大区域随机发射一堆子弹。
 "
 ABILITY_BRAMBLESHOT_NAME,Bramble Shot,,Tiro de zarzas,Tir de ronces,Gestrüppschuss,Tiro di Rovi,Tiro de Espinheiros,荆棘射击
-ABILITY_BRAMBLESHOT_DESC,Fire a shot that spawns brambles in an area.,,Dispara un tiro que genera zarzas en un área.,Votre tir génère des ronces dans une zone.,"Feuere einen Schuss ab, der Dornengestrüpp in einem bestimmten Bereich erscheinen lässt.",Spari un colpo che genera rovi in un'area.,Realize um disparo que gera espinheiros em uma área.,"发射一发子弹，
-在一个区域生成荆棘丛。
+ABILITY_BRAMBLESHOT_DESC,Fire a shot that spawns brambles in an area.,,Dispara un tiro que genera zarzas en un área.,Votre tir génère des ronces dans une zone.,"Feuere einen Schuss ab, der Dornengestrüpp in einem bestimmten Bereich erscheinen lässt.",Spari un colpo che genera rovi in un'area.,Realize um disparo que gera espinheiros em uma área.,"发射一发子弹，在一个区域生成荆棘丛。
 "
-ABILITY_BRAMBLESHOT2_DESC,Fire a shot that spawns brambles in a large area.,,Dispara un tiro que genera zarzas en un área amplia.,Votre tir génère des ronces dans une vaste zone.,"Feuere einen Schuss ab, der Dornengestrüpp in einem größeren bestimmten Bereich erscheinen lässt.",Spari un colpo che genera rovi in un'area più grande.,Realize um disparo que gera espinheiros em uma área grande.,"发射一发子弹，
-在一个大区域生成荆棘丛。
+ABILITY_BRAMBLESHOT2_DESC,Fire a shot that spawns brambles in a large area.,,Dispara un tiro que genera zarzas en un área amplia.,Votre tir génère des ronces dans une vaste zone.,"Feuere einen Schuss ab, der Dornengestrüpp in einem größeren bestimmten Bereich erscheinen lässt.",Spari un colpo che genera rovi in un'area più grande.,Realize um disparo que gera espinheiros em uma área grande.,"发射一发子弹，在一个大区域生成荆棘丛。
 "
 ABILITY_BEARTRAP_NAME,Bear Trap,,Cepo para osos,Piège à ours,Bärenfalle,Trappola per Orsi,Armadilha de Urso,捕兽夹
 ABILITY_BEARTRAP_DESC,Set a trap within 5 tiles that damages and immobilizes units that walk over it.,,Coloca una trampa en un radio de 5 casillas que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège dans un rayon de 5&nbsp;cases qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle innerhalb von 5&nbsp;Feldern, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola entro 5 caselle che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha dentro de 5 espaços de distância que causa dano e imobiliza unidades que andam sobre ela.,"在 5 格范围内设置一个陷阱，
-对踩上的
-单位造成伤害并使其定身。"
+对踩上的单位造成伤害并使其定身。
+"
 ABILITY_BEARTRAP2_DESC,Set a trap on any tile that damages and immobilizes units that walk over it.,,Coloca una trampa en cualquier casilla que inflige daño e inmovilización a las unidades que caminan sobre ella.,Vous installez un piège sur une case qui inflige des dégâts aux unités qui marchent dessus et les immobilise.,"Lege eine Falle auf ein beliebiges Feld, die bei Einheiten, die über ihr Feld gehen, Schaden verursacht und sie bewegungsunfähig macht.",Piazzi una trappola su qualsiasi casella che infligge danno e immobilizza le unità che la attraversano.,Prepare uma armadilha em qualquer espaço espaços que causa dano e imobiliza unidades que andam sobre ela.,"在任意地块设置一个陷阱，
-对踩上的
-单位造成伤害并使其定身。"
+对踩上的单位造成伤害并使其定身。
+"
 ABILITY_HARPOON_NAME,Harpoon,,Arpón,Harpon,Harpune,Arpione,Arpão,鱼叉
 ABILITY_HARPOON_DESC,Hook onto something in a straight line and drag yourself to it.,,Se engancha a algo en línea recta y atrae a esta unidad hacia ese objeto.,Vous hameçonnez quelque chose en ligne droite et la ramenez vers vous.,Wirf einen Haken auf etwas in einer geraden Linie und zieh dich an seine Position heran.,Agganci qualcosa in linea retta e ti trascini in quella direzione.,Enganche-se em algo em uma linha reta e arraste-se até lá.,"钩住直线上的某物并将自己拉向它。
 "
