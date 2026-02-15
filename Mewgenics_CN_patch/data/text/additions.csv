@@ -210,44 +210,30 @@ DISORDER_CHUNGUS_NAME,Chungus,slang for something big and/or fat,Chungus,Énorme
 DISORDER_CHUNGUS_DESC,,purposely empty,,,,,,
 ,,,,,,,,
 QEVENT_MEATALTAR_REW2B,"{Catname} lies sacrificed on top of the altar. The altar is pleased.
-
 The remaining cats feel strengthened, and one of them begrudgingly pulls on {catname}'s corpse, salvaging it for useful parts.
 ","(just the same text as the other one minus the ""its pleased but not satisfied"" for after the altar's main desire has been completed)","El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme.
-
 Los otros gatos se sienten fortalecidos. A regañadientes, uno de ellos coge el cadáver de {catname} en busca de algo que pueda aprovecharse.
 ","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
-
 Les chats restants se sentent plus forts, et l'un d'eux, à contrecœur, dépiaute le cadavre pour en tirer des pièces utiles.","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
-
 Die verbleibenden Katzen fühlen sich stärker. Eine von ihnen durchsucht zögerlich die Leiche von {catname} und nimmt alles Nützliche mit.
 ","{Catname} giace in cima all'altare dopo il sacrificio. L'altare è compiaciuto.
-
 I gatti rimasti si sentono rinvigoriti, e uno di loro tira via il cadavere di {catname} a malincuore, recuperando le parti ancora utili.","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
-
 Os gatos restantes se sentem fortalecidos, e um deles relutantemente puxa o corpo de {catname}, recuperando-o para salvar suas partes úteis.","{Catname} 被献祭在祭坛之上。祭坛很满意。
-
 剩下的猫感到力量增强了，其中一只不情愿地拉扯着 {catname} 的尸体，回收了有用的部分。
 "
 QEVENT_MEATALTAR_REW2B_M,,,,,,,,
 QEVENT_MEATALTAR_REW2B_F,,,,,,,,
 QEVENT_MEATALTAR_REW2B_N,,,,,,,,
 QEVENT_MEATALTAR_REW3B,"{Catname} lies sacrificed on top of the altar. The altar is pleased.
-
 The remaining cats feel great though!
 ","(just the same text as the other one minus the ""its pleased but not satisfied"" for after the altar's main desire has been completed)","El cuerpo sacrificado de {Catname} yace sobre el altar, que está conforme
-
 Eso sí, ¡los otros gatos se sienten genial!
 ","{Catname} s'est fait sacrifier sur l'autel. Celui-ci est satisfait.
-
 À part ça, les autres chats pètent le feu&nbsp;!","{Catname} liegt als Opfer auf dem Altar. Der Altar ist besänftigt.
-
 Die verbleibenden Katzen fühlen sich großartig!
 ","{Catname} giace in cima all'altare dopo il sacrificio. L'altare è compiaciuto.
-
 Gli altri gatti però si sentono alla grande!","{Catname} jaz sobre o altar após seu sacrifício. O altar foi agraciado.
-
 Os gatos restantes estão se sentindo ótimos!","{Catname} 被献祭在祭坛之上。祭坛很满意。
-
 不过剩下的猫感觉棒极了！
 "
 QEVENT_MEATALTAR_REW3B_M,,,,,,,,

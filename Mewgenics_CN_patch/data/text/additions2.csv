@@ -23,68 +23,41 @@ EVENT_TRACY_REW3B,"[i]""Here, have some food.""[/i]",,"«Toma, tengo comida».",
 ,,,,,,,,
 QEVENT_STACYMUTANT1_NAME,Stacy Experiment,,Experimento de Stacy,Expérience Stacy,Stacys Experiment,Esperimento di Stacy,Experimento de Stacy,斯泰西的实验
 QEVENT_STACYMUTANT1_QUES1,"{catname} finds a large machine with several buttons.
-
 Through the transparent window {he} sees a strange cat with an extra head.",First time seeing event only.,"{catname} encuentra una máquina enorme con botones.
-
 Por la ventana transparente, ve un gato rarísimo con dos cabezas.","{catname} découvre une grande machine dotée d'un tas de boutons.
-
 À travers la fenêtre transparente, {he} aperçoit un étrange chat avec une tête supplémentaire.","{catname} findet eine große Maschine mit mehreren Knöpfen.
-
 Durch das Fenster kann {he} eine komische Katze mit zwei Köpfen sehen.","{catname} trova una grande macchina con diversi pulsanti.
-
 Attraverso la finestra trasparente vede uno strano gatto con una testa in più.","{catname} encontra uma máquina grande com vários botões.
-
 Através da janela transparente, é possível ver um gato estranho com uma cabeça extra.","{catname} 发现了一台带有几个按钮的大机器。
-
 透过透明视窗，{he} 看到了一只长着额外脑袋的奇怪猫咪。"
 QEVENT_STACYMUTANT1_QUES1_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_F,,,,,,,,
 QEVENT_STACYMUTANT1_QUES1_N,"{catname} finds a large machine with several buttons.
-
 Through the transparent window they see a strange cat with an extra head.",,"{catname} encuentra una máquina enorme con botones.
-
 Por la ventana transparente, ve un gato rarísimo con dos cabezas.","{catname} découvre une grande machine dotée d'un tas de boutons.
-
 À travers la fenêtre transparente, iel aperçoit un étrange chat avec une tête supplémentaire.","{catname} findet eine große Maschine mit mehreren Knöpfen.
-
 Durch das Fenster ist eine komische Katze mit zwei Köpfen zu sehen.","{catname} trova una grande macchina con diversi pulsanti.
-
 Attraverso la finestra trasparente vede uno strano gatto con una testa in più.",,"{catname} 发现了一台带有几个按钮的大机器。
-
 透过透明视窗，它看到了一只长着额外脑袋的奇怪猫咪。"
 QEVENT_STACYMUTANT1_QUES2,"{catname} approaches the machine and considers {his} options.
-
 What body mutation should {he} give the Stacy clone?",,"{catname} se acerca a la máquina y valora sus opciones.
-
 ¿Qué mutación corporal debería aplicarle al clon de Stacy?","{catname} s'approche de la machine et soupèse ses options.
-
 Quelle mutation corporelle devrait-{he} donner au clone de Stacy&nbsp;?","{catname} nähert sich der Maschine und fragt sich, was {he} tun soll.
-
 Was für eine Körpermutation soll {he} dem Klon von Stacy verpassen?","{catname} si avvicina alla macchina e considera le sue opzioni.
-
 Quale mutazione corporea dovrebbe fornire al clone di Stacy?","{catname} se aproxima da máquina e considera suas opções.
-
 Qual mutação corporal será dada ao clone de Stacy?","{catname} 走近机器，思考着{his}选项。
-
 {he} 应该给斯泰西克隆体什么样的身体突变？"
 QEVENT_STACYMUTANT1_QUES2_M,,,,,,,,
 QEVENT_STACYMUTANT1_QUES2_F,,,,,,,,
 QEVENT_STACYMUTANT1_QUES2_N,,,,,,,,
 QEVENT_STACYMUTANT1_ANSW1,Thorns,,Espinas,Épines,Dornen,Spine,Espinhos,荆棘
 QEVENT_STACYMUTANT1_REW1,"A robotic arm swings down and injects the clone.
-
 Thorns burst through the skin of the cat!",,"Un brazo robótico cae y le aplica la inyección al clon.
-
 De pronto, emergen pinchos a través de la piel del gato.","Un bras robotique s'abaisse et injecte le clone.
-
 Des épines jaillissent à travers la peau du chat&nbsp;!","Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze.
-
 Dornen sprießen aus seiner Haut hervor!","Compare un braccio robotico che inietta qualcosa al clone.
-
 Delle spine iniziano a fuoriuscire dalla pelle del gatto!","Um braço robótico desce e injeta algo no clone.
-
 Espinhos irrompem pela pele do gato!","一只机械臂挥下并注射了克隆体。
-
 荆棘刺破了那只猫的皮肤！"
 QEVENT_STACYMUTANT1_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW1_F,,,,,,,,
@@ -96,38 +69,24 @@ QEVENT_STACYMUTANT1_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW2_N,,,,,,,,
 QEVENT_STACYMUTANT1_ANSW3,Holy Shield,,Escudo sagrado,Défense divine,Heiliger Schild,Scudo Sacro,Escudo sagrado,圣盾
 QEVENT_STACYMUTANT1_REW3,"A robotic arm swings down and injects the clone...
-
 It begins to glow with the aura of a Holy Shield!",,"Un brazo robótico cae y le aplica la inyección al clon.
-
 Empieza a brillar con el aura de un escudo sagrado.","Un bras robotique s’abaisse et injecte le clone...
-
 L'aura d’un bouclier sacré le fait scintiller&nbsp;!","Ein Roboterarm fährt herunter und verpasst dem Klon eine Spritze&nbsp;…
-
 Er fängt an mit der Aura eines Heiligen Schilds zu leuchten!","Compare un braccio robotico che inietta qualcosa al clone.
-
 Ora brilla con l'aura di uno Scudo Sacro!","Um braço robótico desce e injeta algo no clone...
-
 Ele começa a brilhar com a aura de um escudo sagrado!","一只机械臂挥下并注射了克隆体……
-
 它开始散发出圣盾的光环！"
 QEVENT_STACYMUTANT1_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW3_F,,,,,,,,
 QEVENT_STACYMUTANT1_REW3_N,,,,,,,,
 QEVENT_STACYMUTANT1_ANSW4,No Thanks,,"No, gracias",Non merci,"Nein, danke","No, grazie","Não, obrigado",不用了
 QEVENT_STACYMUTANT1_REW4,"{catname} pulls the lever to skip and the machine bleeps loudly at {him}.
-
 A robotic arm swings down and injects {catname}!",,"{catname} tira de la palanca para rechazarlo y la máquina empieza a pitar estridentemente.
-
 ¡Un brazo robótico cae y le aplica la inyección a {catname}!","{catname} tire le levier pour passer, puis la machine émet un bip strident.
-
 Un bras robotique s'abaisse et pique {catname}&nbsp;!","{catname} betätigt den Schalter zum Überspringen und die Maschine piepst laut auf.
-
 Ein Roboterarm fährt herunter und verpasst {catname} eine Spritze!","{catname} tira la leva per annullare e la macchina inizia a emettere un segnale acustico.
-
 Compare un braccio robotico che inietta {catname}!","{catname} puxa a alavanca para pular e a máquina emite um bipe alto.
-
 Um braço robótico desce e injeta algo em {catname}!","{catname} 拉动操纵杆想要跳过，机器对着{him}大声哔哔作响。
-
 一只机械臂挥下并注射了 {catname}！"
 QEVENT_STACYMUTANT1_REW4_M,,,,,,,,
 QEVENT_STACYMUTANT1_REW4_F,,,,,,,,
@@ -143,19 +102,12 @@ QEVENT_STACYMUTANT2_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT2_QUES_N,,,,,,,,
 QEVENT_STACYMUTANT2_ANSW1,Fire,,Fuego,Feu,Feuer,Fuoco,Fogo,火焰
 QEVENT_STACYMUTANT2_REW1,"The machine injects the clone...
-
 Its fur turns crimson and a flaming orb appears above its head!",,"La máquina le aplica la inyección al clon...
-
 Se le pone el pelo rojo y aparece un orbe llameante sobre su cabeza.","La machine pique le clone...
-
 Son pelage devient cramoisi et un orbe enflammé apparaît au-dessus de sa tête&nbsp;!","Die Maschine verpasst dem Klon eine Spritze&nbsp;…
-
 Sein Fell wird feuerrot und eine brennende Kugel taucht über seinem Kopf auf!","La macchina inietta qualcosa al clone...
-
 La sua pelliccia diventa cremisi e una sfera fiammeggiante appare sopra la sua testa!","A máquina injeta algo no clone...
-
 Seu pelo fica carmesim e uma esfera flamejante aparece sobre sua cabeça!","机器注射了克隆体……
-
 它的毛发变成了深红色，头顶出现了一个燃烧的法球！"
 QEVENT_STACYMUTANT2_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT2_REW1_F,,,,,,,,
@@ -210,57 +162,36 @@ QEVENT_STACYMUTANT4_QUES_F,,,,,,,,
 QEVENT_STACYMUTANT4_QUES_N,,,,,,,,
 QEVENT_STACYMUTANT4_ANSW1,Double Head,,Doble cabeza,Double tête,Zwei Köpfe,Doppia Testa,Cabeça dupla,双头
 QEVENT_STACYMUTANT4_REW1,"An additional head bursts out of the clone!
-
 It now has an extra turn every round.",,"Al clon le sale otra cabeza.
-
 Ahora puede jugar otro turno en cada ronda.","Une tête supplémentaire jaillit du clone&nbsp;!
-
 Il dispose désormais d'un tour supplémentaire à chaque manche.","Ein zusätzlicher Kopf sprießt aus dem Klon hervor!
-
 Er hat jetzt einen zusätzlichen Zug pro Runde.","Nel clone compare una seconda testa!
-
 Ora usufruirà di un turno aggiuntivo ogni round.","Uma cabeça adicional surge no clone!
-
 Agora ele possui um turno extra em cada rodada.","一颗额外的脑袋从克隆体身上爆了出来！
-
 它现在每回合拥有一个额外回合。"
 QEVENT_STACYMUTANT4_REW1_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW1_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW1_N,,,,,,,,
 QEVENT_STACYMUTANT4_ANSW2,Third Paw,,Tercera pata,Troisième patte,Dritte Pfote,Terza Zampa,Terceira pata,第三只爪
 QEVENT_STACYMUTANT4_REW2,"The machine injects the clone for a final time...
-
 A third paw grows out of its head, giving it bleed and counter attacks!",,"La máquina le aplica una última inyección al clon...
-
 Le crece una tercera pata de la cabeza, lo que le otorga hemorragia y contrataques.","La machine pique le clone une dernière fois...
-
 Une troisième patte pousse hors de sa tête, lui conférant des attaques de saignement et de contre&nbsp;!","Die Maschine injiziert den Klon ein letztes Mal&nbsp;…
-
 Eine dritte Pfote wächst aus seinem Kopf und verleiht ihm Blutung und Konter!","La macchina inietta qualcosa al clone per l'ultima volta...
-
 Dalla sua testa compare una terza zampa e ora ha Sanguinamento e contrattacchi!","A máquina injeta algo no clone pela última vez...
-
 Uma terceira pata cresce em sua cabeça, concedendo sangramento e contra-ataques!","机器最后一次注射了克隆体……
-
 第三只爪子从它的头上长了出来，赋予了它流血和反击能力！"
 QEVENT_STACYMUTANT4_REW2_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW2_F,,,,,,,,
 QEVENT_STACYMUTANT4_REW2_N,,,,,,,,
 QEVENT_STACYMUTANT4_ANSW3,Mirror Shine,,Brillo de espejo,Reflet miroir,Spiegelglanz,Specchio Riflesso,Brilho espelhado,镜面光泽
 QEVENT_STACYMUTANT4_REW3,"The clone's eyes become reflective mirrors!
-
 It has gained Projectile Reflection and Magic Release!",,"Los ojos del clon se convierten en espejos reflectantes.
-
 Obtiene devolución y destello mágico.","Les yeux du clone deviennent des miroirs réfléchissants&nbsp;!
-
 Il obtient Renvoi de projectiles et Libération magique&nbsp;!","Die Augen des Klons werden zu kreisrunden Spiegeln!
-
 Er verfügt jetzt über Reflektion und Zauberfunken!","Gli occhi del clone diventano specchi riflettenti!
-
 Ha ottenuto Riflessione Proiettili e Rilascio Magico!","Os olhos do clone se tornaram espelhos!
-
 Ele obtém reflexão de projéteis e liberação de magia!","克隆体的眼睛变成了反射镜！
-
 它获得了投射物反射和魔法释放！"
 QEVENT_STACYMUTANT4_REW3_M,,,,,,,,
 QEVENT_STACYMUTANT4_REW3_F,,,,,,,,

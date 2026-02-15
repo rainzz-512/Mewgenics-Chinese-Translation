@@ -26,7 +26,6 @@ PASSIVE_INFESTED2_DESC,"Spawn 2-3 fleas at the start of each battle.
 50%ige Wahrscheinlichkeit, dass ein Flohbegleiter erscheint, wenn du deinen Zug beendest.","Generi 2-3 pulci all'inizio di ogni battaglia.
 50% di probabilità di generare un famiglio Pulce alla fine del tuo turno.","Gere 2-3 pulgas no início de cada batalha.
 50% de chance de gerar um familiar pulga ao finalizar seu turno.","每次战斗开始时生成 2-3 只跳蚤。
-
 当你结束回合时，
 有 50% 的几率生成一个跳蚤使魔。
 "
@@ -53,7 +52,6 @@ PASSIVE_FURIOUS_DESC,"Gain +1 Damage each time you land a critical hit.
 +5&nbsp;% kritische Trefferchance.","Ottieni +1 al Danno ogni volta che metti a segno un colpo critico.
 +5% di probabilità di colpo critico.","Obtenha +1 de dano a cada vez que acertar um golpe crítico.
 +5% de chance de crítico.","每次造成暴击时获得 +1 伤害。
-
 +5% 暴击率。"
 PASSIVE_FURIOUS2_DESC,"Gain +1 Damage and +5% critical hit chance each time you land a critical hit.
 +5% critical hit chance.",,"Obtiene +1 de daño y +5 % de probabilidad de golpe crítico cada vez que inflige un golpe crítico.
@@ -106,7 +104,6 @@ Vorsichtig wirkt sich auf weitere Dinge aus.","Il danno che infliggi agli altri 
 Applichi molta cautela anche in diversi altri modi.","O dano que você causa a outros aliados é reduzido a 0. Você não pode aplicar enfraquecimentos em outros aliados.
 Você toma cuidado de muitas outras formas também.","你对其他盟友造成的伤害降为 0。
 你无法对其他盟友施加减益效果。
-
 你在许多其他方面也很小心。"
 PASSIVE_DIRTYCLAWS_NAME,Dirty Claws,,Garras sucias,Griffes souillées,Dreckige Klauen,Artigli Luridi,Garras Sujas,肮脏利爪
 PASSIVE_DIRTYCLAWS_DESC,Your physical attacks on Poisoned or Bleeding enemies inflict +1 Poison and/or Bleed.,,Los ataques físicos a enemigos que sufren veneno o hemorragia infligen +1 de veneno o hemorragia.,Vos attaques physiques sur les ennemis affectés par Poison ou Saignement infligent Poison et/ou Saignement&nbsp;+1.,Deine physischen Angriffe verursachen bei vergifteten oder blutenden Gegnern +1&nbsp;Gift und/oder Blutung.,I tuoi attacchi fisici contro nemici affetti da Avvelenamento o Sanguinamento infliggono +1 Veleno e/o Sanguinamento.,Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de veneno e/ou sangramento.,"你对中毒或流血敌人的
@@ -118,7 +115,6 @@ Los ataques físicos a enemigos que sufren veneno o hemorragia infligen +1 de ve
 Deine physischen Angriffe verursachen bei vergifteten oder blutenden Gegnern +1&nbsp;Gift und/oder Blutung.","Il tuo attacco base infligge +1 Veleno e/o Sanguinamento.
 I tuoi attacchi fisici contro nemici affetti da Avvelenamento o Sanguinamento infliggono +1 Veleno e/o Sanguinamento.","Seu ataque básico aplica veneno 1 e sangramento 1.
 Seus ataques físicos em inimigos envenenados ou com sangramento aplicam +1 de veneno e/ou sangramento.","你的基础攻击造成 1 层中毒和 1 层流血。
-
 你对中毒或流血敌人的
 物理攻击会额外造成 +1 层中毒和/或流血。
 "
@@ -460,7 +456,6 @@ Kritische Treffer verursachen Verwirrung&nbsp;1.","Quando cambi postura, il tuo 
 I colpi critici che vanno a segno infliggono Confusione 1.","Ao trocar de postura, seu próximo ataque básico neste turno passa a ser crítico.
 Golpes críticos que você acerta aplicam confusão 1.","当你切换架势时，
 你本回合的下一次基础攻击必定暴击。
-
 你造成的暴击会施加混乱 1。"
 PASSIVE_TURNABOUT_NAME,Turnabout,,Giro radical,Volte-face,Wendung,Ribaltamento,Vira-Vira,逆转
 PASSIVE_TURNABOUT_DESC,Your basic melee attacks inflict Confusion 1 and make units face away from you.,,Los ataques cuerpo a cuerpo básicos infligen 1 de confusión y hace que las unidades le den la espalda.,Vos attaques de base au corps-à-corps infligent Confusion&nbsp;+1&nbsp;et forcent les unités à vous tourner le dos.,"Deine Nahkampf-Grundangriffe verursachen Verwirrung&nbsp;1 und sorgen dafür, dass Einheiten sich von dir wegdrehen.",I tuoi attacchi corpo a corpo di base infliggono Confusione 1 e fanno voltare le unità nella direzione opposta a te.,Seu ataque básico corpo-a-corpo aplica confusão 1 e faz com que unidades se virem de costas para você.,"你的基础近战攻击施加 1 层混乱，
@@ -633,7 +628,6 @@ El exceso de PS se pierde de un combate a otro.",Vous pouvez vous soigner au-del
 Überschüssige LP gehen nach dem Kampf verloren.","Puoi curarti oltre i tuoi PS massimi.
 I PS in eccesso vengono persi tra una battaglia e l'altra.","É possível curar-se acima da saúde máxima.
 Qualquer PV em excesso é perdido entre batalhas.","你的治疗量可以超过最大生命值。
-
 超出的生命值会在战斗间隙丢失。
 "
 PASSIVE_NEVERFULL2_DESC,"You can heal over your max HP.
@@ -647,9 +641,7 @@ I PS in eccesso vengono persi tra una battaglia e l'altra.
 Ottieni +1 alla [img:str] per ogni 5 PS in tuo possesso oltre il massimo.","É possível curar-se acima da saúde máxima.
 Qualquer PV em excesso é perdido entre batalhas.
 Obtenha +1 de [img:str] para cada 5 PV que você possui acima da saúde máxima.","你的治疗量可以超过最大生命值。
-
 超出的生命值会在战斗间隙丢失。
-
 每拥有 5 点超出最大生命值的生命值，
 获得 +1 [img:str]。"
 PASSIVE_MAINCOURSE_NAME,Supersize Me!,,Supertamaño,Menu Maxi,Hauptgang,Ingrandiscimi!,Superdimensionamento!,给我特大号！
@@ -682,7 +674,6 @@ El gancho inflige +1 de daño y tiene Incisión.",Vous pouvez utiliser votre cro
 Dein Haken verursacht +1&nbsp;Schaden und kann schlachten.","Puoi usare il tuo gancio altre 2 volte durante il tuo turno.
 Il tuo gancio infligge +1 di danno e ha Fendente.","É possível utilizar seu gancho 2 vezes adicionais em seu turno.
 Seu gancho causa +1 de dano e possui cisão.","你的回合内可以额外使用 2 次钩爪。
-
 你的钩爪造成 +1 伤害并具有顺劈。
 "
 PASSIVE_HOOKED_MULTICLASS_DESC,You can use your weapon 2 additional times on your turn.,,Puede usar el arma 2 veces más en su turno.,Vous pouvez utiliser votre arme 2&nbsp;fois de plus à votre tour.,Du kannst deine Waffe 2 zusätzliche Male pro Zug benutzen.,Puoi usare la tua arma altre 2 volte durante il tuo turno.,É possível utilizar sua arma 2 vezes adicionais em seu turno.,"你的回合内可以额外使用 2 次武器。
@@ -693,7 +684,6 @@ El arma inflige +1 de daño y tiene Incisión.",Vous pouvez utiliser votre arme 
 Deine Waffe verursacht +1&nbsp;Schaden und kann schlachten.","Puoi usare la tua arma altre 2 volte durante il tuo turno.
 La tua arma infligge +1 di danno e ha Fendente.","É possível utilizar sua arma 2 vezes adicionais em seu turno.
 Sua arma causa +1 de dano e possui cisão.","你的回合内可以额外使用 2 次武器。
-
 你的武器造成 +1 伤害并具有顺劈。
 "
 PASSIVE_STOMPY_NAME,Stompy!,,Pisotones,Chaud devant&nbsp;!,Stampfer,Pestone!,Piseiro!,踩踏！
@@ -710,7 +700,6 @@ El daño infligido con el pisotón tiene Incisión.",Vous disposez de Piétineme
 Trampelschaden, den du verursachst, kann schlachten.","Hai Calpestamento e +2 Movimenti Bonus.
 Il danno da calpestamento che infliggi ha Fendente.","Você possui atropelamento e 2 movimentos adicionais.
 O dano de atropelamento que você causa possui cisão.","你拥有践踏和 +2 奖励移动。
-
 你造成的践踏伤害具有顺劈。"
 PASSIVE_BARBED_NAME,Barbed,,Espinoso,Barbelés,Widerhaken,Spinato,Farpado,倒钩
 PASSIVE_BARBED_DESC,Your hook deals +1 damage and inflicts Bleed.,,El gancho inflige +1 de daño y hemorragia.,Votre crochet inflige Dégâts&nbsp;+1&nbsp;et Saignement.,Dein Haken verursacht +1&nbsp;Schaden und Blutung.,Il tuo gancio infligge +1 di danno e provoca Sanguinamento.,Seu gancho causa +1 de dano e aplica sangramento.,"你的钩爪造成 +1 伤害并施加流血。
@@ -739,7 +728,6 @@ PASSIVE_PAINGAIN2_DESC,"When you take damage, gain +1 Damage and +1 Temp Damage.
 ",,"Al sufrir daño, obtiene +1 de daño y +1 de daño temporal.",Dégâts&nbsp;+1&nbsp;et Dégâts temporaires&nbsp;+1&nbsp;quand vous subissez des dégâts.,"Erhalte +1&nbsp;Schaden und +1&nbsp;vorübergehenden Schaden, wenn du Schaden erleidest.
 ","Quando subisci danno, ottieni +1 al Danno e +1 al Danno Temporaneo.","Ao sofrer dano, obtenha +1 de dano e +2 de dano temporário.","当你受到伤害时，
 获得 +1 伤害和 +1 临时伤害。
-
 "
 PASSIVE_WIDESWING_NAME,Spin to Win,,Giro para ganar,Tournoyer pour gagner,Wirbelstürmer,Ruota della Fortuna,Giro da Vitória,旋转致胜
 PASSIVE_WIDESWING_DESC,Your basic attack is a 3x3 tile spin attack with Cleave.,,El ataque básico es un ataque giratorio de 3x3 casillas con Incisión.,Votre attaque de base est une attaque tournoyante de 3x3&nbsp;cases avec Fendoir.,"Dein Grundangriff ist jetzt ein Wirbelangriff über 3x3 Felder, der schlachten kann.",Il tuo attacco base è un attacco rotante 3x3 con Fendente.,Seu ataque básico se torna um ataque giratório de 3x3 espaços com cisão.,"你的基础攻击变为带有顺劈效果的
@@ -761,7 +749,6 @@ Einheiten erhalten Trampel, während sie von deinem Haken gezogen werden.
 Le unità trascinate dal tuo gancio ottengono Calpestamento durante il trascinamento.","Você pode enganchar espaços específicos.
 Unidades puxadas pelo seu gancho obtém atropelamento enquanto estão sendo puxadas.","你的钩爪可以以地块为目标。
 被你钩爪拉动的单位在被钩住期间获得践踏效果。
-
 "
 PASSIVE_HEAVEHOOK2_DESC,"Your hook can target tiles.
 Units pulled by your hook gain trample while being hooked, this trample damage is doubled.
@@ -786,7 +773,6 @@ Le unità trascinate dal tuo gancio ottengono Calpestamento durante il trascinam
 Unidades puxadas pelo seu gancho obtém atropelamento enquanto estão sendo puxadas.
 [s:.7](Equipe um gancho temporário se não possui um)[/s]","你的钩爪可以以地块为目标。
 被你钩爪拉动的单位在被钩住期间获得践踏效果。
-
 [s:.7]（如果你没有钩爪，
 则装备一个临时钩爪）[/s]"
 PASSIVE_HEAVEHOOK2_MULTICLASS_DESC,"Your hook can target tiles.
@@ -822,7 +808,6 @@ Cuando inflige putrefacción, inflige +1 de putrefacción.","Toutes les mouches 
 Immer, wenn du Fäulnis verursachst, verursachst du +1&nbsp;Fäulnis.","Tutte le mosche subiscono Ammaliamento e ottengono +1 al Danno.
 Ogni volta che infliggi Putrefazione, infliggi +1 di danno.","Todas as moscas são enfeitiçadas e obtêm +1 de dano.
 Sempre que aplicar apodrecimento, você aplica +1 de apodrecimento.","所有苍蝇都被魅惑并获得 +1 伤害。
-
 每当你施加腐烂时，
 额外施加 +1 层腐烂。"
 PASSIVE_LORDOFTHEFLIES2_DESC,"All flies are Charmed and get +4 Damage.
@@ -831,7 +816,6 @@ Cuando inflige putrefacción, inflige +1 de putrefacción.","Toutes les mouches 
 Immer, wenn du Fäulnis verursachst, verursachst du +1&nbsp;Fäulnis.","Tutte le mosche subiscono Ammaliamento e ottengono +4 al Danno.
 Ogni volta che infliggi Putrefazione, infliggi +1 di danno.","Todas as moscas são enfeitiçadas e obtêm +4 de dano.
 Sempre que aplicar apodrecimento, você aplica +1 de apodrecimento.","所有苍蝇都被魅惑并获得 +4 伤害。
-
 每当你施加腐烂时，
 额外施加 +1 层腐烂。"
 PASSIVE_SCHADENFREUDE_NAME,Schadenfreude,,Schadenfreude,Schadenfreude,Schadenfreude,Schadenfreude,Schadenfreude,幸灾乐祸
@@ -857,7 +841,6 @@ Los golpes críticos del ataque básico eliminan las ventajas de las unidades.",
 Die kritischen Treffer deines Grundangriffs entfernen Stärkungen.","Il tuo attacco base è sempre critico contro i nemici con [img:shield].
 I colpi critici del tuo attacco base rimuovono i bonus dalle unità.","Seu ataque básico é sempre crítico contra inimigos com [img:shield].
 Os golpes críticos de seu ataque básico removem fortalecimentos de unidades.","你的基础攻击对拥有 [img:shield] 的敌人必定暴击。
-
 你基础攻击的暴击会移除单位的增益。
 "
 PASSIVE_HACK2_DESC,"Your basic attack is always critical against enemies with [img:shield].
@@ -871,9 +854,7 @@ I colpi critici del tuo attacco base rimuovono i bonus dalle unità.
 I tuoi colpi critici infliggono +100% di danno.","Seu ataque básico é sempre crítico contra inimigos com [img:shield].
 Os golpes críticos de seu ataque básico removem fortalecimentos de unidades.
 Seus golpes críticos causam +100% de dano.","你的基础攻击对拥有 [img:shield] 的敌人必定暴击。
-
 你基础攻击的暴击会移除单位的增益。
-
 你的暴击造成 +100% 伤害。
 "
 PASSIVE_BOWLINGBALL_NAME,Bowling Ball,,Bola de bolos,Boule de bowling,Bowlingkugel,Palla da Bowling,Bola de Boliche,保龄球
@@ -961,7 +942,6 @@ Inflige punto de mira a las unidades que entran en contacto con esta o la atacan
 Verursache Markiert bei Einheiten, die dich berühren oder angreifen.","Il tuo attacco base è sempre critico contro i nemici che ti hanno inflitto danno.
 Infliggi Marchio alle unità che entrano in contatto con te o ti attaccano.","Seu ataque básico é sempre crítico contra inimigos que causaram dano a você.
 Aplique marcação em unidades que atacarem ou entrarem em contato com você.","你的基础攻击对伤害过你的敌方单位必定暴击。
-
 对接触或攻击你的单位施加标记。
 "
 PASSIVE_HAMSTERSTYLE_NAME,Hamster Style,,Estilo del hámster,Style hamster,Hamsterstil,Stile da Criceto,Estilo do Hamster,仓鼠流
@@ -1044,7 +1024,6 @@ Si tiene 4 o menos [img:int], obtiene +2 [img:str] y el ataque básico inflige m
 Erhalte +2&nbsp;[img:str] und dein Grundangriff verursacht Beulen, wenn du 4 oder weniger [img:int] hast. Bei 0&nbsp;[img:int] erhältst du +100&nbsp;% krit. Trefferchance.","Perdi 1 di [img:int] ogni volta che subisci danno.
 Se hai 4 o meno di [img:int], ottieni +2 alla [img:str] e il tuo attacco base infligge Livido. Quando sei a 0 di [img:int], ottieni +100% di probabilità di colpo critico.","Perca 1 de [img:int] a cada vez que sofrer dano.
 Se você possui 4 ou menos de [img:int], obtenha +2 de [img:str] e seu ataque básico aplica contusão. Com 0 de [img:int], obtenha +100% de chance de crítico.","每次受到伤害时失去 1 点 [img:int]。
-
 如果你的 [img:int] 为 4 或更低，
 获得 +2 [img:str] 且基础攻击施加淤伤。
 当 [img:int] 为 0 时，
@@ -1055,7 +1034,6 @@ Si tiene 4 o menos [img:int], obtiene +2 [img:str] y el ataque básico inflige m
 Erhalte +2&nbsp;[img:str] und dein Grundangriff verursacht Beulen, wenn du 4 oder weniger [img:int] hast. Bei 0&nbsp;[img:int] erhältst du +100&nbsp;% krit. Trefferchance. Bei -10&nbsp;[img:int] kannst du dich einmal pro Zug mehr bewegen und angreifen.","Perdi 2 di [img:int] ogni volta che subisci danno.
 Se hai 4 o meno di [img:int], ottieni +2 alla [img:str] e il tuo attacco base infligge Livido. Quando sei a 0 di [img:int], ottieni +100% di probabilità di colpo critico. A -10 di [img:int], puoi usare il tuo movimento base e attaccare una volta in più per turno.","Perca 2 de [img:int] a cada vez que sofrer dano.
 Se você possui 4 ou menos de [img:int], obtenha +2 de [img:str] e seu ataque básico aplica contusão. Com 0 de [img:int], obtenha +100% de chance de crítico. Com -10 de [img:int], você pode utilizar seu movimento básico e seu ataque básico uma vez adicional por turno.","每次受到伤害时失去 2 点 [img:int]。
-
 如果你的 [img:int] 为 4 或更低，
 获得 +2 [img:str] 且基础攻击施加淤伤。
 当 [img:int] 为 0 时，
@@ -1070,7 +1048,6 @@ Obtiene +3 [img:shield] por cada conmoción. El límite está en 30 [img:shield]
 Du erhältst +3&nbsp;[img:shield] für jede Gehirnerschütterung. Max. 30&nbsp;[img:shield].","Tutte le ferite che subisci sono Concussioni.
 Ottieni +3 allo [img:shield] per ogni concussione che subisci. Il valore massimo raggiungibile dallo [img:shield] è 30.","Todos os ferimentos que você sofre são concussões.
 Você obtém +3 de [img:shield] para cada concussão que possui. Limite de 30 de [img:shield].","你受到的所有伤势都会变为脑震荡。
-
 每拥有一层脑震荡，你获得 +3 [img:shield]。
 上限为 30 [img:shield]。"
 PASSIVE_THICKSKULL2_DESC,"All injuries you get are Concussions.
@@ -1079,7 +1056,6 @@ Obtiene +3 [img:shield] y +1 [img:str] por cada conmoción. El límite está en 
 Du erhältst +3&nbsp;[img:shield] und +1&nbsp;[img:str] für jede Gehirnerschütterung. Max. 30&nbsp;[img:shield] und 10&nbsp;[img:str].","Tutte le ferite che subisci sono Concussioni.
 Ottieni +3 allo [img:shield] e +1 alla [img:str] per ogni concussione che subisci. Il valore massimo raggiungibile dallo [img:shield] è 30 e quello della [img:str] è 10.","Todos os ferimentos que você sofre são concussões.
 Você obtém +3 de [img:shield] e +1 de [img:str] para cada concussão que possui. Limite de 30 de [img:shield] e 10 de [img:str].","你受到的所有伤势都会变为脑震荡。
-
 每拥有一层脑震荡，
 你获得 +3 [img:shield] 和 +1 [img:str]。
 上限为 30 [img:shield] 和 10 [img:str]。"
@@ -1124,7 +1100,6 @@ Bonusfähigkeit: Waffe werfen.","Quando uccidi un'unità e non hai un'arma, otti
 Abilità Bonus: Lancio dell'Arma.","Ao matar uma unidade, se você não possuir uma arma, obtenha um porrete de osso.
 Habilidade bônus: Lançar Arma.","当你击杀一个单位时，
 如果你没有武器，获得一根骨棒。
-
 额外技能：投掷武器。"
 PASSIVE_DUALWIELD_NAME,Dual Wield,,Multiarma,Coup double,Doppelwaffen,Doppia Impugnatura,Empunhadura Dupla,双持
 PASSIVE_DUALWIELD_DESC,"When you use your weapon, automatically use it again for free.",,"Al usar el arma, la usa otra vez gratis automáticamente.","Quand vous utilisez votre arme, portez automatiquement un deuxième coup, gratuitement.","Wenn du deine Waffe benutzt, benutzt du sie automatisch ein zweites Mal.","Quando usi la tua arma, la puoi automaticamente riutilizzare gratuitamente.","Ao utilizar sua arma, use-a automaticamente outra vez de graça.","当你使用武器时，自动免费再次使用它。
@@ -1161,7 +1136,6 @@ O dano que você sofre de aliados é reduzido a 1.
 Sempre que você sofre dano, obtenha +1 em um atributo aleatório.","当你受到来自盟友的伤害时，
 朝你面向的方向进行基础攻击。
 你从盟友处受到的伤害降低至 1 点。
-
 每当你受到伤害时，随机属性 +1。
 "
 PASSIVE_SMASH_NAME,Smash!,,Aplastamiento,Fracasse&nbsp;!,Muss zuhauen!,Devastazione!,Esmaga!,猛砸！
@@ -1180,7 +1154,6 @@ Du erhältst drei weitere Stöcke.","Le tue armi infliggono danno triplo, ma han
 Al tuo inventario vengono aggiunti tre ulteriori Bastoni.","Suas armas causam dano triplicado, mas possuem 50% de chance de quebrar ao serem usadas.
 Mais três bastões são adicionados ao seu inventário.","你的武器造成三倍伤害，
 但在使用时有 50% 的几率损坏。
-
 另外三根木棍已添加到你的库存中。
 "
 PASSIVE_PUNCHFACE_NAME,Punch Face,,Puñetazo en la cara,Face à face,Immer ins Gesicht,Pugno in Faccia,Sopapo,打脸
@@ -1216,7 +1189,6 @@ PASSIVE_POISONIVY_DESC,You and familiar you spawn are Poisonous.,,Esta unidad y 
 PASSIVE_POISONIVY2_DESC,"You and familiar you spawn have Poisonous 2.
 ",,Esta unidad y los familiares que genera infligen 2 de envenenamiento.,Vous et vos familiers êtes dans l'état Toxique&nbsp;+2.,"Du und Begleiter, die du rufst, haben Giftig&nbsp;2.
 ",Tu e il famiglio che generi avete lo stato Velenoso 2.,Você e seus familiares possuem venenoso 2.,"你和你生成的使魔获得带毒 2。
-
 "
 PASSIVE_PATHFINDER_NAME,Pathfinder,,Exploración,Pâturage,Pfadfinder,Esplorazione,Bandeirante,探路者
 PASSIVE_PATHFINDER_DESC,Grass tiles are free to move through for you and familiars you spawn. Plant grass as you walk.,,Esta unidad o los familiares que genera pueden moverse libremente por las casillas de hierba. Planta hierba a medida que se mueve.,Les cases d'herbe n'entravent pas vos déplacements ni ceux de vos familiers. Plante de l'herbe sur votre passage.,"Du und Begleiter, die du rufst, können sich kostenlos durch Grasfelder bewegen. Du pflanzt Gras, während du dich bewegst.",Tu e i famigli che generi potete muovervi liberamente sulle caselle d'erba. Pianti erba mentre cammini.,Espaços de grama concedem movimento livre a você ou familiares gerados por você. Plante grama ao andar.,"你和你生成的
@@ -1356,7 +1328,6 @@ Los familiares generados por sus hechizos obtienen +2 de daño y +2 de movimient
 Begleiter, die durch Zauber gerufen werden, erhalten +2&nbsp;Schaden und +2&nbsp;Bewegung, sterben aber nach ihrem ersten Zug.","I tuoi incantesimi che generano famigli costano -3 di mana.
 I famigli generati dai tuoi incantesimi ottengono +2 al Danno e +2 al Movimento, ma muoiono dopo il loro primo turno.","Seus encantamentos que geram familiares custam -3 de mana.
 Familiares gerados pelos seus encantamentos obtêm +2 de dano e +2 de movimento, mas morrem após seu primeiro turno.","你的生成使魔的法术法力消耗 -3。
-
 由你法术生成的
 使魔获得 +2 伤害和 +2 移动力，
 但在其首个回合后死亡。"
@@ -1366,7 +1337,6 @@ Los familiares generados por sus hechizos obtienen +4 de daño y +4 de movimient
 Begleiter, die durch Zauber gerufen werden, erhalten +4&nbsp;Schaden und +4&nbsp;Bewegung, sterben aber nach ihrem ersten Zug.","I tuoi incantesimi che generano famigli costano -3 di mana.
 I famigli generati dai tuoi incantesimi ottengono +4 al Danno e +4 al Movimento, ma muoiono dopo il loro primo turno.","Seus encantamentos que geram familiares custam -3 de mana.
 Familiares gerados pelos seus encantamentos obtêm +4 de dano e +4 de movimento, mas morrem após seu primeiro turno.","你的生成使魔的法术法力消耗 -3。
-
 由你法术生成的
 使魔获得 +4 伤害和 +4 移动力，
 但在其首个回合后死亡。"
@@ -1413,7 +1383,6 @@ Cuando cambia de forma, obtiene +1 de daño.","Les familiers que vous invoquez g
 Wenn du dich verwandelst, erhältst du +1&nbsp;Schaden.","I famigli che generi ottengono +2 al Danno.
 Quando cambi forma, ottieni +1 al Danno.","Familiares gerados por você obtêm +2 de dano.
 Ao mudar de forma, obtenha +1 de dano.","你生成的使魔获得 +2 伤害。
-
 当你变身时，获得 +1 伤害。
 "
 PASSIVE_ANIMALISTIC2_DESC,"Familiars you spawn gain +2 Damage and a Bonus Attack.
@@ -1422,7 +1391,6 @@ Cuando cambia de forma, obtiene +1 de daño y se restaura el ataque básico.","L
 Wenn du dich verwandelst, erhältst du +1&nbsp;Schaden und frischst deinen Grundangriff auf.","I famigli che generi ottengono +2 al Danno e un Attacco Bonus.
 Quando cambi forma, ottieni +1 al Danno e ricarichi il tuo attacco base.","Familiares gerados por você obtêm +2 de dano e um ataque bônus.
 Ao mudar de forma, obtenha +1 de dano e reinicie seu ataque básico.","你生成的使魔获得 +2 伤害和一次奖励攻击。
-
 当你变身时，
 获得 +1 伤害并刷新你的基础攻击。
 "
@@ -1435,7 +1403,6 @@ Al usar un hechizo musical, recupera 1 PS y obtiene +1 de un atributo al azar.",
 Wenn du einen Musikzauber wirkst, heilst du 1&nbsp;LP und erhältst +1 auf ein zufälliges Attribut.","I tuoi incantesimi musicali costano il 50% di mana in meno.
 Quando usi un incantesimo musicale, recuperi 1 PS e ottieni +1 a una statistica casuale.","Seus encantamentos musicais custam 50% a menos de mana.
 Ao utilizar um encantamento musical, cure 1 PV e obtenha +1 em um atributo aleatório.","你的音乐法术法力消耗减少 50%。
-
 当你使用音乐法术时，
 治疗 1 点生命值并随机属性 +1。
 "
@@ -1449,7 +1416,6 @@ PASSIVE_MEGAMINIONS2_DESC,"The 1st and every 3rd familiar you spawn are upgraded
 [s:.7](Il primo famiglio che generi è probabilmente il tuo Corvo.)[/s]","O primeiro e terceiro familiar gerado por você é aprimorado para um campeão.
 [s:.7](O primeiro familiar gerado por você é provavelmente seu corvo.)[/s]","你生成的
 第 1 个和每第 3 个使魔都会升级为冠军。
-
 [s:.7](你生成的第一个使魔很可能是你的乌鸦。)[/s]"
 //tank,,,,,,,,
 PASSIVE_THORNS_NAME,Thorns,,Espinas,Épines,Dornen,Spine,Espinhos,荆棘
@@ -1498,7 +1464,6 @@ Dein gesamter Schaden verursacht +1&nbsp;Rückstoß.","Quando respingi un'unità
 Tutto il danno che infliggi ha +1 di Contraccolpo.","Ao empurrar uma unidade para trás, deixe uma pedra no local onde a unidade estava.
 Todo dano causado por você possui +1 de empurrão.","当你击退一个单位时，
 在该单位原来的位置留下一块岩石。
-
 你造成的所有伤害获得 +1 击退。
 "
 PASSIVE_PETROCKS_NAME,Pet Rocks,,Rocas mascotas,Caillou de compagnie,Steinfreunde,Rocce Domestiche,Pedras de Estimação,宠物石
@@ -1533,7 +1498,6 @@ Las unidades a las que hace retroceder hacen retroceder a su vez a otras unidade
 Einheiten, die du zurückstößt, stoßen wiederum Einheiten zurück.","Il tuo attacco base ottiene +1 di Contraccolpo.
 Le unità che respingi generanno a loro volta Contraccolpo su altre unità.","Seu ataque básico obtém +1 de empurrão.
 Unidades empurradas por você empurram outras unidades.","你的基础攻击获得 +1 击退。
-
 被你击退的单位会击退其他单位。
 "
 PASSIVE_CHAINKNOCKBACK2_DESC,"Your basic attack gains +1 Knockback.
@@ -1547,7 +1511,6 @@ Tutto il contraccolpo che infliggi aumenta di 2 e infligge +1 di danno aggiuntiv
 Le unità che respingi generanno a loro volta Contraccolpo su altre unità.","Seu ataque básico obtém +1 de empurrão.
 Todo empurrão que você causa é aumentado em 2 e causa +1 de dano adicional.
 Unidades empurradas por você empurram outras unidades mais longe.","你的基础攻击获得 +1 击退。
-
 你造成的所有击退增加 2 点，
 并造成 +1 额外伤害。
 被你击退的单位会进一步击退其他单位。
@@ -1562,7 +1525,6 @@ Obtiene la habilidad Empuje.",Votre attaque de base devient un Suplex sur les en
 Du erhältst die Fähigkeit Wurf.","Il tuo attacco base diventa Suplex quando sei adiacente ai nemici.
 Ottieni l'abilità Lancio.","Seu ataque básico se torna Suplex quando é realizado em inimigos adjacentes.
 Você obtém a habilidade Lançamento.","当邻近敌人时，你的基础攻击变为背摔。
-
 你获得技能投掷。"
 PASSIVE_WRESTLEMANIAC2_DESC,"Your basic attack is Suplex while you're next to a unit that can be suplexed and Your basic attack becomes Suplex when adjacent to enemies. +1 Bonus Move.
 You gain the ability Toss+.",,"El ataque básico es Súplex cuando está junto a una unidad a la que se le pueda aplicar. El ataque básico se convierte en Súplex cuando hay enemigos adyacentes. +1 de bonificación de movimiento.
@@ -1663,7 +1625,6 @@ Il tuo attacco base ha +1 di Contraccolpo.","Ao empurrar uma unidade em um aliad
 Seu ataque básico obtém +1 de empurrão.","当你将一个单位撞向盟友，
 或将盟友撞向敌人时，
 该盟友会对那个单位使用基础攻击。
-
 你的基础攻击拥有 +1 击退。
 "
 PASSIVE_SHOVINGMATCH2_DESC,"When you knock a unit into an ally, or knock an ally into an enemy, that ally uses their basic attack on the other unit.
@@ -1674,7 +1635,6 @@ Il tuo attacco base ha +2 di Contraccolpo. Non infliggi danno agli alleati.","Ao
 Seu ataque básico obtém +2 de empurrão. Você não causa dano a aliados.","当你将一个单位撞向盟友，
 或将盟友撞向敌人时，
 该盟友会对那个单位使用基础攻击。
-
 你的基础攻击拥有 +2 击退。
 你不会对盟友造成伤害。"
 PASSIVE_STOIC_NAME,Stoic,,Estoicidad,Stoïque,Stoisch,Stoicità,Estoicismo,坚忍
@@ -1733,7 +1693,6 @@ El ataque básico genera familiares sanguijuelas.","Quand vous subissez des dég
 Dein Grundangriff lässt Blutegel erscheinen.","Quando subisci danno, generi un famiglio Sanguisuga.
 Il tuo attacco base genera famigli Sanguisuga.","Ao sofrer dano, gere um familiar sanguessuga.
 Seu ataque básico gera familiares sanguessuga.","当你受到伤害时，生成一个水蛭使魔。
-
 你的基础攻击会生成水蛭使魔。"
 PASSIVE_INFINITEREBIRTH_NAME,Infinite Rebirth,,Renacimiento infinito,Renaissance infinie,Unendliche Wiedergeburt,Rinascita Infinita,Renascimento Infinito,无限重生
 PASSIVE_INFINITEREBIRTH_DESC,"At the end of each round, if there is a body on the map and you're downed, you respawn on that tile with 1 HP and +10 temporary Speed. If that body was a party member, you spawn with full HP instead.",,"Al final de cada ronda, si hay un cadáver en el mapa y esta unidad está abatida, se regenera en esa casilla con 1 PS y +10 de velocidad temporal. Si el cadáver es de un miembro del grupo, se genera con todos los PS en su lugar.","À la fin de chaque manche, s'il y a un cadavre sur la carte et que vous êtes K.O., vous réapparaissez sur cette case avec 1&nbsp;PV et Vitesse temporaire&nbsp;+10. Si ce cadavre faisait partie de l'équipe, vous revenez avec tous vos PV.","Wenn sich am Ende der Runde eine Leiche auf der Karte befindet und du ohnmächtig bist, erscheinst du auf diesem Feld mit 1&nbsp;LP und +10&nbsp;vorübergehender Geschwindigkeit. Wenn die Leiche ein Gruppenmitglied war, erhältst du volle LP.","Alla fine di ogni round, se c'è un cadavere sulla mappa e tu sei KO, ti rigeneri su quella casella con 1 PS e +10 di Velocità temporanea. Se quel cadavere era un membro del gruppo, ti rigeneri con tutti i PS.","No final de cada rodada, se houver um corpo no mapa e você estiver inconsciente, reapareça no mesmo espaço com 1 PV e +10 de velocidade temporária. Se o corpo for de um membro de sua equipe, reapareça com saúde completa.","在每回合结束时，
@@ -1759,7 +1718,6 @@ Du kannst keine Verletzungen erleiden.","Quando vai KO, gli alleati ottengono Au
 Non puoi subire ferite.","Ao ficar inconsciente, aliados obtêm todos os atributos aumentados e ganham um turno adicional.
 Você não pode sofrer ferimentos.","当你倒地时，
 盟友获得全属性提升并额外行动一回合。
-
 你不会受到伤势。"
 PASSIVE_SERVUSMORTEM_NAME,Servus Mortem,,Servus mortem,Servus Mortem,Servus Mortem,Servus Mortem,Servus Mortem,死亡仆从
 PASSIVE_SERVUSMORTEM_DESC,Destroy a random non-boss enemy at the start of each battle.,,Destruye a un enemigo que no sea jefe al azar al inicio de cada combate.,Détruisez un ennemi (sauf les Boss) au début de chaque combat.,Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner.,Distruggi un nemico casuale che non sia un boss all'inizio di ogni battaglia.,Destrua um inimigo aleatório (exceto chefes) no início de cada batalha.,"每场战斗开始时消灭一个随机非Boss敌人。
@@ -1796,7 +1754,6 @@ Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 6 di danno a ogni nemi
 Abilità Bonus: Seppuku","Ao ficar inconsciente, cause 6 de dano contra cada inimigo e cure 6 PV de todos os aliados.
 Habilidade bônus: Seppuku","当你倒地时，对每个敌人造成 6 点伤害，
 并为所有盟友治疗 6 点生命值。
-
 额外技能：切腹"
 PASSIVE_LASTGRASP2_DESC,"When you're downed, deal 10 damage to each enemy and heal 10 HP to all allies.
 Bonus ability: Seppuku",,"Cuando esta unidad es abatida, inflige 10 de daño a cada enemigo y devuelve 10 PS a todos los aliados.
@@ -1805,7 +1762,6 @@ Bonusfähigkeit: Seppuku","Quando ti mandano KO, infliggi 10 di danno a ogni nem
 Abilità Bonus: Seppuku","Ao ficar inconsciente, cause 10 de dano contra cada inimigo e cure 10 PV de todos os aliados.
 Habilidade bônus: Seppuku","当你倒地时，对每个敌人造成 10 点伤害，
 并为所有盟友治疗 10 点生命值。
-
 额外技能：切腹"
 PASSIVE_RELENTLESSDEAD_NAME,Relentless Dead,,Muerte incansable,Morts implacables,Erbarmungslose Totenarmee,Morti Implacabili,Mortos Implacáveis,不屈亡灵
 PASSIVE_RELENTLESSDEAD_DESC,"At the end of each round, spawn a zombie kitten familiar onto a random tile.",,"Al final de cada ronda, genera 1 familiar gatito zombi en una casilla al azar.","À la fin de chaque manche, invoquez 1&nbsp;chaton zombie de compagnie sur une case aléatoire.",Rufe am Ende jeder Runde ein Zombiekätzchen auf ein zufälliges Feld.,"Alla fine di ogni round, generi un famiglio Gattino Zombie su una casella casuale.","No final de cada rodada, gere um familiar gatinho zumbi em um espaço aleatório.","每回合结束时，
@@ -1903,7 +1859,6 @@ Dein Grundangriff verursacht +1&nbsp;Blutegel.","Quando un'unità a cui hai infl
 Il tuo attacco base infligge +1 Sanguisuga.","Quando uma unidade em que você aplicou sanguessugas morre ou perde suas sanguessugas, seu próximo ataque básico aplica uma quantidade equivalente de sanguessugas adicionais.
 Seu ataque básico aplica +1 sanguessuga.","当一个被你施加了水蛭的单位死亡或失去水蛭时，
 你的下一次基础攻击会施加等量的额外水蛭。
-
 你的基础攻击施加 +1 层水蛭。
 "
 PASSIVE_CORPSECONNOISSEUR_NAME,Corpse Connoisseur,,Conocimiento de cadáveres,Expert légiste,Leichenconnaisseur,Gourmet Cadaverico,Connoisseur de Cadáveres,尸体鉴赏家
@@ -1969,7 +1924,6 @@ Se duplica el veneno que inflige.",Votre attaque de base inflige Poison&nbsp;+1.
 Gift, das du verursachst, ist verdoppelt.","Il tuo attacco base infligge Veleno 1.
 Il veleno che infliggi è raddoppiato.","Seu ataque básico aplica veneno 1.
 O veneno que você aplica é dobrado.","你的基础攻击施加 1 层中毒。
-
 你施加的中毒层数翻倍。"
 PASSIVE_BURGLE_NAME,Burgle,,Robo con allanamiento,Cambriolage,Lange Finger,Furto,Furto,窃盗
 PASSIVE_BURGLE_DESC,Your basic attack gains you 1 coin when it deals damage.,,El ataque básico otorga 1 moneda cuando inflige daño.,Vous gagnez 1&nbsp;pièce en infligeant des dégâts avec votre attaque de base.,"Wenn dein Grundangriff Schaden verursacht, erhältst du 1&nbsp;Münze.",Il tuo attacco base ti fa guadagnare 1 moneta quando infligge danno.,Seu ataque básico concede 1 moeda quando causa dano.,"当你的基础攻击造成伤害时，
@@ -2023,7 +1977,6 @@ In jedem Kampf erscheinen 2&nbsp;– 3 zusätzliche Münzen.","Quando prendi un 
 In ogni battaglia vengono generate 1-2 monete aggiuntive,","Ao coletar um coletável de moeda, reinicie sua ação de movimento e obtenha +1 de [img:dex] e +1 de [img:spd].
 2-3 moedas adicionais geradas em cada batalha.","当你收集金币掉落物时，
 刷新你的移动行动并获得 +1 [img:dex] 和 +1 [img:spd]。
-
 每场战斗额外生成 2-3 枚金币。
 "
 PASSIVE_ALPHASTRIKE_NAME,First Strike,,Primer ataque,Premier assaut,Erstschlag,Primo Colpo,Primeiro Ataque,先发制人
@@ -2166,7 +2119,6 @@ Du beginnst jeden Kampf mit 4&nbsp;Fliegenbegleitern.","I tuoi famigli e le unit
 Inizi ogni battaglia con 4 famigli volanti.","Seus familiares e unidades que você enfeitiça obtêm +4 de [img:spd] e aplicam veneno e sangramento.
 Inicie cada batalha com 4 familiares voadores.","你的使魔和你魅惑的
 单位获得 +4 [img:spd] 并施加中毒和流血。
-
 每次战斗开始时获得 4 个苍蝇使魔。
 "
 PASSIVE_QUIVER_NAME,Quiver,,Carcaj,Tremblement,Köcher,Faretra,Aljava,箭袋
@@ -2178,7 +2130,6 @@ Si no ha atacado en este combate, se duplica la cantidad que guarda.","Vous gard
 Wenn du in diesem Kampf noch nicht angegriffen hast, werden sie verdoppelt.","Conservi gli attacchi base non utilizzati per i turni successivi.
 Se non hai attaccato in questa battaglia, il numero salvato si raddoppia.","Ataques básicos não utilizados são guardados para turnos futuros.
 Se você ainda não realizou ataques nesta batalha, a quantidade de ataques básicos salvos é dobrada.","将未使用的基础攻击保留至以后的回合。
-
 如果你在本场战斗中尚未攻击过，
 保留的数量翻倍。"
 PASSIVE_SPLITSHOT_NAME,Split Shot,,Tiro dividido,Tir divisé,Splitterschuss,Colpo Diviso,Tiro Dividido,分裂射击
@@ -2207,7 +2158,6 @@ Erhalte +2&nbsp;[img:dex], wenn eine deiner Fallen ausgelöst wird.","Il tuo att
 Ogni volta che una delle tue trappole si attiva, ottieni +2 alla [img:dex].","Seu ataque básico gera uma armadilha de urso se você o lançar em um espaço vazio.
 Sempre que uma de suas armadilhas for disparada, obtenha +2 de [img:dex].","如果你射击空地块，
 你的基础攻击会生成一个捕兽夹。
-
 每当你的陷阱触发时，获得 +2 [img:dex]。
 "
 PASSIVE_TRAPS2_DESC,"Your basic attack spawns a bear trap if you shoot an empty tile.
@@ -2217,7 +2167,6 @@ Erhalte +2&nbsp;[img:dex] und einen Bonusangriff, wenn eine deiner Fallen ausgel
 Ogni volta che una delle tue trappole si attiva, ottieni +2 alla [img:dex] e +1 Attacco Bonus.","Seu ataque básico gera uma armadilha de urso se você o lançar em um espaço vazio.
 Sempre que uma de suas armadilhas for disparada, obtenha +2 de [img:dex]. e +1 ataque bônus.","如果你射击空地块，
 你的基础攻击会生成一个捕兽夹。
-
 每当你的陷阱触发时，
 获得 +2 [img:dex] 和 +1 奖励攻击。
 "
@@ -2240,7 +2189,6 @@ Los aliados no activan los cepos.",Les dégâts et effets de vos pièges sont do
 Verbündete lösen deine Fallen nicht aus.","Il danno e gli effetti delle tue trappole sono raddoppiati.
 Gli alleati non attivano le tue trappole.","O dano e os efeitos de suas armadilhas são dobrados.
 Aliados não ativam suas armaduras.","你的陷阱造成的伤害和效果翻倍。
-
 盟友不会触发你的陷阱。"
 PASSIVE_GRAVITYFALLS_NAME,Gravity Falls,,Caída por gravedad,Perte de gravité,Gravitationseffekte,Caduta Gravitazionale,Queda Gravitacional,重力坠落
 PASSIVE_GRAVITYFALLS_DESC,Your basic attack deals +1 damage for each tile you shoot beyond range 3.,,El ataque básico inflige +1 de daño por cada casilla a la que dispare más allá de un alcance de 3 casillas.,Votre attaque de base inflige Dégâts&nbsp;+1&nbsp;pour chaque case sur laquelle vous tirez au-delà de&nbsp;3.,Dein Grundangriff verursacht für jedes Feld über Reichweite&nbsp;3 +1&nbsp;Schaden.,Il tuo attacco base infligge +1 di danno per ogni casella contro cui spari oltre il raggio d'azione 3.,Seu ataque básico causa +1 de dano para cada espaço através do qual você dispara além do alcance 3.,"在射程 3 之外，
@@ -2314,7 +2262,6 @@ Dein Grundangriff verursacht mit 25%iger Wahrscheinlichkeit Charme&nbsp;1.","Il 
 Il tuo attacco base ha il 25% di probabilità di infliggere Fascino 1.","Seu ataque básico aplica feitiço 5 na primeira vez em que é utilizado em cada batalha.
 Seu ataque básico possui 25% de chance de aplicar feitiço 1.","每场战斗中，
 你首次使用基础攻击时会施加 5 层魅惑。
-
 你的
 基础攻击有 25% 几率施加 1 层魅惑。
 "
@@ -2357,7 +2304,6 @@ Puoi usare i consumabili sugli alleati.
 Conservi +20 cibo alla fine di ogni battaglia.","4 consumíveis grandes de cura e uma garrafa de água cheia são adicionados ao seu inventário.
 Você pode usar consumíveis em aliados.
 Armazene +20 de comida no final de cada batalha.","4 个大型治疗消耗品添加到你的库存中。
-
 你可以对盟友使用消耗品。
 每场战斗结束时多储存 20 份食物。
 "
@@ -2437,7 +2383,6 @@ En vez de retroceso, las explosiones tienen una probabilidad de aturdir.","Vos e
 Statt Rückstoß können Explosionen jetzt Betäubung verursachen.","Le tue esplosioni sono di elemento Elettrico e infliggono +1 di danno.
 Invece del contraccolpo, le esplosioni hanno una possibilità di infliggere Stordimento.","Suas explosões são do elemento elétrico e causam +1 de dano.
 Ao invés de empurrar, explosões possuem uma chance de aplicar atordoamento.","你的爆炸变为电击元素并造成 +1 伤害。
-
 爆炸不再造成击退，
 而是有几率造成晕眩。"
 PASSIVE_EMP2_DESC,"Your explosions are Electric element and deal +1 damage.
@@ -2447,7 +2392,6 @@ Statt Rückstoß können Explosionen jetzt Betäubung verursachen. Deine Explosi
 Invece del contraccolpo, le esplosioni hanno una possibilità di infliggere Stordimento.
 Le tue esplosioni non hanno effetto sugli alleati.","Suas explosões são do elemento elétrico e causam +1 de dano.
 Ao invés de empurrar, explosões possuem uma chance de aplicar atordoamento. Suas explosões não afetam aliados.","你的爆炸变为电击元素并造成 +1 伤害。
-
 爆炸不再造成击退，
 而是有几率造成晕眩。
 你的爆炸不会波及友军。"
@@ -2460,7 +2404,6 @@ Esta unidad es inmune a las explosiones.",Vos explosions sont plus vastes et inf
 Du bist immun gegen Explosionen.","Le tue esplosioni sono più grandi e infliggono +2 di danno.
 Hai immunità alle esplosioni.","Suas explosões são maiores e causam +1 de dano.
 Você possui imunidade contra explosões.","你的爆炸范围更大并造成 +2 伤害。
-
 你拥有爆炸免疫。"
 PASSIVE_ESCAPESEQUENCE_NAME,Escape Sequence,,Secuencia de huida,Séquence de fuite,Escapesequenz,Piano di Fuga,Sequência de Fuga,逃生程序
 PASSIVE_ESCAPESEQUENCE_DESC,"When you take damage, explode and get launched to a random tile. This explosion doesn't damage you.",,"Al sufrir daño, explota y se propulsa hacia una casilla al azar. Esta explosión no inflige daño a esta unidad.","Quand vous subissez des dégâts, vous explosez et atterrissez sur une case aléatoire. Cette explosion ne vous inflige pas de dégâts.","Wenn du Schaden erleidest, explodierst du und wirst auf ein zufälliges Feld geschleudert. Die Explosion verursacht keinen Schaden bei dir.","Quando subisci danno, esplodi e finisci su una casella casuale. Quest'esplosione non ti infligge danno.","Ao sofrer dano, exploda para cair em um espaço aleatório. Esta explosão não causa dano a você.","当你受到伤害时，
@@ -2540,7 +2483,6 @@ Al gastar un consumible o baratija, se equipa con otro consumible del inventario
 Wenn du einen Verbrauchsgegenstand oder Zubehör aufbrauchst, rüstest du einen neuen aus deinem Inventar aus, falls möglich.","Trovi un oggetto consumabile aggiuntivo alla fine di ogni battaglia.
 Quando usi un consumabile o un ciondolo, equipaggi uno nuovo consumabile dal tuo inventario (se ne hai a disposizione).","Encontre um item consumível adicional no fim de cada batalha.
 Ao esgotar um consumível ou acessório, equipe um novo consumível do seu inventário, se possuir algum.","每场战斗结束时额外发现一件消耗品。
-
 当你用完消耗品或饰品时，
 如果库存中有消耗品，
 则装备一件新的。"
@@ -2550,7 +2492,6 @@ Al gastar un consumible o baratija, se equipa con otro consumible del inventario
 Wenn du einen Verbrauchsgegenstand oder Zubehör aufbrauchst, rüstest du einen neuen aus deinem Inventar aus, falls möglich.","Trovi un oggetto aggiuntivo alla fine di ogni battaglia.
 Quando usi un consumabile o un ciondolo, equipaggi uno nuovo consumabile dal tuo inventario (se ne hai a disposizione).","Encontre um item adicional no fim de cada batalha.
 Ao esgotar um consumível ou acessório, equipe um novo consumível do seu inventário, se possuir algum.","每场战斗结束时额外发现一件物品。
-
 当你用完消耗品或饰品时，
 如果库存中有消耗品，
 则装备一件新的。"
@@ -2584,7 +2525,6 @@ Cuando se equipa un objeto nuevo durante el combate, obtiene +1 uso.","Vous pouv
 Immer, wenn du im Kampf einen neuen Gegenstand ausrüstest, erhält er +1&nbsp;Anwendung.","Puoi usare la tua arma e il tuo ciondolo una volta in più ogni turno.
 Ogni volta che equipaggi un nuovo oggetto durante la battaglia, esso ottiene +1 utilizzo.","Você pode utilizar sua arma uma vez adicional a cada turno.
 Sempre que equipar um novo item durante a batalha, ele ganha +1 uso.","你每回合可以额外使用一次武器和饰品。
-
 每当你在战斗中装备新物品时，
 它获得 +1 使用次数。"
 PASSIVE_CONDUCTOR_NAME,Conductor,,Conductor,Conduction,Leiter,Conduttore,Condução,导体
@@ -2644,7 +2584,6 @@ Tu e i tuoi alleati non avete limite massimo di PS.","+2 de regeneração de sa�
 Sua regeneração de saúde também é aplicada em seus aliados.
 Você e seus aliados não possuem mais limites de PV.","+2 生命恢复
 你的生命恢复也适用于你的友军。
-
 你和你的友军拥有无上限生命值。
 "
 PASSIVE_NATURALHEALER_NAME,Natural Healer,,Curación natural,Soins naturels,Naturtalent für Heilung,Asso della Guarigione,Cura Natural,自然医者
@@ -2945,7 +2884,6 @@ Il tuo danno da fuoco aumenta di 1 e infliggi +1 Bruciatura.","Imunidade contra 
 Aplique queimadura 1 em unidades que entrarem em contato com você.
 Seu dano do elemento fogo é aumentado em 1 e aplica +1 de queimadura.","火焰免疫。
 对接触你的单位施加 1 层燃烧。
-
 你的
 火元素伤害增加 1 点并施加 +1 层燃烧。
 "
@@ -2961,7 +2899,6 @@ Il tuo danno da fuoco aumenta di 2 e infliggi +3 Bruciatura.","Imunidade contra 
 Aplique queimadura 3 em unidades que entrarem em contato com você.
 Seu dano do elemento fogo é aumentado em 2 e aplica +3 de queimadura.","火焰免疫。
 对接触你的单位施加 3 层燃烧。
-
 你的
 火元素伤害增加 2 点并施加 +3 层燃烧。
 "
@@ -2972,7 +2909,6 @@ Las unidades que entran en contacto con esta sufren 1 de daño de hielo, 2 de ra
 Einheiten, die dich berühren, erleiden 1&nbsp;Eisschaden, Verlangsamung&nbsp;2 und frieren mit 5%iger Wahrscheinlichkeit ein.","Immunità al ghiaccio. Puoi infliggere danno alle unità congelate.
 Le unità che entrano in contatto con te subiscono 1 Danno da Ghiaccio, Rallentamento 2 e hanno il 5% di probabilità di subire Congelamento.","Imunidade contra gelo. Você pode causar dano a unidades congeladas.
 Unidades que entrarem em contato com você sofrem 1 de dano de gelo, lentidão 2 e possuem uma chance de 5% de congelar.","冰霜免疫。你可以伤害被冻结的单位。
-
 接触你的单位受到 1 点冰霜伤害，
 2 层减速，并有 5% 的几率被冻结。
 "
@@ -3094,7 +3030,6 @@ Quando termini il tuo turno, se hai esattamente 2 di mana, ottieni +1 Attacco Bo
 Ao finalizar seu turno, se você possuir exatamente 2 de mana, obtenha +1 ataque bônus e +1 movimento bônus.","当你结束回合时，
 如果你刚好施放了 2 个法术，
 获得 +1 奖励攻击和移动力。
-
 当你结束回合时，
 如果你刚好有 2 点法力，
 获得 +1 奖励攻击和移动力。
@@ -3159,7 +3094,6 @@ Bonusfähigkeit: Kopfsache.","Quando hai il mana pieno, il tuo attacco base infl
 Abilità Bonus: Crescita Cranica.","Enquanto estiver com a mana completa, seu ataque básico causa dano triplicado e possui +3 de empurrão.
 Habilidade bônus: Crescer Cabeça.","法力全满时，
 你的基础攻击造成三倍伤害并拥有 +3 击退。
-
 额外技能：长脑袋。"
 PASSIVE_REALITYSHATTER_NAME,Reality Shatter,,Fragmentación de realidad,Réalité brisée,Realitätsverzerrung,Frattura della Realtà,Estilhaçamento de Realidade,现实碎裂
 PASSIVE_REALITYSHATTER_DESC,Gravity element abilities spawn Floating Glass.,,Las habilidades de gravedad generan cristales flotantes.,Les compétences de gravité font apparaître du Verre flottant.,Gravitationsfähigkeiten erschaffen schwebende Scherben.,Le abilità dell'elemento Gravità generano Vetro Fluttuante.,Habilidades do elemento gravidade geram grama voadora.,重力元素技能会生成浮空玻璃。
@@ -3239,7 +3173,6 @@ Finché hai 0 o meno di [img:cha], puoi attaccare una volta aggiuntiva per turno
 Enquanto estiver com a mana completa, sua ação básica aplica insanidade.
 Enquanto possuir 0 ou menos de [img:cha], você pode atacar uma vez adicional por turno.","你受到的所有伤势都是毁容。
 法力全满时，你的基础行动施加疯狂。
-
 当你的 [img:cha] 为 0 或更低时，
 你每回合可以额外攻击一次。"
 PASSIVE_MADVISAGE2_DESC,"All injuries you get are Disfigured.
@@ -3259,9 +3192,7 @@ Unidades que atacarem ou entrarem em contato com você obtêm insanidade.
 Enquanto estiver com a mana completa, sua ação básica aplica insanidade.
 Enquanto possuir 0 ou menos de [img:cha], você pode atacar 2 vezes adicionais por turno.","你受到的所有伤势都是毁容。
 接触或攻击你的单位会获得疯狂。
-
 法力全满时，你的基础攻击施加疯狂。
-
 当你的 [img:cha] 为 0 时，
 你每回合可以额外攻击 2 次。
 "
@@ -3345,7 +3276,6 @@ Após cada batalha, obtenha +2 de [img:str] e -1 de [img:int].
 Se a sua [img:int] for menor ou igual a 0, você obtém insanidade.","你的基础攻击变为近战攻击。
 你无法装备面部护甲。
 每次战斗后，获得 +2 [img:str] 和 -1 [img:int]。
-
 如果你的 [img:int] 为 0 或更低，
 你会陷入疯狂。"
 DISORDER_BOILS_NAME,Boils,,Forúnculos,Bouillonnement,Furunkel,Bolle,Fervura,脓疮
@@ -3449,7 +3379,6 @@ Obtiene 2 cargas por cada punto de daño sufrido con la hemorragia.","Quand vous
 Erhalte für jeden Schaden, den du von einer Blutung erleidest, 2&nbsp;Ladung.","Quando subisci danno, hai un 10% di probabilità di ottenere Sanguinamento 1. Ottieni 2 Carica per ogni danno subito da Sanguinamento.","Ao sofrer dano, você possui 10% de chance de obter sangramento 1.
 Obtenha 2 cargas para cada dano que você sofre do sangramento.","当你受到伤害时，
 你有 10% 的几率获得 流血 1。
-
 你每因 流血 受到 1 点伤害，
 便获得 2 层充能。"
 DISORDER_EMPATH_NAME,Empath,,Empatía,Empathie,Empathisch,Empatia,Empatia,共情者
@@ -3459,7 +3388,6 @@ Sus acciones curativas devuelven 1 PS extra.",Vous subissez 1&nbsp;point de dég
 Deine Heilungen heilen 1&nbsp;LP mehr.","Subisci 1 danno quando infliggi danno.
 Le tue cure rigenerano 1 PS in più.","Sofra 1 de dano ao causar dano.
 Suas curas recuperam 1 ponto adicional.","当你造成伤害时受到 1 点伤害。
-
 你的治疗量额外 +1。"
 DISORDER_INFESTATION_NAME,Infestation,,Plaga,Gangrène,Plage,Infestazione,Infestação,虫患
 DISORDER_INFESTATION_DESC,"At the start of your turn, you have a 50% chance to spawn a Maggot Familiar and 15% chance to spawn an enemy Flea.",,"Al inicio del turno, tiene un 50 % de probabilidad de generar un familiar gusano y un 15 % de probabilidad de generar una pulga enemiga.","Au début de votre tour, 50&nbsp;% de chances d'invoquer un asticot de compagnie et 15&nbsp;% de chances d'invoquer une puce ennemie.",Am Anfang deines Zuges rufst du mit 50%iger Wahrscheinlichkeit einen Madenbegleiter und mit 15%iger Wahrscheinlichkeit einen gegnerischen Floh.,"All'inizio del tuo turno, hai un 50% di probabilità di generare un famiglio Larva e un 15% di probabilità di generare una Pulce nemica.","No início do seu turno, você possui 50% de chance de gerar um familiar verme e 15% de chance de gerar uma pulga inimiga.","在你的回合开始时，
@@ -3570,7 +3498,6 @@ Al sufrir daño, sufre una lesión al azar.","Tous les dégâts reçus descenden
 Wenn du Schaden erleidest, erleidest du eine zufällige Verletzung.","Tutto il danno che subisci si riduce a 1.
 Quando subisci danno, subisci una ferita casuale.","Todo o dano que você sofre é reduzido a 1.
 Ao sofrer dano, sofra também um ferimento aleatório.","你受到的所有伤害减少至 1 点。
-
 当你受到伤害时，遭受一种随机随机伤势。
 "
 DISORDER_BADGAS_NAME,Bad Gas,,Pedo peregrino,Aérophagie,Heftige Blähungen,Gas Nocivo,Pum Fedido,坏屁
@@ -3650,7 +3577,6 @@ El ataque básico tiene un 25 % de probabilidad de infligir miedo.",Les dégât
 Dein Grundangriff hat eine 25%ige Wahrscheinlichkeit, Angst zu verursachen.","Il danno da fuoco che subisci infligge +3 Bruciatura.
 Il tuo attacco base ha il 25% di probabilità di infliggere Paura.","O dano de fogo que você sofre aplica +3 de queimadura.
 Seu ataque básico possui uma chance de 25% de aplicar medo.","你受到的火焰伤害会施加 +3 燃烧。
-
 你的基础攻击有 25% 的几率施加恐惧。
 "
 DISORDER_SLEEPPARALYSIS_NAME,Sleep Paralysis,,Parálisis del sueño,Paralysie du sommeil,Schlafparalyse,Paralisi del Sonno,Paralisia do Sono,睡眠瘫痪
@@ -3686,7 +3612,6 @@ con Diminuzione delle Statistiche 2.","Inicie cada batalha com:
 ou
 Todos os atributos diminuídos 2.","每场战斗开始时，要么获得
  +5 [img:int]、+5 [img:cha] 和 +5 [img:spd]，
-
 要么获得
 2 层全属性下降。"
 DISORDER_SOULLESS_NAME,Soulless,,Sin alma,Sans âme,Seelenlos,Senz'Anima,Desalmado,无魂
@@ -3714,9 +3639,7 @@ Ottieni Aumento delle Statistiche 3 ogni volta che mangi una pillola.
 Hai il 50% di probabilità di trovare una pillola alla fine di ogni battaglia.","Inicie cada batalha com todos os atributos diminuídos 2.
 Obtenha todos os atributos aumentados 3 sempre que comer uma pílula.
 Você possui 50% de chance de encontrar uma pílula no final de cada batalha.","每场战斗开始时带有 2 层全属性下降。
-
 每当你吃下药丸时获得 3 层全属性提升。
-
 你在每场战斗结束时有 50% 的
 几率找到一颗药丸。"
 DISORDER_BORROWEDTIME_NAME,Borrowed Time,,Tiempo prestado,Temps compté,Die Zeit rinnt,Tempo Rubato,Prorrogação,借来的时间
@@ -3743,7 +3666,6 @@ Al inicio del turno, si está cerca de una caca, automáticamente se mueve hacia
 Wenn du am Anfang des Zuges in der Nähe eines Häufchens stehst, bewegst du dich automatisch auf es zu und frisst es auf.","Rigeneri 5 PS quando fai danno alla cacca.
 All'inizio del tuo turno, se sei nei pressi della cacca, ti muovi automaticamente verso di essa e la mangi.","Cure 5 PV ao causar dano a cocô.
 No início do seu turno, se estiver perto de algum cocô, mova-se automaticamente até ele e o coma.","当你对便便造成伤害时恢复 5 点生命值。
-
 回合开始时，如果你附近有便便，
 你会自动向它移动并吃掉它。"
 DISORDER_NECROPHAGE_NAME,Necrophage,,Necrofagia,Nécrophagie,Nekrophagie,Necrofagia,Necrofagia,食尸癖
@@ -3769,10 +3691,8 @@ Infliggi Veleno 3 e Debolezza 1 alle unità che ti toccano.
 Ottieni -1 alla [img:con] e -1 alla [img:spd] alla fine di ogni battaglia in modo permanente.","Seu ataque básico aplica veneno 3 e fraqueza 1.
 Aplique veneno 3 e fraqueza 1 em unidades que entrarem em contato com você.
 Obtenha -1 de [img:con] e -1 de [img:spd] no final de cada batalha permanentemente.","你的基础攻击施加 3 层中毒和 1 层虚弱。
-
 对接触你的
 单位施加 3 层中毒和 1 层虚弱。
-
 每场战斗结束时永久获得 -1 [img:con] 和 -1 [img:spd]。
 "
 DISORDER_DYSLEXIA_NAME,Dyslexia,,Dislexia,Dyslexie,Dyslexie,Dislessia,Dislexia,阅读障碍
@@ -3794,7 +3714,6 @@ Seu ataque básico aplica veneno 1 e fraqueza 1.
 15% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时带有全属性下降、
 1 层中毒和 1 层虚弱。
 你的基础攻击施加 1 层中毒和 1 层虚弱。
-
 每回合结束时有 15% 的几率痊愈。
 具有传染性。"
 DISORDER_THEFLU_NAME,The Flu,,Gripe,Grippe,Grippe,Influenza,Gripe,流感
@@ -3813,7 +3732,6 @@ Seu ataque básico aplica lentidão 1 e fraqueza 1.
 20% de chance de se recuperar no final de cada rodada. Contagioso.","每场战斗开始时带有 5 层减
 速和 5 层虚弱。
 你的基础攻击施加 1 层减速和 1 层虚弱。
-
 每回合结束时有 20% 的几率痊愈。
 具有传染性。"
 DISORDER_BIRDFLU_NAME,Bird Flu,,Gripe aviar,Grippe aviaire,Vogelgrippe,Influenza aviaria,Gripe Aviária,禽流感
@@ -3829,7 +3747,6 @@ Contagiosa.","Inicie cada batalha na forma de rouxinol.
 20% de chance de se recuperar no final de cada batalha.
 Contagioso.","每场战斗开始时处于嘲鸫形态。
 每场战斗结束时有 20% 的几率痊愈。
-
 具有传染性。"
 DISORDER_NUDIST_NAME,Nudist,,Nudismo,Nudiste,Nudist,Nudista,Nudismo,裸体主义
 DISORDER_NUDIST_DESC,"+50% dodge chance.
@@ -3877,7 +3794,6 @@ Il danno subito viene ridotto a 1.
 I tuoi incantesimi costano 1 mana.","Sua saúde máxima e mana são reduzidas para 1.
 O dano que você sofre é reduzido para 1.
 Seus encantamentos custam 1 de mana.","你的最大生命值和法力值降为 1。
-
 你受到的伤害降为 1。
 你的法术消耗 1 点法力值。"
 DISORDER_INSOMNIA_NAME,Insomnia,,Insomnio,Insomnie.,Schlafstörung,Insonnia,Insônia,失眠症
@@ -3933,7 +3849,6 @@ Wenn du in Ohnmacht fällst, erleidest du eine zusätzliche Verletzung.","+2 Liv
 Quando vai KO, subisci una ferita aggiuntiva.","+2 de contusão, +2 de espinhos de sangramento e +2 de espinhos.
 Ao ficar inconsciente, você obtém um ferimento adicional.","+2 淤伤、
 +2 流血荆棘 和 +2 荆棘。
-
 当你倒地时，你会额外受到一次伤害。
 "
 DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,庞然大物
@@ -4026,7 +3941,6 @@ Cuando un aliado es abatido, esta unidad recupera todo su maná. ","10&nbsp;% de
 Wenn eine verbündete Katze in Ohnmacht fällt, stellst du all dein Mana wieder her. ","10% di probabilità di essere controllato dall'IA a ogni turno.
 Quando un gatto alleato va KO, si rigenera tutto il tuo mana.","Você possui 10% de chance de ficar sob controle do computador em cada turno.
 Quando um gato aliado fica inconsciente, restaure toda a sua mana.","每回合有 10% 几率被 AI 控制。
-
 当一只盟友猫倒地时，
 恢复你所有的法力值。"
 DISORDER_ORANGEFETIN_NAME,Orange Fetin,,Fetén naranja,Fetin orange,Oranger Fetan,Fetin Arancione,Fetina Laranja,橙色费廷
@@ -4036,7 +3950,6 @@ Cuando mata a un enemigo, obtiene 3 de maná y recupera 2 PS.","10&nbsp;% de cha
 Wenn du einen Gegner tötest, erhältst du 3&nbsp;Mana und heilst dich um 2&nbsp;LP.","10% di possibilità di essere controllato dall'IA a ogni turno.
 Quando uccidi un nemico, guadagni 3 mana e rigeneri 2 PS.","Você possui 10% de chance de ficar sob controle do computador em cada turno.
 Ao matar um inimigo, obtenha 3 de mana e cure 2 PV.","每回合有 10% 几率被 AI 控制。
-
 当你杀死一个敌人时，
 获得 3 点法力值并恢复 2 点生命值。
 "
@@ -4047,7 +3960,6 @@ Se pueden cambiar al azar las opciones tres veces al subir de nivel.",10&nbsp;% 
 Du kannst deine Auswahlmöglichkeiten dreimal neu generieren, wenn du ein Level aufsteigst.","10% di possibilità di essere controllato dall'IA a ogni turno.
 Puoi modificare le tue opzioni quando aumenti di livello per 3 volte.","Você possui 10% de chance de ficar sob controle do computador em cada turno.
 Você pode rolar novamente suas opções ao subir de nível 3 vezes.","每回合有 10% 几率被 AI 控制。
-
 你可以重掷你的升级选项 3 次。
 "
 ,,,,,,,,

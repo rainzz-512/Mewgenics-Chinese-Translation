@@ -43,7 +43,6 @@ ABILITY_BORROWMANA_DESC,"Steal up to 5 mana from an ally.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Ruba fino a 5 mana da un alleato.
 [s:.7](Lanciabile una volta per turno.)[/s]","Roube até 5 de mana de um aliado.
 [s:.7](Um lançamento por turno.)[/s]","从一名盟友那里窃取最多 5 点法力。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_BORROWMANA2_DESC,"Steal all of an ally's mana.
 [s:.7](Castable once per turn.)[/s]",,"Roba todo el maná de un aliado.
@@ -143,7 +142,6 @@ ABILITY_FLEX2_DESC,"Gain +1 temporary Brace until your next turn and deal 3 knoc
 [s:.7](Este encantamento custa menos.)[/s]","获得 +1 临时护甲，
 直到你的下一回合，
 并对每个相邻单位造成 3 点击退。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_DART_NAME,Dart,,Dardo,Clou perçant,Wurfpfeil,Dardo,Dardo,飞镖
 ABILITY_DART_DESC,Throw a nail that ignores shield.,,Lanza un clavo que ignora el escudo.,Lance un clou qui ignore la défense.,"Wirf einen Pfeil, der Schilde ignoriert.",Lancia un chiodo che ignora gli scudi.,Lance um prego que ignora escudos.,投掷一根无视护盾的钉子。
@@ -153,7 +151,6 @@ ABILITY_DART2_DESC,"Throw a stronger nail that ignores shield.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Lancia un chiodo più potente che ignora gli scudi.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Lance um prego que ignora escudos.
 [s:.7](Este encantamento custa menos.)[/s]","投掷一根无视护盾的更强钉子。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SMACK_NAME,Smack,,Bofetón,Baffe,Backpfeife,Sberla,Bofete,拍击
 ABILITY_SMACK_DESC,A weak melee attack.,,Un ataque cuerpo a cuerpo débil.,Une faible attaque au corps-à-corps.,Ein schwacher Nahkampfangriff.,Un attacco corpo a corpo debole.,Um ataque corpo-a-corpo fraco.,一次虚弱的近战攻击。
@@ -261,7 +258,6 @@ ABILITY_TRIP2_DESC,"Immobilize a unit in range 4.
 [s:.7]Ist bei Bossen und großen Gegnern nur zu 25&nbsp;% erfolgreich.[/s]","Immobilizza un'unità entro un raggio d'azione di 4.
 [s:.7]Ha solo il 25% di probabilità di funzionare su unità boss e nemici di grandi dimensioni.[/s]","Imobilize uma unidade em alcance 4.
 [s:.7]Isto possui apenas 25% de chance de funcionar em chefes e inimigos grandes.[/s]","定身一个射程 4 内的单位。
-
 [s:.7]该效果对 Boss 单位和大
 型敌人只有 25% 的成功率。
 [/s]"
@@ -328,7 +324,6 @@ ABILITY_SUPPRESS_DESC,"Chuck a rock at a unit, inflicting Stun on that unit.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Lanci una pietra contro un'unità, infliggendole Stordimento.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Jogue uma pedra em uma unidade, aplicando atordoamento.
 [s:.7](Um lançamento por batalha.)[/s]","向一个单位投掷石块，对其施加晕眩。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_SUPPRESS2_DESC,"Chuck a rock at a unit, inflicting Stun on that unit.
 [s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",,"Lanza una roca a una unidad y la aturde.
@@ -336,7 +331,6 @@ ABILITY_SUPPRESS2_DESC,"Chuck a rock at a unit, inflicting Stun on that unit.
 [s:.7](Dieser Zauber kostet 0&nbsp;Mana. Einmal pro Kampf verwendbar.)[/s]","Lanci una pietra contro un'unità, infliggendole Stordimento.
 [s:.7](Quest'incantesimo costa 0 mana. Può essere lanciato una volta per battaglia.)[/s]","Jogue uma pedra em uma unidade, aplicando atordoamento.
 [s:.7](Este encantamento custa 0 de mana. Um lançamento por batalha.)[/s]","向一个单位投掷石块，对其施加晕眩。
-
 [s:.7]（此法术消耗 0 法力值。
 每场战斗限用一次。）[/s]"
 ABILITY_SECONDWIND_NAME,Second Wind,,Cambio de aires,Second souffle,Durchschnaufen,Nuovo Slancio,Segunda Chance,复苏之风
@@ -402,7 +396,6 @@ ABILITY_BURGEONINGBLAST_DESC,"A spell that deals {v0} damage. Increase this spel
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Um encantamento que causa {v0} de dano. Aumente o dano deste encantamento em 2 no final de cada turno.
 [s:.7](Um lançamento por batalha.)[/s]","造成 {v0} 点伤害的法术。
 每回合结束时，此法术的伤害增加 2 点。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_BURGEONINGBLAST2_DESC,"A spell that deals {v0} damage. Increase this spell's damage by 3 at the end of each turn.
 [s:.7](Castable once per battle.)[/s]",,"Un hechizo que inflige {v0} de daño. Aumenta en 3 el daño de este hechizo al final de cada turno.
@@ -411,7 +404,6 @@ ABILITY_BURGEONINGBLAST2_DESC,"A spell that deals {v0} damage. Increase this spe
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Um encantamento que causa {v0} de dano. Aumente o dano deste encantamento em 3 no final de cada turno.
 [s:.7](Um lançamento por batalha.)[/s]","造成 {v0} 点伤害的法术。
 每回合结束时，此法术的伤害增加 3 点。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_BURGEONINGBARRIER_NAME,Burgeoning Barrier,,Barrera creciente,Barrière bourgeonnante,Wachsende Barriere,Barriera Crescente,Bateria Expansiva,滋长屏障
 ABILITY_BURGEONINGBARRIER_DESC,"Gain {v0} [img:shield]. Increase this spell's [img:shield] by 2 at the end of each turn.
@@ -438,7 +430,6 @@ ABILITY_BURGEONINGBATTERY_DESC,"Gain {v0} mana. Increase this spell's mana gain 
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Obtenha {v0} de mana. Aumente a mana deste encantamento em 2 no final de cada turno.
 [s:.7](Um lançamento por batalha.)[/s]","获得 {v0} 点法力值。每回合结束时，
 此法术的法力值获取量增加 2 点。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_BURGEONINGBATTERY2_DESC,"Gain {v0} mana. Increase this spell's mana gain by 3 at the end of each turn.
 [s:.7](Castable once per battle.)[/s]",,"Obtiene {v0} de maná. Aumenta en 3 el maná de este hechizo al final de cada turno.
@@ -447,7 +438,6 @@ ABILITY_BURGEONINGBATTERY2_DESC,"Gain {v0} mana. Increase this spell's mana gain
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Obtenha {v0} de mana. Aumente a mana deste encantamento em 3 no final de cada turno.
 [s:.7](Um lançamento por batalha.)[/s]","获得 {v0} 点法力值。每回合结束时，
 此法术的法力值获取量增加 3 点。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_HOSEOFF_NAME,Hose Off,,Enjuague con manguera,Nettoyage,Abwasch,Lavaggio,Mangueira,冲洗
 ABILITY_HOSEOFF_DESC,"Spray a unit with water, cleansing its debuffs and making a puddle.
@@ -457,7 +447,6 @@ ABILITY_HOSEOFF_DESC,"Spray a unit with water, cleansing its debuffs and making 
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Jogue água em uma unidade, purificando seus enfraquecimentos e criando uma poça.
 [s:.7](Um lançamento por batalha.)[/s]","用水喷射一个单位，
 驱散其减益效果并制造一个水坑。
-
 [s:.7]（每场战斗限用一次。）[/s]"
 ABILITY_HOSEOFF2_DESC,"Spray a unit with water, cleansing its debuffs and making a puddle.
 [s:.7](This spell costs 0 mana. Castable once per battle.)[/s]",,"Riega a una unidad con agua para quitarle las desventajas y crea un charco.
@@ -466,7 +455,6 @@ ABILITY_HOSEOFF2_DESC,"Spray a unit with water, cleansing its debuffs and making
 [s:.7](Quest'incantesimo costa 0 mana. Lanciabile una volta per battaglia.)[/s]","Jogue água em uma unidade, purificando seus enfraquecimentos e criando uma poça.
 [s:.7](Este encantamento custa 0 de mana. Um lançamento por batalha.)[/s]","用水喷射一个单位，
 驱散其减益效果并制造一个水坑。
-
 [s:.7]（此法术消耗 0 法力值。
 每场战斗限用一次。）[/s]"
 ABILITY_PROLIFERATE_NAME,Proliferate,,Proliferación,Prolifération,Wuchern,Proliferazione,Proliferação,增殖
@@ -515,7 +503,6 @@ ABILITY_INVERT2_DESC,"Swap a unit's highest and lowest stats.
 [s:.7](Bei Gleichstand entscheidet der Zufall.)[/s]","Scambia le statistiche più alte e più basse di un'unità.
 [s:.7](Se il valore è uguale, la scelta è casuale)[/s]","Troque seus atributos mais alto e mais baixo.
 [s:.7](Empates são escolhidos aleatoriamente.)[/s]","交换一个单位的最高和最低属性。
-
 [s:.7]（属性相同时随机选择）[/s]"
 ABILITY_RUSSIANSHORTHAIRROULETTE_NAME,Russian Shorthair Roulette,,Ruleta azul ruso,Roulette bleu russe,Russisch Blau-Roulette,Roulette Blu di Russia,Roleta de Azul Russo,俄罗斯短毛猫轮盘
 ABILITY_RUSSIANSHORTHAIRROULETTE_DESC,"There is a 1 in 6 chance this will kill you. If it doesn't, gain +1 to a random stat and 1-2 coins.",,"Hay una probabilidad de 1 entre 6 de que esto mate a esta unidad. Si no lo hace, obtiene +1 de un atributo al azar y 1-2 monedas.","Lancer cette compétence a 1&nbsp;chance sur&nbsp;6&nbsp;de vous tuer. Sinon, gagnez +1&nbsp;à une stat aléatoire et 1-2&nbsp;pièces.","Diese Aktion tötet dich mit einer Chance von 1 zu 6. Wenn du überlebst, erhältst du +1 auf ein zufälliges Attribut und 1&nbsp;– 2 Münzen.","C'è una probabilità su 6 che ti uccida. In caso contrario, ottieni +1 a una statistica casuale e 1-2 monete.","Há 1 chance em 6 de isto matar você. Se não o fizer, obtenha +1 em um atributo aleatório e 1-2 moedas.","有 1/6 的几率杀死你。
@@ -565,7 +552,6 @@ ABILITY_ROUSE_DESC,"Give an adjacent unit +2 Charge.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Ottieni +2 Carica a un'unità adiacente.
 [s:.7](Lanciabile una volta per turno.)[/s]","Conceda a uma unidade adjacente +2 cargas.
 [s:.7](Um lançamento por turno.)[/s]","给予一个相邻单位 +2 充能。
-
 [s:.7]（每回合限用一次。）[/s]"
 ABILITY_ROUSE2_DESC,"Give any unit +2 Charge.
 [s:.7](Castable once per turn.)[/s]",,"Otorga +2 de carga a cualquier unidad.
@@ -597,7 +583,6 @@ ABILITY_MAKEAWISH_DESC,"Spend a coin to spawn a random pickup on a random tile.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste uma moeda para gerar um coletável aleatório em um espaço aleatório.
 [s:.7](Um lançamento por turno.)[/s]","花费一枚金币，
 在随机地块上生成一个随机掉落物。
-
 [s:.7]（每回合限用一次。）[/s]"
 ABILITY_MAKEAWISH2_DESC,"Spend a coin to spawn a random pickup on an empty tile of your choice.
 [s:.7](Castable once per turn.)[/s]",,"Gasta una moneda para generar un recogible al azar en una casilla seleccionada.
@@ -606,7 +591,6 @@ ABILITY_MAKEAWISH2_DESC,"Spend a coin to spawn a random pickup on an empty tile 
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste uma moeda para gerar um coletável aleatório em um espaço vazio de sua escolha.
 [s:.7](Um lançamento por turno.)[/s]","花费一枚金币，
 在你选择的空地块上生成一个随机掉落物。
-
 [s:.7]（每回合限用一次。）[/s]"
 ABILITY_MAGNET_NAME,Magnet,,Imán,Magnet,Magnet,Magnete,Ímã,磁铁
 ABILITY_MAGNET_DESC,"Pull a pickup one tile toward you.
@@ -622,7 +606,6 @@ ABILITY_MAGNET2_DESC,"Pull a pickup all the way toward you.
 [s:.7](Einmal pro Zug verwendbar)[/s]","Avvicini un oggetto raccoglibile fino alla tua posizione.
 [s:.7](Lanciabile una volta per turno.)[/s]","Puxe um coletável até você.
 [s:.7](Um lançamento por turno.)[/s]","将一个掉落物完全拉到你身边。
-
 [s:.7]（每回合限用一次）[/s]"
 ABILITY_SHRUGITOFF_NAME,Shrug It Off,,Menosprecio,Force tranquille,Halb so wild,Senza Pensieri,Dar de Ombros,抖落伤痛
 ABILITY_SHRUGITOFF_DESC,"Heal yourself HP equal to half your [img:str], rounded up.",,Recupera una cantidad de PS igual a la mitad de su [img:str] redondeado al alza.,"Soignez-vous du nombre de PV égal à la moitié de votre [img:str], arrondi au supérieur.",Heile dich um die Hälfte deiner [img:str] (aufgerundet).,"Curati di un numero di PS pari alla metà della tua [img:str], arrotondato per eccesso.","Cure uma quantidade de PV equivalente à metade da sua [img:str], arredondada para cima.","治疗自己，恢复量等于你 [img:str] 的一半，
@@ -803,7 +786,6 @@ ABILITY_BUYCATNIP_DESC,"Spend 5 coins, gain 10 mana.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, ottieni 10 mana.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, obtenha 10 de mana.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，获得 10 点法力值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_BUYCATNIP2_DESC,"Spend 5 coins, gain 15 mana.
 [s:.7](Castable once per turn.)[/s]",,"Gasta 5 monedas y obtiene 15 de maná.
@@ -811,7 +793,6 @@ ABILITY_BUYCATNIP2_DESC,"Spend 5 coins, gain 15 mana.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, ottieni 15 mana.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, obtenha 15 de mana.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，获得 15 点法力值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_VETVISIT_NAME,Vet Visit,,Visita al veterinario,Visite au véto,Tierarztbesuch,Visita dal Veterinario,Consulta Veterinária,看兽医
 ABILITY_VETVISIT_DESC,"Spend 5 coins, heal 10 HP.
@@ -820,7 +801,6 @@ ABILITY_VETVISIT_DESC,"Spend 5 coins, heal 10 HP.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, curi 10 PS.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, cure 10 PV.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，治疗 10 点生命值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_VETVISIT2_DESC,"Spend 5 coins, heal 15 HP.
 [s:.7](Castable once per turn.)[/s]",,"Gasta 5 monedas y recupera 15 PS.
@@ -828,7 +808,6 @@ ABILITY_VETVISIT2_DESC,"Spend 5 coins, heal 15 HP.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, curi 15 PS.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, cure 15 PV.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，治疗 15 点生命值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_HIREHITMAN_NAME,Hire Hitman,,Contratación de sicario,Service d'assassinat,Attentäter anheuern,Assolda Sicario,Contratar Assassino,雇佣杀手
 ABILITY_HIREHITMAN_DESC,"Spend 7 coins, summon a bounty hunter.
@@ -837,7 +816,6 @@ ABILITY_HIREHITMAN_DESC,"Spend 7 coins, summon a bounty hunter.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 7 monete, evochi un cacciatore di taglie.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 7 moedas, invoque um caçador de recompensas.
 [s:.7](Um lançamento por turno.)[/s]","花费 7 金币，召唤一个赏金猎人。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_HIREHITMAN2_DESC,"Spend 7 coins, summon a bounty hunter with All Stats Up 2.
 [s:.7](Castable once per turn.)[/s]",,"Gasta 7 monedas e invoca a un cazarrecompensas con 2 de aumento total.
@@ -846,7 +824,6 @@ ABILITY_HIREHITMAN2_DESC,"Spend 7 coins, summon a bounty hunter with All Stats U
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 7 moedas, invoque um caçador de recompensas com todos os atributos aumentados 2.
 [s:.7](Um lançamento por turno.)[/s]","花费 7 金币，
 召唤一个带有 2 层全属性提升的赏金猎人。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SUBWAYRIDE_NAME,Subway Ride,,Viaje en metro,Transports publics,U-Bahnfahrt,Giro in Metro,Passeio de Metrô,地铁出行
 ABILITY_SUBWAYRIDE_DESC,"Spend 5 coins, teleport to any tile.
@@ -855,7 +832,6 @@ ABILITY_SUBWAYRIDE_DESC,"Spend 5 coins, teleport to any tile.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, ti teletrasporti su una casella qualsiasi.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, teletransporte-se para qualquer espaço.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，传送到任意地块。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SUBWAYRIDE2_DESC,"Spend 2 coins, teleport to any tile.
 [s:.7](Castable once per turn.)[/s]",,"Gasta 2 monedas y se teletransporta a cualquier casilla.
@@ -863,7 +839,6 @@ ABILITY_SUBWAYRIDE2_DESC,"Spend 2 coins, teleport to any tile.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 2 monete, ti teletrasporti su una casella qualsiasi.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 2 moedas, teletransporte-se para qualquer espaço.
 [s:.7](Um lançamento por turno.)[/s]","花费 2 金币，传送到任意地块。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_GYMMEMBERSHIP_NAME,Gym Membership,,Suscripción al gimnasio,Abo à la salle,Fitnessstudio,Iscrizione in Palestra,Matrícula de Academia,健身房会员
 ABILITY_GYMMEMBERSHIP_DESC,"Spend 5 coins, gain All Stats Up.
@@ -872,7 +847,6 @@ ABILITY_GYMMEMBERSHIP_DESC,"Spend 5 coins, gain All Stats Up.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Spendi 5 monete, ottieni Aumento delle Statistiche.
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, obtenha todos os atributos aumentados.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，获得全属性提升。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_GYMMEMBERSHIP2_DESC,"Spend 5 coins, gain All Stats Up and refresh your basic attack and movement actions.
 [s:.7](Castable once per turn.)[/s]",,"Gasta 5 monedas, obtiene aumento total y restaura el ataque básico y las acciones de movimiento.
@@ -881,7 +855,6 @@ ABILITY_GYMMEMBERSHIP2_DESC,"Spend 5 coins, gain All Stats Up and refresh your b
 [s:.7](Lanciabile una volta per turno.)[/s]","Gaste 5 moedas, obtenha todos os atributos aumentados e reinicie suas ações básicas de ataque e movimento.
 [s:.7](Um lançamento por turno.)[/s]","花费 5 金币，
 获得全属性提升并刷新你的基础攻击和移动行动。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SUPERCRATEBOX_NAME,Super Crate Box,,Supercaja,Super caisse,Tolle Überraschungskiste,Super Cassa,Super Caixa,超级板条箱
 ABILITY_SUPERCRATEBOX_DESC,Spawn a crate on an adjacent tile.,,Genera una caja en una casilla adyacente.,Fait apparaître une caisse sur une case adjacente.,Lasse auf einem benachbarten Feld eine Kiste erscheinen.,Generi una cassa su una casella adiacente.,Gere uma caixa em um espaço adjacente.,在相邻地块上生成一个木箱。
@@ -954,9 +927,7 @@ Ci saranno conseguenze permanenti per aver lanciato questo incantesimo...
 [s:.7](Lanciabile una volta per turno.)[/s]","Cause dano, aplique veneno 4 e desloque unidades próximas.
 Haverá consequências permanentes ao lançar este encantamento...
 [s:.7](Um lançamento por turno.)[/s]","对附近单位造成伤害并施加 4 层中毒和击飞。
-
 施放此法术会有永久性后果……
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_FORRBIDDENFART2_DESC,"Damage, Inflict Poison 6 and Knock Up nearby units in a larger area.
 There will be permanent consequences for casting this spell…
@@ -971,7 +942,6 @@ Haverá consequências permanentes ao lançar este encantamento...
 [s:.7](Um lançamento por turno.)[/s]","在大范围内对附近单位造成伤害
 并施加 6 层中毒和击飞。
 施放此法术会有永久性后果……
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_WETHAIRBALL_NAME,Wet Hairball,,Bola de pelo mojada,Boule de poils mouillée,Feuchter Haarballen,Palla di Pelo Bagnata,Bola de Pelos Molhada,湿毛球
 ABILITY_WETHAIRBALL_DESC,Shoot a wet hairball that deals damage in an area.,,Dispara una bola de pelo mojada que inflige daño en un área.,Tire une boule de poils mouillée qui inflige des dégâts en zone.,"Schieße einen feuchten Haarballen, der Flächenschaden verursacht.",Spari una palla di pelo bagnata che infligge danno in un'area.,Dispare uma bola de pelos molhada que causa dano em uma área.,"发射一颗湿毛球，在区域内造成伤害。
@@ -1060,7 +1030,6 @@ ABILITY_BUDDYUP2_DESC,"Jump to an open tile next to an ally.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Salti su una casella libera accanto a un alleato.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pule para um espaço aberto ao lado de um aliado.
 [s:.7](Este encantamento custa menos.)[/s]","跳跃至盟友身旁的一个空地块。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_HEALINGFALL_NAME,Healing Fall,,Caída curativa,Saut guérisseur,Heilender Sprung,Caduta Curativa,Queda Curativa,治愈坠落
 ABILITY_HEALINGFALL_DESC,"Jump to an open tile, then heal each adjacent unit.",,Salta a una casilla vacía y luego cura a cada unidad adyacente.,Saute jusqu'à une case libre et soigne chaque unité adjacente.,Spring auf ein freies Feld und heile jede benachbarte Einheit.,"Salti su una casella libera, poi curi ogni unità adiacente.","Pule para um espaço aberto, e então cure cada unidade adjacente.","跳跃至一个空地块，
@@ -1123,7 +1092,6 @@ ABILITY_WITCHHUNT2_DESC,"Put a bounty on a unit. When that unit dies, it becomes
 [s:.7](Quest'incantesimo costa meno.)[/s]","Coloque uma recompensa em uma unidade. Quando essa unidade morrer, ela se torna carne e quem a matar obtém todos os atributos aumentados.
 [s:.7](Este encantamento custa menos.)[/s]","对一名单位悬赏。当该单位死亡时，
 它会变成肉块，且其击杀者获得全属性提升。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABIITY_FRIENDORFOE_NAME,Friend or Foe,,Amigos o enemigos,Amis ou ennemis,Freund oder Feind,Amici o Nemici,Amigo ou Inimigo,敌友难辨
 ABIITY_FRIENDORFOE_DESC,A ranged spell that heals allies and damages enemies.,,Un hechizo a distancia que cura a los aliados y daña a los enemigos.,Un sort à distance qui soigne les alliés et inflige des dégâts aux ennemis.,"Ein Fernkampfzauber, der Verbündete heilt und Schaden bei Gegnern verursacht.",Un incantesimo a distanza che cura gli alleati e infligge danno ai nemici.,Um encantamento à distância que cura aliados e causa dano a inimigos.,"一个远程法术，治疗盟友并伤害敌人。
@@ -1146,7 +1114,6 @@ ABILITY_HOLYLIGHT2_DESC,"Heal allies and damage enemies in an area. This spell h
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cure aliados e cause dano a inimigos em uma área. Este encantamento possui efeito pela metade fora de seu centro.
 [s:.7](Este encantamento custa menos.)[/s]","治疗区域内的盟友并伤害敌人。
 此法术在中心以外的效果减半。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_ETHEREAL_NAME,Ethereal,,Etéreo,Céleste,Ätherisch,Etereo,Etéreo,虚灵
 ABILITY_ETHEREAL_DESC,"Gain 4 [img:divineshield], 3 [img:shield], heal 2 HP, and Brace 1.",,"Obtiene 4 [img:divineshield], 3 [img:shield], 1 de refuerzo y recupera 2 PS.","[img:divineshield]&nbsp;+4, [img:shield]&nbsp;+3, soigne 2&nbsp;PV et Garde&nbsp;+1.","Erhalte 4&nbsp;[img:divineshield], 3&nbsp;[img:shield], Wappnen&nbsp;1 und heile 2&nbsp;LP.","Ottieni 4 allo [img:divineshield], 3 allo [img:shield], rigeneri 2 PS e ottieni Guardia 1.","Obtenha 4 de [img:divineshield], 3 de [img:shield], preparação 1 e cure 2 PV.","获得 4 层 [img:divineshield]、3 点 [img:shield]，
@@ -1174,7 +1141,6 @@ ABILITY_BENEDICTION2_DESC,"Heal EVERYTHING for 2 HP.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Curi TUTTO di 2 PS.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cure 2 PV de TUDO.
 [s:.7](Este encantamento custa menos.)[/s]","治疗所有目标 2 点生命值。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_CRUSADE_NAME,Crusade,,Cruzada,Croisade,Kreuzzug,Crociata,Cruzada,圣战
 ABILITY_CRUSADE_DESC,You and your allies move toward the nearest enemy.,,Esta unidad y sus aliados se mueven hacia el enemigo más cercano.,Vous et vos alliés vous déplacez vers l'ennemi le plus proche.,Du und deine Verbündeten bewegen sich auf den nächsten Gegner zu.,Tu e i tuoi alleati vi muovete verso il nemico più vicino.,Você e seus aliados se movem na direção do inimigo mais próximo.,"你和你的盟友向最近的敌人移动。
@@ -1223,7 +1189,6 @@ Gibt es bereits einen Alpha, hat dieser Zauber unendliche Reichweite und zielt z
 Se c'è un Alfa, quest'incantesimo ha raggio d'azione infinito e deve usarlo come bersaglio.","Cure uma unidade e remova seus enfraquecimentos. Essa unidade obtém +1 em um atributo aleatório e se torna alfa.
 Se já houver um alfa, este encantamento possui alcance infinito e precisa mirar nele.","治疗一个单位并移除其减益效果。
 该单位随机一项属性 +1 并成为首领。
-
 如果场上已有首领，
 此法术具有无限射程且必须以首领为目标。
 "
@@ -1234,7 +1199,6 @@ Gibt es bereits einen Alpha, hat dieser Zauber unendliche Reichweite und zielt z
 Se c'è un Alfa, quest'incantesimo ha raggio d'azione infinito e deve usarlo come bersaglio.","Cure uma unidade e remova seus enfraquecimentos. Essa unidade obtém +1 em três atributos aleatórios e se torna alfa.
 Se já houver um alfa, este encantamento possui alcance infinito e precisa mirar nele.","治疗或复活一个单位并移除其减益效果。
 该单位随机 3 项属性 +1 并成为首领。
-
 如果场上已有首领，
 此法术具有无限射程且必须以首领为目标。
 "
@@ -1286,7 +1250,6 @@ Se já houver um alfa, ele obtém +1 ataque bônus e precisa ser o alvo deste en
 如果场上已有首领，
 此法术必须以首领为目标，
 并给予其 +1 次奖励攻击。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SWIFTSERVANT_NAME,Swift Servant,,Siervo fiel,Service rapide,Rasanter Diener,Servitore Agile,Servo Veloz,迅捷仆从
 ABILITY_SWIFTSERVANT_DESC,"Give a unit +1 Bonus Move. That unit becomes the Alpha.
@@ -1319,7 +1282,6 @@ ABILITY_DIVINEGIFT_DESC,"Gain All Stats Up. This spell costs 1 mana less for eac
 [s:.7](Um lançamento por turno.)[/s]","获得全属性提升。
 本回合你每治疗其他单位 1 点 HP，
 此法术消耗减少 1 点法力。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_DIVINEGIFT2_DESC,"Gain All Stats Up and +1 [img:divineshield]. This spell costs 1 mana less for each HP you healed other units this turn.
 [s:.7](Castable once per turn.)[/s]",,"Obtiene aumento total y +1 [img:divineshield]. Este hechizo cuesta 1 menos de maná por cada PS que haya devuelto a otras unidades este turno.
@@ -1329,7 +1291,6 @@ ABILITY_DIVINEGIFT2_DESC,"Gain All Stats Up and +1 [img:divineshield]. This spel
 [s:.7](Um lançamento por turno.)[/s]","获得全属性提升和 +1 [img:divineshield]。
 本回合你每治疗其他单位 1 点 HP，
 此法术消耗减少 1 点法力。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_HOLYWEAPON_NAME,Holy Weapon,,Arma sagrada,Arme sacrée,Heilige Waffe,Arma Sacra,Arma Sagrada,神圣武器
 ABILITY_HOLYWEAPON_DESC,"A dash attack with range, damage, and knockback equal to the amount of HP you healed other units this turn.
@@ -1340,7 +1301,6 @@ ABILITY_HOLYWEAPON_DESC,"A dash attack with range, damage, and knockback equal t
 [s:.7](Um lançamento por turno.)[/s]","射程、
 伤害和击退距离等于你本回合治
 疗其他单位 HP 总量的冲刺攻击。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_HOLYWEAPON2_DESC,"A dash attack with range, damage, and knockback equal to twice the amount of HP you healed other units this turn.
 [s:.7](Castable once per turn.)[/s]",,"Un ataque relámpago con una cantidad de alcance, daño y retroceso igual al doble de la cantidad de PS que haya devuelto a otras unidades este turno.
@@ -1350,7 +1310,6 @@ ABILITY_HOLYWEAPON2_DESC,"A dash attack with range, damage, and knockback equal 
 [s:.7](Um lançamento por turno.)[/s]","射程、
 伤害和击退距离等于你本回合治
 疗其他单位 HP 总量两倍的冲刺攻击。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_STANDIN_NAME,Stand In,,Suplente,Figuration,Vertretung,Sostituzione,Substituição,替补
 ABILITY_STANDIN_DESC,"Swap positions with any unit. That unit becomes the Alpha.
@@ -1421,7 +1380,6 @@ Bonuspassiveffekt: Der Alpha verfügt über +50&nbsp;% Ausweichchance.","Rendi u
 Bonus Passivo: L'Alfa ha un +50% di probabilità di schivata.","Torna alfa uma unidade em qualquer lugar.
 [s:.7](Este encantamento custa menos.)[/s]
 Bônus passivo: alfas possuem +50% de chance de esquiva.","使任意位置的一个单位成为首领。
-
 [s:.7](此法术消耗更少。)[/s]
 奖励被动：首领拥有 +50% 闪避率。
 "
@@ -1451,7 +1409,6 @@ ABILITY_CIRCLEOFPROTECTION2_DESC,"Give +1 [img:divineshield] and +1 Health Regen
 [s:.7](Quest'incantesimo costa meno.)[/s]","Conceda +1 de [img:divineshield] e +1 de regeneração de saúde a cada unidade dentro de 2 espaços de distância de você.
 [s:.7](Este encantamento custa menos.)[/s]","给予你 2 格范围内的
 每个单位 +1 [img:divineshield] 和 +1 生命恢复。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_CALLOVER_NAME,Call Over,,Llamada,Viens-là,Lockruf,Chiamata,Chamado,呼唤
 ABILITY_CALLOVER_DESC,Make an ally move toward you.,,Un aliado se mueve hacia esta unidad.,Force une unité alliée à se déplacer vers vous.,"Zwinge einen Verbündeten, sich auf dich zuzubewegen.",Fai muovere un alleato verso di te.,Faça um aliado se mover na sua direção.,使一个盟友向你移动。
@@ -1536,7 +1493,6 @@ Recarga: Sufre daño.",Une attaque au corps-à-corps avec une forte chance de co
 NACHLADEN: Schaden erleiden.","Un attacco corpo a corpo con un'alta probabilità di colpo critico.
 RICARICA: Subisci danno.","Um ataque corpo-a-corpo com altas chances de crítico.
 RECARREGAMENTO: sofra dano.","一次拥有高暴击率的近战攻击。
-
 装填：受到伤害。"
 ABILITY_SLAPBACK2_DESC,"A melee attack with a 100% critical hit chance.
 RELOAD: Take damage.",,"Un ataque cuerpo a cuerpo con un 100 % de probabilidad de golpe crítico.
@@ -1544,7 +1500,6 @@ Recarga: Sufre daño.",Une attaque au corps-à-corps avec 100&nbsp;% de chances 
 NACHLADEN: Schaden erleiden.","Un attacco corpo a corpo con una probabilità di colpo critico del 100%.
 RICARICA: Subisci danno.","Um ataque corpo-a-corpo com 100% de chance de crítico.
 RECARREGAMENTO: sofra dano.","一次拥有 100% 暴击率的近战攻击。
-
 装填：受到伤害。"
 ABILITY_FINISHER_NAME,Finisher,,Finalizador,Exécution,Todesstoß,Colpo Finale,Finalizador,终结技
 ABILITY_FINISHER_DESC,"Dash forward three tiles and attack. This deals 2 damage for each action you've taken this turn.
@@ -1574,7 +1529,6 @@ ABILITY_REVERBERATE_DESC,"Gain +8 [img:shield] and knock back adjacent units two
 [s:.7](Um lançamento por turno.)[/s]","获得 +8 [img:shield] 并击退相邻单位两格。
 本回合你每进行过一次行动，
 此法术的法力消耗减少 3 点。
-
 [s:.7](每回合限用一次。)[/s]"
 ABILITY_REVERBERATE2_DESC,"Gain +8 [img:shield] and knock back adjacent units two tiles. This spell costs 3 mana less and grants 1 extra [img:shield] for each action you've taken this turn.
 [s:.7](Castable once per turn.)[/s]",,"Obtiene +8 [img:shield] y hace retroceder 2 casillas a las unidades adyacentes. Este hechizo cuesta 3 menos de maná y otorga 1 [img:shield] extra por cada acción que haya realizado este turno.
@@ -1585,7 +1539,6 @@ ABILITY_REVERBERATE2_DESC,"Gain +8 [img:shield] and knock back adjacent units tw
 本回合你每进行过一次行动，
 此法术的
 法力消耗减少 3 点并额外提供 1 [img:shield]。
-
 [s:.7](每回合限用一次。)[/s]"
 ABILITY_COMBOTHROW_NAME,Combo Throw,,Lanzamiento de combo,Combo mêlée,Kombowurf,Combo di Lancio,Lançamento de Combo,连击投掷
 ABILITY_COMBOTHROW_DESC,"A melee attack with Knockback 3. When this hits, switch into ranged stance and refresh your basic attack.",,"Un ataque cuerpo a cuerpo con 3 de retroceso. Cuando golpea, cambia a postura a distancia y restaura el ataque básico.","Une attaque au corps-à-corps avec Recul&nbsp;+3. Quand cette attaque touche une unité, passez en posture de distance et réinitialisez votre attaque de base.","Ein Nahkampfangriff mit Rückstoß&nbsp;3. Wenn er trifft, wechselst du in die Fernkampfhaltung und frischst deinen Grundangriff auf.","Un attacco corpo a corpo con Contraccolpo 3. Quando va a segno, passi alla postura a distanza e il tuo attacco base si ricarica.","Um ataque corpo-a-corpo com empurrão 3. Ao acertar este golpe, troque para a postura à distância e reinicie seu ataque básico.","带有击退 3 效果的近战攻击。
@@ -1598,7 +1551,6 @@ ABILITY_COMBOTHROW2_DESC,"A melee attack with Knockback 3. When this hits, switc
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um ataque corpo-a-corpo com empurrão 3. Ao acertar este golpe, troque para a postura à distância e reinicie seu ataque básico.
 [s:.7](Este encantamento custa menos.)[/s]","带有击退 3 效果的近战攻击。
 命中时，切换至远程架势并刷新你的基础攻击。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_COMBOPULL_NAME,Combo Pull,,Atracción con combo,Combo distance,Kombozug,Combo di Trascinamento,Puxão de Combo,连击拉拽
 ABILITY_COMBOPULL_DESC,"A ranged attack that pulls the unit it hits toward you. When this hits, switch into melee stance and refresh your basic attack.",,"Un ataque a distancia que atrae hacia sí a la unidad que golpea. Cuando golpea, cambia a postura cuerpo a cuerpo y restaura el ataque básico.","Une attaque à distance qui attire l'unité touchée vers vous. Quand cette attaque touche une unité, passez en posture de corps-à-corps et réinitialisez votre attaque de base.","Ein Fernkampfangriff, der eine Einheit an dich heranzieht. Trifft der Angriff, wechselst du in die Nahkampfhaltung und frischst deinen Grundangriff auf.","Un attacco a distanza che attira l'unità colpita verso di te. Quando va a segno, passi in posizione di mischia e il tuo attacco base si ricarica.","Um ataque à distância que puxa unidades que golpeia na sua direção. Ao acertar este golpe, troque para a postura corpo-a-corpo e reinicie seu ataque básico.","一次将命中单位拉向你的远程攻击。
@@ -1611,7 +1563,6 @@ ABILITY_COMBOPULL2_DESC,"A ranged attack that pulls the unit it hits toward you.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um ataque à distância que puxa unidades que golpeia na sua direção. Ao acertar este golpe, troque para a postura corpo-a-corpo e reinicie seu ataque básico.
 [s:.7](Este encantamento custa menos.)[/s]","一次将命中单位拉向你的远程攻击。
 命中时，切换至近战架势并刷新你的基础攻击。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_ONEWITHTHEWIND_NAME,One With the Wind,,Fluidez con el viento,En harmonie avec le vent,Eins mit dem Wind,Via col Vento,Um com o Vento,与风合一
 ABILITY_ONEWITHTHEWIND_DESC,Gain +20 Movement Range until the end of the turn.,,Obtiene +20 de alcance del movimiento hasta el final del turno.,Portée de déplacement&nbsp;+20&nbsp;jusqu'à la fin du tour.,Erhalte bis zum Ende des Zuges +20&nbsp;Bewegungsreichweite.,Ottieni +20 al Raggio di Movimento fino alla fine del turno.,Obtenha +20 de alcance de movimento até o final do turno.,"获得 +20 移动距离直到回合结束。
@@ -1632,7 +1583,6 @@ ABILITY_WAYOFTHEMANTIS2_DESC,"For the rest of the battle, you can attack an extr
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Puoi attaccare una volta in più ogni turno per il resto della battaglia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.
 [s:.7](Este encantamento custa menos.)[/s]","在剩余战斗中，你每回合可以额外攻击一次。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_PORCUPINE_NAME,Porcupine,,Puercoespín,Porc-épic,Stachelschwein,Porcospino,Porco Espinho,豪猪
 ABILITY_PORCUPINE_DESC,Gain +2 temporary Brace and +2 temporary Thorns until your next turn.,,Obtiene +2 de refuerzo temporal y +2 de espinas temporal hasta el próximo turno.,Garde temporaire&nbsp;+2&nbsp;et Épines temporaires&nbsp;+2&nbsp;jusqu'à votre prochain tour.,Erhalte bis zu deinem nächsten Zug +2 vorübergehendes Wappnen and +2 vorübergehende Dornen.,Ottieni +2 Guardia temporanea e +2 Spine temporanee fino al tuo prossimo turno.,Obtenha +2 de preparação temporária e +2 de espinhos temporários até o seu próximo turno.,"获得 +2 临时护甲和 +2 临时荆棘，
@@ -1677,7 +1627,6 @@ ABILITY_WAYOFTHEOWL2_DESC,"For the rest of the battle, the first spell you cast 
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pelo resto da batalha, o primeiro encantamento que você lança em cada turno é lançado duas vezes.
 [s:.7](Este encantamento custa menos.)[/s]","在剩余战斗中，
 你每回合施放的第一个法术会施放两次。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_MEDITATE_NAME,Meditate,,Meditación,Méditation,Meditieren,Meditazione,Meditação,冥想
 ABILITY_MEDITATE_DESC,"Heal yourself for 8 HP and gain +8 Shield, All Stats Up 2, and Sleep 8.",,"Recupera 8 PS y obtiene +8 de escudo, +2 de aumento total y +8 de sueño.","Récupérez 8&nbsp;PV et gagnez Défense&nbsp;+8, Hausse de stats&nbsp;+2&nbsp;et Sommeil&nbsp;+8.","Heile dich um 8&nbsp;LP und erhalte +8&nbsp;[img:shield], einen Bonus von 2 auf alle Attribute und Schlaf&nbsp;8.","Ti curi di 8 PS e ottieni +8 allo Scudo, Aumento delle Statistiche 2 e Sonno 8.","Cure 8 PV e obtenha +8 de escudo, todos os atributos aumentados 2 e sono 8.","治疗自身 8 点生命值，
@@ -1691,7 +1640,6 @@ ABILITY_MEDITATE2_DESC,"Heal yourself for 8 HP and gain +8 Shield, All Stats Up 
 [s:.7](Este encantamento custa menos.)[/s]","治疗自身 8 点生命值，
 并获得 +8 护盾、
 2 层全属性提升和 8 层困倦。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_DOOMPUNCH_NAME,Five Point Palm Exploding Heart Technique,,Técnica de los cinco puntos para hacer explotar un corazón,Technique des cinq points et la paume qui font exploser le cœur,Fünf-Punkte-Pressur-Herzexplosions-Technik,Tecnica dell'Esplosione del Cuore con Cinque Colpi delle Dita,Técnica de Explosão do Coração com a Palma dos Cinco Pontos,五指爆心掌
 ABILITY_DOOMPUNCH_DESC,A melee attack that causes a unit to die at the end of its next turn. Bosses fall asleep at the end of their next turn instead.,,Un ataque cuerpo a cuerpo que hace que una unidad muera al final de su próximo turno. Los jefes se duermen en su lugar.,"Une attaque au corps-à-corps qui cause la mort d'une unité à la fin de son prochain tour. Les Boss ne meurent pas, mais s'endorment.","Ein Nahkampfangriff, der eine Einheit am Ende ihres nächsten Zuges tötet. Bosse schlafen stattdessen am Ende ihres nächsten Zuges ein.","Un attacco corpo a corpo che causa la morte di un'unità alla fine del suo turno successivo. I boss, invece, si addormentano alla fine del loro turno successivo.",Um ataque corpo-a-corpo que faz com que uma unidade morra no final de seu próximo turno. Chefes adormecem no final de seu próximo turno.,"一次使单位在它的下一回合结束时死亡的
@@ -1706,7 +1654,6 @@ ABILITY_DOOMPUNCH2_DESC,"A melee attack that causes a unit to die at the end of 
 [s:.7](Este encantamento custa menos.)[/s]","一次使单位在它的下一回合结束时死亡的
 近战攻击。对 Boss 使用时，
 改为在它的下一回合结束时陷入睡眠。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_KINETICCHARGE_NAME,Kinetic Charge,,Carga cinética,Charge kinétique,Kinetische Ladung,Carica Cinetica,Carga Cinética,动能充能
 ABILITY_KINETICCHARGE_DESC,Gain +1 temporary Kinetic Spikes.,,Obtiene +1 pinchos cinéticos temporales.,Pics cinétiques temporaires&nbsp;+1.,Erhalte +1&nbsp;vorübergehende Kinetiknadeln.,Ottieni +1 Spuntoni Cinetici temporanei.,Obtenha +1 de espinhos cinéticos temporários.,获得 +1 临时动能尖刺。
@@ -1747,7 +1694,6 @@ ABILITY_PUMMEL2_DESC,"A melee attack that does 4 more damage each time you use i
 [s:.7](Este encantamento custa menos.)[/s]","一次近战攻击，本回合每使用一次，
 伤害增加 4 点。
 此攻击会施加你基础攻击的所有状态效果。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_QUICKATTACK_NAME,Quick Attack,,Ataque rápido,Vive attaque,Ruckzuckhieb,Attacco Veloce,Ataque Rápido,迅捷攻击
 ABILITY_QUICKATTACK_DESC,"Teleport, then use your basic attack on an enemy within range. This spell's range is increased by 2 for each empty armor slot you have.",,Se teletransporta y luego usa el ataque básico sobre un enemigo dentro de su radio de alcance. El alcance del hechizo aumenta en 2 por cada espacio de armadura vacío que tenga la unidad.,Téléportez-vous et utilisez votre attaque de base sur un ennemi à portée. La portée de ce sort augmente de 2&nbsp;par emplacement d'armure vide.,Teleportiere dich und greife einen Gegner in Reichweite mit deinem Grundangriff an. Die Reichweite dieses Zaubers ist für jeden freien Rüstungsplatz um 2&nbsp;erhöht.,"Ti teletrasporti, poi usi il tuo attacco base su un nemico entro il raggio d'azione. Il raggio d'azione di questo incantesimo aumenta di 2 per ogni slot armatura vuoto.","Teletransporte-se, e então utilize seu ataque básico em um inimigo dentro do alcance. O alcance deste encantamento é aumentado em 2 para cada espaço de armadura vazio que você possui.","传送，
@@ -1848,7 +1794,6 @@ ABILITY_THROWSPIRITBOMB_DESC,"Throw the Spirit Bomb, then this ability becomes C
 [s:.7](Kann nur mit mehr als 0&nbsp;Aufladungen geworfen werden.)[/s]","Lanci la Bomba Spirituale, poi quest'abilità diventa Caricamento Bomba Spirituale.
 [s:.7](Non può essere lanciata con 0 cariche.)[/s]","Lance a bomba espiritual, e então esta habilidade se torna Carregar Bomba Espiritual.
 [s:.7](Impossível lançar com 0 cargas.)[/s]","投掷元气弹，然后此技能变为“积蓄元气弹”。
-
 [s:.7](0 层充能时无法投掷。)[/s]"
 ABILITY_DONATEENERGY_NAME,Donate Energy,,Donación de energía,Don d'énergie,Energie spenden,Dono di Energia,Doação de Energia,贡献能量
 ABILITY_DONATEENERGY_DESC,Give +1 damage to the Spirit Bomb!,,Otorga +1 de daño a la bomba de espíritu.,Confère Dégâts&nbsp;+1&nbsp;à la Bombe spirituelle&nbsp;!,Verleihe der Energiekugel +1&nbsp;Schaden!,Fornisci +1 di danno alla Bomba Spirituale!,Conceda +1 de dano para a bomba espiritual!,使元气弹的伤害 +1！
@@ -1865,7 +1810,6 @@ Infliggi 25 di danno ai boss invece di ucciderli.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Um soco que mata com apenas um golpe. Obtenha todos os atributos diminuídos ao utilizar.
 Isto causa 25 de dano a chefes ao invés de matá-los.
 [s:.7](Um lançamento por batalha.)[/s]","一击必杀的拳击。使用时获得全属性下降。
-
 对 Boss 造成 25 点
 伤害而不是直接击杀。
 [s:.7](每场战斗限用一次。)[/s]"
@@ -1907,7 +1851,6 @@ ABILITY_KAMEHAMEHA2_DESC,"Fire a magic blast at a unit anywhere within your line
 [s:.7](Einmal pro Kampf verwendbar. Einmal pro Zug verwendbar, wenn alle deine Rüstungsplätze frei sind.)[/s]","Spari un'esplosione magica contro un'unità a qualsiasi distanza nel tuo campo visivo.
 [s:.7](Lanciabile una volta per battaglia. Se tutti i tuoi slot armatura sono vuoti, è lanciabile una volta per turno.)[/s]","Dispare uma explosão mágica em uma unidade em qualquer lugar dentro do seu campo de visão.
 [s:.7](Um lançamento por batalha. Se todos os seus espaços de armadura estiverem vazios, um lançamento por turno.)[/s]","对你视线内的任意一个单位发射魔法冲击。
-
 [s:.7]（每场战斗限施放一次。
 如果你的所有护甲槽都为空，
 则每回合限施放一次。）[/s]"
@@ -1983,7 +1926,6 @@ Durante el resto del combate, cuando esta unidad mata a un enemigo, juega un tur
 Für den Rest des Kampfes erhältst du jedes Mal einen zusätzlichen Zug, wenn du einen Gegner tötest.","Non puoi lanciare incantesimi per il resto della battaglia.
 Per il resto della battaglia, ogni volta che uccidi un nemico, ottieni un turno aggiuntivo.","Você não pode lançar encantamentos pelo resto da batalha.
 Pelo resto da batalha, sempre que você matar um inimigo, obtenha um turno adicional.","你在本场战斗的剩余时间内无法施放法术。
-
 在本场战斗的剩余时间内，
 每当你击杀一名敌人，
 获得一个额外回合。"
@@ -1998,7 +1940,6 @@ Per il resto della battaglia, ogni volta che uccidi un nemico, ottieni un turno 
 Ottieni un turno aggiuntivo quando la lanci.","Você não pode lançar encantamentos pelo resto da batalha.
 Pelo resto da batalha, sempre que você matar um inimigo, obtenha um turno adicional.
 Obtenha um turno adicional ao lançar isto.","你在本场战斗的剩余时间内无法施放法术。
-
 在本场战斗的剩余时间内，
 每当你击杀一名敌人，
 获得一个额外回合。
@@ -2020,7 +1961,6 @@ Frische deinen Grundangriff auf.","Fino alla fine del turno, il tuo attacco base
 Ricarichi il tuo attacco base.","Até o final do turno, seu ataque básico emite +1 fagulha.
 Reinicie seu ataque básico.","直到回合结束，
 你的基础攻击产生 +1 火花。
-
 刷新你的基础攻击。"
 ABILITY_SUMMONAPPRENTICE_NAME,Summon Apprentice,,Invocación de aprendiz,Invocation de stagiaire,Lehrling beschwören,Evoca Apprendista,Invocar Aprendiz,召唤学徒
 ABILITY_SUMMONAPPRENTICE_DESC,Summon a half-sized copy of yourself with half your stats. It's AI-controlled and can't use spells.,,"Invoca una copia de sí misma de la mitad de su tamaño, con la mitad de sus atributos. Está controlada por IA y no puede usar hechizos.","Invoque une copie miniature de vous-même avec la moitié de vos stats. Contrôlée par l'IA, ne peut pas utiliser de sorts.",Beschwöre eine halb so große Kopie von dir selbst mit der Hälfte deiner Attribute. Die Kopie ist computergesteuert und kann keine Zauber wirken.,"Evochi una tua copia dimezzata, con metà delle tue statistiche. È controllata dall'IA e non può usare incantesimi.",Invoque uma cópia sua com a metade do tamanho e metade dos seus atributos. Ela é controlada pelo computador e não pode usar encantamentos.,"召唤一个拥有你一半属性的半身复制体。
@@ -2072,7 +2012,6 @@ ABILITY_HYPERBEAM_DESC,"Target a tile. At the start of your next turn, unleash a
 [s:.7](Um lançamento por turno.)[/s]","以一个地块为目标。
 在你的下个回合开始时，
 对该地块释放伤害极高的超级光线。
-
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_HYPERBEAM2_DESC,"Target a tile. At the start of your next turn, unleash an extremely high damage mega beam on that tile.",,"Marca una casilla como objetivo. Al inicio del próximo turno, lanza a esa casilla un megarrayo que inflige muchísimo daño.","Vise une case. Au début de votre prochain tour, tire un puissant méga rayon sur cette case.","Wähle ein Zielfeld aus. Am Anfang deines nächsten Zuges entfesselst du einen Strahl, der extrem hohen Schaden auf diesem Feld verursacht.","Bersagli una casella. All'inizio del tuo prossimo turno, scatena un mega raggio che infligge un danno estremamente elevato su quella casella.","Mire em um espaço. No início do seu próximo turno, libere um megar raio de dano extremamente alto nesse espaço.","以一个地块为目标。
 在你的下个回合开始时，
@@ -2166,7 +2105,6 @@ ABILITY_CRYOHEAL2_DESC,"Heal and inflict Freeze 1 on any unit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ti curi e infliggi Congelamento 1 a qualsiasi unità.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cure e aplique congelamento 1 em qualquer unidade.
 [s:.7](Este encantamento custa menos.)[/s]","治疗任意一个单位并对其施加 1 层冻结。
-
 [s:.7]（此法术消耗更少。）[/s]"
 ABILITY_GUST_NAME,Gust,,Soplo,Rafale,Böe,Raffica,Rajada,强风
 ABILITY_GUST_DESC,Knock back each unit adjacent to a chosen tile 1 space.,,Hace retroceder 1 casilla a cualquier unidad adyacente a una casilla elegida.,Repousse chaque unité adjacente d'une case sur une case au choix.,"Stoße jede Einheit zurück, die sich auf einem benachbarten Feld eines von dir ausgewählten Feldes befindet.",Respingi all'indietro di 1 spazio ogni unità adiacente alla casella scelta.,Empurre 1 espaço para trás cada unidade adjacente na direção de um espaço desejado.,"将所选地块相邻的每个单位击退 1 格。
@@ -2199,7 +2137,6 @@ ABILITY_DEALWITHTHEDEVIL_DESC,"Injure yourself, then restore 15 mana.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ti ferisci, poi recuperi 15 mana.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cause um ferimento a si, e então restaure 15 de mana.
 [s:.7](Um lançamento por batalha.)[/s]","伤害你自己，然后恢复 15 点法力。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_DEALWITHTHEDEVIL2_DESC,"Injure yourself, then restore all your mana.
 [s:.7](Castable once per battle.)[/s]",,"Se autoinflige una lesión y luego recupera todo el maná.
@@ -2207,7 +2144,6 @@ ABILITY_DEALWITHTHEDEVIL2_DESC,"Injure yourself, then restore all your mana.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ti ferisci, poi ripristini tutto il tuo mana.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cause um ferimento a si, e então restaure toda a sua mana.
 [s:.7](Um lançamento por batalha.)[/s]","伤害你自己，然后恢复你所有的法力。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFLAME_NAME,Forbidden Flame,,Llama prohibida,Flamme interdite,Verbotene Flamme,Fiamma Proibita,Chama Proibida,禁忌之火
 ABILITY_FORBIDDENFLAME_DESC,"Damage all enemies and burn the entire map. There will be permanent consequences for casting this spell…
@@ -2217,7 +2153,6 @@ ABILITY_FORBIDDENFLAME_DESC,"Damage all enemies and burn the entire map. There w
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cause dano a todos os inimigos e queime o mapa inteiro. Haverá consequências permanentes ao lançar este encantamento…
 [s:.7](Um lançamento por batalha.)[/s]","伤害所有敌人并点燃整张地图。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFLAME2_DESC,"Heavily damage all enemies and burn the entire map. There will be permanent consequences for casting this spell…
 [s:.7](Castable once per battle.)[/s]",,"Daña muchísimo a todos los enemigos y quema todo el mapa. Habrá consecuencias permanentes por lanzar este hechizo...
@@ -2226,7 +2161,6 @@ ABILITY_FORBIDDENFLAME2_DESC,"Heavily damage all enemies and burn the entire map
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cause dano alto a todos os inimigos e queime o mapa inteiro. Haverá consequências permanentes ao lançar este encantamento…
 [s:.7](Um lançamento por batalha.)[/s]","重创所有敌人并点燃整张地图。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFLOOD_NAME,Forbidden Flood,,Inundación prohibida,Inondation interdite,Verbotene Flut,Cibo Proibito,Inundação Proibida,禁忌洪水
 ABILITY_FORBIDDENFLOOD_DESC,"Knock back and damage all enemies, then flood the entire map. There will be permanent consequences for casting this spell…
@@ -2237,7 +2171,6 @@ ABILITY_FORBIDDENFLOOD_DESC,"Knock back and damage all enemies, then flood the e
 [s:.7](Um lançamento por batalha.)[/s]","击退并伤害所有敌人，
 然后淹没整张地图。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFLOOD2_DESC,"Knock back and damage all enemies, heal all allies, then flood the entire map. There will be permanent consequences for casting this spell…
 [s:.7](Castable once per battle.)[/s]",,"Hace retroceder e inflige daño a todos los enemigos, cura a todos los aliados e inunda todo el mapa. Habrá consecuencias permanentes por lanzar este hechizo...
@@ -2247,7 +2180,6 @@ ABILITY_FORBIDDENFLOOD2_DESC,"Knock back and damage all enemies, heal all allies
 [s:.7](Um lançamento por batalha.)[/s]","击退并伤害所有敌人，治疗所有盟友，
 然后淹没整张地图。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_WATERSPHERE_NAME,Whirlpool,,Remolino,Vortex,Strudel,Vortice,Redemoinho,漩涡
 ABILITY_WATERSPHERE_DESC,Create a whirlpool that spins units and inflicts Confusion on them.,,Crea un remolino que hace girar a las unidades y les inflige confusión.,Conjure un tourbillon qui fait tourner les unités et leur inflige Confusion.,"Erschaffe einen Strudel, der Einheiten wirbelt und sie verwirrt.",Crei un vortice che fa girare le unità e infligge loro Confusione.,Crie um redemoinho que gira unidades e aplica confusão.,"制造一个漩涡，旋转单位并对其施加混乱。
@@ -2280,7 +2212,6 @@ ABILITY_FORBIDDENFULMINATION_DESC,"Strike all enemies with lightning, inflicting
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Golpeie todos os inimigos, aplicando atordoamento. Haverá consequências permanentes ao lançar este encantamento…
 [s:.7](Um lançamento por batalha.)[/s]","用闪电打击所有敌人，施加晕眩。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFULMINATION2_DESC,"Strike all enemies with lightning, inflicting Stun 2. There will be permanent consequences for casting this spell…
 [s:.7](Castable once per battle.)[/s]",,"Golpea a todos los enemigos con un rayo y les inflige +2 de aturdimiento. Habrá consecuencias permanentes por lanzar este hechizo...
@@ -2290,7 +2221,6 @@ ABILITY_FORBIDDENFULMINATION2_DESC,"Strike all enemies with lightning, inflictin
 [s:.7](Um lançamento por batalha.)[/s]","用闪电打击所有敌人，
 施加 2 层晕眩。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FIREBOLT_NAME,Firebolt,,Rayo de fuego,Éclair de feu,Feuerblitz,Dardo di Fuoco,Raio Flamejante,火焰弹
 ABILITY_FIREBOLT_DESC,Cast a fire/electric spell that inflicts Burn 1 and has a 15% chance to inflict Stun in an X shaped area.,,Lanza un hechizo de fuego/electricidad que inflige +1 de quemadura y tiene un 15 % de probabilidad de aturdir en un área en forma de X.,Lance un sort feu/électrique qui inflige Brûlure&nbsp;+1&nbsp;et a 15&nbsp;% de chances d'infliger Étourdissement dans une zone en X.,"Wirke einen Feuer-/Blitzzauber, der Verbrennung&nbsp;1 verursacht und mit 15%iger Wahrscheinlichkeit Betäubung in einem X-förmigen Bereich verursacht.",Lanci un incantesimo di fuoco/elettricità che infligge Bruciatura 1 e ha un 15% di probabilità di infliggere Stordimento in un'area a forma di X.,Lance um encantamento de fogo/elétrico que aplica queimadura 1 e possui 15% de chance de aplicar atordoamento em uma área em forma de X.,"施放火焰/电击法术，
@@ -2339,7 +2269,6 @@ ABILITY_SMOLDER2_DESC,"Inflict Burn 1 and +1 [img:spd] to any unit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Bruciatura 1 e +1 alla [img:spd] a qualsiasi unità.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique queimadura 1 e +1 de [img:spd] em qualquer unidade.
 [s:.7](Este encantamento custa menos.)[/s]","对任意单位施加 1 层燃烧和 +1 [img:spd]。
-
 [s:.7]（此法术消耗更少。）[/s]"
 ABILITY_FIRESURGE_NAME,Fire Surge,,Aumento de fuego,Amplification ardente,Feuerschwall,Ondata di Fuoco,Surto de Fogo,火焰涌动
 ABILITY_FIRESURGE_DESC,"A fire spell that increases its range, area, damage, and Burn by 1 every turn.",,"Un hechizo de fuego que aumenta +1 su alcance, su área, su daño y su quemadura en cada turno.","Un sort de feu qui augmente sa portée, sa zone d'effet, ses dégâts et son effet Brûlure de&nbsp;1&nbsp;à chaque tour.","Ein Feuerzauber, der seine Reichweite, Fläche, seinen Schaden und Verbrennung jeden Zug um 1 erhöht.","Un incantesimo di fuoco che aumenta di 1 ogni turno il suo raggio, area, danno e Bruciatura.","Um encantamento de fogo que aumenta seu alcance, área, dano e queima 1 a cada turno.","一种火焰法术，每回合其射程、
@@ -2358,7 +2287,6 @@ ABILITY_ICESURGE_DESC,"An ice spell that increases its range and Slow every turn
 每回合增加其射程和减速层数。
 第 2 回合时，获得定身 1。
 第 3 回合时，获得冻结 1。
-
 [s:.7]（当前回合：{v0}）[/s]"
 ABILITY_ICESURGE2_DESC,"An ice spell that increases its range, damage, and Slow every turn. At 2 turns, it gains Immobilize 1. At 3 turns, it gains Freeze 1.
 [s:.7](Current turns: {v0})[/s]",,"Un hechizo de hielo que aumenta su alcance, su daño y su ralentización cada turno. A los 2 turnos, obtiene 1 de inmovilización. A los 3 turnos, obtiene 1 de congelación.
@@ -2385,7 +2313,6 @@ Dieser Zauber setzt sich zurück, wenn du ihn wirkst.","Quest'incantesimo ottien
 Quest'incantesimo si resetta dopo averlo lanciato.","Este encantamento obtém +1 de dano, alcance e área, e -1 de custo de mana a cada vez que você lança um encantamento.
 Este encantamento é reiniciado após ser lançado.","每当你施放法术时，此法术伤害、
 射程和范围 +1，法力消耗 -1。
-
 此法术施放后重置。"
 ABILITY_CRESHENDO2_DESC,"This spell gains +1 damage, range and area, and -1 mana cost each time you cast a spell.
 This spell loses half its boosts after you cast it.",,"Este hechizo obtiene +1 de daño, alcance y área de efecto y -1 de coste de maná cada vez que se lanza un hechizo.
@@ -2394,7 +2321,6 @@ Dieser Zauber verliert die Hälfte seiner Verstärkungen, wenn du ihn wirkst.","
 Quest'incantesimo perde metà dei suoi bonus una volta lanciato.","Este encantamento obtém +1 de dano, alcance e área, e -1 de custo de mana a cada vez que você lança um encantamento.
 Este encantamento perde metade de seus fortalecimentos após ser lançado.","每当你施放法术时，此法术伤害、
 射程和范围 +1，法力消耗 -1。
-
 此法术施放后失去一半增益。"
 ABILITY_DIVIDE_NAME,Divide,,División,Division,Teilen,Divisione,Divisão,分裂
 ABILITY_DIVIDE_DESC,"Lose Damage equal to half of your basic attack's damage, rounded up. For the rest of the battle, you can attack an extra time each turn.
@@ -2438,9 +2364,7 @@ Haverá consequências permanentes ao lançar este encantamento...
 每个单位施加冻结 2。
 对敌人造成 5 点伤害，
 并治疗每个盟友 5 点生命值。
-
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFROST2_DESC,"Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
 Deal 10 Damage to enemies and fully heal each ally.
@@ -2463,7 +2387,6 @@ Haverá consequências permanentes ao lançar este encantamento...
 对敌人造成 10 点伤害，
 并完全治疗每个盟友。
 施放此法术将会有永久性后果…
-…
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_BLACKMAGIC_NAME,Black Magic,,Magia negra,Magie noire,Schwarze Magie,Magia Nera,Magia Sombria,黑魔法
 ABILITY_BLACKMAGIC_DESC,"Drop to 1 HP. Gain mana equal to the HP lost.
@@ -2473,7 +2396,6 @@ ABILITY_BLACKMAGIC_DESC,"Drop to 1 HP. Gain mana equal to the HP lost.
 [s:.7](Lanciabile una volta per turno.)[/s]","Fique com apenas 1 PV. Obtenha mana equivalente aos PV perdidos.
 [s:.7](Um lançamento por turno.)[/s]","生命值降至 1 点。
 获得等同于失去生命值的法力。
-
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_BLACKMAGIC2_DESC,"Drop to 1 HP. Gain mana equal to the HP lost and gain All Stats Up 2.
 [s:.7](Castable once per turn.)[/s]",,"Se queda con 1 PS. Obtiene una cantidad de maná igual a los PS perdidos y obtiene 2 de aumento total.
@@ -2511,7 +2433,6 @@ ABILITY_MAGNIFY2_DESC,"Your basic attack gains +2 range and +1 area until the en
 [s:.7](Quest'incantesimo costa meno.)[/s]","Seu ataque básico obtém +2 de alcance e +1 de área até o final do turno.
 [s:.7](Este encantamento custa menos.)[/s]","直到回合结束，
 你的基础攻击获得 +2 射程和 +1 范围。
-
 [s:.7]（此法术消耗更少。）[/s]"
 ABILITY_TRIATTACK_NAME,Tri-Attack,,Ataque triple,Attaque triple,Dreifachzauber,Attacco Triplo,Tri-Ataque,三重攻击
 ABILITY_TRIATTACK_DESC,"A Fire / Ice / Electric spell that inflicts Burn 1, Slow 1, and has a 5% chance to inflict Stun.",,"Un hechizo de fuego/hielo/electricidad que inflige 1 de quemadura, 1 de ralentización y tiene un 5 % de probabilidad de aturdir.","Lance un sort feu/glace/électrique qui inflige Brûlure&nbsp;+1, Lenteur&nbsp;+1&nbsp;et a 5&nbsp;% de chances d'infliger Étourdissement.","Ein Feuer-/Eis-/elektrischer Zauber, der Verbrennung&nbsp;1 und Verlangsamung&nbsp;1 und mit einer 5%igen Wahrscheinlichkeit Betäubung verursacht.","Un incantesimo di fuoco/ghiaccio/elettrico che infligge Bruciatura 1, Rallentamento 1 e ha un 5% di probabilità di causare Stordimento.","Um encantamento de fogo/gelo/elétrico que aplica queimadura 1, lentidão 1 e possui 5% de chance de atordoar.","一种火焰/冰霜/电击法术，
@@ -2622,7 +2543,6 @@ ABILITY_THORNYFEET2_DESC,"Move 3 tiles. Plant brambles as you move.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ti muovi di 3 caselle. Pianti rovi durante il movimento.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Mova-se por 3 espaços e plante espinheiros ao se mover.
 [s:.7](Este encantamento custa menos.)[/s]","移动 3 格。沿途种植荆棘。
-
 [s:.7]（此法术消耗更低。）[/s]"
 ABILITY_ENCOURAGE_NAME,Encourage,,Animación,Encouragement,Ermutigen,Incoraggiamento,Encorajar,鼓励
 ABILITY_ENCOURAGE_DESC,Give a familiar an extra turn after this one.,,Otorga a un familiar un turno extra después de este.,Confère un tour bonus à un familier après ce tour.,Verleihe einem Begleiter nach diesem Zug einen zusätzlichen Zug.,Fornisci a un famiglio un turno aggiuntivo dopo questo.,Conceda a um familiar um turno adicional após este turno.,"使一只使魔在当前回合结束后获得一个额外回合。
@@ -2633,7 +2553,6 @@ ABILITY_ENCOURAGE2_DESC,"Give a familiar an extra turn after this one.
 [s:.7](Dieser Zauber kostet weniger und hat erhöhte Reichweite.)[/s]","Fornisci a un famiglio un turno aggiuntivo dopo questo.
 [s:.7](Quest'incantesimo costa meno e ha un raggio d'azione maggiore.)[/s]","Conceda a um familiar um turno adicional após este turno.
 [s:.7](Este encantamento possui custo reduzido e alcance aumentado.)[/s]","使一只使魔在当前回合结束后获得一个额外回合。
-
 [s:.7]（此法术消耗更低且射程增加。
 ）[/s]"
 ABILITY_PROTECTION_NAME,Protection,,Protección,Protection,Schutz,Protezione,Proteção,保护
@@ -2691,7 +2610,6 @@ ABILITY_MONKEYTOSS2_DESC,"Throw an adjacent unit to another tile. It takes damag
 [s:.7](Quest'incantesimo costa meno.)[/s]","Jogue uma unidade adjacente em outro espaço. Ela sofre dano se for jogada em algo.
 [s:.7](Este encantamento custa menos.)[/s]","将相邻单位投掷到另一个地块。
 如果投掷到物体上，它会受到伤害。
-
 [s:.7]（此法术消耗更低。）[/s]"
 ABILITY_FORMOFTHETURTLE_NAME,Form of the Turtle,,Forma de la tortuga,Forme de la tortue,Schildkrötengestalt,Sembianze della Tartaruga,Forma da Tartaruga,龟形态
 ABILITY_FORMOFTHETURTLE_DESC,"Enter Turtle Form, getting +2 [img:con], +10 [img:shield], -2 [img:int], and -2 [img:spd]. Your basic attack becomes Head Bash and this becomes Harden Shell.",,"Adopta la forma de la tortuga y obtiene +2 [img:con], +10 [img:shield], -2 [img:int] y -2 [img:spd]. El ataque básico se convierte en Golpe con la cabeza y este se convierte en Endurecimiento de caparazón.","Prenez la forme de la tortue&nbsp;: [img:con]&nbsp;+2, [img:shield]&nbsp;+10, [img:int]&nbsp;-2&nbsp;et [img:spd]&nbsp;-2. Votre attaque de base devient Coup de tête et ce sort devient Carapace.","Nimm Schildkrötengestalt an und erhalte +2&nbsp;[img:con], +10&nbsp;[img:shield], -2&nbsp;[img:int] und -2&nbsp;[img:spd]. Dein Grundangriff wird zu Kopfnuss und diese Fähigkeit wird zu Harte Schale.","Assumi le Sembianze della Tartaruga, ottenendo +2 alla [img:con], +10 allo [img:shield], -2 all'[img:int] e -2 alla [img:spd]. Il tuo attacco base diventa Testata e quest'abilità diventa Guscio Indurito.","Entre na forma de tartaruga, obtendo +2 de [img:con], +10 de [img:shield], -2 de [img:int] e -2 de [img:spd]. Seu ataque básico se torna Cabeçada e isto se torna Casca Dura.","进入龟形态，获得 +2 [img:con]、
@@ -2713,7 +2631,6 @@ ABILITY_HARDENSHELL2_DESC,"Gain +1 [img:shield], +1 Thorns, and +1 temporary Bra
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +1 de [img:shield], +1 de espinhos e +1 de preparação temporária.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +1 [img:shield]、
 +1 荆棘和 +1 临时护甲。
-
 [s:.7]（此法术消耗更低。）[/s]"
 ABILITY_HEADBASH_NAME,Head Bash,,Golpe con la cabeza,Coup de tête,Kopfnuss,Testata,Cabeçada,头槌
 ABILITY_HEADBASH_DESC,"Dash forward one tile, then attack. This attack deals Knockback and has a chance to inflict Stun.",,Se lanza hacia delante una casilla y luego ataca; inflige retroceso y tiene una probabilidad de aturdir.,Foncez en avant d'une case et attaquez. Inflige Recul et a une chance d'infliger Étourdissement.,Stürme ein Feld vorwärts und greife an. Dieser Angriff verursacht Rückstoß und kann Betäubung verursachen.,"Scatti in avanti di una casella, poi attacchi. Questo attacco infligge Contraccolpo e ha una probabilità di infliggere Stordimento.","Dê um impulso de 1 espaço para frente, e então ataque. Este ataque possui empurrão e uma chance de aplicar atordoamento.","向前冲刺一格，然后攻击。
@@ -2863,7 +2780,6 @@ ABILITY_LULLABY2_DESC,"Inflicts Sleep on units in an area.
 [s:.7](Dieser Zauber kostet weniger und hat eine höhere Reichweite.)[/s]","Infliggi Sonno alle unità in un'area.
 [s:.7](Quest'incantesimo costa meno e ha un raggio d'azione maggiore.)[/s]","Aplique sono em unidades em uma área.
 [s:.7](Este encantamento possui custo reduzido e alcance aumentado.)[/s]","对一个区域内的单位施加睡眠。
-
 [s:.7](此法术消耗降低且射程增加。)[/s]"
 ABILITY_WEARETHECHAMPIONS_NAME,We Are the Champions,,Campeones,We Are the Champions,We are the Champions,We Are the Champions,We Are the Champions,我们是冠军
 ABILITY_WEARETHECHAMPIONS_DESC,"Each familiar gains All Stats Up 2 and heals to full.
@@ -2903,7 +2819,6 @@ ABILITÀ PASSIVA: Il primo incantesimo che l'Alfa lancia ogni turno viene lancia
 PASSIVO: O primeiro encantamento lançado pelo alfa em cada turno é lançado duas vezes.
 [s:.7](Este encantamento possui custo reduzido.)[/s]","使一个目标单位成为首领。
 被动：首领每回合施放的第一个法术会施放两次。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_NATURESBLESSING_NAME,Nature's Blessing,,Bendición de la naturaleza,Bénédiction de la nature,Segen der Natur,Benedizione della Natura,Benção da Natureza,自然祝福
 ABILITY_NATURESBLESSING_DESC,Grow tall grass tiles in an area and give units in that area +3 Diminishing Health Regeneration,,Hace crecer hierba alta en un área y les otorga a las unidades en esa zona +3 de regeneración de salud que disminuye.,Fait pousser de l'herbe sur des cases en zone et confère aux unités de cette zone Régénération de santé (décroissante)&nbsp;+3.,Erschaffe hohe Grasfelder in einem bestimmten Bereich und verleihe Einheiten in diesem Bereich +3&nbsp;nachlassende Lebensregeneration.,Fai crescere caselle di erba alta in un'area e fornisci alle unità in quell'area +3 a Rigenerazione Salute Decrescente.,Crie espaços de grama alta em uma área e conceda +3 de regeneração de saúde decrescente a unidades nessa área.,"在一个区域内生长高草地块，
@@ -2918,7 +2833,6 @@ ABILITY_NATURESBLESSING2_DESC,"Grow tall grass tiles in an area and give units i
 [s:.7](Este encantamento possui custo reduzido e alcance infinito.)[/s]","在一个区域内生长高草地块，
 并给予该区域内的
 单位 +3 生命恢复 (递减)。
-
 [s:.7](此法术消耗降低且具有无限射程。)[/s]"
 ABILITY_THROWEGGDRUID_NAME,Throw Egg,,Lanzamiento de huevo,Jet d'œuf,Ei werfen,Lancio dell'Uovo,Ovada,扔蛋
 ABILITY_THROWEGGDRUID_DESC,"Throw an egg. If the egg lands in an empty tile, it hatches into a random animal friend at the start of its second turn.",,"Lanza un huevo. Si cae en una casilla vacía, eclosiona y se convierte en un animal aliado al azar al inicio de su segundo turno.","Jetez un œuf. S'il atterrit sur une case vide, il éclot et devient un familier aléatoire au début de son second tour.","Wirf ein Ei. Wenn das Ei auf einem leeren Feld landet, schlüpft am Anfang seines zweiten Zuges ein zufälliger Tierfreund.","Lanci un uovo. Se l'uovo atterra in una casella vuota, all'inizio del suo secondo turno si schiuderà dando vita a un animale alleato casuale.
@@ -2980,7 +2894,6 @@ ABILITY_SERENADE2_DESC,"Give Health Regeneration 1 to units in a larger area.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Fornisci Rigenerazione Salute 1 alle unità in un'area più ampia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Conceda regeneração de saúde 1 a unidades em uma área maior.
 [s:.7](Este encantamento custa menos.)[/s]","给予更大区域内的单位 1 层生命恢复。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_WINDYSTEP_NAME,Windy Step,,Paso ventoso,Pas venteux,Windläufer,Passo Ventoso,Passo de Ventania,风之步
 ABILITY_WINDYSTEP_DESC,Give a unit +1 Bonus Move.,,Otorga a una unidad +1 de bonificación de movimiento.,Confère un déplacement bonus à une unité.,Verleihe einer Einheit +1&nbsp;Bonusbewegung.,Fornisci a un'unità +1 Movimento Bonus.,Conceda +1 movimento bônus a uma unidade.,"给予一个单位 +1 奖励移动。
@@ -3040,7 +2953,6 @@ El ataque básico se convierte en Canción imitadora+ y este se convierte en Bur
 Dein Grundangriff wird zu Drosselgesang+ und diese Fähigkeit wird zu Sticheln+.","Assumi le Sembianze del Tardo, ottenendo la possibilità di volare e +2 alla [img:lck].
 Il tuo attacco base diventa Canto Beffardo+ e quest'abilità diventa Presa in Giro+.","Entre na forma de rouxinol, obtendo movimento voador e +2 de [img:lck].
 Seu ataque básico se torna Canção de Escárnio+ e isto se torna Provocação+.","进入嘲鸫形态，获得飞行移动和 +2 [img:lck]。
-
 你的基础攻击变为嘲弄之歌+，
 此技能变为戏弄+。"
 ABILITY_MOCKSONG_NAME,Mock Song,,Canción imitadora,Chant moqueur,Drosselgesang,Canto Beffardo,Canção de Escárnio,嘲弄之歌
@@ -3160,7 +3072,6 @@ ABILITY_BLOODMAGIC_DESC,"Take 5 damage and gain 5 mana.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Subisci 5 di danno e ottieni 5 mana.
 [s:.7](Lanciabile una volta per turno.)[/s]","Sofra 5 de dano e obtenha 5 de mana.
 [s:.7](Um lançamento por turno.)[/s]","受到 5 点伤害并获得 5 点法力值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_BLOODMAGIC2_DESC,"Take 5 damage and gain 10 mana.
 [s:.7](Castable once per turn.)[/s]",,"Sufre 5 de daño y obtiene 10 de maná.
@@ -3168,7 +3079,6 @@ ABILITY_BLOODMAGIC2_DESC,"Take 5 damage and gain 10 mana.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Subisci 5 di danno e ottieni 10 mana.
 [s:.7](Lanciabile una volta per turno.)[/s]","Sofra 5 de dano e obtenha 10 de mana.
 [s:.7](Um lançamento por turno.)[/s]","受到 5 点伤害并获得 10 点法力值。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SMELLBLOOD_NAME,Smell Blood,,Olor a sangre,Odeur de sang,Blut riechen,Odore del Sangue,Farejar Sangue,嗅血
 ABILITY_SMELLBLOOD_DESC,"Until your next turn, if a unit in your attack range takes physical damage from a source that isn't you, you attack that unit.",,"Hasta el próximo turno, si una unidad dentro de su radio de alcance sufre daño físico de un origen que no sea esta unidad, esta la ataca.","Jusqu'à votre prochain tour, si une unité à portée subit des dégâts d'une source autre que vous, vous attaquez cette unité.","Wenn eine Einheit in deiner Angriffsreichweite bis zu deinem nächsten Zug physischen Schaden aus einer anderen Quelle als dir erleidet, greifst du diese Einheit an.","Fino al tuo prossimo turno, se un'unità nel tuo raggio d'attacco subisce danno fisico da una fonte che non sei tu, la attacchi.","Até o seu próximo turno, ataque qualquer unidade dentro do seu alcance de ataque que sofrer dano físico de uma fonte que não seja você.","直到你的下个回合，
@@ -3222,7 +3132,6 @@ ABILITY_LIGHTENTHELOAD_DESC,"Take 25 damage. You take an extra turn after this o
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Sofra 25 de dano. Você obtém um turno adicional após este.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","受到 25 点伤害。
 在此回合结束后，你获得一个额外回合。
-
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_LIGHTENTHELOAD2_DESC,"Take 15 damage. You take an extra turn after this one.
 [s:.7](This spell can't be cast on extra turns.)[/s]",,"Sufre 15 de daño. Juega un turno extra después de este.
@@ -3231,7 +3140,6 @@ ABILITY_LIGHTENTHELOAD2_DESC,"Take 15 damage. You take an extra turn after this 
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Sofra 15 de dano. Você obtém um turno adicional após este.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","受到 15 点伤害。
 在此回合结束后，你获得一个额外回合。
-
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_CRUSHINATOR_NAME,Crushinator,,Demoléitor,Concassinator,Quetschinator,Distruttore,Esmagador do Futuro,粉碎机
 ABILITY_CRUSHINATOR_DESC,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.,,Este hechizo solo inflige daño a escudo. Inflige Incisión y aturde a unidades con escudo. Inflige 3 de retroceso a las unidades sin escudo.,Ce sort n'affecte que la défense. Fendoir et inflige Étourdissement sur les unités dotées de défense. Inflige Recul&nbsp;+3&nbsp;aux unités sans défense.,Dieser Zauber kann nur Schilde beschädigen. Schlachte und betäube Einheiten mit Schild. Verursacht 3&nbsp;Rückstoß bei Einheiten ohne Schild.,Quest'incantesimo danneggia solo lo Scudo. Infligge Fendente e Stordimento alle unità con Scudo. Infligge 3 Contraccolpo alle unità senza Scudo.,Este encantamento causa dano apenas contra escudos. Aplique cisão e atordoamento em unidades com atordoamento. Cause 3 de empurrão a unidades com escudo.,"此法术仅伤害护盾。
@@ -3279,7 +3187,6 @@ ABILITY_MONCH2_DESC,"A melee attack with lifesteal. This spell does more damage 
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um ataque corpo-a-corpo com roubo de vida. Este encantamento causa mais dano à medida que você perde saúde.
 [s:.7](Este encantamento custa menos.)[/s]","带有生命偷取的近战攻击。
 你的生命值越低，此法术造成的伤害越高。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_DEATHWIND_NAME,Death Wind,,Viento letal,Vent létal,Todeswind,Vento Mortale,Vento da Morte,死亡之风
 ABILITY_DEATHWIND_DESC,Blow wind that inflicts Poison 4 in a cone. The cone is larger the less health you have.,,"Inflige 4 de veneno en un área cónica. Cuanta menos salud tengas, más grande es el cono.","Vous soufflez du vent en cône qui inflige Poison&nbsp;+4. Moins vous avez de PV, plus le cône est large.","Rufe einen Wind, der Gift&nbsp;4 in einem kegelförmigen Bereich verursacht. Der Kegel ist umso größer, je weniger LP du hast.",Fai soffiare un vento che infligge Veleno 4 in un cono. Il cono è più grande quanto minore è la tua salute.,Assopre um vento que aplica veneno 4 em um cone. O cone cresce à medida que você perde saúde.,"吹出风，在锥形范围内造成 4 层中毒。
@@ -3292,7 +3199,6 @@ ABILITY_DEATHWIND2_DESC,"Blow wind that inflicts Poison 4 in a cone. The cone is
 [s:.7](Quest'incantesimo costa meno.)[/s]","Assopre um vento que aplica veneno 4 em um cone. O cone cresce à medida que você perde saúde.
 [s:.7](Este encantamento custa menos.)[/s]","吹出风，在锥形范围内造成 4 层中毒。
 你的生命值越低，锥形范围越大。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SPOIL_NAME,Spoil,,Echado a perder,Décomposition,Verderben,Putrefazione,Estragar,腐坏
 ABILITY_SPOIL_DESC,Turn all food pickups into Rot Flies.,,Convierte todos los recogibles de comida en moscas de putrefacción.,Toute la nourriture devient des mouches putrides.,Verwandle alle Essensgegenstände in Fäulnisfliegen.,Trasformi tutto il cibo raccoglibile in Mosche Putrefatte.,Transforme todos os coletáveis de comida em moscas apodrecidas.,"将所有食物掉落物变为腐烂苍蝇。
@@ -3303,7 +3209,6 @@ ABILITY_SPOIL2_DESC,"Turn all food pickups into Rot Flies.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Trasformi tutto il cibo raccoglibile in Mosche Putrefatte.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Transforme todos os coletáveis de comida em moscas apodrecidas.
 [s:.7](Este encantamento custa menos.)[/s]","将所有食物掉落物变为腐烂苍蝇。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_GRILL_NAME,Grill,,Parrilla,Grill,Grillen,Griglia,Grelhar,炙烤
 ABILITY_GRILL_DESC,Light a fire under a food pickup on any tile.,,Enciende un fuego bajo un recogible de comida en cualquier casilla.,Un feu apparaît sur une case de nourriture au hasard.,Zünde ein Feuer unter einem Essensgegenstand auf einem beliebigen Feld an.,Accendi un fuoco sotto un raccoglibile cibo su qualsiasi casella.,Acenda um fogo sob um coletável de comida em qualquer espaço.,"在任意地块上的食物掉落物下点火。
@@ -3337,7 +3242,6 @@ ABILITY_MYTURN2_DESC,"Steal an allied cat's next turn for yourself.
 [s:.7](Dieser Zauber kostet 1&nbsp;Mana.)[/s]","Rubi il turno successivo di un gatto alleato e lo usi per te.
 [s:.7](Quest'incantesimo costa 1 mana.)[/s]","Roube o próximo turno de um gato aliado.
 [s:.7](Este encantamento custa 1 de mana.)[/s]","偷取一之友军猫咪的下一次行动回合为己用。
-
 [s:.7](此法术消耗 1 点法力值。)[/s]"
 ABILITY_GIB_NAME,Gib,,Cuña,Gueuleton,Verarbeiten,Spiaccicamento,Fome Transformadora,剁碎
 ABILITY_GIB_DESC,"Attack a unit in melee range. If this kills it, it becomes 3 food pickups.",,"Ataca a una unidad en un alcance cuerpo a cuerpo. Si la mata, se convierte en 3 recogibles de comida.","Vous attaquez une unité au corps-à-corps. Si vous la tuez, elle se transforme en 3&nbsp;ressources de nourriture.","Greif eine Einheit in Nahkampfreichweite an. Wenn dieser Angriff sie tötet, wird sie zu 3&nbsp;Essensgegenständen.","Attacchi un'unità corpo a corpo. Se la uccidi, si trasforma in 3 raccoglibili cibo.","Ataque uma unidade dentro do seu alcance corpo-a-corpo. Se a matar, ela se torna 3 coletáveis de comida.","攻击近战范围内的一个单位。
@@ -3412,7 +3316,6 @@ ABILITY_LODGEHOOK_DESC,"Inflict Bleed 10 on an adjacent unit. You can't use your
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Aplique sangramento 10 em uma unidade adjacente. Você não pode mais usar sua arma pelo resto da batalha.
 [s:.7](Um lançamento por batalha.)[/s]","对一个相邻单位造成 10 层流血。
 战斗剩余时间内你无法使用武器。
-
 [s:.7](每场战斗限用一次。)[/s]"
 ABILITY_LODGEHOOK2_DESC,"Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adjacent unit. You can't use your weapon for the rest of the battle.
 [s:.7](Castable once per battle.)[/s]",,"Inflige 10 de hemorragia, 2 de inmovilización y 2 de moratón a una unidad adyacente. No puede usar el arma durante el resto del combate.
@@ -3422,7 +3325,6 @@ ABILITY_LODGEHOOK2_DESC,"Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adja
 [s:.7](Um lançamento por batalha.)[/s]","对一个相邻单位造成 10 层流血、
 2 层定身和 2 层淤伤。
 战斗剩余时间内你无法使用武器。
-
 [s:.7](每场战斗限用一次。)[/s]"
 ABILITY_BUTCHER_NAME,Butcher,,Descuartizamiento,Boucherie,Schlachter,Macellaio,Açougueiro,屠宰
 ABILITY_BUTCHER_DESC,Kill every unit with 3 or less health. They become meat.,,Mata a todas las unidades con 3 de salud o menos y se convierten en carne.,Vous tuez toutes les unités avec 3&nbsp;PV ou moins. Elles se transforment en viande.,Töte jede Einheit mit 3&nbsp;LP oder weniger. Getötete Einheiten werden zu Fleisch.,Uccidi ogni unità con 3 o meno punti salute. Diventano carne.,Mate todas as unidades com 3 ou menos de saúde. Elas se tornam carne.,"杀死所有生命值不高于 3 的单位。
@@ -3532,7 +3434,6 @@ ABILITY_PSYFLUTTER2_DESC,"Teleport exactly three tiles away.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Ti teletrasporti esattamente a tre caselle di distanza.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Teletransporte-se para exatamente 3 espaços de distância.
 [s:.7](Este encantamento custa menos.)[/s]","传送至正好 3 个地块远的位置。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_MAGNETPULL_NAME,Gravity Pull,,Atracción gravitacional,Attraction gravitationnelle,Gravitationszug,Attrazione Gravitazionale,Atração Gravitacional,重力牵引
 ABILITY_MAGNETPULL_DESC,Pull units toward a tile within range 5.,,Atrae a las unidades hacia una casilla en un alcance de 5 casillas.,Vous attirez les unités vers une case dans un rayon de 5&nbsp;cases.,Ziehe Einheiten in die Richtung eines Felds innerhalb von 5&nbsp;Feldern.,Attiri le unità verso una casella entro un raggio d'azione 5.,Puxe unidades na direção de um espaço em alcance 5.,"将单位拉向射程 5 内的一个地块。
@@ -3586,7 +3487,6 @@ This spell can't be cast during extra turns.",,"Otorga a otra unidad un turno ex
 Dieser Zauber kann nicht während eines zusätzlichen Zuges gewirkt werden.","Fornisci un turno aggiuntivo a un'altra unità dopo quello corrente.
 Quest'incantesimo non può essere lanciato durante i turni aggiuntivi.","Conceda a outra unidade um turno adicional após este.
 Este encantamento não pode ser lançado em turnos extras.","使另一个单位在本回合结束后获得一个额外回合。
-
 此法术无法在额外回合中施放。"
 ABILITY_MINDMELD2_DESC,"Give another unit +10 mana and an extra turn after this one.
 This spell can't be cast during extra turns.",,"Otorga a otra unidad +10 de maná y un turno extra después de este.
@@ -3595,7 +3495,6 @@ Dieser Zauber kann nicht während eines zusätzlichen Zuges gewirkt werden.","Fo
 Quest'incantesimo non può essere lanciato durante i turni aggiuntivi.","Conceda a outra unidade +10 de mana e um turno adicional após este.
 Este encantamento não pode ser lançado em turnos extras.","使另一个单位获得 +10 法
 力值并在本回合结束后获得一个额外回合。
-
 此法术无法在额外回合中施放。"
 ABILITY_VACUUM_NAME,Vacuum,,Vacío,Aspirateur,Vakuum,Vuoto Gravitazionale,Vácuo,真空
 ABILITY_VACUUM_DESC,Teleport all enemies within an area as close to the center of that area as possible.,,Teletransporta a todos los enemigos dentro de un área tan cerca como sea posible del centro de esa área.,Vous téléportez tous les ennemis d'une zone spécifique aussi près que possible du centre de cette zone.,Teleportiere Einheiten innerhalb eines bestimmten Bereichs so nah an die Mitte dieses Bereichs wie möglich.,Teletrasporti tutti i nemici all'interno di un'area il più vicino possibile al centro dell'area stessa.,Teletransporte todos os inimigos dentro de uma área para o mais próximo possível do centro dessa área.,"将区域内的所有敌人尽可能传送至该区域的中心。
@@ -3612,7 +3511,6 @@ Recarga: Gasta maná.",Dégâts&nbsp;+1&nbsp;à une unité dans votre ligne de m
 NACHLADEN: Gib Mana aus.","Infliggi 1 di danno a qualsiasi unità all'interno del tuo campo visivo.
 RICARICA: Spendi mana","Cause 1 de dano a qualquer unidade dentro do seu campo de visão.
 RECARREGAMENTO: Gaste mana.","对你视线内的任意单位造成 1 点伤害。
-
 装填：消耗法力"
 ABILITY_PING2_DESC,"Deal 1 damage to any unit within your line of sight.
 RELOAD: Spend mana
@@ -3625,7 +3523,6 @@ RICARICA: Spendi mana
 Bonus Passivo: +2 all'[img:int].","Cause 1 de dano a qualquer unidade dentro do seu campo de visão.
 RECARREGAMENTO: Gaste mana.
 Passivo bônus: +2 de [img:int].","对你视线内的任意单位造成 1 点伤害。
-
 装填：消耗法力
 奖励被动：+2 [img:int]。"
 ABILITY_FLASHFORWARD_NAME,Flash Forward,,Prolepsis,Flash vers l'avant,Blitzteleport,Flash Forward,Teletransporte Rápido,闪前
@@ -3642,7 +3539,6 @@ ABILITY_FLASHFORWARD2_DESC,"Teleport to any tile. At the end of your turn, telep
 传送回你的原位置，
 并对你传送位置上的
 任何单位造成 10 点伤害。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_FLASHBACK_NAME,Flashback,,Analepsis,Flashback,Zurückteleportieren,Flashback,Flashback,闪回
 ABILITY_FLASHBACK_DESC,Teleport back.,,Se teletransporta al origen.,Vous vous téléportez dans l'autre sens.,Teleportiere dich zurück.,Ti teletrasporti indietro.,Teletransporte-se para trás.,传送回去。
@@ -3733,7 +3629,6 @@ ABILITY_CUMULATIVEBLAST2_DESC,"Deal damage to a unit in your line of sight, then
 [s:.7](Este encantamento custa menos.)[/s]","对视线内的一名单位造成伤害，
 并在本场战斗的剩余时间内，
 使此法术的伤害增加 1 点。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_HALLUCINATE_NAME,Hallucinate,,Alucinación,Hallucination,Halluzinieren,Allucinazione,Alucinação,致幻
 ABILITY_HALLUCINATE_DESC,Spawn a friendly illusion of a random unit that fades away after one turn.,,Genera una ilusión aliada de una unidad al azar que desaparece después de un turno.,Vous invoquez une illusion amicale d'une unité aléatoire qui disparaît après un tour.,"Erschaffe eine freundliche Illusion einer zufälligen Einheit, die nach einem Zug wieder verschwindet.",Generi un'illusione alleata di un'unità casuale che svanisce dopo un turno.,Gere uma ilusão amigável de uma unidade aleatória que desaparece após um turno.,"生成一个随机单位的友方幻象，
@@ -3752,7 +3647,6 @@ ABILITY_MASSHYSTERIA2_DESC,"Every enemy in your line of sight takes an extra tur
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cada inimigo dentro do seu campo de visão obtém um turno extra. Eles ficam enfeitiçados nesse turno extra.
 [s:.7](Este encantamento custa menos.)[/s]","视线内的所有敌人获得一个额外回合。
 它们在该回合中处于魅惑状态。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_EXTRATURNQ_NAME,Extra Turn?,,¿Turno extra?,Tour supplémentaire&nbsp;?,Zusätzlicher Zug?,Turno Extra?,Turno Extra?,额外回合？
 ABILITY_EXTRATURNQ_DESC,"Take an extra turn. You're stunned and don't regenerate mana on that turn.
@@ -3762,7 +3656,6 @@ ABILITY_EXTRATURNQ_DESC,"Take an extra turn. You're stunned and don't regenerate
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Obtenha um turno adicional. Você sofre atordoamento e não regenera mana nesse turno adicional.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","获得一个额外回合。
 你在该回合中处于晕眩状态且无法恢复法力值。
-
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_EXTRATURNQ2_DESC,"Take an extra turn. You have a 75% chance to be stunned and don't regenerate mana on that turn.
 [s:.7](This spell can't be cast on extra turns.)[/s]",,"Juega un turno extra. Tiene un 75 % de probabilidad de sufrir aturdimiento y no regenerar maná en ese turno.
@@ -3772,7 +3665,6 @@ ABILITY_EXTRATURNQ2_DESC,"Take an extra turn. You have a 75% chance to be stunne
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","获得一个额外回合。
 你在该回合中有 75% 的
 几率处于晕眩状态且无法恢复法力值。
-
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_MINDCRACK_NAME,Mindcrack,,Rotura mental,Fracture mentale,Geisterriss,Crepa Mentale,Rachadura Mental,心灵裂隙
 ABILITY_MINDCRACK_DESC,Inflict Magic Weakness 2 on all units in your line of sight.,,Inflige 2 de debilidad mágica a todas las unidades en su campo visual.,Vulnérabilité magique&nbsp;+2&nbsp;à toutes les unités dans votre ligne de mire.,Verursache bei allen Einheiten in deiner Sichtlinie Magieschwäche&nbsp;2.,Infliggi Debolezza Magica 2 a tutte le unità nel tuo campo visivo.,Aplique fraqueza contra magia 2 em todas as unidades dentro do seu campo de visão.,"对视线内所有单位施加 2 层魔法弱点。
@@ -3803,7 +3695,6 @@ Lanciabile anche se sei KO. In questo caso costa 0 mana.
 并清除所有状态效果。
 倒地状态下也可施放。
 如果处于倒地状态，消耗 0 法力值。
-
 [s:.7](此法术每场战斗只能施放一次。)[/s]"
 ABILITY_MIMIC_NAME,Mimic,,Mimo,Métamorphe,Mimikry,Imitazione,Mímica,拟态
 ABILITY_MIMIC_DESC,Target an allied cat within your line of sight. Cast one of their spells at random for free (or use their basic attack if theres no good spells).,,Marca como objetivo a un aliado en su campo visual. Lanza uno de sus hechizos al azar gratis (o usa su ataque básico si no tiene hechizos buenos).,Vous ciblez un chat allié dans votre ligne de mire qui peut lancer un de ses sorts au hasard gratuitement (ou utiliser son attaque de base s'il n'a pas de bon sort).,"Wähle eine verbündete Katze in deiner Sichtlinie. Wirke kostenlos einen zufälligen ihrer Zauber (oder verwende ihren Grundangriff, wenn es keinen passenden Zauber gibt).",Scegli come bersaglio un gatto alleato all'interno del tuo campo visivo. Lanci uno dei suoi incantesimi (scelto a caso) gratuitamente (o usi il suo attacco base se non ci sono incantesimi da usare).,Mire em um gato aliado dentro do seu campo de visão. Lance um de seus encantamentos de graça (ou utilize seu ataque básico se não houver bons encantamentos).,"以视线内的一只盟友猫咪为目标。
@@ -3848,7 +3739,6 @@ Só é possível lançar se você não tiver realizado nenhuma ação neste turn
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","立即使视线内的一名单位获得一个额外回合，
 然后结束你的回合。
 仅当本回合未进行任何行动时可施放。
-
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_PASS2_DESC,"Give a unit within your line of sight an extra turn immediately, then end your turn.
 Castable only if you haven't taken any actions this turn other than your movement action.
@@ -3872,7 +3762,6 @@ ABILITY_THINKDEEP_DESC,"Restore all of your mana and fall asleep.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Ripristini tutto il tuo mana e poi ti addormenti.
 [s:.7](Lanciabile una volta per turno.)[/s]","Restaure toda a sua mana e adormeça.
 [s:.7](Um lançamento por turno.)[/s]","恢复你所有的法力值并进入睡眠。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_THINKDEEP2_DESC,"Restore all of your mana and fall asleep.
 [s:.7](Castable once per turn. This spell costs 0 mana.)[/s]",,"Recupera todo el maná y se duerme.
@@ -3880,7 +3769,6 @@ ABILITY_THINKDEEP2_DESC,"Restore all of your mana and fall asleep.
 [s:.7](Einmal pro Zug verwendbar. Dieser Zauber kostet 0&nbsp;Mana.)[/s]","Ripristini tutto il tuo mana e poi ti addormenti.
 [s:.7](Lanciabile una volta per turno. Quest'incantesimo costa 0 mana.)[/s]","Restaure toda a sua mana e adormeça.
 [s:.7](Um lançamento por turno. Este encantamento custa 0 de mana.)[/s]","恢复你所有的法力值并进入睡眠。
-
 [s:.7](每回合限施放一次。此法术消耗 0 法力值。)[/s]"
 ABILITY_PUPPET_NAME,Puppet,,Marioneta,Marionnette,Puppe,Burattino,Marionete,傀儡
 ABILITY_PUPPET_DESC,Force an enemy within your line of sight to attack in the direction it's facing.,,Obliga a un enemigo en su campo visual a atacar en la dirección hacia la que mira.,Vous forcez un ennemi dans votre ligne de mire à attaquer dans la direction vers laquelle il regarde.,"Zwinge einen Gegner in deiner Sichtlinie dazu, in seine Blickrichtung anzugreifen.",Costringi un nemico all'interno del tuo campo visivo ad attaccare nella direzione in cui è rivolto.,Force um inimigo dentro do seu campo de visão a atacar na direção para a qual ele está virado.,"强制视线内的一名敌人朝其面向的方向攻击。
@@ -3930,7 +3818,6 @@ ABILITY_WITHDRAW2_DESC,"Pull any unit within your line of sight to a tile adjace
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Attiri qualsiasi unità all'interno del tuo campo visivo su una casella adiacente a te.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Puxe qualquer unidade dentro do seu campo de visão para um espaço adjacente a você.
 [s:.7](Este encantamento custa menos.)[/s]","将视线内的任意单位拉拽至你身边的地块。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_GRAVITYWAVE_NAME,Gravity Wave,,Oleada gravitacional,Vague gravitationnelle,Gravitationswelle,Onda Gravitazionale,Onda gravitacional,重力波
 ABILITY_GRAVITYWAVE_DESC,Deal damage with Knockback 4 and Chain Knockback in a cone.,,Inflige daño con 4 de retroceso y retroceso encadenado en un área cónica.,Vous infligez en cône des dégâts avec Recul&nbsp;+4&nbsp;et Recul en chaîne.,Verursache Schaden mit Rückstoß&nbsp;4 und Kettenrückstoß in einem kegelförmigen Bereich.,Infliggi danno con Contraccolpo 4 e Contraccolpo a Catena all'interno di un cono.,Cause dano com empurrão 4 e empurrão encadeado em um cone.,"在锥形范围内造成伤害，
@@ -3946,7 +3833,6 @@ ABILITY_INVERSION2_DESC,"Swap positions with a unit in your line of sight.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Scambi posizione con un'unità all'interno del tuo campo visivo.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Troque de posição com uma unidade dentro do seu campo de visão.
 [s:.7](Este encantamento custa menos.)[/s]","与视线内的一名单位交换位置。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_ECHO_NAME,Echo,,Eco,Écho,Echo,Eco,Eco,回声
 ABILITY_ECHO_DESC,Teleport to the last tile you targeted with an ability if it's empty.,,Se teletransporta a la última casilla que marcó como objetivo con una habilidad si está vacía.,Vous vous téléportez sur la dernière case ciblée avec une de vos compétences si elle est vide.,"Teleportiere auf das letzte Feld, das du mit einer Fähigkeit anvisiert hast, falls es leer ist.",Ti teletrasporti sull'ultima casella che hai colpito con un'abilità (se è vuota).,Teletransporte-se para o último espaço no qual você mirou uma habilidade se ele estiver vazio.,"传送至你上一次使用技能选定的
@@ -4020,7 +3906,6 @@ ABILITY_WRESTLETOSS_DESC,"Throw an adjacent unit to an open tile.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Lanci un'unità adiacente su una casella libera.
 [s:.7](Lanciabile una volta per turno.)[/s]","Jogue uma unidade adjacente em um espaço aberto.
 [s:.7](Um lançamento por turno.)[/s]","将一个相邻单位投掷到一个空地块上。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_WRESTLETOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damage if it collides with something.
 [s:.7](Castable once per turn.)[/s]",,"Lanza una unidad adyacente hacia una casilla y le inflige daño extra si choca contra algo.
@@ -4029,7 +3914,6 @@ ABILITY_WRESTLETOSS2_DESC,"Throw an adjacent unit to a tile, dealing bonus damag
 [s:.7](Lanciabile una volta per turno.)[/s]","Jogue uma unidade adjacente em um espaço, causando dano bônus se ela colidir com algo.
 [s:.7](Um lançamento por turno.)[/s]","将一个相邻单位投掷到一个地块上，
 如果发生碰撞则造成奖励伤害。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_NUBBYTOSS_DESC,"Throw your crippled friend to any tile.
 [s:.7](Castable once per turn.)[/s]",,"Lanza a un aliado tullido a cualquier casilla.
@@ -4037,7 +3921,6 @@ ABILITY_NUBBYTOSS_DESC,"Throw your crippled friend to any tile.
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Lanci un alleato menomato su una casella qualsiasi.
 [s:.7](Lanciabile una volta per turno.)[/s]","Jogue seu amigo inválido em um espaço aberto.
 [s:.7](Um lançamento por turno.)[/s]","将你残疾的朋友投掷到任意地块。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_BELLYFLOP_NAME,Belly Flop,,Panzazo,Plat sur le ventre,Bauchklatscher,Tuffo di Pancia,Barrigada,腹部重压
 ABILITY_BELLYFLOP_DESC,Jump to a tile and Immobilize anything you land on.,,Salta a una casilla e inmoviliza a las unidades sobre las que aterriza.,Vous sautez sur une case et infligez Immobilisation à ce qui s'y trouve.,"Spring auf ein Feld und mach die Einheit, auf der du landest, bewegungsunfähig.",Salti su una casella e immobilizzi tutto ciò su cui atterri.,Pule até um espaço e imobilize qualquer coisa em que você caia.,"跳跃到一个地块，
@@ -4103,7 +3986,6 @@ ABILITY_BARBEDWIRE_DESC,"Give a unit +5 Thorns until your next turn.
 [s:.7](Du kannst dich selbst anvisieren.)[/s]","Fornisci +5 Spine a un'unità fino al tuo prossimo turno.
 [s:.7](Si può usare anche su di te.)[/s]","Conceda a uma unidade +5 de espinhos até seu próximo turno.
 [s:.7](É possível mirar em si.)[/s]","给予一个单位 +5 荆棘直到你的下一回合。
-
 [s:.7](你可以以自己为目标。)[/s]"
 ABILITY_BARBEDWIRE2_DESC,"Give a unit or object +5 Thorns until your next turn.
 [s:.7](You can target yourself.)[/s]",,"Otorga a una unidad u objeto +5 de espinas hasta el próximo turno.
@@ -4121,7 +4003,6 @@ ABILITY_TANKMOCK2_DESC,"Force an enemy anywhere to move towards you.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Costringi un nemico, ovunque si trovi, a muoversi verso di te.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Force um inimigo em qualquer lugar a se mover até você.
 [s:.7](Este encantamento custa menos.)[/s]","强迫任意位置的一个敌人向你移动。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_BOWLOVER_NAME,Bowl Over,,Derribo,Renversement,Umhauen,Ruzzolone,Ombrada,撞翻
 ABILITY_BOWLOVER_DESC,Trample over one tile diagonally.,,Pisotea una casilla en diagonal.,Piétinement sur 1&nbsp;case en diagonale.,Trampel über ein Feld in eine diagonale Richtung.,Calpesti una casella in diagonale.,Atropele por um espaço diagonalmente.,沿对角线践踏经过一个地块。
@@ -4143,7 +4024,6 @@ ABILITY_ROCKSONG2_DESC,"Levitate all rocks. They will automatically fling toward
 [s:.7](Quest'incantesimo costa meno.)[/s]","Levite todas as pedras. Elas se lançam automaticamente na direção de inimigos que concluem seus movimentos alinhados com elas.
 [s:.7](Este encantamento custa menos.)[/s]","悬浮所有岩石。
 它们会自动飞向在其直线上停止移动的敌人。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_ROCKCRUSHER_NAME,Rock Crusher,,Aplastarrocas,Briseur de pierre,Steinzermalmer,Frantumarocce,Esmagamento de Pedras,碎石击
 ABILITY_ROCKCRUSHER_DESC,"Jump on top of a rock, exploding it. Deal damage and knock back all adjacent units.",,Salta sobre una roca y la hace explotar. Inflige daño y retroceso a todas las unidades adyacentes.,Vous faites exploser une pierre en lui sautant dessus. Vous infligez des dégâts à toutes les unités adjacentes et les repoussez.,Spring auf einen Stein und lasse ihn explodieren. Du fügst allen benachbarten Einheiten Schaden zu und stößt sie zurück.,"Salti su una roccia, facendola esplodere. Infliggi danno e respingi tutte le unità adiacenti.",Pule sobre uma pedra e a exploda. Cause dano e empurre todas as unidades adjacentes.,"跳到一块岩石上并将其引爆。
@@ -4175,7 +4055,6 @@ ABILITY_ROCKBLAST2_DESC,"Shoot a rock forward with Chain Knockback.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Spari una roccia in avanti con Contraccolpo a Catena.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Dispare uma pedra com empurrão encadeado para frente.
 [s:.7](Este encantamento custa menos.)[/s]","向前发射一块岩石，附带连锁击退。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_ROCKTOMB_NAME,Rock Tomb,,Tumba de rocas,Tombe de pierre,Steingrab,Tomba di Roccia,Tumba de Pedra,岩石坟墓
 ABILITY_ROCKTOMB_DESC,Damage and Petrify a unit within 3 tiles of you.,,Inflige daño y petrificación a una unidad a 3 casillas de distancia.,Vous infligez des dégâts et Pétrification à une unité dans un rayon de 3&nbsp;cases.,Füge einer Einheit innerhalb von 3&nbsp;Feldern Schaden zu und versteinere sie.,Infliggi danno e Pietrificazione a un'unità entro 3 caselle da te.,Cause dano e petrifique uma unidade a até 3 espaços de distância de você.,"对你 3 格范围内的一个单位造成伤害并石化。
@@ -4186,7 +4065,6 @@ ABILITY_ROCKTOMB2_DESC,"Damage and Petrify a unit within 5 tiles of you.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi danno e Pietrificazione a un'unità entro 5 caselle da te.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cause dano e petrifique uma unidade a até 5 espaços de distância de você.
 [s:.7](Este encantamento custa menos.)[/s]","对你 5 格范围内的一个单位造成伤害并石化。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_GRAB_NAME,Grab,,Agarre,Attraction,Schnappen,Presa,Agarrar,抓取
 ABILITY_GRAB_DESC,"Pull a unit within 2 tiles towards you, knocking it into you.",,Atrae a una unidad a 2 casillas de distancia y la hace chocar contra sí misma.,Vous attirez une unité vers vous sur 2&nbsp;cases pour qu'elle vous percute.,Zieht eine Einheit innerhalb von 2&nbsp;Feldern an dich heran und stößt sie mit dir zusammen.,"Attiri verso di te un'unità entro 2 caselle, facendola sbattere contro di te.",Puxe uma unidade dentro de 2 espaços de distância na sua direção e a derrube.,"将 2 格范围内的一个单位拉向你，
@@ -4221,7 +4099,6 @@ Com 0 de [img:spd], este encantamento só pode ser lançado uma vez por turno.)[
 对落点单位造成伤害，
 然后获得 -1 [img:spd]。
 [s:.7](此法术的法力消耗等于你的 [img:spd]。
-
 在 0 [img:spd] 时，此法术每回合限施放一次。
 )[/s]"
 ABILITY_FLIPFLOP2_DESC,"Jump up to 4 tiles away, damage units you land on, then gain -1 [img:spd].
@@ -4245,7 +4122,6 @@ Com 0 de [img:spd], este encantamento só pode ser lançado uma vez por turno.)[
 如果你的 [img:spd] 为 0，
 此技能的范围和伤害增加。
 [s:.7](此法术的法力消耗等于你的 [img:spd]。
-
 在 0 [img:spd] 时，此法术每回合限施放一次。
 )[/s]"
 ABILITY_LUNGE_NAME,Lunge,,Arremetida,Avancée brusque,Ausfallschritt,Affondo,Investida,突刺
@@ -4255,7 +4131,6 @@ Este hechizo gasta la acción de movimiento.",Vous foncez en avant sur 1&nbsp;ca
 Dieser Zauber verbraucht deine Bewegungsaktion.","Scatti in avanti di una casella e attacchi con Contraccolpo.
 Quest'incantesimo consuma la tua azione di movimento.","Dê um impulso de 1 espaço para frente e ataque com empurrão.
 Este encantamento utiliza sua ação de movimento.","向前冲刺一格并进行带有击退的攻击。
-
 此法术会消耗你的移动行动。"
 ABILITY_LUNGE2_DESC,"Dash forward one tile, attack with Knockback and inflict Stun.
 This spell uses up your movement action.",,"Se lanza hacia delante 1 casilla, ataca con retroceso y aturde.
@@ -4264,7 +4139,6 @@ Dieser Zauber verbraucht deine Bewegungsaktion.","Scatti in avanti di una casell
 Quest'incantesimo consuma la tua azione di movimento.","Dê um impulso de 1 espaço para frente e ataque com empurrão, aplicando atordoamento.
 Este encantamento utiliza sua ação de movimento.","向前冲刺一格，
 进行带有击退的攻击并施加晕眩。
-
 此法术会消耗你的移动行动。"
 ABILITY_NUDGE_NAME,Nudge,,Codazo,Petite poussée,Stupser,Spintarella,Empurrãozinho,轻推
 ABILITY_NUDGE_DESC,"Push a unit back 1 tile.
@@ -4289,7 +4163,6 @@ ABILITY_STONEBREATH2_DESC,"Inflict Petrify and Knockback on the first unit in a 
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Pietrificazione e Contraccolpo alla prima unità di una linea.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique petrificação e empurrão na primeira unidade de uma linha.
 [s:.7](Este encantamento custa menos.)[/s]","对直线上第一个单位施加石化和击退。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_MEDUSA_NAME,Gorgon Glare,,Mirada de gorgona,Regard de gorgone,Blick der Gorgone,Sguardo del Gorgone,Olhar da Górgona,戈尔贡瞪视
 ABILITY_MEDUSA_DESC,Inflict Petrify on all units in your line of sight.,,Inflige petrificación a todas las unidades en su campo visual.,Pétrification à toutes les unités dans votre ligne de mire.,Versteinere alle Einheiten in deiner Sichtlinie.,Infliggi Pietrificazione a tutte le unità all'interno del tuo campo visivo.,Aplique petrificação em todas as unidades dentro do seu campo de visão.,对视线内的所有单位施加石化。
@@ -4299,7 +4172,6 @@ ABILITY_MEDUSA2_DESC,"Inflict Petrify on all units in your line of sight.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Pietrificazione a tutte le unità all'interno del tuo campo visivo.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique petrificação em todas as unidades dentro do seu campo de visão.
 [s:.7](Este encantamento custa menos.)[/s]","对视线内的所有单位施加石化。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_ANCHOR_NAME,Anchor,,Ancla,Ancrage,Anker,Ancora,Âncora,锚定
 ABILITY_ANCHOR_DESC,Gain +4 Brace until the next time you move.,,Obtiene +4 de refuerzo hasta la próxima vez que se mueva.,Garde&nbsp;+4&nbsp;jusqu'à votre prochain déplacement.,Erhalte bis zu deiner nächsten Bewegung +4&nbsp;Wappnen.,Ottieni +4 a Guardia fino al prossimo movimento.,Obtenha +4 de preparação até a próxima vez em que você se mover.,"获得 +4 护甲，
@@ -4346,7 +4218,6 @@ Se você possuir 0 de [img:spd], ao invés do efeito normal, purifique todos os 
 [s:.7](Um lançamento por turno.)[/s]","获得 +6 [img:shield] 和 -1 [img:spd]。
 如果你当前的 [img:spd] 为 0，
 则驱散你所有的减益效果并获得全属性提升。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_IRONHEAD_NAME,Iron Head,,Cabeza de hierro,Tête de fer,Eisenschädel,Testa di Ferro,Cabeça de Ferro,铁头
 ABILITY_IRONHEAD_DESC,"Dash forward up to 3 tiles, gain +4 [img:shield] then damage and knock back adjacent units.",,"Se lanza hacia delante hasta 3 casillas, obtiene +4 [img:shield] e inflige daño y retroceso a las unidades adyacentes.","Vous foncez en avant sur maximum 3&nbsp;cases, [img:shield]&nbsp;+4, puis vous infligez des dégâts aux unités adjacentes et les repoussez.","Stürme bis zu 3&nbsp;Felder vorwärts, erhalte +4&nbsp;[img:shield] und füge dann benachbarten Einheiten Schaden zu und stoße sie zurück.","Scatti in avanti fino a 3 caselle, ottieni +4 allo [img:shield], poi infliggi danno e respingi all'indietro le unità adiacenti.","Dê um impulso para frente por até 3 espaços, obtenha +4 de [img:shield], e então cause dano e empurre unidades adjacentes para trás.","向前冲刺最多 3 个地块，
@@ -4404,7 +4275,6 @@ Verbraucht deine Bewegungsaktion nicht.","Fatti scagliare su una casella e infli
 Quest'abilità non consuma la tua azione di movimento.","Lance-se em um espaço e cause dano a qualquer coisa sobre a qual você caia.
 Isto não conta como uma ação de movimento.","将自己抛向一个地块，
 并对你落点上的任何物体造成伤害。
-
 这不会消耗你的移动行动。"
 ABILITY_CATAPULT2_DESC,"Get flung to a tile and deal damage to anything you land on.
 This doesn't use up your movement action.",,"Se catapulta a una casilla e inflige daño a cualquier cosa sobre la que aterriza.
@@ -4413,7 +4283,6 @@ Verbraucht deine Bewegungsaktion nicht.","Fatti scagliare su una casella e infli
 Quest'abilità non consuma la tua azione di movimento.","Lance-se em um espaço e cause dano a qualquer coisa sobre a qual você caia.
 Isto não conta como uma ação de movimento.","将自己抛向一个地块，
 并对你落点上的任何物体造成伤害。
-
 这不会消耗你的移动行动。"
 ABILITY_PUSHTHROUGH_NAME,Push Through,,Irrupción,Détermination,Durchboxen,Sfondamento,Forçar Passagem,强行突破
 ABILITY_PUSHTHROUGH_DESC,Trample over 2 tiles in a straight line destroying any inanimate objects.,,Pisotea 2 casillas en línea recta y destruye cualquier objeto inanimado.,Piétinement sur 2&nbsp;cases en ligne droite sur laquelle vous détruisez les objets inanimés.,Trampel über 2&nbsp;Felder in einer geraden Linie und zerstöre dabei nicht lebendige Objekte.,"Calpesta 2 caselle in linea retta, distruggendo tutti gli oggetti inanimati.","Atropele por 2 espaços em uma linha reta, destruindo qualquer objeto inanimado.","沿直线践踏穿过 2 个地块，
@@ -4436,7 +4305,6 @@ Este hechizo gasta la acción de movimiento.",Épines&nbsp;+3&nbsp;et Garde&nbsp
 Dieser Zauber verbraucht deine Bewegungsaktion.","Ottieni +3 Spine e +1 a Guardia.
 Quest'incantesimo consuma la tua azione di movimento.","Obtenha +3 de espinhos e +1 de preparação.
 Este encantamento conta como uma ação de movimento.","获得 +3 荆棘和 +1 护甲。
-
 此法术会消耗你的移动行动。"
 ABILITY_SUPPER_NAME,Supper,,Cena,Souper,Abendessen,Cena,Ceia,晚餐
 ABILITY_SUPPER_DESC,"Heal 15 HP and gain -2 [img:spd].
@@ -4445,7 +4313,6 @@ ABILITY_SUPPER_DESC,"Heal 15 HP and gain -2 [img:spd].
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ripristini 15 PS e ottieni -2 alla [img:spd].
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cure 15 PV e obtenha -2 de [img:spd].
 [s:.7](Um lançamento por batalha.)[/s]","治疗 15 点生命值并获得 -2 [img:spd]。
-
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_SUPPER2_DESC,"Heal 15 HP, gain -2 [img:spd] and +5 Health Regeneration.
 [s:.7](Castable once per battle.)[/s]",,"Recupera 15 PS, obtiene -2 [img:spd] y +5 de regeneración de salud.
@@ -4454,7 +4321,6 @@ ABILITY_SUPPER2_DESC,"Heal 15 HP, gain -2 [img:spd] and +5 Health Regeneration.
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Cure 15 PV, obtenha -2 de [img:spd] e +5 de regeneração de saúde.
 [s:.7](Um lançamento por batalha.)[/s]","治疗 15 点生命值，
 获得 -2 [img:spd] 和 +5 生命恢复。
-
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_FULLFORCE_NAME,Full Force,,Fuerza máxima,Force totale,Volle Power,Piena Forza,Força Total,全力一击
 ABILITY_FULLFORCE_DESC,Deal damage equal to your [img:con] and inflict Stun. Also stuns yourself.,,Inflige una cantidad de daño igual a su [img:con] y aturde. También se aturde a sí misma.,Vous infligez des dégâts à hauteur de votre [img:con] ainsi qu'Étourdissement. Vous êtes aussi victime d'Étourdissement.,Verursache Schaden in Höhe deiner [img:con] und verursache Betäubung. Betäubt dich außerdem selbst.,Infliggi un danno pari alla tua [img:con] e causi Stordimento. Anche tu subisci Stordimento.,Cause dano equivalente à sua [img:con] e aplique atordoamento. Aplique atordoamento também em si.,"造成等同于你 [img:con] 的伤害并施加晕眩。
@@ -4579,7 +4445,6 @@ ABILITY_POKE2_DESC,"A melee attack that deals 1 damage.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Un attacco corpo a corpo che infligge 1 di danno.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um ataque corpo-a-corpo que causa 1 de dano.
 [s:.7](Este encantamento custa menos.)[/s]","造成 1 点伤害的近战攻击。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_NIP_NAME,Nip,,Bocadito,Mordillement,Zwicken,Pizzico,Beliscão,轻咬
 ABILITY_NIP_DESC,Inflict Bruise on a unit.,,Inflige moratón a una unidad.,Contusion à une unité.,Verursache Beulen bei einer Einheit.,Infliggi Livido a un'unità.,Aplique contusão em uma unidade.,对一个单位施加淤伤。
@@ -4602,7 +4467,6 @@ ABILITY_FALCONPUNCH_DESC,"Charge up a mega punch.
 [s:.7](Este soco será lançado no seu próximo turno.)[/s]
 [s:.7](Um lançamento por turno.)[/s]","积蓄一记超级拳。
 [s:.7](此拳将在你的下一回合释放。)[/s]
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_FALCONPUNCH2_DESC,"Charge up a mega dash attack.
 [s:.7](This punch will be unleashed on your next turn.)[/s]
@@ -4616,7 +4480,6 @@ ABILITY_FALCONPUNCH2_DESC,"Charge up a mega dash attack.
 [s:.7](Este ataque será lançado no seu próximo turno.)[/s]
 [s:.7](Um lançamento por turno.)[/s]","积蓄一次超级冲刺攻击。
 [s:.7](此拳将在你的下一回合释放。)[/s]
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_EXERT_NAME,Exert,,Esfuerzo,Épuisement,Überanstrengung,Sforzo,Exaurir,竭力
 ABILITY_EXERT_DESC,"Refresh your basic attack and movement action.
@@ -4625,7 +4488,6 @@ Se duerme al final del turno.",Attaque de base et action de déplacement recharg
 Schlafe am Ende des Zuges ein.","Ricarichi il tuo attacco base e la tua azione di movimento.
 Ti addormenti alla fine del turno.","Reinicie suas ações de movimento e ataque básico.
 Adormeça no final do turno.","刷新你的基础攻击和移动行动。
-
 回合结束时陷入睡眠。"
 ABILITY_EXERT2_DESC,"Refresh your basic attack and movement action.
 Gain +2 [img:str] and +4 [img:spd] until end of turn.
@@ -4638,9 +4500,7 @@ Ottieni +2 alla [img:str] e +4 alla [img:spd] fino alla fine del turno.
 Ti addormenti alla fine del turno.","Reinicie suas ações de movimento e ataque básico.
 Obtenha +2 de [img:str] e +4 de [img:spd] até o final do turno.
 Adormeça no final do turno.","刷新你的基础攻击和移动行动。
-
 获得 +2 [img:str] 和 +4 [img:spd] 直到回合结束。
-
 回合结束时陷入睡眠。"
 ABILITY_ENRAGE_NAME,Enrage,,Cólera,Fureur,Verärgern,Rabbia,Enfurecer,激怒
 ABILITY_ENRAGE_DESC,Give a unit +4 [img:str] and Confusion 2.,,Otorga a una unidad +4 [img:str] y le inflige 2 de confusión.,[img:str]&nbsp;+4&nbsp;et Confusion&nbsp;+2&nbsp;à une unité.,Verleihe einer Einheit +4&nbsp;[img:str] und verursache Verwirrung&nbsp;2.,Fornisci a un'unità +4 alla [img:str] e Confusione 2.,Conceda a uma unidade +4 de [img:str] e confusão 2.,"给予一个单位 +4 [img:str] 和 2 层混乱。
@@ -4665,7 +4525,6 @@ La tua prossima azione ha +30% di probabilità di colpo critico.
 Sua próxima ação possui +30% de chance de crítico.
 [s:.7](Este encantamento custa menos.)[/s]","移动到一个敌人面前。
 你的下一次行动拥有 +30% 暴击率。
-
 [s:.7]（此法术消耗减少。）[/s]"
 ABILITY_JUICED_NAME,Juiced,,Exprimido,Gonflé à bloc,Aufgeputscht,Sovraccarico,Suquinho,亢奋
 ABILITY_JUICED_DESC,Your movement range is doubled until the end of the turn.,,Se duplica el alcance del movimiento hasta el final del turno.,Votre portée de déplacement est doublée jusqu'à la fin du tour.,Bis zum Ende des Zuges ist deine Bewegungsreichweite verdoppelt.,Il tuo raggio di movimento è raddoppiato fino alla fine del turno.,Seu alcance de movimento é dobrado até o final do turno.,"你的移动距离翻倍，直到回合结束。
@@ -4707,7 +4566,6 @@ ABILITY_GRAVITYSLAM2_DESC,"Jump to a tile and pull enemies toward you when you l
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Salti su una tessera e attiri i nemici verso di te quando atterri.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pule para um espaço e puxe inimigos na sua direção ao cair.
 [s:.7](Este encantamento custa menos.)[/s]","跳跃至一个地块，落地时将敌人拉向你。
-
 [s:.7]（此法术消耗减少。）[/s]"
 ABILITY_BERSERK_NAME,Berserk,,Frenesí,Berserk,Berserker,Berserk,Berserk,狂暴
 ABILITY_BERSERK_DESC,Gain +5 [img:str] and Bruise 5. This ability becomes Berserker Dash.,,Obtiene +5 [img:str] y 5 de moratón. Esta habilidad se convierte en Carrera con frenesí.,"[img:str]&nbsp;+5, et Contusion&nbsp;+5. Cette compétence devient Élan de Berserk.",Erhalte +5&nbsp;[img:str] und Beulen&nbsp;5. Diese Fähigkeit wird zu Berserkeransturm.,Ottieni +5 alla [img:str] e Livido 5. Quest'abilità diventa Scatto del Berserker.,Obtenha +5 de [img:str] e contusão 5. Esta habilidade se torna Impulso Perseguidor.,"获得 +5 [img:str] 和 5 层淤伤。
@@ -4841,7 +4699,6 @@ Quest'incantesimo diventa Lacerazione.","Fique com 1 PV restante.
 O dano que você causa a unidades com sangramento possui roubo de vida.
 Este encantamento se torna Lacerar.","生命值降至 1。
 你对流血单位造成的伤害具有生命偷取效果。
-
 此法术变为撕裂。"
 ABILITY_BLOODZERK2_DESC,"Drop to 1 HP.
 Damage you deal to bleeding units has Lifesteal.
@@ -4860,7 +4717,6 @@ O dano que você causa a unidades com sangramento possui roubo de vida.
 Este encantamento se torna Lacerar+.
 [s:.7](Este encantamento custa 0 de mana.)[/s]","生命值降至 1。
 你对流血单位造成的伤害具有生命偷取效果。
-
 此法术变为撕裂+。
 [s:.7]（此法术消耗 0 法力。）[/s]"
 ABILITY_LACERATE_NAME,Lacerate,,Laceración,Lacération,Zerfetzen,Lacerazione,Lacerar,撕裂
@@ -4875,7 +4731,6 @@ ABILITY_EXHAUSTINGBLOW_DESC,"Dash forward one tile and attack with knockback.
 [s:.7](Die Manakosten dieses Zaubers erhöhen sich am Ende jeder deiner Züge um 2.)[/s]","Scatti in avanti di una casella e attacchi con contraccolpo.
 [s:.7](Il costo in mana di questo incantesimo aumenta di 2 alla fine di ogni tuo turno.)[/s]","Dê um impulso de 1 espaço para frente e ataque com empurrão.
 [s:.7](O custo de mana deste encantamento aumenta em 2 no final de cada um de seus turnos.)[/s]","向前冲刺一格并攻击，造成击退。
-
 [s:.7]（在你的每回合结束时，
 此法术的法力消耗增加 2。）[/s]"
 ABILITY_EXHAUSTINGBLOW2_DESC,"Dash forward any number of tiles and attack with knockback.
@@ -4895,7 +4750,6 @@ ABILITY_CHAOSRAMPAGE_DESC,"Take an extra turn. You have Madness 1 and Confusion 
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Obtenha um turno adicional. Você possui insanidade 1 e confusão 1 nesse turno.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","获得一个额外回合。在该回合中，
 你有 1 层疯狂和 1 层混乱。
-
 [s:.7]（此法术无法在额外回合中施放。
 ）[/s]"
 ABILITY_CHAOSRAMPAGE2_DESC,"Take an extra turn. You have Madness 1 on that turn.
@@ -4937,7 +4791,6 @@ ABILITY_MUSCLEMEMORY_DESC,"A melee attack that deals 8 damage.
 [s:.7](Jedes Mal, wenn dieser Zauber gewirkt wird, verringert sich sein Schaden um 1 und seine Manakosten um 2.)[/s]","Un attacco corpo a corpo che infligge 8 di danno.
 [s:.7](Il danno di quest'incantesimo è ridotto di 1 e il costo in mana è ridotto di 2 ogni volta che viene lanciato.)[/s]","Um ataque corpo-a-corpo que causa 8 de dano.
 [s:.7](Este encantamento tem seu dano reduzido em 1 e o custo de mana reduzido em 2 a cada vez que é lançado.)[/s]","造成 8 点伤害的近战攻击。
-
 [s:.7]（每次施放此法术时，
 伤害减少 1 点，
 法力消耗减少 2 点。）[/s]"
@@ -4947,7 +4800,6 @@ ABILITY_MUSCLEMEMORY2_DESC,"A melee attack that deals 8 damage and inflicts Brui
 [s:.7](Jedes Mal, wenn dieser Zauber gewirkt wird, verringert sich sein Schaden um 1 und seine Manakosten um 2.)[/s]","Un attacco corpo a corpo che infligge 8 di danno e Livido.
 [s:.7](Il danno di quest'incantesimo è ridotto di 1 e il costo in mana è ridotto di 2 ogni volta che viene lanciato.)[/s]","Um ataque corpo-a-corpo que causa 8 de dano e aplica contusão.
 [s:.7](Este encantamento tem seu dano reduzido em 1 e o custo de mana reduzido em 2 a cada vez que é lançado.)[/s]","造成 8 点伤害并施加淤伤的近战攻击。
-
 [s:.7]（每次施放此法术时，
 伤害减少 1 点，
 法力消耗减少 2 点。）[/s]"
@@ -4970,7 +4822,6 @@ ABILITY_SYNCHROSPIN2_DESC,"You and each allied cat do a spin attack at the same 
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Tu e ogni gatto alleato eseguite un attacco rotante contemporaneamente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Você e cada gato aliado realizam um ataque giratório ao mesmo tempo.
 [s:.7](Este encantamento custa menos.)[/s]","你和每只友方猫咪同时进行一次旋转攻击。
-
 [s:.7]（此法术消耗减少。）[/s]"
 ABILITY_FLEXOFF_NAME,Flex Off,,Alarde,Contraction,Muskelshow,Difesa Respingente,Flexão,肌肉比拼
 ABILITY_FLEXOFF_DESC,You and each allied cat gain +2 [img:shield] and knockback adjacent units 2 tiles.,,Esta unidad y cada aliado obtienen +2 [img:shield] e infligen retroceso de 2 casillas a las unidades adyacentes.,[img:shield]&nbsp;+2&nbsp;pour vous et chaque chat allié. Recul de 2&nbsp;cases pour les unités adjacentes.,Du und alle verbündeten Katzen erhalten +2&nbsp;[img:shield] und stoßen benachbarte Einheiten 2&nbsp;Felder zurück.,"Tu e ogni gatto alleato ottenete +2 allo [img:shield], e respingete le unità adiacenti di 2 caselle.",Você e cada gato aliado obtêm +2 de [img:shield] e empurram unidades adjacentes por 2 espaços.,"你和每只友方猫咪获得 +2 [img:shield]，
@@ -5016,7 +4867,6 @@ Reduza o custo deste encantamento em 1 a cada vez que sofrer dano.
 击退和击退伤害。
 你每受到一次伤害，
 此法术的法力消耗减少 1 点。
-
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_BREAKINGPOINT2_DESC,"Deal damage, knockback, and knockback damage equal to your [img:str].
 Reduce this spell's mana cost by 2 each time you take damage.
@@ -5032,7 +4882,6 @@ Reduza o custo deste encantamento em 2 a cada vez que sofrer dano.
 击退和击退伤害。
 你每受到一次伤害，
 此法术的法力消耗减少 2 点。
-
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_ASSERTDOMINANCE_NAME,Assert Dominance,,Reivindicación de dominación,Domination affirmée,Dominanz behaupten,Dominio Imposto,Mostrar Dominância,确立统治
 ABILITY_ASSERTDOMINANCE_DESC,"A weak melee attack. If this kills anything, you become the Alpha. If you are the Alpha, this spell deals 5 additional damage and inflicts Bruise.",,"Un ataque cuerpo a cuerpo débil. Si mata algo, esta unidad se convierte en alfa. Si es alfa, el hechizo inflige 5 de daño extra y moratón.","Faible attaque au corps-à-corps. Si elle tue quelque chose, vous obtenez le statut d'Alpha. En tant qu'Alpha, le sort inflige Dégâts&nbsp;+5&nbsp;et Contusion.","Ein schwacher Nahkampfangriff. Wenn er etwas tötet, wirst du zum Alpha. Wenn du der Alpha bist, verursacht dieser Zauber zusätzlich 5&nbsp;Schaden und Beulen.","Un debole attacco in mischia. Se uccide qualcosa, diventi l'Alfa. Se sei l'Alfa, quest'incantesimo infligge 5 di danno aggiuntivo e Livido.","Um ataque corpo-a-corpo fraco. Se isto matar algo, você obtém o status de alfa. Se você já tiver obtido o status de alfa, este encantamento causa 5 de dano adicional e aplica contusão.","一次较弱的近战攻击。
@@ -5089,7 +4938,6 @@ ABILITY_STICK2_DESC,"Equip a temporary Stick! Maybe even a big one?
 [s:.7](Quest'incantesimo costa meno.)[/s]","Equipe um graveto temporário! Talvez até mesmo um que seja grande?
 [s:.7](Seu espaço de arma deve estar vazio.)[/s]
 [s:.7](Este encantamento possui custo reduzido.)[/s]","装备一把临时木棍！也许还是把大木棍？
-
 [s:.7](你的武器槽必须为空。)[/s]
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_HURL_NAME,Hurl,,Arrojo,Lancer violent,Schleudern,Scontro,Arremesso Longo,猛掷
@@ -5101,7 +4949,6 @@ ABILITY_HURL2_DESC,"Toss an adjacent unit at a random unit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Lanci un'unità adiacente contro un'unità casuale.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Lance uma unidade adjacente em uma unidade aleatória.
 [s:.7](Este encantamento custa menos.)[/s]","将一个相邻单位投掷向随机单位。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_BIGPUNCH_NAME,Big Punch,,Gran puñetazo,Poing puissant,Starker Schlag,Pugno Potente,Socão,重拳
 ABILITY_BIGPUNCH_DESC,"A melee attack.
@@ -5144,7 +4991,6 @@ ABILITY_ASSASSINATE2_DESC,"A melee attack that can only hit from behind. This at
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um ataque corpo-a-corpo que só pode acertar por trás. Este ataque ignora escudos e possui 100% de chance de crítico.
 [s:.7](Este encantamento custa menos.)[/s]","只能从背后命中的近战攻击。
 此攻击无视护盾并拥有 100% 暴击率。
-
 [s:.7](此法术消耗降低。)[/s]"
 ABILITY_BOOSTBACKSTAB_NAME,Boost Backstab,,Mejora de ataque por la espalda,Attaque sournoise améliorée,Starker Hinterhalt,Attacco alle Spalle Potenziato,Reforço de Punhalada,强化背刺
 ABILITY_BOOSTBACKSTAB_DESC,"Until end of turn, your backstabs do +75% more damage and ignore shield.",,"Hasta el final del turno, los ataques por la espalda infligen un 75 % más de daño e ignoran el escudo.","Jusqu'à la fin du tour, vos attaques sournoises inflige Dégâts&nbsp;+75&nbsp;% et ignore la défense.",Bis zum Ende deines Zuges verursachen deine Angriffe von hinten +75&nbsp;% mehr Schaden und ignorieren Schilde.,"Fino alla fine del turno, i tuoi attacchi alle spalle infliggono il 75% di danno in più e ignorano lo scudo.","Até o fim do seu turno, suas punhaladas causam 75% a mais de dano e ignoram escudos.","直到回合结束，
@@ -5203,7 +5049,6 @@ RICARICA: Raccogli una moneta.
 RECARREGAMENTO: Colete uma moeda.
 [s:.7]Este encantamento possui um custo maior de mana a cada vez que você o lança no mesmo turno.[/s]","无限射程投掷一枚硬币，
 具有 +50% 暴击率并无视护盾。
-
 装填：收集一枚金币。
 [s:.7]在同一回合内每额外使用一次，
 此法术的法力消耗就会增加。[/s]"
@@ -5242,7 +5087,6 @@ ABILITY_SHADOW2_DESC,"Teleport behind a unit. Your next action has +100% crit ch
 [s:.7]Niente di personale, eh.[/s]","Teletransporte-se para ficar atrás de uma unidade. Sua próxima ação possui +100% de chance de crítico.
 [s:.7]Ei, não é nada pessoal.[/s]","传送到一个单位身后。
 你的下一次行动拥有 +100% 暴击率。
-
 [s:.7]别介意，小子。[/s]"
 ABILITY_TIMEWALK_NAME,Time Walk,,Paseo temporal,Promenade temporelle,Zeitenwanderer,Camminata Temporale,Caminhada Temporal,时空漫步
 ABILITY_TIMEWALK_DESC,"Take an extra turn at the end of the round.
@@ -5251,7 +5095,6 @@ ABILITY_TIMEWALK_DESC,"Take an extra turn at the end of the round.
 [s:.7](Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Disponi di un turno aggiuntivo alla fine del round.
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Obtenha um turno adicional no final da rodada.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","在回合结束时进行一个额外回合。
-
 [s:.7](此法术不能在额外回合中施放。)[/s]"
 ABILITY_TIMEWALK2_DESC,"Take an extra turn at the end of the round.
 [s:.7](This spell can't be cast on extra turns. This spell costs less.)[/s]",,"Juega un turno extra al final de la ronda.
@@ -5259,7 +5102,6 @@ ABILITY_TIMEWALK2_DESC,"Take an extra turn at the end of the round.
 [s:.7](Kann nicht in einem zusätzlichen Zug verwendet werden. Dieser Zauber kostet weniger.)[/s]","Disponi di un turno aggiuntivo alla fine del round.
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi. Quest'incantesimo costa meno.)[/s]","Obtenha um turno adicional no final da rodada.
 [s:.7](Este encantamento não pode ser lançado em turnos extras. Este encantamento possui custo reduzido.)[/s]","在回合结束时进行一个额外回合。
-
 [s:.7](此法术不能在额外回合中施放。此法术消耗降低。)[/s]"
 ABILITY_DOUBLELOOT_NAME,Double Loot,,Saqueo doble,Double butin,Doppelte Beute,Bottino Doppio,Recompensa em Dobro,双倍战利品
 ABILITY_DOUBLELOOT_DESC,-,,-,-,-,-,-,-
@@ -5270,7 +5112,6 @@ ABILITY_DISTRACT2_DESC,"Make any unit look away from you. This has a 33% chance 
 ",,Hace que cualquier unidad le dé la espalda. Tiene un 33 % de probabilidad de infligir confusión.,Vous faites en sorte qu'une unité vous tourne le dos. 33&nbsp;% de chances d'infliger Confusion.,"Zwinge eine Einheit, sich von dir wegzudrehen. Verursacht mit 33%iger Wahrscheinlichkeit Verwirrung.
 ",Fai voltare qualsiasi unità dall'altra parte rispetto a te. Ha un 33% di probabilità di infliggere Confusione.,Faça uma unidade se virar de costas para você. Isto possui 33% de chance de aplicar confusão.,"使任意单位背对你。
 这有 33% 几率施加混乱。
-
 "
 ABILITY_REBOUND_NAME,Rebound,,Rebote,Rebond,Abprall,Rimbalzo,Rebote,反弹
 ABILITY_REBOUND_DESC,A melee attack that rebounds you backwards 10 tiles.,,Un ataque cuerpo a cuerpo que hace retroceder a esta unidad 10 casillas.,Attaque au corps-à-corps qui vous fait rebondir vers l'arrière sur 10&nbsp;cases.,"Ein Nahkampfangriff, der dich 10&nbsp;Felder nach hinten schleudert.",Un attacco corpo a corpo che ti fa rimbalzare indietro di 10 caselle.,Um ataque corpo-a-corpo que faz você ricochetear 10 espaços para trás.,"一次近战攻击，并将你向后弹开 10 格。
@@ -5338,7 +5179,6 @@ ABILITY_STALK_DESC,"Target any unit. Teleport behind it at the start of your nex
 [s:.7](Lanciabile una volta per turno.)[/s]","Mire em qualquer unidade. Teletransporte-se para ficar diretamente atrás dela no início do seu próximo turno.
 [s:.7](Um lançamento por turno.)[/s]","以任意单位为目标。
 在你的下个回合开始时传送到它身后。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_STALK2_DESC,"Target any unit. Teleport behind it at the start of your next turn.
 [s:.7](Castable once per turn. Costs 0 mana.)[/s]",,"Marca a una unidad como objetivo. Al inicio del próximo turno, se teletransporta detrás de ella.
@@ -5347,7 +5187,6 @@ ABILITY_STALK2_DESC,"Target any unit. Teleport behind it at the start of your ne
 [s:.7](Lanciabile una volta per turno. Costa 0 mana)[/s]","Mire em qualquer unidade. Teletransporte-se para ficar diretamente atrás dela no início do seu próximo turno.
 [s:.7](Um lançamento por turno. Este encantamento custa 0 de mana.)[/s]","以任意单位为目标。
 在你的下个回合开始时传送到它身后。
-
 [s:.7](每回合限施放一次。消耗 0 法力。)[/s]"
 ABILITY_NAILFLURRY_NAME,Nail Flurry,,Lluvia de clavos,Pluie de clous,Nagelfurie,Raffica di Chiodi,Salva de Pregos,钉刺乱舞
 ABILITY_NAILFLURRY_DESC,Throw 10 1-damage nails that ignore shield.,,Lanza 10 clavos que infligen 1 de daño e ignoran el escudo.,Vous lancez 10&nbsp;clous qui infligent 1&nbsp;point de dégâts et qui ignore la défense.,"Wirf 10&nbsp;Nägel, die je 1&nbsp;Schaden verursachen und Schilde ignorieren.",Lanci 10 chiodi da 1 danno che ignorano lo scudo.,Lance 10 pregos que causam 1 de dano e ignoram escudos.,"投掷 10 枚造成 1 点伤害且无视护盾的
@@ -5374,7 +5213,6 @@ Recarga: Ataca por la espalda a una unidad.",Vous roulez en ligne droite ou en d
 NACHLADEN: Greif eine Einheit von hinten an.","Rotola in linea retta o in diagonale fino a una distanza di cinque caselle.
 RICARICA: Colpisci alle spalle un'unità.","Role em uma linha reta ou diagonal por até 5 espaços.
 RECARREGAMENTO: Ataque uma unidade com uma punhalada.","沿直线或对角线翻滚最多 5 格。
-
 装填：背刺一个单位。"
 ABILITY_SLICE_NAME,Slice,,Rebanamiento,Tranche,Schnitt,Squarcio,Fatiar,削击
 ABILITY_SLICE_DESC,A melee attack that has all effects of your basic attack and ignores shield.,,Un ataque cuerpo a cuerpo que tiene todos los efectos del ataque básico e ignora el escudo.,Attaque au corps-à-corps qui a tous les effets de votre attaque de base et ignore la défense.,"Ein Nahkampfangriff, der die gleichen Eigenschaften wie dein Grundangriff besitzt und Schilde ignoriert.",Un attacco corpo a corpo che ha tutti gli effetti del tuo attacco base e ignora lo scudo.,Um ataque corpo-a-corpo que possui todos os efeitos do seu ataque básico e ignora escudos.,"一次具有你基础攻击所有效果并无视护盾的
@@ -5400,7 +5238,6 @@ ABILITY_NIGHTSHADE2_DESC,"Inflict Poison 4 on an adjacent unit.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi Veleno 4 a un'unità adiacente.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Aplique veneno 4 em uma unidade adjacente.
 [s:.7](Este encantamento custa menos.)[/s]","对相邻单位施加 4 层中毒。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SHADOWSHIFT_NAME,Shadow Shift,,Giro sombrío,Pas sombre,Schattenwandel,Ombra Persistente,Mudança Sombria,暗影位移
 ABILITY_SHADOWSHIFT_DESC,"Teleport exactly 2 tiles away, leaving behind a shadow that mimics your basic attack.
@@ -5410,7 +5247,6 @@ ABILITY_SHADOWSHIFT_DESC,"Teleport exactly 2 tiles away, leaving behind a shadow
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Teletransporte-se para exatamente 2 espaços de distância, deixando para trás uma sombra que copia seu ataque básico.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","传送至刚好 2 格远的位置，
 留下一个模仿你基础攻击的暗影。
-
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SHADOWSHIFT2_DESC,"Teleport up to 3 tiles away, leaving behind a shadow that mimics your basic attack.
 [s:.7](The shadow fades at the end of your turn.)[/s]",,"Se teletransporta 3 casillas y deja una sombra a su paso que copia el ataque básico.
@@ -5419,7 +5255,6 @@ ABILITY_SHADOWSHIFT2_DESC,"Teleport up to 3 tiles away, leaving behind a shadow 
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Teletransporte-se para exatamente 3 espaços de distância, deixando para trás uma sombra que copia seu ataque básico.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","传送至最多 3 格远的位置，
 留下一个模仿你基础攻击的暗影。
-
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SLINGSHADE_NAME,Slingshade,,Ataque de sombra,Double obscur,Schattenwurf,Ombra Trasferibile,Cópia Sombria,投射暗影
 ABILITY_SLINGSHADE_DESC,"Spawn a shadow up to 3 tiles away that mimics your basic attack.
@@ -5429,7 +5264,6 @@ ABILITY_SLINGSHADE_DESC,"Spawn a shadow up to 3 tiles away that mimics your basi
 [s:.7](L'ombra svanisce alla fine del tuo turno.)[/s]","Gere uma sombra que copia seu ataque básico em até 3 espaços de distância.
 [s:.7](A sombra desaparece no final do seu turno.)[/s]","在最多 3 格远的
 位置生成一个模仿你基础攻击的暗影。
-
 [s:.7](暗影会在回合结束时消失。)[/s]"
 ABILITY_SLINGSHADE2_DESC,"Spawn a shadow up to 5 tiles away that mimics your basic attack.
 [s:.7](The shadow fades at the end of your turn.)[/s]
@@ -5443,9 +5277,7 @@ ABILITY_SLINGSHADE2_DESC,"Spawn a shadow up to 5 tiles away that mimics your bas
 [s:.7](A sombra desaparece no final do seu turno.)[/s]
 [s:.7](Este encantamento possui custo reduzido.)[/s]","在最多 5 格远的
 位置生成一个模仿你基础攻击的暗影。
-
 [s:.7](暗影会在回合结束时消失。)[/s]
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_CALTROPS_NAME,Caltrops,,Tetrápodo,Chausse-trappes,Krähenfüße,Piedi di Corvo,Estrepes,铁蒺藜
 ABILITY_CALTROPS_DESC,"Move up to 3 tiles, spreading glass shards on the tiles you walk through.",,Avanza hasta 3 casillas dispersando fragmentos de cristal sobre las casillas por las que pasa.,Vous vous déplacez de 3&nbsp;cases ou moins et laissez une traînée d'éclats de verre sur les cases sur votre passage.,"Bewege dich bis zu 3&nbsp;Felder und hinterlasse Scherben auf den Feldern, über die du gehst.","Ti muovi fino a 3 caselle di distanza, spargendo frammenti di vetro sulle caselle che attraversi.","Mova-se por até 3 espaços, espalhando fragmentos de vidro nos espaços pelos quais você passa.","移动最多 3 格，
@@ -5508,7 +5340,6 @@ ABILITY_SHARPENNAIL2_DESC,"Gain +1 [img:dex] and +1 Range until the end of the b
 [s:.7]Am Ende jeder Runde wirkst du diesen Zauber automatisch und kostenlos.","Ottieni +1 alla [img:dex] e +1 al raggio d'azione fino alla fine della battaglia.
 [s:.7]Lanci automaticamente quest'incantesimo alla fine di ogni round gratuitamente.[/s]","Obtenha +1 de [img:dex] e +1 de alcance até o final da batalha.
 [s:.7]Lance automaticamente e sem custos este encantamento no final de cada rodada.[/s]","获得 +1 [img:dex] 和 +1 射程直到战斗结束。
-
 [s:.7]每回合结束时免费自动施放此法术。
 [/s]"
 ABILITY_SNEAKUP_NAME,Sneak Up,,Asalto,Furtivité,Anschleichen,Di Soppiatto,Na Ponta dos Pés,潜近
@@ -5571,7 +5402,6 @@ ABILITY_PIERCE2_DESC,"Gain +4 Range. Your attacks pass through units and ignore 
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +4 de alcance. Seus ataques atravessam unidades e ignoram escudos pelo resto do turno.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +4 射程。
 本回合你的攻击穿透单位并无视护盾。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_WINDUP_NAME,Wind Up,,Fastidio,Nouveau souffle,Vorbereitung,Caricamento,Dando Corda,蓄力
 ABILITY_WINDUP_DESC,Gain +1 Range for the rest of the turn.,,Obtiene +1 de alcance durante el resto del turno.,Portée&nbsp;+1&nbsp;pendant le reste du tour.,Erhalte für den Rest des Zuges +1&nbsp;Reichweite.,Ottieni +1 al raggio d'azione per il resto del turno.,Obtenha +1 de alcance pelo resto do turno.,本回合获得 +1 射程。
@@ -5592,7 +5422,6 @@ ABILITY_SKINDISGUISE_DESC,"Destroy an adjacent body. Enemies won't attack you un
 [s:.7](Lanciabile una volta per turno.)[/s]","Destrua um corpo adjacente. Inimigos não atacam você até seu próximo turno.
 [s:.7](Um lançamento por turno.)[/s]","摧毁一具相邻的尸体。
 直到你的下一回合，敌人不会攻击你。
-
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SKINDISGUISE2_DESC,"Destroy a body in range 3. Enemies won't attack you until your next turn.
 [s:.7](This spell is free. Castable once per turn.)[/s]",,"Destruye un cadáver adyacente en un alcance de 3 casillas. Los enemigos no atacarán a esta unidad hasta el próximo turno.
@@ -5601,7 +5430,6 @@ ABILITY_SKINDISGUISE2_DESC,"Destroy a body in range 3. Enemies won't attack you 
 [s:.7](Quest'incantesimo è gratuito. Lanciabile una volta per turno.)[/s]","Destrua um corpo em alcance 3. Inimigos não atacam você até seu próximo turno.
 [s:.7](Este encantamento é grátis. Um lançamento por turno.)[/s]","摧毁 3 格范围内的一具尸体。
 直到你的下一回合，敌人不会攻击你。
-
 [s:.7](此法术免费。每回合限施放一次。)[/s]"
 ABILITY_CHAKRAM_NAME,Chakram,,Chakram,Chakram,Chakram,Chakram,Chakram,环刃
 ABILITY_CHAKRAM_DESC,Throw a projectile that passes through units and then returns to you. This can collect pickups.,,Lanza un proyectil que atraviesa a las unidades y luego regresa con esta unidad. Puede recolectar recogibles.,Vous lancez un projectile qui traverse les unités et revient vers vous. Il peut récupérer les ressources.,"Wirf ein Geschoss, das Einheiten durchbohrt und zu dir zurückkehrt. Das Geschoss kann Gegenstände einsammeln.",Lanci un proiettile che attraversa le unità e poi torna da te. Può prendere dei raccoglibili.,Lance um projétil que atravessa unidades e retorna para você. Isto pode pegar coletáveis.,"掷出一个穿透单位然后返回你手中的投射物。
@@ -5634,7 +5462,6 @@ ABILITY_POISONDIP_DESC,"Spend all your mana. For every 5 mana spent, your basic 
 [s:.7](Um lançamento por batalha.)[/s]","消耗你所有的法力。
 每消耗 5 点法力，
 你的基础攻击施加 +1 中毒。
-
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_POISONDIP2_DESC,"Spend all your mana. For every 3 mana spent, your basic attack inflicts +1 Poison.
 [s:.7](Castable once per battle.)[/s]",,"Gasta todo su maná. Por cada 3 de maná gastado, el ataque básico inflige +1 de veneno.
@@ -5644,7 +5471,6 @@ ABILITY_POISONDIP2_DESC,"Spend all your mana. For every 3 mana spent, your basic
 [s:.7](Um lançamento por batalha.)[/s]","消耗你所有的法力。
 每消耗 3 点法力，
 你的基础攻击施加 +1 中毒。
-
 [s:.7](每场战斗限施放一次。)[/s]"
 ABILITY_LUCKYPENNY_NAME,Lucky Penny,,Penique de la suerte,Pièce porte-bonheur,Glückspfennig,Penny Fortunato,Moeda da Sorte,幸运硬币
 ABILITY_LUCKYPENNY_DESC,Collect an adjacent pickup and gain +2 [img:lck] instead of its normal effects.,,Recolecta un recogible adyacente y obtiene +2 [img:lck] en vez de sus efectos normales.,Vous récupérez une ressource adjacente et [img:lck]&nbsp;+2&nbsp;au lieu des effets habituels.,Sammle einen benachbarten Gegenstand ein und erhalte statt seines regulären Effekts +2&nbsp;[img:lck].,Prendi un raccoglibile adiacente e ottieni +2 alla [img:lck] invece dei suoi normali effetti.,Pegue um coletável adjacente e obtenha +2 de [img:lck] ao invés de seus efeitos normais.,"收集一个相邻的掉落物，
@@ -5697,7 +5523,6 @@ ABILITY_HARPOON2_DESC,"Hook onto something in a straight line and drag yourself 
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Agganci qualcosa in linea retta e ti trascini in quella direzione.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Enganche-se em algo em uma linha reta e arraste-se até lá.
 [s:.7](Este encantamento custa menos.)[/s]","钩住直线上的某物并将自己拉向它。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_TWINSHOT_NAME,Twin Shot,,Tiro doble,Double tir.,Zwillingsschuss,Doppio Tiro,Tiro Duplo,双重射击
 ABILITY_TWINSHOT_DESC,Shoot twice.,,Dispara 2 veces.,Vous tirez 2&nbsp;fois.,Feuere zwei Schüsse.,Spari due volte.,Dispare duas vezes.,射击两次。
@@ -5793,7 +5618,6 @@ ABILITY_CUPIDSARROW2_DESC,"A shot that damages and inflicts Charm 2.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Un colpo che danneggia e infligge Fascino 2.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Um disparo que causa dano e aplica feitiço 2.
 [s:.7](Este encantamento custa menos.)[/s]","射击造成伤害并施加 2 层魅惑。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_ARROWFLURRY_NAME,Arrow Flurry,,Lluvia de flechas,Pluie de flèches,Dauerfeuer,Raffica di Frecce,Salva de Flechas,箭矢乱舞
 ABILITY_ARROWFLURRY_DESC,"Shoot 5 weak shots, each one has a 50% chance to miss.",,"Lanza 5 tiros débiles, cada uno con un 50 % de probabilidad de fallar.",Vous effectuez 5&nbsp;tirs faibles qui ont tous 50&nbsp;% de chances d'échouer.,"Feuere 5&nbsp;schwache Schüsse. Jeder von ihnen hat eine 50%ige Wahrscheinlichkeit, zu verfehlen.","Spari 5 colpi deboli, ciascuno dei quali ha un 50% di probabilità di mancare il bersaglio.",Realize 5 disparos fracos. Cada um deles possui 50% de chance de errar.,"进行 5 次弱力射击，
@@ -5935,7 +5759,6 @@ ABILITY_CHARMTRAP2_DESC,"Spawn a trap that deals damage and inflicts Charm 1.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Generi una trappola che infligge danno e Fascino 1.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Gere uma armadilha que causa dano e aplica feitiço 1.
 [s:.7](Este encantamento custa menos.)[/s]","生成一个造成伤害并施加 1 层魅惑的陷阱。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_BOUNCESHOT_NAME,Bounce Shot,,Tiro con rebote,Tir rebond,Abprallschuss,Tiro Rimbalzante,Tiro de Rebote,弹射射击
 ABILITY_BOUNCESHOT_DESC,Shoot a projectile that bounces everything adjacent to it back 3 tiles.,,Dispara un proyectil que hace rebotar y retroceder 3 casillas a todo lo adyacente.,Vous lancez un projectile qui fait reculer de 3&nbsp;cases tout ce qui est adjacent.,"Feuere ein Geschoss, das alle benachbarten Einheiten 3&nbsp;Felder zurückschleudert.",Spari un proiettile che fa rimbalzare indietro di 3 caselle tutto ciò che è adiacente a essa.,Dispare um projétil que ricocheteia por 3 espaços para trás qualquer coisa que esteja adjacente a ele.,"发射一颗投射物，
@@ -5959,7 +5782,6 @@ Con aliados, elimina las desventajas e inflige 1 de embrujo en su lugar.","Un ti
 Bei Verbündeten reinigt er stattdessen Schwächungen und verursacht Charme&nbsp;1.","Un tiro a distanza che cura e infligge Ammaliamento 2.
 Contro gli alleati, purifica i malus e infligge invece Ammaliamento 1.","Um disparo à distância que cura e aplica feitiço 2.
 Ao dispará-lo contra aliados, purifique enfraquecimentos e aplique feitiço 1.","一发治疗目标并施加 2 层魅惑的远程射击。
-
 对盟友使用时，
 驱散减益效果并施加 1 层魅惑。
 "
@@ -5988,7 +5810,6 @@ ABILITY_SLOPTHEPIGS2_DESC,"Each familiar in an area gains All Stats Up and heals
 每个使魔获得全属性提升并恢复 4 点生命值。
 范围内的
 其他单位获得 +1 [img:con] 并恢复 2 点生命值。
-
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_EGGSACTRAP_NAME,Egg Sac Trap,,Cepo de huevos,Piège à œufs,Einestfalle,Trappola Ovarica,Armadilha de Saco de Ovos,卵囊陷阱
 ABILITY_EGGSACTRAP_DESC,Spawn a spider egg trap that inflicts Infested 4.,,Genera una trampa de huevo de araña que inflige 4 de infestación.,Vous lancez un piège à œufs qui inflige Infestation&nbsp;+4.,"Lasse eine Spinneneifalle erscheinen, die Infiziert&nbsp;4 verursacht.",Generi una trappola a uova di ragno che infligge Infestato 4.,Gere uma armadilha de ovo de aranha que aplica infestação 4.,"生成一个施加 4 层寄生的蜘蛛蛋陷阱。
@@ -6002,7 +5823,6 @@ Recarga: Mata a un enemigo.",Marqué&nbsp;+5&nbsp;à une unité. RECHARGE&nbsp;:
 NACHLADEN: Töte einen Gegner.","Infliggi Marchio 5 a un'unità.
 RICARICA: Uccidi un nemico.","Aplique marcação em um inimigo.
 RECARREGAMENTO: Mate um inimigo.","对一个单位施加 5 层标记。
-
 装填：击杀一名敌人。"
 ABILITY_PERSISTENTHUNT2_DESC,"Inflict Marked 5 on a unit.
 RELOAD: Kill an enemy.
@@ -6015,7 +5835,6 @@ RICARICA: Uccidi un nemico.
 Quest'incantesimo inizia già ricaricato.","Aplique marcação em um inimigo.
 RECARREGAMENTO: Mate um inimigo.
 Este encantamento inicia recarregado.","对一个单位施加 5 层标记。
-
 装填：击杀一名敌人。
 此法术初始为已装填状态。"
 ABILITY_HEDGEIN_NAME,Hedge In,,Acorralamiento,Restrictions,Einmauern,Accerchiamento,Cerca-Viva,围困
@@ -6090,7 +5909,6 @@ ABILITY_BASICMAGICMISSILE_DESC,"Shoot an infinite-range projectile that can't mi
 [s:.7](Der Schaden dieses Angriffs ist abhängig von deiner [img:int].)[/s]","Spari un proiettile a raggio d'azione infinito che non può mancare il bersaglio.
 [s:.7](Il danno di questo attacco aumenta con la tua [img:int])[/s]","Dispare um projétil de alcance infinito que não pode errar.
 [s:.7](O dano deste ataque aumenta de acordo com a sua [img:int])[/s]","发射一颗必中的无限射程投射物。
-
 [s:.7](此攻击的伤害随你的 [img:int] 增加)[/s]"
 ABILITY_SUPLEX_NAME,Suplex,,Súplex,Suplex,Suplex,Suplex,Suplex,背摔
 ABILITY_SUPLEX_DESC,Grab a unit in front of you and slam it into the tile behind you.,,Agarra a una unidad delante de esta y la espachurra contra la casilla detrás de ella.,Vous attrapez une unité devant vous et l'écrasez sur la case derrière vous.,Pack eine Einheit vor dir und wirf sie auf das Feld hinter dir.,Afferri un'unità di fronte a te e la sbatti contro la casella dietro di te.,Agarre uma unidade à sua frente e jogue-a no espaço atrás de você.,"抓住前方的一个单位，
@@ -6224,7 +6042,6 @@ ABILITY_AUTOPILOT2_DESC,"You or another unit takes an extra turn after this one.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Você ou outra unidade obtém um turno adicional após este. A unidade fica sob controle do computador nesse turno.
 [s:.7](Este encantamento custa menos.)[/s]","你或另一名单位在原本回合结束后获得额外回合。
 该单位在那个回合中由 AI 控制。
-
 [s:.7]（此法术消耗降低。）[/s]"
 ABILITY_RECYCLE_NAME,Recycle,,Reciclaje,Recyclage,Recyceln,Riciclaggio,Reciclagem,回收
 ABILITY_RECYCLE_DESC,Destroy your weapon to gain +1 Tech and refresh your basic action.,,Destruye el arma para obtener +1 de tecnología y restaurar la acción básica.,Vous détruisez votre arme pour gagner Techno&nbsp;+1&nbsp;et recharger votre action de base.,"Zerstöre deine Waffe, erhalte +1&nbsp;Technologie und frische deine Grundaktion auf.",Distruggi la tua arma per ottenere +1 Tecnologia e ricaricare la tua azione base.,Destrua sua arma para obter +1 de tecnologia e reiniciar sua ação básica.,"摧毁你的武器以获得 +1 科技并刷新你的
@@ -6312,7 +6129,6 @@ ABILITY_CATBOT_DESC,"Spawn a Catbot and give it your current weapon.
 [s:.7](Die Waffe geht endgültig verloren)[/s]","Generi un bot felino e gli dai la tua arma attuale.
 [s:.7](Non riavrai indietro l'arma)[/s]","Gere um gatobot e dê sua arma atual a ele.
 [s:.7](Você não recebe sua arma de volta.)[/s]","生成一个猫机器人并把你的当前武器给它。
-
 [s:.7]（你将不会拿回该武器）[/s]"
 ABILITY_CATBOT2_DESC,"Spawn a Catbot and give it your current weapon. Gain +1 Tech and refresh your basic action.
 [s:.7](You will not get the weapon back)[/s]",,"Genera un gatobot y le entrega el arma actual de esta unidad. Obtiene +1 de tecnología y restaura la acción básica.
@@ -6321,7 +6137,6 @@ ABILITY_CATBOT2_DESC,"Spawn a Catbot and give it your current weapon. Gain +1 Te
 [s:.7](Non riavrai indietro l'arma)[/s]","Gere um gatobot e dê sua arma atual a ele. Obtenha +1 de tecnologia e reinicie sua ação básica.
 [s:.7](Você não recebe sua arma de volta.)[/s]","生成一个猫机器人并把你的当前武器给它。
 获得 +1 科技并刷新你的基础行动。
-
 [s:.7]（你将不会拿回该武器）[/s]"
 ABILITY_BOMBCHU_NAME,Bombchu,,Bombchu,Bombikaze,Krabbelmine,Bombchu,Bombchu,炸弹鼠
 ABILITY_BOMBCHU_DESC,Spawn a Bombchu bot.,,Genera un robot bombchu.,Vous invoquez un robot Bombikaze.,Baue eine Krabbelmine.,Generi un bot Bombchu.,Gere um bot bombchu.,生成一个炸弹鼠机器人。
@@ -6331,7 +6146,6 @@ ABILITY_BOMBCHU2_DESC,"Spawn a Bombchu bot in range 4.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Generi un bot Bombchu a raggio d'azione 4.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Gere um bot bombchu em alcance 4.
 [s:.7](Este encantamento custa menos.)[/s]","在范围 4 内生成一个炸弹鼠机器人。
-
 [s:.7]（此法术消耗降低。）[/s]"
 ABILITY_REMOTEDETONATOR_NAME,Remote Detonator,,Detonador remoto,Détonation à distance,Fernzünder,Detonatore Remoto,Detonador Remoto,远程引爆器
 ABILITY_REMOTEDETONATOR_DESC,"Explode a familiar, dealing 5 damage with knockback in an area.",,Hace explotar a un familiar e inflige 5 de daño con retroceso en un área.,Vous faites exploser un familier qui inflige Dégâts&nbsp;+5&nbsp;avec Recul dans une zone.,Lasse einen Begleiter explodieren. Die Explosion verursacht 5&nbsp;Schaden mit Rückstoß in einem bestimmten Bereich.,"Fai esplodere un famiglio, infliggendo 5 di danno con contraccolpo in un'area.","Exploda um familiar, causando 5 de dano com empurrão em uma área.","引爆一个使魔，
@@ -6344,7 +6158,6 @@ ABILITY_REMOTEDETONATOR2_DESC,"Explode a familiar, dealing 5 damage with knockba
 [s:.7](Quest'incantesimo costa meno.)[/s]","Exploda um familiar, causando 5 de dano com empurrão em uma área.
 [s:.7](Este encantamento custa menos.)[/s]","引爆一个使魔，
 在区域内造成 5 点伤害并产生击退效果。
-
 [s:.7]（此法术消耗降低。）[/s]"
 ABILITY_SHORTCIRCUIT_NAME,Short Circuit,,Cortocircuito,Court-circuit,Kurzschluss,Cortocircuito,Curto-Circuito,短路
 ABILITY_SHORTCIRCUIT_DESC,Deal 1 electric damage with a random amount of knockback (up to 3) to all adjacent units.,,Inflige 1 de daño eléctrico con una cantidad de retroceso al azar (hasta 3) a todas las unidades adyacentes.,Dégâts électriques&nbsp;+1&nbsp;avec un nombre de cumuls aléatoires de Recul (3&nbsp;max.) à toutes les unités adjacentes.,Verursache bei allen benachbarten Einheiten 1&nbsp;elektrischen Schaden mit zufälligem Rückstoß (bis zu 3).,Infliggi 1 di danno elettrico con una quantità casuale di contraccolpo (fino a 3) a tutte le unità adiacenti.,Cause 1 de dano elétrico com uma quantidade aleatória de empurrão (máximo de 3) a todas as unidades adjacentes.,"对所有相邻单位造成 1 点电
@@ -6361,7 +6174,6 @@ ABILITY_ELECTROLYZE2_DESC,"Give your weapon +3 electric damage.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Fornisci +3 di danno elettrico alla tua arma.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +3 de dano elétrico na sua arma.
 [s:.7](Este encantamento custa menos.)[/s]","给你的武器 +3 电击伤害。
-
 [s:.7]（此法术消耗降低。）[/s]"
 ABILITY_EJECTBUTTON_NAME,Eject Button,,Botón de expulsión,Bouton d'éjection,Schleudersitz,Pulsante di Espulsione,Botão de Ejeção,弹射按钮
 ABILITY_EJECTBUTTON_DESC,Explode and fly to a random tile at least four tiles away. This explosion damages you.,,Explota y vuela a una casilla al azar al menos a 4 casillas de distancia. Esta explosión le inflige daño a la propia unidad.,Vous explosez et volez vers une case au hasard à au moins 4&nbsp;cases de distance. Vous subissez des dégâts.,"Explodiere und flieg auf ein zufälliges, mindestens 4&nbsp;Felder entferntes Feld. (Der Schaden trifft dich auch.)",Esplodi e vola verso una casella casuale ad almeno quattro caselle di distanza. Quest'esplosione ti infligge danno.,Exploda e voe para um espaço aleatório a pelo menos quatro espaços de distância. Essa explosão causa dano a você.,"爆炸并飞向至少 4 格远的随机地块。
@@ -6392,7 +6204,6 @@ ABILITY_EUREKA_DESC,"Gain +3 Tech and Madness 1.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ottieni +3 Tecnologia e Follia 1.
 [s:.7](Quest'incantesimo può essere lanciato solo una volta per battaglia.)[/s]","Obtenha +3 de tecnologia e insanidade 1.
 [s:.7](Este encantamento só pode ser lançado uma vez por batalha.)[/s]","获得 +3 科技和 1 层疯狂。
-
 [s:.7](此法术每场战斗只能施放一次。)[/s]"
 ABILITY_EUREKA2_DESC,"Gain +3 Tech.
 [s:.7](This spell can only be cast once per battle.)[/s]",,"Obtiene +3 de tecnología.
@@ -6449,7 +6260,6 @@ ABILITY_UNRELIABLESHIELD2_DESC,"Get +6 [img:shield] and +1 temporary Brace. This
 [s:.7](Quest'incantesimo costa meno.)[/s]","Obtenha +6 de [img:shield] e +1 de preparação temporária. Este encantamento possui 66% de chance de ser desabilitado em cada turno.
 [s:.7](Este encantamento custa menos.)[/s]","获得 +6 [img:shield] 和 +1 临时护甲。
 此法术每回合有 66% 几率失效。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_UNRELIABLEMISSILE_NAME,Unreliable Missile Launcher,,Lanzamisiles poco fiable,Lanceur de missiles capricieux,Unzuverlässiger Raketenwerfer,Lanciamissili Inaffidabile,Lançador de Mísseis Pouco Confiável,不靠谱导弹发射器
 ABILITY_UNRELIABLEMISSILE_DESC,Shoot an explosive homing missile at a random enemy. This spell has a 75% chance to be disabled on each turn.,,Dispara un misil explosivo dirigible a un enemigo al azar. Este hechizo tiene un 75 % de probabilidad de deshabilitarse en cada turno.,Vous tirez un missile téléguidé explosif sur un ennemi au hasard. Ce sort a 75&nbsp;% de chances d'être désactivé à chaque tour.,"Feuere ein explosives Suchgeschoss auf einen zufälligen Gegner. Dieser Zauber hat eine 75%ige Wahrscheinlichkeit pro Zug, deaktiviert zu werden.",Spari un missile esplosivo a ricerca contro un nemico casuale. Quest'incantesimo ha un 75% di probabilità di essere disattivato a ogni turno.,Dispare um míssil perseguidor explosivo em um inimigo aleatório. Este encantamento possui 75% de chance de ser desabilitado em cada turno.,"向随机敌人发射一枚爆炸追踪导弹。
@@ -6462,7 +6272,6 @@ ABILITY_UNRELIABLEMISSILE2_DESC,"Shoot an explosive homing missile at a random e
 [s:.7](Quest'incantesimo costa meno.)[/s]","Dispare um míssil perseguidor explosivo em um inimigo aleatório. Este encantamento possui 66% de chance de ser desabilitado em cada turno.
 [s:.7](Este encantamento custa menos.)[/s]","向随机敌人发射一枚爆炸追踪导弹。
 此法术每回合有 66% 几率失效。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SPAREPARTS_NAME,Spare Parts,,Piezas sueltas,Pièces détachées,Ersatzteile,Pezzi di Ricambio,Peças Sobressalentes,备用零件
 ABILITY_SPAREPARTS_DESC,"Destroy your weapon and gain one of the following: +2 [img:shield], +4 Charge, +1 Thorns, or 1 coin.",,"Destruye su arma y obtiene una de las siguientes mejoras: +2 [img:shield], +4 de carga, +1 de espinas o 1 moneda.","Vous détruisez votre arme et recevez l'un des bonus suivants&nbsp;: [img:shield]&nbsp;+2, Charge&nbsp;+4, Épines&nbsp;1&nbsp;ou 1&nbsp;pièce.","Zerstöre deine Waffe und erhalte einen der folgenden Boni: +2&nbsp;[img:shield], +4&nbsp;Ladung, +1&nbsp;Dornen oder 1&nbsp;Münze.","Distruggi la tua arma e ottieni uno dei seguenti effetti: +2 allo [img:shield], +4 Carica, +1 Spine o 1 moneta.","Destrua sua arma e obtenha um dos seguintes efeitos: +2 de [img:shield], +4 cargas, +1 de espinhos ou 1 moeda.","摧毁你的武器并获得以下效果之一：
@@ -6480,7 +6289,6 @@ ABILITY_SPLITTHEATOM_DESC,"Deal 50 damage to and inflict Burn 10 on all enemies.
 [s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成 50 点伤害
 并施加 10 层燃烧。
 你可以分多回合支付此法术的费用。
-
 [s:.7](此法术的法力消耗无法被修改。)[/s]"
 ABILITY_SPLITTHEATOM2_DESC,"Deal 50 damage to and inflict Burn 10 on all enemies. You can pay for this spell over multiple turns.
 This spell absorbs the mana you spend casting other spells.
@@ -6494,9 +6302,7 @@ Este encantamento absorve a mana que você gasta ao lançar outros encantamentos
 [s:.7](O custo de mana deste encantamento não pode sofrer modificações.)[/s]","对所有敌人造成 50 点伤害
 并施加 10 层燃烧。
 你可以分多回合支付此法术的费用。
-
 此法术会吸收你施放其他法术时消耗的法力。
-
 [s:.7](此法术的法力消耗无法被修改。)[/s]"
 ABILITY_EXPERIMENTALTELEPORTER_NAME,Experimental Teleporter,,Teletransportador experimental,Téléporteur expérimental,Experimenteller Teleporter,Teletrasporto Sperimentale,Teletransportador Experimental,实验性传送器
 ABILITY_EXPERIMENTALTELEPORTER_DESC,Teleport to any tile. You have a 15% chance to equip a piece of Fly armor that breaks any armor pieces it replaces.,,Se teletransporta a cualquier casilla. Tiene un 15 % de probabilidad de equiparse con una pieza de armadura voladora que rompe cualquier pieza de armadura que remplace.,Vous vous téléportez sur une case. 15&nbsp;% de chances d'équiper un élément d'armure de mouche qui brise l'élément qu'il remplace.,"Teleportiere dich auf ein beliebiges Feld. Mit 15%iger Wahrscheinlichkeit rüstest du ein Fliegenrüstungsteil aus, das das Rüstungsteil zerstört, das es ersetzt.",Ti teletrasporti su qualsiasi casella. Hai un 15% di probabilità di equipaggiare un pezzo di armatura volante che rompe tutti i pezzi di armatura che sostituisce.,Teletransporte-se para qualquer espaço. Você possui 15% de chance de equipar uma peça de armadura voadora que quebra a peça de armadura que é substituída.,"传送至任意地块。
@@ -6511,7 +6317,6 @@ ABILITY_EXPERIMENTALTELEPORTER2_DESC,"Teleport to any tile. You have a 15% chanc
 [s:.7](Este encantamento custa menos.)[/s]","传送至任意地块。
 你有 15% 的几率装备一件苍蝇护甲，
 它会破坏被替换的任意护甲部件。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SHOCKTHERAPY_NAME,Shock Therapy,,Terapia de choque,Électrochocs,Schocktherapie,Terapia d'Urto,Terapia de Choque,电击疗法
 ABILITY_SHOCKTHERAPY_DESC,"Deal 1 electric damage to yourself or an adjacent unit. Cleanse debuffs from that unit, give it a random stat up, and a 25% chance to be Stunned.",,"Inflige 1 de daño eléctrico a sí misma o a una unidad adyacente. Elimina las desventajas de esa unidad, le otorga un aumento de un atributo al azar y un 25 % de probabilidad de sufrir aturdimiento.",Dégâts électriques&nbsp;+1&nbsp;à vous-même ou une unité adjacente. Vous dissipez les malus de cette unité et lui augmentez une stat au hasard. Elle a 25&nbsp;% de chances de recevoir Étourdissement.,"Verursache 1&nbsp;elektrischen Schaden bei dir oder einer benachbarten Einheit. Reinige die Schwächungen dieser Einheit, erhöhe ein zufälliges ihrer Attribute und betäube sie mit 25%iger Wahrscheinlichkeit.","Infliggi 1 danno elettrico a te o a un'unità adiacente. Rimuovi i malus da quell'unità, le fornisci un aumento casuale delle statistiche e un 25% di probabilità di entrare in stato di Stordimento.","Cause 1 de dano elétrico a si ou a uma unidade adjacente. Purifique enfraquecimentos da mesma unidade, conceda um atributo aleatório aumentado e 25% de chance de atordoamento.","对自己或一名相邻单位造成 1 点电击伤害。
@@ -6561,7 +6366,6 @@ ABILITY_SMASHTINKERER2_DESC,"Smash your weapon onto an adjacent unit, destroying
 [s:.7](Quest'incantesimo costa meno.)[/s]","Esmague sua arma em uma unidade adjacente, destruindo-a e causando o dobro de seu dano.
 [s:.7](Este encantamento custa menos.)[/s]","将你的武器猛砸向一名相邻单位，
 摧毁武器并造成其双倍的伤害。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SHEDSCRAP_NAME,Shed Scrap,,Descarga de chatarra,Débris de cabane,Schrott loswerden,Rottami Ovunque,Retirar Sucata,卸下废料
 ABILITY_SHEDSCRAP_DESC,Lose 1 [img:shield]. Spawn a junk pile.,,Pierde 1 [img:shield]. Genera un montón de desechos.,[img:shield]&nbsp;-1. Vous faites apparaître une pile d'ordures.,Verliere 1&nbsp;[img:shield]. Lasse einen Schrotthaufen erscheinen.,Perdi 1 di [img:shield]. Generi una pila di ciarpame.,Perca 1 de [img:shield]. Gere uma pilha de lixo.,失去 1 [img:shield]。生成一个垃圾堆。
@@ -6603,7 +6407,6 @@ ABILITY_NURSEBOT2_DESC,"Spawn a nurse bot that heals allies.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Generi un robot infermiere che cura gli alleati.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Gere um bot enfermeira que cura aliados.
 [s:.7](Este encantamento custa menos.)[/s]","生成一个治疗盟友的护士机器人。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_TESLACOIL_NAME,Tesla Coil,,Bobina de Tesla,Bobine de Tesla,Teslaspule,Bobina di Tesla,Bobina Tesla,特斯拉线圈
 ABILITY_TESLACOIL_DESC,Spawn a tesla coil that shoots lightning bolts at random units with a small chance to inflict Stun.,,Genera una bobina de Tesla que lanza rayos a unidades al azar con una pequeña probabilidad de infligir aturdimiento.,Vous invoquez une bobine de Tesla qui lance des éclairs sur des unités aléatoires avec une petite chance d'infliger Étourdissement.,"Baue eine Teslaspule, die Blitze auf zufällige Einheiten verschießt und mit geringer Wahrscheinlichkeit Betäubung verursacht.",Generi una Bobina di Tesla che spara fulmini contro unità casuali con una piccola probabilità di infliggere Stordimento.,Gere uma bobina tesla que dispara raios em unidades aleatórios com uma chance pequena de aplicar atordoamento.,"生成一个特斯拉线圈，
@@ -6630,7 +6433,6 @@ ABILITY_FABRICATE2_DESC,"Give an ally in range 3 a temporary copy of your weapon
 [s:.7](Quest'incantesimo costa meno.)[/s]","Conceda a um aliado em alcance 3 uma cópia temporária da sua arma, caso ele não tenha uma arma.
 [s:.7](Este encantamento custa menos.)[/s]","给予 3 格范围内一名没有武器的
 盟友一份你武器的临时复制品。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_SPARKS_NAME,Sparks,,Chispas,Étincelles,Zündfunken,Scintille,Fagulhas,电火花
 ABILITY_SPARKS_DESC,Shoot electric bolts at up to 3 random enemies or robots.,,Dispara rayos eléctricos hasta a 3 enemigos o robots al azar.,Vous lancez des rayons électriques à maximum 3&nbsp;ennemis ou robots aléatoires.,Verschieße elektrische Blitze auf bis zu 3&nbsp;zufällige Gegner oder Roboter.,Spari saette elettriche contro un massimo di 3 nemici o robot casuali.,Dispare raios em até 3 inimigos ou robôs aleatórios.,"向最多 3 个随机敌人或机器人发射电击弹。
@@ -6689,7 +6491,6 @@ ABILITY_PESTILENCE2_DESC,"Deal 1 damage to all units.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi 1 danno a tutte le unità.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cause 1 de dano a todas as unidades.
 [s:.7](Este encantamento custa menos.)[/s]","对所有单位造成 1 点伤害。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_WEAKNESS_NAME,Weakness,,Debilidad,Vulnérabilité,Schwäche,Debolezza,Fraqueza,虚弱
 ABILITY_WEAKNESS_DESC,Inflict Weakness 5 on a unit.,,Inflige +5 de debilidad a una unidad.,Vulnérabilité&nbsp;+5&nbsp;à une unité.,Verursache Schwäche&nbsp;5 bei einer Einheit.,Infliggi Debolezza 5 a un'unità.,Aplique fraqueza 5 em uma unidade.,对一个单位施加 5 层虚弱。
@@ -6755,7 +6556,6 @@ Quest'incantesimo può resuscitare le unità. Se l'unità resuscitata era nemica
 Este encantamento pode reviver unidades. Se a unidade revivida for um inimigo, ele é enfeitiçado pelo resto da batalha.","给予一个单位 +1 [img:con] 并治疗
 其 4 点生命值。
 你获得 -1 [img:con] 并失去 4 点生命值。
-
 此法术可以复活单位。
 如果复活的是敌人，
 它会在战斗中被魅惑。"
@@ -6817,7 +6617,6 @@ ABILITY_UNEARTH2_DESC,"Dig up a body. It reanimates at the end of the round.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Dissotterra un corpo che resuscita alla fine del round.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Desenterre um corpo. Ele é reanimado no final da rodada.
 [s:.7](Este encantamento custa menos.)[/s]","挖掘一具尸体。它会在回合结束时复生。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_BLOODGEYSER_NAME,Blood Geyser,,Géiser de sangre,Geyser de sang,Blutgeysir,Geyser di Sangue,Gêiser de Sangue,鲜血喷泉
 ABILITY_BLOODGEYSER_DESC,"Take damage equal to half of your max HP, then deal that much damage and inflict Fear 2 on another unit.",,"Sufre una cantidad de daño igual a la mitad de sus PS máximos. Luego, inflige esa misma cantidad de daño y 2 de miedo a otra unidad.","Vous subissez des dégâts à hauteur de la moitié de vos PV max., puis vous infligez cette même quantité de dégâts et Peur&nbsp;+2&nbsp;à une autre unité.",Erleide Schaden in Höhe der Hälfte deiner max. LP. Verursache Schaden in dieser Höhe bei einer anderen Einheit und verursache Angst&nbsp;2 bei ihr.,"Subisci un danno pari alla metà dei tuoi PS massimi, poi infliggi altrettanto danno e Paura 2 a un'altra unità.","Sofra dano equivalente à metade da sua saúde máxima, e então cause a mesma quantidade de dano e aplique medo 2 em outra unidade.","受到等于你最大生命值一半的伤害，
@@ -6867,7 +6666,6 @@ ABILITY_SUMMONBONES2_DESC,"Summon a skeleton from a body, anywhere.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Evochi uno scheletro da un corpo, in qualsiasi posizione.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Invoque um esqueleto de um corpo em qualquer lugar.
 [s:.7](Este encantamento custa menos.)[/s]","从任意位置的尸体中召唤一个骷髅。
-
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_GIGADRAIN_NAME,Giga Drain,,Gigadrenaje,Giga drain,Gigasauger,Giga-Assorbimento,Giga Dreno,亿万吸取
 ABILITY_GIGADRAIN_DESC,"Spend all of your mana, then drain that much HP from an adjacent unit. Ignores shield.",,Gasta todo el maná y luego quita todos esos PS a una unidad adyacente. Ignora el escudo.,"Vous dépensez tout votre mana, puis absorbez l'équivalent en PV d'une unité adjacente. Ignore la défense.",Gib dein gesamtes Mana aus und sauge LP in dieser Höhe von einer benachbarten Einheit ab. Ignoriert Schilde.,"Spendi tutto il tuo mana, poi sottrai altrettanti PS a un'unità adiacente. Ignora lo scudo.","Gaste toda a sua mana, e então drene saúde equivalente em uma unidade adjacente. Isto ignora escudos.","消耗你所有的法力值，
@@ -6930,7 +6728,6 @@ ABILITY_SPOOK_DESC,"Deal damage to any unit. This has a 25% chance to inflict Fe
 [s:.7]Lanciabile anche in stato di KO.[/s]","Cause dano a qualquer unidade. Esta habilidade possui 25% de chance de aplicar medo.
 [s:.7]É possível lançar mesmo estando inconsciente.[/s]","对任意单位造成伤害。
 有 25% 的几率施加恐惧。
-
 [s:.7]倒地时可施放。[/s]"
 ABILITY_CARRIONSHOT_NAME,Carrion Shot,,Tiro carroñero,Tir charognard,Aasschuss,Colpo della Carogna,Tiro de Carniça,腐肉射击
 ABILITY_CARRIONSHOT_DESC,"Deal 1 damage and inflict Leech 1.
@@ -6939,7 +6736,6 @@ ABILITY_CARRIONSHOT_DESC,"Deal 1 damage and inflict Leech 1.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 1 di danno e Sanguisuga 1.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 1 de dano e aplique sanguessuga 1.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成 1 点伤害并施加 1 层水蛭。
-
 [s:.7]此法术在你倒地时更强且可施放。
 [/s]"
 ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
@@ -6948,7 +6744,6 @@ ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 2 di danno e Sanguisuga 2.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 2 de dano e aplique sanguessuga 2.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成 2 点伤害并施加 2 层水蛭。
-
 [s:.7]此法术在你倒地时更强且可施放。
 [/s]"
 ABILITY_LIFEDRAIN_NAME,Lifedrain,,Drenaje vital,Vol de vie,Leben absaugen,Drenaggio Vitale,Dreno de Vida,生命吸取
@@ -6958,7 +6753,6 @@ ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit 50&nbsp;% LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il 50% dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com 50% de saúde.[/s]","于近战范围吸取 2 点生命值。
-
 [s:.7]此法术在你倒地时更强且可施放。
 如果击杀单位，以 50% 生命值复活。
 [/s]"
@@ -6968,7 +6762,6 @@ ABILITY_LIFEDRAIN2_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit max. LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il massimo dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com saúde completa.[/s]","于近战范围吸取 2 点生命值。
-
 [s:.7]此法术在你倒地时更强且可施放。
 如果击杀单位，以最大生命值复活。
 [/s]"
@@ -6979,7 +6772,6 @@ ABILITY_COFFINFLOP_DESC,"Jump to an open tile in range 2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist. Wenn du ohnmächtig bist, verursachst du Schaden und Wahnsinn bei Einheiten, auf denen du landest.[/s]","Salti su una casella libera nel raggio d'azione di 2.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Quando sei in tale stato, puoi atterrare su delle unità infliggendo danno e Follia.[/s]","Pule até um espaço aberto em alcance 2.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente. Enquanto você está inconsciente, é possível cair sobre unidades em qualquer lugar, causando dano e aplicando insanidade.[/s]","跳跃至 2 格范围内的空地块。
-
 [s:.7]此法术在倒地时更强且可施放。
 倒地时，你可以落在单位上，
 造成伤害并施加疯狂效果。[/s]"
@@ -6989,7 +6781,6 @@ ABILITY_COFFINFLOP2_DESC,"Jump to an open tile in range 3.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist. Wenn du ohnmächtig bist, verursachst du Schaden und Wahnsinn bei Einheiten, auf denen du landest.[/s]","Salti su una casella libera nel raggio d'azione di 3.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Quando sei in tale stato, puoi atterrare su delle unità infliggendo danno e Follia 2.[/s]","Pule até um espaço aberto em alcance 3.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente. Enquanto você está inconsciente, é possível cair sobre unidades em qualquer lugar, causando dano e aplicando insanidade 2.[/s]","跳跃至 3 格范围内的空地块。
-
 [s:.7]此法术在倒地时更强且可施放。
 倒地时，你可以落在任意单位上，
 造成伤害并施加 2 层疯狂效果。
@@ -7022,7 +6813,6 @@ ABILITY_SEANCE_DESC,"Spawn a ghost Familiar that fades after its first turn.
 [s:.7]Kann gewirkt werden, während du ohnmächtig bist. In dem Fall rufst du stattdessen einen Schattenklon.[/s]","Generi un famiglio fantasma che svanisce dopo il suo primo turno.
 [s:.7]Lanciabile mentre sei in stato di KO. Se lo fai, il risultato è diverso: genererai una tua copia ombra.[/s]","Gere um familiar fantasma que desaparece após seu primeiro turno.
 [s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","生成一个在首回合后消失的幽灵使魔。
-
 [s:.7]倒地时可施放。若如此做，
 改为生成一个你自己的暗影分身。
 [/s]"
@@ -7032,7 +6822,6 @@ ABILITY_SEANCE2_DESC,"Spawn a ghost Familiar that fades after its second turn.
 [s:.7]Kann gewirkt werden, während du ohnmächtig bist. In dem Fall rufst du stattdessen einen Schattenklon.[/s]","Generi un famiglio fantasma che svanisce dopo il suo secondo turno.
 [s:.7]Lanciabile mentre sei in stato di KO. Se lo fai, il risultato è diverso: genererai una tua copia ombra.[/s]","Gere um familiar fantasma que desaparece após seu segundo turno.
 [s:.7]É possível lançar este encantamento quando você está inconsciente. Se o fizer, ao invés do familiar, gere uma cópia sombria sua.[/s]","生成一个在第二回合后消失的幽灵使魔。
-
 [s:.7]倒地时可施放。若如此做，
 改为生成一个你自己的暗影分身。
 [/s]"
@@ -7055,7 +6844,6 @@ ABILITY_DEMONICPACT_DESC,"Injure yourself and take an extra turn.
 [s:.7](Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Ti ferisci per ottenere un turno aggiuntivo.
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Cause um ferimento a si para obter um turno adicional.
 [s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","使自己受到伤势并获得额外回合。
-
 [s:.7]（此法术无法在额外回合中施放。
 ）[/s]"
 ABILITY_DEMONICPACT2_DESC,"Injure yourself and take an extra turn.
@@ -7064,7 +6852,6 @@ ABILITY_DEMONICPACT2_DESC,"Injure yourself and take an extra turn.
 [s:.7](Dieser Zauber kostet weniger. Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Ti ferisci per ottenere un turno aggiuntivo.
 [s:.7](Quest'incantesimo costa meno. Non può essere lanciato nei turni aggiuntivi.)[/s]","Cause um ferimento a si para obter um turno adicional.
 [s:.7](Este encantamento possui custo reduzido e não pode ser lançado em turnos extras.)[/s]","使自己受到伤势并获得额外回合。
-
 [s:.7]（此法术消耗更少。
 此法术无法在额外回合中施放。
 ）[/s]"
@@ -7118,7 +6905,6 @@ Haverá consequências permanentes ao lançar este encantamento... mas talvez n�
 [s:.7](Um lançamento por batalha.)[/s]","对所有敌人施加 5 层虚弱、
 2 层中毒和 2 层疯狂。
 施放此法术会有永久性后果……但也许不是对你。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FORBIDDENFAMINE2_DESC,"Inflict Leech 2, Weakness 5, Poison 2, and Madness 2 on all enemies.
 There are permanent consequences for casting this spell… but maybe not for you.
@@ -7132,9 +6918,7 @@ Ci saranno conseguenze permanenti per aver lanciato quest'incantesimo... ma fors
 Haverá consequências permanentes ao lançar este encantamento... mas talvez não para você.
 [s:.7](Um lançamento por batalha.)[/s]","对所有敌人施加 2 层水蛭、
 5 层虚弱、2 层中毒和 2 层疯狂。
-
 施放此法术会有永久性后果……但也许不是对你。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FLESHGOLEM_NAME,Flesh Golem,,Gólem carnoso,Golem de chair,Fleischgolem,Golem di Carne,Golem de Carne,血肉魔像
 ABILITY_FLESHGOLEM_DESC,"You and all allies lose 10 HP. Summon a flesh golem with one random spell from each of those units.
@@ -7145,7 +6929,6 @@ ABILITY_FLESHGOLEM_DESC,"You and all allies lose 10 HP. Summon a flesh golem wit
 [s:.7](Um lançamento por batalha.)[/s]","你和所有盟友失去 10 点生命值。
 召唤一个血肉魔像，
 它拥有来自这些单位各一个随机法术。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_FLESHGOLEM2_DESC,"You and all allies lose 10 HP. Summon a flesh golem with one random spell and random passives from each of those units.
 [s:.7](Castable once per battle.)[/s]",,"Esta unidad y todas las aliadas pierden 10 PS. Invoca un gólem carnoso con un hechizo al azar y pasivas al azar de cada una de esas unidades.
@@ -7155,7 +6938,6 @@ ABILITY_FLESHGOLEM2_DESC,"You and all allies lose 10 HP. Summon a flesh golem wi
 [s:.7](Um lançamento por batalha.)[/s]","你和所有盟友失去 10 点生命值。
 召唤一个血肉魔像，
 它拥有来自这些单位各一个随机法术和随机被动。
-
 [s:.7]（每场战斗限施放一次。）[/s]"
 ABILITY_TRADELIFE_NAME,Trade Life,,Comercio con vida,Échange de vie,Lebenskraft tauschen,Scambio di Vita,Trocar Vida,生命交换
 ABILITY_TRADELIFE_DESC,"Swap HP with an ally in range 3.
@@ -7164,7 +6946,6 @@ ABILITY_TRADELIFE_DESC,"Swap HP with an ally in range 3.
 [s:.7]Kann gewirkt werden, während du ohnmächtig bist. Wenn dieser Zauber dich oder den Verbündeten ohnmächtig macht, erleidet ihr keine Verletzungen.[/s]","Scambi PS con un alleato nel raggio d'azione 3.
 [s:.7]Lanciabile mentre sei in stato di KO. Se quest'incantesimo infligge KO a te o all'alleato, nessuno dei due subisce danno.[/s]","Troque de saúde com um aliado em alcance 3.
 [s:.7]É possível lançar este encantamento quando você está inconsciente. Se este encantamento deixar você ou seu aliado inconscientes, nenhum dos dois sofre ferimentos.[/s]","与 3 格范围内的一个盟友交换生命值。
-
 [s:.7]倒地时可施放。若此法术导致你或盟友倒地，
 双方都不会受到伤势。[/s]"
 ABILITY_TRADELIFE2_DESC,"Swap HP with any ally.
@@ -7201,7 +6982,6 @@ ABILITY_GRAVECRAWL2_DESC,"Dig to any tile and unearth 1-3 bodies.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Scavi fino a una casella qualsiasi e dissotterri 1-3 corpi.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Vá por debaixo da terra até qualquer espaço e desenterre 1-3 corpos.
 [s:.7](Este encantamento custa menos.)[/s]","挖掘至任意地块并掘出 1-3 具尸体。
-
 [s:.7]（此法术消耗更少。）[/s]"
 ABILITY_DIGUPTHEDEAD_NAME,Dig Up the Dead,,Exhumación,Exhumation,Leichen ausgraben,Riesumazione dei Morti,Desenterrando os Mortos,掘出亡者
 ABILITY_DIGUPTHEDEAD_DESC,Dig to any tile and unearth 4 zombies.,,Excava a cualquier casilla y desentierra 4 zombis.,Vous creusez sur une case et exhumez 4&nbsp;zombies.,Grab dich auf ein beliebiges Feld und entdecke 4&nbsp;Zombies.,Scavi fino a una casella qualsiasi e dissotterri 4 zombie.,Vá por debaixo da terra até qualquer espaço e desenterre quatro zumbis.,"挖掘至任意地块并掘出 4 个僵尸。
@@ -7212,7 +6992,6 @@ ABILITY_DIGUPTHEDEAD2_DESC,"Dig to any tile and unearth 4 zombies.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Scavi fino a una casella qualsiasi e dissotterri 4 zombie.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Vá por debaixo da terra até qualquer espaço e desenterre quatro zumbis.
 [s:.7](Este encantamento custa menos.)[/s]","挖掘至任意地块并掘出 4 个僵尸。
-
 [s:.7]（此法术消耗更少。）[/s]"
 ABILITY_SPIDEREGG_NAME,Spider Egg,,Huevo de araña,Œuf d'araignée,Spinnenei,Uovo di Ragno,Ovo de Aranha,蜘蛛蛋
 ABILITY_SPIDEREGG_DESC,Inflict Infested 1 on a unit in range 3.,,Inflige 1 de infestación a una unidad en un alcance de 3 casillas.,Infestation&nbsp;+1&nbsp;à une unité dans un rayon de 3&nbsp;cases.,Verursache Infiziert&nbsp;1 bei einer Einheit in Reichweite&nbsp;3.,Infliggi Infestato 1 a un'unità nel raggio d'azione di 3.,Aplique infestação 1 em uma unidade em alcance 3.,"对 3 格范围内的一个单位施加 1 层寄生。
