@@ -194,7 +194,7 @@ ITEM_BLOODYBUTTERFLYKNIFE_DESC,"Use: A multi-hit melee attack with Lifesteal tha
 [s:.7](每场战斗可使用一次。)[/s]"
 ITEM_BLOODYMEATHOOK_NAME,Bloody Meat Hook,,Gancho sangriento para carne,Crochet de boucher ensanglanté,Blutiger Fleischhaken,Uncino da Carne Insanguinato,Gancho de Carne Ensanguentado,血肉钩
 ITEM_BLOODYMEATHOOK_DESC,"Use: Pull a unit towards you, Cleaving and inflicting Bleed 1.",,"Uso: Atrae a una unidad, le practica una incisión y le inflige 1 de hemorragia.","Utilisation&nbsp;: attire une unité vers vous, effectue une attaque tranchante et inflige Saignement 1.",Benutzen: Zieh eine Einheit an dich heran und verursache Blutung&nbsp;1.,"Uso: Tiri un'unità verso di te, infliggendole Fendente e Sanguinamento 1.","Uso: puxe uma unidade na sua direção, causando cisão e aplicando sangramento 1.","使用：拉近一个单位，
-对其造成横扫伤害并附加1层流血。
+对其造成切割伤害并附加1层流血。
 "
 ITEM_BLOODYSOULCLAW_NAME,Bloody Soul Claw,,Garra de alma sangrienta,Griffe spirituelle ensanglantée,Blutige Seelenkralle,Artiglio dell'Anima Insanguinato,Garra de Alma Ensanguentada,血魂爪
 ITEM_BLOODYSOULCLAW_DESC,"Use: A melee attack that deals damage equal to the number of uses this has left.
@@ -305,7 +305,7 @@ Passivo: obtenha queimadura 1 e +2 de [img:spd] no início de cada turno.","使�
 "
 ITEM_BUTCHERSCLEAVER_NAME,Butcher's Cleaver,,Macheta de carnicero,Fendoir du barbare,Fleischermesser,Mannaia del Macellaio,Cutelo de Açougueiro,屠夫的砍刀
 ITEM_BUTCHERSCLEAVER_DESC,Use: A melee attack with Cleave that can hit diagonally.,,Uso: Lanza un ataque cuerpo a cuerpo con incisión que golpea en diagonal.,Utilisation&nbsp;: une attaque au corps-à-corps infligeant Fendoir pouvant toucher en diagonale.,"Benutzen: Ein Nahkampfangriff, der Schlachten und diagonal treffen kann.",Uso: Un attacco corpo a corpo con Fendente che può colpire in diagonale.,Uso: um ataque corpo-a-corpo com cisão que pode golpear diagonalmente.,"使用：
-一次带有横扫的近战攻击，
+一次带有切割的近战攻击，
 可以对角线攻击。"
 ITEM_BUTTERFLYKNIFE_NAME,Butterfly Knife,,Navaja de abanico,Couteau papillon,Butterflymesser,Coltello a Farfalla,Faca Borboleta,蝴蝶刀
 ITEM_BUTTERFLYKNIFE_DESC,"Use: A multi-hit melee attack that inflicts Bleed.
@@ -339,7 +339,7 @@ Passiveffekt: +2 Dornen.","Uso: Un attacco corpo a corpo multi-colpo con il 25% 
 [s:.7](Utilizzabile una volta per battaglia.)[/s]
 Abilità Passiva: +2 Spine.","Uso: um ataque corpo-a-corpo multigolpes com 25% de chance de causar cisão.
 [s:.7](Um uso por batalha.)[/s]
-Passivo: +2 de espinhos.","使用：多重近战攻击，有25%几率造成横扫伤害。
+Passivo: +2 de espinhos.","使用：多重近战攻击，有25%几率造成切割伤害。
 [s:.7](每场战斗可用一次。)[/s]
 被动：+2 荆棘。"
 ITEM_CHEESE_NAME,Cheese,,Queso,Fromage,Käse,Formaggio,Queijo,奶酪
@@ -861,7 +861,7 @@ I boss, invece, subiscono come danno 1/6 dei loro PS attuali.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque corpo-a-corpo com cisão que causa dano equivalente à metade da saúde atual do alvo.
 Chefes sofrem 1/5 de sua saúde atual.
 [s:.7](Um uso por batalha.)[/s]","使用：
-一次带有横扫的近战攻击，
+一次带有切割的近战攻击，
 造成目标当前生命值一半的伤害。
 
 Boss则受到当前生命值六分之一的伤害。

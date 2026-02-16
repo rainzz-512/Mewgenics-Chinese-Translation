@@ -287,7 +287,7 @@ items.csv,1396,ARMOR_HOOKEDNECKLACE_DESC,missing_expected_zh,Cleave,切割,+2 Th
 items.csv,1596,SETBONUS_FECAL_DESC,potential_bad_zh,Poison,中毒,"Poisonous 1.
 \nYour basic attack inflicts Poison.","剧毒。
 \n你的基础攻击会造成中毒。"
-items.csv,1705,ARMOR_HYBRIDNECKLACE_DESC,missing_expected_zh,Charge,充能,Start with +5 Charge and Bruise 1.,开始时获得+5蓄力和挫伤1效果。
+items.csv,1705,ARMOR_HYBRIDNECKLACE_DESC,missing_expected_zh,Charge,充能,Start with +5 Charge and Bruise 1.,开始时获得+5充能和挫伤1效果。
 items.csv,1830,ARMOR_MOTHERSHAT_DESC,missing_expected_zh,Charmed,被迷惑,Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed.,"每场战斗开始时及你倒地时生成
 \n一个被魅惑的微型肿瘤。"
 items.csv,1830,ARMOR_MOTHERSHAT_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Tiny Tumor at the start of each battle and whenever you're downed.,"每场战斗开始时及你倒地时生成
