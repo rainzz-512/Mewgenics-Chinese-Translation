@@ -611,9 +611,9 @@ Al termine del suo turno evoca un Germoglio.","Mata instantaneamente qualquer co
 Possui +1 de alcance de movimento para cada broto.
 Invoca um broto no final de seu turno.","将立即杀死它能接触到的任何目标。
 
-每有一株嫩芽，
+每有一株芽孢，
 获得+1移动范围。"
-ENEMY_SPROUT_NAME,Sprout,,Verdugón,Pousse,Schössling,Germoglio,Broto,萌芽
+ENEMY_SPROUT_NAME,Sprout,,Verdugón,Pousse,Schössling,Germoglio,Broto,芽孢
 ENEMY_SPROUT_DESC,Possesses adjacent units on its turn.,,Posee a las unidades adyacentes durante su turno.,Prend possession des unités qui lui sont adjacentes durant son tour.,Ergreift in seinem Zug Besitz von benachbarten Einheiten.,Durante il suo turno possiede le unità adiacenti.,Possui unidades adjacentes em seu turno.,在其回合中附身相邻单位。
 ENEMY_GEOLAD_NAME,GeoLad,,Petráqueo,Racaillot,Steinklein,Geotipo,GeoCara,地质小子
 ENEMY_GEOLAD_DESC,Performs a jump attack that damages and knocks back all units in an area.,,Lanza un ataque con salto que inflige daño a todas las unidades en un área y las hace retroceder.,Effectue une attaque sautée qui inflige des dégâts et repousse toutes les unités dans la zone.,"Führt einen Sprungangriff aus, der allen Einheiten in einem bestimmten Bereich Schaden zufügt und sie zurückstößt.",Esegue un attacco in salto che infligge danno e respinge tutte le unità all'interno di un'area.,Realiza um ataque de salto que causa dano e empurra para trás todas as unidades em uma área.,"执行跳跃攻击，

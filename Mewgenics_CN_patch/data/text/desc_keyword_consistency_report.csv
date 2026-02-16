@@ -23,16 +23,16 @@ abilities.csv,604,ABILITY_THROWSPIRITBOMB_DESC,missing_expected_zh,Charge,充能
 \n[s:.7](Cannot be thrown with 0 charges.)[/s]","投掷元气弹，
 \n然后此技能变为蓄力元气弹。
 \n[s:.7](积蓄为0时无法投掷。)[/s]"
-abilities.csv,1017,ABILITY_HOGRUSH2_DESC,missing_expected_zh,Cleave,横扫,Trample over to a tile with meat on it and Cleave all units in your way.,"践踏到有肉的格子上，
+abilities.csv,1017,ABILITY_HOGRUSH2_DESC,missing_expected_zh,Cleave,切割,Trample over to a tile with meat on it and Cleave all units in your way.,"践踏到有肉的格子上，
 \n并斩击路上的所有单位。"
-abilities.csv,1022,ABILITY_SELFHARM_DESC,missing_expected_zh,Cleave,横扫,Attack yourself with Cleave to gain +2 [img:str].,"使用斩击攻击自己以获得 +2 [img:str]。
+abilities.csv,1022,ABILITY_SELFHARM_DESC,missing_expected_zh,Cleave,切割,Attack yourself with Cleave to gain +2 [img:str].,"使用斩击攻击自己以获得 +2 [img:str]。
 \n"
-abilities.csv,1023,ABILITY_SELFHARM2_DESC,missing_expected_zh,Cleave,横扫,Attack yourself at half damage with Cleave to gain +2 [img:str].,"使用斩击以半伤害攻击自己以获得 +2 [img:str]。
+abilities.csv,1023,ABILITY_SELFHARM2_DESC,missing_expected_zh,Cleave,切割,Attack yourself at half damage with Cleave to gain +2 [img:str].,"使用斩击以半伤害攻击自己以获得 +2 [img:str]。
 \n"
-abilities.csv,1076,ABILITY_CRUSHINATOR_DESC,missing_expected_zh,Cleave,横扫,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.,"此法术只伤害护盾。
+abilities.csv,1076,ABILITY_CRUSHINATOR_DESC,missing_expected_zh,Cleave,切割,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.,"此法术只伤害护盾。
 \n劈砍并使有护盾的单位眩晕。
 \n对无护盾单位造成3点击退。"
-abilities.csv,1077,ABILITY_CRUSHINATOR2_DESC,missing_expected_zh,Cleave,横扫,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 10 Knockback to units without Shield.,"此法术只伤害护盾。
+abilities.csv,1077,ABILITY_CRUSHINATOR2_DESC,missing_expected_zh,Cleave,切割,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 10 Knockback to units without Shield.,"此法术只伤害护盾。
 \n劈砍并使有护盾的单位眩晕。
 \n对无护盾单位造成10点击退。"
 abilities.csv,1261,ABILITY_MASSHYSTERIA_DESC,missing_expected_zh,Charmed,被迷惑,Every enemy in your line of sight takes an extra turn. They are charmed on that turn.,"你视线内的所有敌人获得额外一次行动。
@@ -282,7 +282,7 @@ items.csv,1362,SETBONUS_BIGROCK_DESC,missing_expected_zh,Charmed,被迷惑,Spawn
 \n"
 items.csv,1362,SETBONUS_BIGROCK_DESC,potential_bad_zh,Charmed,被迷惑,Spawn 2 Charmed Geolads at the start of each battle.,"在每场战斗开始时生成2个被魅惑的地质精灵。
 \n"
-items.csv,1396,ARMOR_HOOKEDNECKLACE_DESC,missing_expected_zh,Cleave,横扫,+2 Thorns. Cleave units that contact you.,"+2 荆棘。劈砍接触你的单位。
+items.csv,1396,ARMOR_HOOKEDNECKLACE_DESC,missing_expected_zh,Cleave,切割,+2 Thorns. Cleave units that contact you.,"+2 荆棘。劈砍接触你的单位。
 \n"
 items.csv,1596,SETBONUS_FECAL_DESC,potential_bad_zh,Poison,中毒,"Poisonous 1.
 \nYour basic attack inflicts Poison.","剧毒。
@@ -432,24 +432,24 @@ mutations.csv,259,MUTATION_TAIL_342_DESC,missing_expected_zh,Charmed,被迷惑,S
 mutations.csv,259,MUTATION_TAIL_342_DESC,potential_bad_zh,Charmed,被迷惑,Spawn a Charmed Kitten familiar when you get downed.,濒死时生成一只魅惑小猫宠物。
 mutations.csv,260,MUTATION_TAIL_703_DESC,missing_expected_zh,Immobile,无法移动,Start each battle with Immobile 1.,每场战斗开始时获得定身 1。
 passives.csv,282,PASSIVE_PUTREFY2_DESCRIPTION,missing_expected_zh,Rot,腐烂,Your basic attack inflicts permanent Rot.,你的基础攻击会造成永久腐败。
-passives.csv,300,PASSIVE_HOOKED2_DESC,missing_expected_zh,Cleave,横扫,"You can use your hook 2 additional times on your turn.
+passives.csv,300,PASSIVE_HOOKED2_DESC,missing_expected_zh,Cleave,切割,"You can use your hook 2 additional times on your turn.
 \nYour hook deals +1 damage and has Cleave.","你在你的回合中可以额外使用 2 次钩爪。
 \n
 \n你的钩爪造成 +1 伤害并拥有分裂攻击。
 \n"
-passives.csv,302,PASSIVE_HOOKED2_MULTICLASS_DESC,missing_expected_zh,Cleave,横扫,"You can use your weapon 2 additional times on your turn.
+passives.csv,302,PASSIVE_HOOKED2_MULTICLASS_DESC,missing_expected_zh,Cleave,切割,"You can use your weapon 2 additional times on your turn.
 \nYour weapon deals +1 damage and has Cleave.","你在你的回合中可以额外使用 2 次武器。
 \n
 \n你的武器造成 +1 伤害并拥有分裂攻击。
 \n"
-passives.csv,304,PASSIVE_STOMPY_DESC,missing_expected_zh,Cleave,横扫,"You have Trample.
-\nTrample damage you deal has Cleave.","你拥有冲撞。
-\n你造成的冲撞伤害拥有分裂攻击。
+passives.csv,304,PASSIVE_STOMPY_DESC,missing_expected_zh,Cleave,切割,"You have Trample.
+\nTrample damage you deal has Cleave.","你拥有践踏。
+\n你造成的践踏伤害拥有切割。
 \n"
-passives.csv,305,PASSIVE_STOMPY2_DESC,missing_expected_zh,Cleave,横扫,"You have Trample and +2 Bonus Moves.
-\nTrample damage you deal has Cleave.","你拥有冲撞和 +2 额外移动次数。
+passives.csv,305,PASSIVE_STOMPY2_DESC,missing_expected_zh,Cleave,切割,"You have Trample and +2 Bonus Moves.
+\nTrample damage you deal has Cleave.","你拥有践踏和 +2 额外移动次数。
 \n
-\n你造成的冲撞伤害拥有分裂攻击。
+\n你造成的践踏伤害拥有切割。
 \n"
 passives.csv,336,PASSIVE_LORDOFTHEFLIES_DESC,missing_expected_zh,Charmed,被迷惑,"All flies are Charmed and get +1 Damage.
 \nWhenever you inflict Rot, you inflict +1 Rot.","所有苍蝇均被魅惑并获得+1伤害。

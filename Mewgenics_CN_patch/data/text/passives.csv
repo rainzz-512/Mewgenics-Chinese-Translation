@@ -674,7 +674,7 @@ PASSIVE_GLUTTON_DESC,"When a food pickup spawns within 2 tiles of you, move to i
 移动到它那里。"
 PASSIVE_GLUTTON2_DESC,"When a food pickup spawns within 2 tiles of you, move to it with trample.",,"Cuando se genera un recogible de comida a una distancia de 2 casillas o menos, la unidad se mueve hacia él pisoteándolo todo.","Quand de la nourriture apparaît à moins de 2&nbsp;cases de vous, rejoignez-la avec Piétinement.","Wenn ein Essensgegenstand innerhalb von 2&nbsp;Feldern von dir erscheint, trampelst du zu ihm.","Quando un raccoglibile cibo compare entro 2 caselle da te, ti muovi verso di esso con Calpestamento.","Se um coletável de comida for gerado em até 2 espaços de distância de você, mova-se até ele com atropelamento.","当食物拾取物在你2格内生成时，
 
-以冲撞方式向其移动。"
+以践踏方式向其移动。"
 PASSIVE_HOOKED_NAME,Hooked,,Enganche,Passion crochet,Am Haken,Aggancio,Enganchamento,上瘾者
 PASSIVE_HOOKED_DESC,You can use your hook 2 additional times on your turn.,,Puede usar el gancho 2 veces más en su turno.,Vous pouvez utiliser votre crochet 2&nbsp;fois de plus à votre tour.,Du kannst deinen Haken 2 zusätzliche Male pro Zug benutzen.,Puoi usare il tuo gancio altre 2 volte durante il tuo turno.,É possível utilizar seu gancho 2 vezes adicionais em seu turno.,"你在你的回合中可以额外使用 2 次钩爪。
 "
@@ -704,17 +704,17 @@ Trample damage you deal has Cleave.",,"Obtiene pisotón.
 El daño infligido con el pisotón tiene Incisión.",Vous disposez de Piétinement. Vos dégâts de Piétinement bénéficient de l'effet Fendoir.,"Du trampelst.
 Trampelschaden, den du verursachst, kann schlachten.","Hai Calpestamento.
 Il danno da calpestamento che infliggi ha Fendente.","Você possui atropelamento.
-O dano de atropelamento que você causa possui cisão.","你拥有冲撞。
-你造成的冲撞伤害拥有分裂攻击。
+O dano de atropelamento que você causa possui cisão.","你拥有践踏。
+你造成的践踏伤害拥有分裂攻击。
 "
 PASSIVE_STOMPY2_DESC,"You have Trample and +2 Bonus Moves.
 Trample damage you deal has Cleave.",,"Pisotea y obtiene +2 de bonificación de movimiento.
 El daño infligido con el pisotón tiene Incisión.",Vous disposez de Piétinement et de 2&nbsp;déplacements bonus. Vos dégâts de Piétinement bénéficient de l'effet Fendoir.,"Du trampelst und hast +2 Bonusbewegungen.
 Trampelschaden, den du verursachst, kann schlachten.","Hai Calpestamento e +2 Movimenti Bonus.
 Il danno da calpestamento che infliggi ha Fendente.","Você possui atropelamento e 2 movimentos adicionais.
-O dano de atropelamento que você causa possui cisão.","你拥有冲撞和 +2 额外移动次数。
+O dano de atropelamento que você causa possui cisão.","你拥有践踏和 +2 额外移动次数。
 
-你造成的冲撞伤害拥有分裂攻击。
+你造成的践踏伤害拥有分裂攻击。
 "
 PASSIVE_BARBED_NAME,Barbed,,Espinoso,Barbelés,Widerhaken,Spinato,Farpado,带刺
 PASSIVE_BARBED_DESC,Your hook deals +1 damage and inflicts Bleed.,,El gancho inflige +1 de daño y hemorragia.,Votre crochet inflige Dégâts&nbsp;+1&nbsp;et Saignement.,Dein Haken verursacht +1&nbsp;Schaden und Blutung.,Il tuo gancio infligge +1 di danno e provoca Sanguinamento.,Seu gancho causa +1 de dano e aplica sangramento.,"你的钩爪造成 +1 伤害并附加流血效果。
@@ -746,10 +746,10 @@ PASSIVE_PAINGAIN2_DESC,"When you take damage, gain +1 Damage and +1 Temp Damage.
 PASSIVE_WIDESWING_NAME,Spin to Win,,Giro para ganar,Tournoyer pour gagner,Wirbelstürmer,Ruota della Fortuna,Giro da Vitória,旋转取胜
 PASSIVE_WIDESWING_DESC,Your basic attack is a 3x3 tile spin attack with Cleave.,,El ataque básico es un ataque giratorio de 3x3 casillas con Incisión.,Votre attaque de base est une attaque tournoyante de 3x3&nbsp;cases avec Fendoir.,"Dein Grundangriff ist jetzt ein Wirbelangriff über 3x3 Felder, der schlachten kann.",Il tuo attacco base è un attacco rotante 3x3 con Fendente.,Seu ataque básico se torna um ataque giratório de 3x3 espaços com cisão.,"你的基本攻击是一个3x3格的旋转攻击，
 
-带有横扫效果。"
+带有切割效果。"
 PASSIVE_WIDESWING2_DESC,Your basic attack is a 3x3 tile double spin attack with Cleave.,,El ataque básico es un ataque giratorio doble de 3x3 casillas con Incisión.,Votre attaque de base est une double attaque tournoyante de 3x3&nbsp;cases avec Fendoir.,"Dein Grundangriff ist jetzt ein doppelter Wirbelangriff über 3x3 Felder, der schlachten kann.",Il tuo attacco base è un doppio attacco rotante 3x3 con Fendente.,Seu ataque básico se torna um ataque giratório duplo de 3x3 espaços com cisão.,"你的基本攻击是一个3x3格的双重旋转攻击，
 
-带有横扫效果。"
+带有切割效果。"
 PASSIVE_CONFRONTATIONAL_NAME,Confrontational,,Confrontación,Attaque frontale,Streitlustig,Conflitto,Confronto,对抗性
 PASSIVE_CONFRONTATIONAL_DESC,"When you take damage, trample one tile towards the source of damage.",,"Al sufrir daño, pisotea una casilla hacia el origen de ese daño.","Quand vous subissez des dégâts, avancez d'une case en Piétinement vers votre attaquant.","Wenn du Schaden erleidest, trampel ein Feld in Richtung der Schadensquelle.","Quando subisci danno, usi Calpestamento su una casella verso la fonte del danno.","Ao sofrer dano, atropele 1 espaço na direção da fonte do dano.","受到伤害时，
 向伤害来源践踏一格。"

@@ -3023,7 +3023,7 @@ ABILITY_FROMTHETREES2_DESC,"Summon a random animal that falls from the sky onto 
 ABILITY_HOGRUSH_NAME,Hog Rush,,Embestida de cerdo,Charge de sanglier,Schweinischer Ansturm,Carica del Cinghiale,Corrida de Porcos,猪突
 ABILITY_HOGRUSH_DESC,Trample over to a tile with meat on it.,,Pisotea hasta una casilla con carne.,Piétinement jusqu'à une case contenant de la viande.,"Trampel bis zu einem Feld, auf dem Fleisch liegt.",Effettui Calpestamento fino a una casella su cui è presente della carne.,Atropele até um espaço que possui carne.,践踏到有肉的格子上。
 ABILITY_HOGRUSH2_DESC,Trample over to a tile with meat on it and Cleave all units in your way.,,Pisotea hasta una casilla con carne e inflige Incisión a todas las unidades que encuentre por el camino.,Piétinement jusqu'à une case contenant de la viande en infligeant Fendoir aux unités sur votre passage.,"Trampel bis zu einem Feld, auf dem Fleisch liegt. Schlachte alle Einheiten in deinem Weg.",Effettui Calpestamento fino a una casella su cui è presente della carne infliggendo Fendente a tutte le unità che incontri.,Atropele até um espaço que possui carne e aplique cisão em unidades durante o caminho.,"践踏到有肉的格子上，
-并横扫路上的所有单位。"
+并切割路上的所有单位。"
 ABILITY_BURP_NAME,Burp,,Eructo,Rot,Aufstoßen,Rutto,Arroto,打嗝
 ABILITY_BURP_DESC,Inflict Rot on a unit and it moves away from you.,,"Inflige putrefacción a una unidad, que se aleja de esta.",Inflige Décomposition&nbsp;+1&nbsp;sur une unité et l'éloigne de vous.,Verursache Fäulnis bei einer Einheit. Die Einheit bewegt sich von dir weg.,Infliggi Putrefazione a un'unità e la costringi ad allontanarsi da te.,"Aplique apodrecimento em uma unidade, que então se afasta de você.","对一个单位施加腐烂，
 它会远离你移动。"
@@ -3031,7 +3031,7 @@ ABILITY_BURP2_DESC,Inflict Rot 2 and Poison 2 on a unit and it moves away from y
 
 它会远离你移动。"
 ABILITY_SELFHARM_NAME,Self Harm,,Autolesión,Automutilation,Selbstverletzung,Autolesionismo,Automutilação,自残
-ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用横扫攻击自己以获得 +2 [img:str]。
+ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用切割攻击自己以获得 +2 [img:str]。
 "
 ABILITY_SELFHARM2_DESC,Attack yourself at half damage with Cleave to gain +2 [img:str].,,Se autoataca con la mitad del daño de Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir (dégâts divisés par deux) pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str]. Dieser Angriff verursacht halben Schaden.,Attaccati infliggendo metà danno con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com metade do dano cisão para obter +2 de [img:str].,"使用横扫以一半伤害攻击自己以获得 +2 [img:str]。
 "
