@@ -792,14 +792,14 @@
     },
     {
         "original": "Random Injury",
-        "translation": "随机伤势",
+        "translation": "随机创伤",
         "type": "Status",
         "source_key": "KEYWORD_RANDOMINJURY_NAME",
         "notes": ""
     },
     {
         "original": "Cure Random Injury",
-        "translation": "治愈随机伤势",
+        "translation": "治愈随机创伤",
         "type": "Action",
         "source_key": "KEYWORD_HEALRANDOMINJURY_NAME",
         "notes": ""
@@ -1037,7 +1037,7 @@
     },
     {
         "original": "Injury Immunity",
-        "translation": "伤势免疫",
+        "translation": "创伤免疫",
         "type": "Status",
         "source_key": "KEYWORD_TEMPIMMUNE_NAME",
         "notes": ""
@@ -12562,7 +12562,7 @@
         "translation": "脑震荡",
         "type": "Status",
         "source_key": "PASSIVE_THICKSKULL_DESC",
-        "notes": "伤势名称"
+        "notes": "创伤名称"
     },
     {
         "original": "Most Valuable Cat",

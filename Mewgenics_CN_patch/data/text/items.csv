@@ -1553,7 +1553,7 @@ ITEM_D6_DESC,You can reroll your options when you level up.,,Se pueden cambiar a
 ITEM_DREAMCATCHER_NAME,Dream Catcher,,Atrapasueños,Attrape-rêves,Traumfänger,Acchiappasogni,Apanhador de Sonhos,捕梦网
 ITEM_DREAMCATCHER_DESC,"Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury.",,"Cuando esta unidad se queda dormida, obtiene aumento total, recupera todo el maná y se cura una lesión al azar.","Chaque fois que vous vous endormez&nbsp;: Hausse de stats, mana entièrement restauré, une blessure aléatoire est soignée.","Immer, wenn du einschläfst, erhältst du einen Bonus auf alle Attribute, stellst dein Mana vollständig wieder her und heilst eine zufällige Verletzung.","Ogni volta che ti addormenti, ottieni Aumento delle Statistiche, recuperi tutto il tuo mana e guarisci da una ferita casuale.","Sempre que você adormece, obtenha todos os atributos aumentados, restaure toda a sua mana e cure um ferimento aleatório.","每当你入睡时，
 获得全属性提升，恢复所有法力值，
-并治疗一处随机伤口。"
+并治疗一处随机创伤。"
 ITEM_DRUIDSWHISTLE_NAME,Druid's Whistle,,Silbato de druida,Sifflet du druide,Druidenpfeife,Fischietto del Druido,Apito de Druida,德鲁伊哨子
 ITEM_DRUIDSWHISTLE_DESC,"Use: Spawn a random animal familiar on an adjacent tile.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Genera un familiar animal al azar en una casilla adyacente.
@@ -2470,7 +2470,7 @@ ITEM_STEVENSCONSUMABLE2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂�
 ITEM_STEVENSCONSUMABLE2_DESC,Use: Spawn a controllable copy of yourself.,,Uso: Genera una copia controlable de esta unidad.,Utilisation&nbsp;: invoque un double de vous-même contrôlable.,Benutzen: Erstelle eine steuerbare Kopie deiner selbst.,Uso: Generi una tua copia controllabile.,Uso: gere uma cópia controlável de si.,"使用：生成一个可控制的复制体。
 "
 ITEM_SUPERBANDAGE_NAME,Super Bandage,,Supervendaje,Super pansement,Superbandage,Super Benda,Super Bandagem,超级绷带
-ITEM_SUPERBANDAGE_DESC,Use: Cure a random injury.,,Uso: Cura una lesión al azar.,Utilisation&nbsp;: soigne une blessure aléatoire.,Benutzen: Heile eine zufällige Verletzung.,Uso: Curi una ferita casuale.,Uso: cure um ferimento aleatório.,使用：治愈一个随机伤势。
+ITEM_SUPERBANDAGE_DESC,Use: Cure a random injury.,,Uso: Cura una lesión al azar.,Utilisation&nbsp;: soigne une blessure aléatoire.,Benutzen: Heile eine zufällige Verletzung.,Uso: Curi una ferita casuale.,Uso: cure um ferimento aleatório.,使用：治愈一个随机创伤。
 ITEM_TANKSEAL_NAME,Tank Seal,,Sello de tanque,Sceau du tank,Tanksiegel,Sigillo del Corazzato,Selo de Tanque,坦克印章
 ITEM_TANKSEAL_DESC,Use: Permanently turn into a Tank.,,Uso: Se transforma para siempre en tanque.,Utilisation&nbsp;: vous change en tank de façon permanente.,Benutzen: Werde dauerhaft zu einem Tank.,Uso: Ti trasformi permanentemente in un Corazzato.,Uso: torne-se um tanque permanentemente.,使用：永久变为坦克。
 ITEM_THIEFSEAL_NAME,Thief Seal,,Sello de ladrón,Sceau du fourbe,Diebessiegel,Sigillo del Ladro,Selo de Ladrão,盗贼印章
@@ -2851,7 +2851,7 @@ Você possui imunidade contra efeitos de espaço.","+1 荆棘。当你的回合�
 ARMOR_BROKENWINDOW_NAME,Broken Window,,Ventana rota,Fenêtre cassée,Zerbrochenes Fenster,Finestra Rotta,Janela Quebrada,破窗
 ARMOR_BROKENWINDOW_DESC,+3 Bleed Thorns. Bleed 1.,,+3 de espinas hemorrágicas. 1 de hemorragia.,Épines sanglantes +3. Saignement +1.,+3&nbsp;Blutige Dornen. Blutung&nbsp;1.,+3 Spine Insanguinate. Sanguinamento 1.,+3 de espinhos de sangramento. Sangramento 1.,+3 流血荆棘。1 层流血。
 ARMOR_BULLETPROOFVEST_NAME,Bulletproof Vest,,Chaleco antibalas,Gillet pare-balles,Schusssichere Weste,Giubbotto Antiproiettile,Colete à Prova de Balas,防弹背心
-ARMOR_BULLETPROOFVEST_DESC,Injury immunity.,,Otorga inmunidad a las lesiones.,Immunité aux blessures.,Immun gegen Verletzungen.,Immunità alle ferite.,Imunidade contra ferimentos.,免疫伤口。
+ARMOR_BULLETPROOFVEST_DESC,Injury immunity.,,Otorga inmunidad a las lesiones.,Immunité aux blessures.,Immun gegen Verletzungen.,Immunità alle ferite.,Imunidade contra ferimentos.,免疫创伤。
 ARMOR_CHEFSAPRON_NAME,Chef's Apron,,Delantal del chef,Tablier de chef,Schürze,Grembiule da Chef,Avental de Chef,厨师围裙
 ARMOR_CHEFSAPRON_DESC,"At the end of each turn, gain +1 [img:con] and spawn a random food pickup within 2 tiles.",,"Al final de cada turno, obtiene +1 [img:con] y genera un recogible de comida al azar en un radio de 2 casillas.","À la fin de chaque tour, [img:con] +1&nbsp;et de la nourriture aléatoire apparaît dans un rayon de 2&nbsp;cases.",Erhalte am Ende jedes Zuges +1&nbsp;[img:con] und lasse einen zufälligen Essensgegenstand innerhalb von 2&nbsp;Feldern erscheinen.,"Alla fine di ogni turno, ottieni +1 alla [img:con] e generi un raccoglibile Cibo casuale entro 2 caselle.","No final de cada turno, obtenha +1 de [img:con] e gere um coletável de comida aleatório dentro de 2 espaços de distância.","在每回合结束时，
 获得 +1 [img:con] 并在 2 格内
@@ -3238,7 +3238,7 @@ Deine Bewegungsaktion ist Sprung.","Non puoi subire ferite.
 Quando sei a terra, ti rianimi alla fine del round.
 La tua azione di movimento è Salto.","Você não pode sofrer ferimentos.
 Ao ficar inconsciente, reviva no final da rodada.
-Sua ação de movimento é um salto.","你不会受到伤势。
+Sua ação de movimento é um salto.","你不会受到创伤。
 当你[b]倒地[/b]时，在回合结束时复活。
 你的移动行动变为跳跃。"
 ARMOR_FLOWER_NAME,Flower,,Flor,Fleur,Blume,Fiore,Flor,花朵
