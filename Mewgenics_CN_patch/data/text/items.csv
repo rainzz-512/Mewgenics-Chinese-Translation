@@ -2822,7 +2822,7 @@ Você possui imunidade contra explosões.","你的爆炸效果大大增强！
 你拥有爆炸免疫。"
 ARMOR_STEVENHAT2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 ARMOR_STEVENHAT2_DESC,"Each time you cast a spell, gain +1 range and +1 reach until the end of the turn.",,"Cada vez que lanza un hechizo, esta unidad obtiene +1 de alcance y +1 de extensión hasta el final del turno.","Quand vous lancez un sort, vous confère Portée +1&nbsp;et Allonge +1&nbsp;jusqu'à la fin du tour.","Jedes Mal, wenn du einen Zauber wirkst, erhältst du +1&nbsp;Reichweite bis zum Ende des Zuges.","Ogni volta che lanci un incantesimo, ottieni +1 al raggio d'azione e +1 alla portata fino alla fine del turno.","A cada vez que você lança um encantamento, obtenha +1 de alcance e +1 de envergadura até o final do turno.","每次施放法术时，
-获得 +1 范围和 +1 触及，
+获得 +1 攻击范围和 +1 移动范围，
 直到本回合结束。"
 ARMOR_STEVENSHAT_NAME,Steven's Hat,,Sombrero de Steven,Chapeau de Steven,Stevens Hut,Cappello di Steven,Chapéu de Steven,史蒂文的帽子
 ARMOR_STEVENSHAT_DESC,Your spells cost 0. You can only cast each of your spells once per turn.,,Sus hechizos cuestan 0. Solo puede lanzar cada hechizo una vez por turno.,Vos sorts coûtent 0&nbsp;mana. Vous ne pouvez lancer qu'un sort de chaque type par tour.,Deine Zauber kosten 0&nbsp;Mana. Du kannst nur einen Zauber pro Zug wirken.,I tuoi incantesimi costano 0. Puoi lanciare ciascuno dei tuoi incantesimi solo una volta per turno.,Seus encantamentos custam 0. Só é possível lançar cada um de seus encantamentos uma vez por turno.,"你的法术消耗为0。
@@ -3394,7 +3394,7 @@ Inmunidad al veneno.","Portée +1, Allonge +1.
 Immunité au Poison.","+1&nbsp;Reichweite.
 Immun gegen Gift.","+1 al raggio d'azione, +1 alla portata.
 Immunità al Veleno.","+1 de alcance. +1 de envergadura.
-Imunidade contra veneno.","+1 射程，+1 触及范围。
+Imunidade contra veneno.","+1 射程，+1 移动范围。
 免疫中毒。"
 ARMOR_MINERSBEARD_NAME,Miner's Beard,,Barba de minero,Barbe de mineur,Zwergenbart,Barba del Minatore,Barba de Mineiro,矿工之须
 ARMOR_MINERSBEARD_DESC,"When you take damage, spawn scrap.

@@ -501,9 +501,9 @@ PASSIVE_TENDERIZE2_DESC,Your basic melee attacks inflict Bruise 1 and have a 15%
 
 并有 15% 机率造成1层眩晕。"
 PASSIVE_LONGARMS_NAME,Long Arms,,Brazos largos,Longues pattes,Lange Arme,Braccia Lunghe,Braços Longos,长臂
-PASSIVE_LONGARMS_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,"+1 射程和 +1 触及范围。
+PASSIVE_LONGARMS_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,"+1 射程和 +1 移动范围。
 "
-PASSIVE_LONGARMS2_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,"+1 射程和 +1 触及范围。
+PASSIVE_LONGARMS2_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,"+1 射程和 +1 移动范围。
 "
 PASSIVE_SPREADTHEPAIN_NAME,Spread the Pain,,Difusión del dolor,Douleur vive,Schmerz verbreiten,Dolore Diffuso,Dor Compartilhada,传递痛苦
 PASSIVE_SPREADTHEPAIN_DESC,Deal 2 extra damage the first time you damage each unit each turn.,,Inflige 2 de daño extra la primera vez que inflige daño a cada unidad en cada turno.,"Ajoute Dégâts&nbsp;+2&nbsp;à la première attaque portée à chaque unité, chaque tour.",Dein erster Schaden pro Zug ist um 2 erhöht.,Infliggi 2 di danno aggiuntivo la prima volta che infliggi danno a ogni unità in ciascun turno.,Cause 2 de dano adicional na primeira vez em que você causar dano com uma unidade a cada turno.,"每回合首次对每个单位造成伤害时，
