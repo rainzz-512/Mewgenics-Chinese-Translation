@@ -2753,7 +2753,7 @@ ABILITY_FORMOFTHETREE2_DESC,"Enter Tree Form, gaining -2 [img:int], +5 [img:shie
 此技能变为合成+。"
 ABILITY_TIMBER_NAME,Timber,,Leña,Poutrage,Baum fällt,Legno,Madeeeira,木击
 ABILITY_TIMBER_DESC,"Fall into an adjacent tile, dealing massive damage to units you displace.",,Cae sobre una casilla adyacente e inflige muchísimo daño a las unidades que desplaza.,"Tombe sur une case adjacente, infligeant des dégâts massifs aux unités déplacées.","Falle auf ein benachbartes Feld und verursache großen Schaden bei Einheiten, die du wegstößt.","Cadi in una casella adiacente, infliggendo un danno ingente alle unità che sposti.","Caia em um espaço adjacente, causando dano pesado a unidades que você deslocar.","坠落到相邻的格子，
-对你移动的单位造成巨大伤害。"
+被你移动的单位造成巨大伤害。"
 ABILITY_SYNTHESIZE_NAME,Synthesize,,Sintetizamiento,Photosynthèse,Synthese,Sintetizzazione,Sintetização,合成
 ABILITY_SYNTHESIZE_DESC,Heal 2 HP and gain Charge 2.,,Devuelve 2 PS y obtiene 2 de carga.,Soigne 2&nbsp;PV et confère Charge&nbsp;+2.,Heile 2&nbsp;LP und erhalte Ladung&nbsp;2.,Rigeneri 2 PS e ottieni Carica 2.,Cure 2 PV e obtenha carga 2.,"恢复 2 生命值并获得 2 充能。
 "
