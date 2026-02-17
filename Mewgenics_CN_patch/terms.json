@@ -232,7 +232,7 @@
     },
     {
         "original": "Cleave",
-        "translation": "顺劈",
+        "translation": "切割",
         "type": "Keyword",
         "source_key": "ARMOR_HOOKEDNECKLACE_DESC",
         "notes": "已翻译"
@@ -2052,7 +2052,7 @@
     },
     {
         "original": "Sprout",
-        "translation": "嫩芽",
+        "translation": "芽孢",
         "type": "Character",
         "source_key": "ENEMY_SPROUT_NAME",
         "notes": ""
@@ -10361,14 +10361,14 @@
     },
     {
         "original": "Wide Cleave",
-        "translation": "广域顺劈",
+        "translation": "广域切割",
         "type": "Skill",
         "source_key": "ABILITY_BUTCHERWIDE_NAME",
         "notes": ""
     },
     {
         "original": "Spin Cleave",
-        "translation": "旋转顺劈",
+        "translation": "旋转切割",
         "type": "Skill",
         "source_key": "ABILITY_BUTCHERSPIN_NAME",
         "notes": ""

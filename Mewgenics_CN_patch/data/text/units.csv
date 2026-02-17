@@ -606,9 +606,9 @@ Ottiene +1 al Raggio di Movimento per ogni Germoglio.
 Al termine del suo turno evoca un Germoglio.","Mata instantaneamente qualquer coisa que consiga alcançar.
 Possui +1 de alcance de movimento para cada broto.
 Invoca um broto no final de seu turno.","会秒杀任何它能够到的目标。
-每有一个嫩芽，移动力 +1。
-在回合结束时召唤一个嫩芽。"
-ENEMY_SPROUT_NAME,Sprout,,Verdugón,Pousse,Schössling,Germoglio,Broto,嫩芽
+每有一个芽孢，移动力 +1。
+在回合结束时召唤一个芽孢。"
+ENEMY_SPROUT_NAME,Sprout,,Verdugón,Pousse,Schössling,Germoglio,Broto,芽孢
 ENEMY_SPROUT_DESC,Possesses adjacent units on its turn.,,Posee a las unidades adyacentes durante su turno.,Prend possession des unités qui lui sont adjacentes durant son tour.,Ergreift in seinem Zug Besitz von benachbarten Einheiten.,Durante il suo turno possiede le unità adiacenti.,Possui unidades adjacentes em seu turno.,在它的回合附身相邻单位。
 ENEMY_GEOLAD_NAME,GeoLad,,Petráqueo,Racaillot,Steinklein,Geotipo,GeoCara,岩石小子
 ENEMY_GEOLAD_DESC,Performs a jump attack that damages and knocks back all units in an area.,,Lanza un ataque con salto que inflige daño a todas las unidades en un área y las hace retroceder.,Effectue une attaque sautée qui inflige des dégâts et repousse toutes les unités dans la zone.,"Führt einen Sprungangriff aus, der allen Einheiten in einem bestimmten Bereich Schaden zufügt und sie zurückstößt.",Esegue un attacco in salto che infligge danno e respinge tutte le unità all'interno di un'area.,Realiza um ataque de salto que causa dano e empurra para trás todas as unidades em uma área.,"执行跳跃攻击，
@@ -2254,7 +2254,7 @@ ENEMY_CHUPACAPBRA_DESC,More like chupa gato! Am I right?,"secret boss, gets flav
 ENEMY_HELLSPAWN_NAME,Hellspawn,,Engendro Infernal,Suppôt infernal,Höllenbrut,Creatura Infernale,Prole Infernal,地狱魔种
 ENEMY_HELLSPAWN_DESC,It has such sights to show you!,"secret boss, gets flavor text instead of descriptive text.",¡Tiene maravillas que mostrarte!,Il a tant de jouissances à vous faire découvrir&nbsp;!,Er hat dir so viele wundervolle Dinge zu zeigen!,Ha tante cose interessanti da mostrarti!,São tantas vistas bonitas para mostrar a você!,它有这般的景象要展示给你！
 ENEMY_PARAISARIA_NAME,Paraisaria,,Paraisaria,Paraisaria,Paraisaria,Paraisaria,Paraisaria,帕莱萨里亚
-ENEMY_PARAISARIA_DESC,Takes an extra turn for each Sprout.,,Juega un turno extra por cada verdugón.,Joue un tour bonus par pousse.,Erhält einen zusätzlichen Zug pro Schössling.,Effettua un turno aggiuntivo per ogni Germoglio.,Obtém um turno adicional para cada broto.,"每个嫩芽使它获得一个额外回合。
+ENEMY_PARAISARIA_DESC,Takes an extra turn for each Sprout.,,Juega un turno extra por cada verdugón.,Joue un tour bonus par pousse.,Erhält einen zusätzlichen Zug pro Schössling.,Effettua un turno aggiuntivo per ogni Germoglio.,Obtém um turno adicional para cada broto.,"每个芽孢使它获得一个额外回合。
 "
 ENEMY_FRODROCKSNOW_NAME,Frod Rocksnow,,Petrio Picarroca,Fred Pierrafroid,Frod Eisstein,Frod Rocksnow,Frod Rochaneve,弗罗德·洛克斯诺
 ENEMY_FRODROCKSNOW_DESC,"Has a wide melee attack with Knockback and a chance to stun.

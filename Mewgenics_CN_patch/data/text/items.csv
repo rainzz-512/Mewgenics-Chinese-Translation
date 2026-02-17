@@ -178,7 +178,7 @@ ITEM_BLOODYBUTTERFLYKNIFE_DESC,"Use: A multi-hit melee attack with Lifesteal tha
 [s:.7](每场战斗限用一次。)[/s]"
 ITEM_BLOODYMEATHOOK_NAME,Bloody Meat Hook,,Gancho sangriento para carne,Crochet de boucher ensanglanté,Blutiger Fleischhaken,Uncino da Carne Insanguinato,Gancho de Carne Ensanguentado,染血肉钩
 ITEM_BLOODYMEATHOOK_DESC,"Use: Pull a unit towards you, Cleaving and inflicting Bleed 1.",,"Uso: Atrae a una unidad, le practica una incisión y le inflige 1 de hemorragia.","Utilisation&nbsp;: attire une unité vers vous, effectue une attaque tranchante et inflige Saignement 1.",Benutzen: Zieh eine Einheit an dich heran und verursache Blutung&nbsp;1.,"Uso: Tiri un'unità verso di te, infliggendole Fendente e Sanguinamento 1.","Uso: puxe uma unidade na sua direção, causando cisão e aplicando sangramento 1.","使用：将一个单位拉向你，
-造成顺劈并施加 1 层流血。"
+造成切割并施加 1 层流血。"
 ITEM_BLOODYSOULCLAW_NAME,Bloody Soul Claw,,Garra de alma sangrienta,Griffe spirituelle ensanglantée,Blutige Seelenkralle,Artiglio dell'Anima Insanguinato,Garra de Alma Ensanguentada,染血灵魂爪
 ITEM_BLOODYSOULCLAW_DESC,"Use: A melee attack that deals damage equal to the number of uses this has left.
 When this weapon kills a unit, it gains +2 uses and you heal 5 HP.",,"Uso: Lanza un ataque cuerpo a cuerpo que inflige el mismo daño que usos queden.
@@ -281,7 +281,7 @@ Passivo: obtenha queimadura 1 e +2 de [img:spd] no início de cada turno.","使�
 被动：每回合开始时，
 获得 1 层燃烧和 +2 [img:spd]。"
 ITEM_BUTCHERSCLEAVER_NAME,Butcher's Cleaver,,Macheta de carnicero,Fendoir du barbare,Fleischermesser,Mannaia del Macellaio,Cutelo de Açougueiro,屠夫切肉刀
-ITEM_BUTCHERSCLEAVER_DESC,Use: A melee attack with Cleave that can hit diagonally.,,Uso: Lanza un ataque cuerpo a cuerpo con incisión que golpea en diagonal.,Utilisation&nbsp;: une attaque au corps-à-corps infligeant Fendoir pouvant toucher en diagonale.,"Benutzen: Ein Nahkampfangriff, der Schlachten und diagonal treffen kann.",Uso: Un attacco corpo a corpo con Fendente che può colpire in diagonale.,Uso: um ataque corpo-a-corpo com cisão que pode golpear diagonalmente.,"使用：具有顺劈的近战攻击，
+ITEM_BUTCHERSCLEAVER_DESC,Use: A melee attack with Cleave that can hit diagonally.,,Uso: Lanza un ataque cuerpo a cuerpo con incisión que golpea en diagonal.,Utilisation&nbsp;: une attaque au corps-à-corps infligeant Fendoir pouvant toucher en diagonale.,"Benutzen: Ein Nahkampfangriff, der Schlachten und diagonal treffen kann.",Uso: Un attacco corpo a corpo con Fendente che può colpire in diagonale.,Uso: um ataque corpo-a-corpo com cisão que pode golpear diagonalmente.,"使用：具有切割的近战攻击，
 可以攻击对角线方向。"
 ITEM_BUTTERFLYKNIFE_NAME,Butterfly Knife,,Navaja de abanico,Couteau papillon,Butterflymesser,Coltello a Farfalla,Faca Borboleta,蝴蝶刀
 ITEM_BUTTERFLYKNIFE_DESC,"Use: A multi-hit melee attack that inflicts Bleed.
@@ -315,7 +315,7 @@ Passiveffekt: +2 Dornen.","Uso: Un attacco corpo a corpo multi-colpo con il 25% 
 Abilità Passiva: +2 Spine.","Uso: um ataque corpo-a-corpo multigolpes com 25% de chance de causar cisão.
 [s:.7](Um uso por batalha.)[/s]
 Passivo: +2 de espinhos.","使用：多段击近战攻击，
-有 25% 几率造成顺劈。
+有 25% 几率造成切割。
 [s:.7](每场战斗限用一次。)[/s]
 被动：+2 荆棘。"
 ITEM_CHEESE_NAME,Cheese,,Queso,Fromage,Käse,Formaggio,Queijo,奶酪
@@ -555,7 +555,7 @@ Infliggi un Fendente e danno doppio alle unità con [img:shield].","Uso: um ataq
 Causa cisão e dano em dobro a unidades com [img:shield].","使用：
 造成等同于你 [img:str] 伤害并附带 2 格击退的
 近战攻击。
-顺劈并对拥有 [img:shield] 的单位造成双倍伤害。
+切割并对拥有 [img:shield] 的单位造成双倍伤害。
 "
 ITEM_HELLHOOK_NAME,Hell Hook,,Gancho infernal,Crochet infernal,Höllenhaken,Gancio Infernale,Gancho Infernal,地狱钩爪
 ITEM_HELLHOOK_DESC,Use: Pull a unit toward you.,,Uso: Atrae a una unidad.,Utilisation&nbsp;: attire une unité vers vous.,Benutzen: Zieh eine Einheit an dich heran.,Uso: Tiri un'unità verso di te.,Uso: puxe uma unidade na sua direção.,使用：将一个单位拉向你。
@@ -817,7 +817,7 @@ Bosse erleiden ein Sechstel ihrer aktuellen LP als Schaden.
 I boss, invece, subiscono come danno 1/6 dei loro PS attuali.
 [s:.7](Utilizzabile una volta per battaglia.)[/s]","Uso: um ataque corpo-a-corpo com cisão que causa dano equivalente à metade da saúde atual do alvo.
 Chefes sofrem 1/5 de sua saúde atual.
-[s:.7](Um uso por batalha.)[/s]","使用：带顺劈的近战攻击，
+[s:.7](Um uso por batalha.)[/s]","使用：带切割的近战攻击，
 造成等同于目标当前生命值一半的伤害。
 Boss 改为受到当前生命值 1/6 的
 伤害。
@@ -3644,7 +3644,7 @@ ARMOR_IRONJAW_DESC,Counterattack melee attackers with a bite that deals 3 damage
 造成 3 点伤害并附带生命偷取。
 "
 ARMOR_HOOKEDNECKLACE_NAME,Hooked Necklace,,Gargantilla ganchuda,Collier de crochets,Hakenhalskette,Collana Uncinata,Colar de Ganchos,钩爪项链
-ARMOR_HOOKEDNECKLACE_DESC,+2 Thorns. Cleave units that contact you.,,+2 de espinas. Hace una incisión a las unidades que entren en contacto con esta.,Épines +2. Inflige Fendoir aux unités qui vous touchent.,"+2&nbsp;Dornen. Schlachte Einheiten, die dich berühren.",+2 Spine. Infliggi Fendente alle unità che ti toccano.,+2 de espinhos. Cause cisão em unidades que entrarem em contato com você.,"+2 荆棘。顺劈接触你的单位。
+ARMOR_HOOKEDNECKLACE_DESC,+2 Thorns. Cleave units that contact you.,,+2 de espinas. Hace una incisión a las unidades que entren en contacto con esta.,Épines +2. Inflige Fendoir aux unités qui vous touchent.,"+2&nbsp;Dornen. Schlachte Einheiten, die dich berühren.",+2 Spine. Infliggi Fendente alle unità che ti toccano.,+2 de espinhos. Cause cisão em unidades que entrarem em contato com você.,"+2 荆棘。切割接触你的单位。
 "
 SETBONUS_BUTCHER_NAME,Butcher Set Bonus!,,¡Bonificación de conjunto de carnicero!,Bonus d'ensemble&nbsp;: barbare&nbsp;!,Setbonus: Schlachter!,Bonus Set: Macellaio!,Bônus de Conjunto de Açougueiro!,屠夫套装加成！
 SETBONUS_BUTCHER_DESC,Food and scrap pickups you spawn are bigger.,,Se generan recogibles de chatarra y de comida más grandes.,La nourriture et les morceaux de ferraille que vous faites apparaître sont plus gros.,"Essens- und Schrottgegenstände, die du erscheinen lässt, sind größer.",I raccoglibili Cibo e Rottami che generi sono più grandi.,Coletáveis de comida e sucata que você gera são maiores.,"你生成的食物和废料掉落物更大。

@@ -3034,16 +3034,16 @@ ABILITY_FROMTHETREES2_DESC,"Summon a random animal that falls from the sky onto 
 ABILITY_HOGRUSH_NAME,Hog Rush,,Embestida de cerdo,Charge de sanglier,Schweinischer Ansturm,Carica del Cinghiale,Corrida de Porcos,野猪冲锋
 ABILITY_HOGRUSH_DESC,Trample over to a tile with meat on it.,,Pisotea hasta una casilla con carne.,Piétinement jusqu'à une case contenant de la viande.,"Trampel bis zu einem Feld, auf dem Fleisch liegt.",Effettui Calpestamento fino a una casella su cui è presente della carne.,Atropele até um espaço que possui carne.,践踏冲向一个有肉的地块。
 ABILITY_HOGRUSH2_DESC,Trample over to a tile with meat on it and Cleave all units in your way.,,Pisotea hasta una casilla con carne e inflige Incisión a todas las unidades que encuentre por el camino.,Piétinement jusqu'à une case contenant de la viande en infligeant Fendoir aux unités sur votre passage.,"Trampel bis zu einem Feld, auf dem Fleisch liegt. Schlachte alle Einheiten in deinem Weg.",Effettui Calpestamento fino a una casella su cui è presente della carne infliggendo Fendente a tutte le unità che incontri.,Atropele até um espaço que possui carne e aplique cisão em unidades durante o caminho.,"践踏冲向一个有肉的地块，
-并顺劈沿途的所有单位。"
+并切割沿途的所有单位。"
 ABILITY_BURP_NAME,Burp,,Eructo,Rot,Aufstoßen,Rutto,Arroto,打嗝
 ABILITY_BURP_DESC,Inflict Rot on a unit and it moves away from you.,,"Inflige putrefacción a una unidad, que se aleja de esta.",Inflige Décomposition&nbsp;+1&nbsp;sur une unité et l'éloigne de vous.,Verursache Fäulnis bei einer Einheit. Die Einheit bewegt sich von dir weg.,Infliggi Putrefazione a un'unità e la costringi ad allontanarsi da te.,"Aplique apodrecimento em uma unidade, que então se afasta de você.","对一个单位施加腐烂，
 并使其远离你。"
 ABILITY_BURP2_DESC,Inflict Rot 2 and Poison 2 on a unit and it moves away from you.,,"Inflige 2 de putrefacción y 2 de veneno a una unidad, que se aleja de esta.",Inflige Décomposition&nbsp;+2&nbsp;et Poison&nbsp;+2&nbsp;sur une unité et l'éloigne de vous.,Verursache Fäulnis&nbsp;2 und Gift&nbsp;2 bei einer Einheit. Die Einheit bewegt sich von dir weg.,Infliggi Putrefazione 2 e Veleno 2 a un'unità e la costringi ad allontanarsi da te.,"Aplique apodrecimento 2 e veneno 2 em uma unidade, que então se afasta de você.","对一个单位施加 2 层腐烂和 2 层中毒，
 并使其远离你。"
 ABILITY_SELFHARM_NAME,Self Harm,,Autolesión,Automutilation,Selbstverletzung,Autolesionismo,Automutilação,自残
-ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用顺劈攻击自己，
+ABILITY_SELFHARM_DESC,Attack yourself with Cleave to gain +2 [img:str].,,Se autoataca con Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str].,Attaccati con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com cisão para obter +2 de [img:str].,"使用切割攻击自己，
 以获得 +2 [img:str]。"
-ABILITY_SELFHARM2_DESC,Attack yourself at half damage with Cleave to gain +2 [img:str].,,Se autoataca con la mitad del daño de Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir (dégâts divisés par deux) pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str]. Dieser Angriff verursacht halben Schaden.,Attaccati infliggendo metà danno con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com metade do dano cisão para obter +2 de [img:str].,"使用顺劈以减半的伤害攻击自己，
+ABILITY_SELFHARM2_DESC,Attack yourself at half damage with Cleave to gain +2 [img:str].,,Se autoataca con la mitad del daño de Incisión para obtener +2 [img:str].,Attaquez-vous avec Fendoir (dégâts divisés par deux) pour gagner [img:str]&nbsp;+2.,Greif dich selbst mit Schlachten an und erhalte +2&nbsp;[img:str]. Dieser Angriff verursacht halben Schaden.,Attaccati infliggendo metà danno con Fendente per ottenere +2 alla [img:str].,Realize um ataque contra si com metade do dano cisão para obter +2 de [img:str].,"使用切割以减半的伤害攻击自己，
 以获得 +2 [img:str]。"
 ABILITY_FORCEFEED_NAME,Force Feed,,Alimentación forzada,Gavage,Zwangsfütterung,Alimentazione Forzata,Alimentação Forçada,强行喂食
 ABILITY_FORCEFEED_DESC,Heal an adjacent unit and give that unit +1 [img:con] and -1 [img:spd].,,Cura a una unidad adyacente y le otorga +1 [img:con] y -1 [img:spd].,Soigne une unité adjacente et lui confère [img:con]&nbsp;+1&nbsp;et [img:spd]&nbsp;-1.,Heile eine benachbarte Einheit und verleihe ihr +1&nbsp;[img:con] und -1&nbsp;[img:spd].,Curi un'unità adiacente e le fornisci +1 alla [img:con] e -1 alla [img:spd].,Cure uma unidade adjacente e conceda a ela +1 de [img:con] e -1 de [img:spd].,"治疗一个相邻单位，
@@ -3167,10 +3167,10 @@ ABILITY_VURP2_DESC,"Vomit up the last consumable you ate this battle and equip i
 [s:.7](每回合限施放一次。)[/s]"
 ABILITY_SLICEANDDICE_NAME,Slice and Dice,,Corte en canal,Julienne,Zurechtstutzen,Affettamento,Fatiar e Picar,切碎
 ABILITY_SLICEANDDICE_DESC,"Dash forward one tile and do a spin attack with Cleave, then repeat twice more.",,"Se lanza hacia delante una casilla y realiza un ataque giratorio con Incisión. Luego, lo repite 2 veces más.",Vous foncez en avant sur 1&nbsp;case et effectuez une attaque tournoyante avec Fendoir. Vous recommencez 2&nbsp;fois.,Stürme ein Feld vorwärts und führe einen Wirbelangriff mit Schlachten aus. Wiederhole diese Aktion noch zweimal.,"Scatti in avanti di una casella ed esegui un attacco rotante con Fendente, poi il tutto si ripete altre due volte.","Dê um impulso de 1 espaço para a frente e realize um ataque giratório com cisão, e então repita isto mais duas vezes.","向前冲刺一格并进行
-带有顺劈效果的旋转攻击，
+带有切割效果的旋转攻击，
 然后重复两次。"
 ABILITY_SLICEANDDICE2_DESC,"Dash forward one tile and do a spin attack with Cleave, then repeat four more times.",,"Se lanza hacia delante una casilla y realiza un ataque giratorio con Incisión. Luego, lo repite 4 veces más.",Vous foncez en avant sur 1&nbsp;case et effectuez une attaque tournoyante avec Fendoir. Vous recommencez 4&nbsp;fois.,Stürme ein Feld vorwärts und führe einen Wirbelangriff mit Schlachten aus. Wiederhole diese Aktion noch viermal.,"Scatti in avanti di una casella ed esegui un attacco rotante con Fendente, poi il tutto si ripete altre quattro volte.","Dê um impulso de 1 espaço para a frente e realize um ataque giratório com cisão, e então repita isto mais quatro vezes.","向前冲刺一格并进行
-带有顺劈效果的旋转攻击，
+带有切割效果的旋转攻击，
 然后重复四次。"
 ABILITY_LUNCHTIME_NAME,Lunch Time,,Hora del almuerzo,Pause déj',Mittagspause,Ora di Pranzo,Hora do Almoço,午餐时间
 ABILITY_LUNCHTIME_DESC,Jump to a food pickup in range 4.,,Salta hasta cualquier recogible de comida en un alcance de 4 casillas.,Vous sautez sur de la nourriture dans un rayon de 4&nbsp;cases.,Spring zu einem Essensgegenstand innerhalb von 4&nbsp;Feldern.,Salti verso un raccoglibile cibo a raggio d'azione 4.,Pule para qualquer coletável de comida em alcance 4.,"跳跃至射程 4 内的
@@ -3204,11 +3204,11 @@ ABILITY_LIGHTENTHELOAD2_DESC,"Take 15 damage. You take an extra turn after this 
 [s:.7](此法术无法在额外回合中施放。)[/s]"
 ABILITY_CRUSHINATOR_NAME,Crushinator,,Demoléitor,Concassinator,Quetschinator,Distruttore,Esmagador do Futuro,粉碎机
 ABILITY_CRUSHINATOR_DESC,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 3 Knockback to units without Shield.,,Este hechizo solo inflige daño a escudo. Inflige Incisión y aturde a unidades con escudo. Inflige 3 de retroceso a las unidades sin escudo.,Ce sort n'affecte que la défense. Fendoir et inflige Étourdissement sur les unités dotées de défense. Inflige Recul&nbsp;+3&nbsp;aux unités sans défense.,Dieser Zauber kann nur Schilde beschädigen. Schlachte und betäube Einheiten mit Schild. Verursacht 3&nbsp;Rückstoß bei Einheiten ohne Schild.,Quest'incantesimo danneggia solo lo Scudo. Infligge Fendente e Stordimento alle unità con Scudo. Infligge 3 Contraccolpo alle unità senza Scudo.,Este encantamento causa dano apenas contra escudos. Aplique cisão e atordoamento em unidades com atordoamento. Cause 3 de empurrão a unidades com escudo.,"此法术仅伤害护盾。
-顺劈并晕眩带有护盾的单位。
+切割并晕眩带有护盾的单位。
 对没有护盾的单位
 造成 3 格击退。"
 ABILITY_CRUSHINATOR2_DESC,This spell only damages Shield. Cleave and inflict Stun on units with Shield. Deals 10 Knockback to units without Shield.,,Este hechizo solo inflige daño a escudo. Inflige Incisión y aturde a unidades con escudo. Inflige 10 de retroceso a las unidades sin escudo.,Ce sort n'affecte que la défense. Fendoir et inflige Étourdissement sur les unités dotées de défense. Inflige Recul&nbsp;+10&nbsp;aux unités sans défense.,Dieser Zauber kann nur Schilde beschädigen. Schlachte und betäube Einheiten mit Schild. Verursacht 10&nbsp;Rückstoß bei Einheiten ohne Schild.,Quest'incantesimo danneggia solo lo Scudo. Infligge Fendente e Stordimento alle unità con Scudo. Infligge10 Contraccolpo alle unità senza Scudo.,Este encantamento causa dano apenas contra escudos. Aplique cisão e atordoamento em unidades com atordoamento. Cause 10 de empurrão a unidades com escudo.,"此法术仅伤害护盾。
-顺劈并晕眩带有护盾的单位。
+切割并晕眩带有护盾的单位。
 对没有护盾的单位
 造成 10 格击退。"
 ABILITY_CANNONBALL_NAME,Cannon Ball!,,Bala de cañón,Boule de canon,Kanonenkugel!,Palla di Cannone!,Bola de Canhão!,炮弹！
@@ -6016,15 +6016,15 @@ ABILITY_MONKMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-
 ABILITY_MONKMELEE_DESC,Attack an adjacent unit.,,Ataca a una unidad adyacente.,Vous attaquez une unité adjacente.,Greif eine benachbarte Einheit an.,Attacchi un'unità adiacente.,Ataque uma unidade adjacente.,攻击一个相邻单位。
 ABILITY_MONKLOBBED_NAME,Lobbed Shot,,Tiro en arco,Tir en cloche,Lupfer,Tiro a Parabola,Tiro em Arco,抛射
 ABILITY_MONKLOBBED_DESC,Lob a shot over units and obstacles.,,Dispara un tiro en arco que sobrevuela unidades y obstáculos.,Vous tirez un projectile qui passe au-dessus des unités et des obstacles.,"Ein Angriff, der Einheiten und Hindernisse ignoriert.",Lanci una parabola sopra le unità e gli ostacoli.,Realize um disparo sobre unidades e obstáculos.,越过单位和障碍物进行的抛射。
-ABILITY_BUTCHERMELEE_NAME,Cleave,,Incisión,Fendoir,Schlachten,Fendente,Cisão,顺劈
+ABILITY_BUTCHERMELEE_NAME,Cleave,,Incisión,Fendoir,Schlachten,Fendente,Cisão,切割
 ABILITY_BUTCHERMELEE_DESC,Attack a unit adjacent or diagonally with Cleave.,,Ataca a una unidad adyacente o en diagonal con Incisión.,Vous attaquez une unité adjacente ou en diagonale avec Fendoir.,Greif eine benachbarte oder diagonal stehende Einheit mit Schlachten an.,Attacchi un'unità adiacente o in diagonale con Fendente.,Ataque uma unidade adjacente ou diagonalmente com cisão.,"攻击相邻或对角线上的单位，
-附带顺劈效果。"
-ABILITY_BUTCHERWIDE_NAME,Wide Cleave,,Incisión amplia,Large Fendoir,Weites Schlachten,Fendente Ampio,Cisão Ampla,广域顺劈
+附带切割效果。"
+ABILITY_BUTCHERWIDE_NAME,Wide Cleave,,Incisión amplia,Large Fendoir,Weites Schlachten,Fendente Ampio,Cisão Ampla,广域切割
 ABILITY_BUTCHERWIDE_DESC,Attack a wide area with Cleave.,,Ataca en un área amplia con Incisión.,Vous attaquez une vaste zone avec Fendoir.,Greif einen weiten Bereich mit Schlachten an.,Attacchi un'ampia area con Fendente.,Ataque uma área ampla com cisão.,"攻击大范围区域，
-附带顺劈效果。"
-ABILITY_BUTCHERSPIN_NAME,Spin Cleave,,Incisión con giro,Fendoir tourbillonnante,Wirbelschlachten,Fendente Rotante,Cisão de Giro,旋转顺劈
+附带切割效果。"
+ABILITY_BUTCHERSPIN_NAME,Spin Cleave,,Incisión con giro,Fendoir tourbillonnante,Wirbelschlachten,Fendente Rotante,Cisão de Giro,旋转切割
 ABILITY_BUTCHERSPIN_DESC,Attack everything around you with Cleave.,,Ataca a todo lo que rodea a la unidad con Incisión.,Vous attaquez tout ce qui vous entoure avec Fendoir.,Greif alles um dich herum mit Schlachten an.,Attacchi tutto ciò che ti circonda con Fendente.,Ataque tudo ao seu redor com cisão.,"攻击周围所有目标，
-附带顺劈效果。"
+附带切割效果。"
 ABILITY_DRUIDSING_NAME,Sing,,Canción,Chant,Singen,Canto,Canto,歌唱
 ABILITY_DRUIDSING_DESC,Heal and give +1 Temporary Damage to units in a wide area.,,Cura y otorga +1 de daño temporal a las unidades en un área amplia.,Vous soignez et octroyez Dégâts temporaires&nbsp;+1&nbsp;aux unités situés dans une vaste zone.,Heile Einheiten in einem weiten Bereich und verleihe ihnen +1&nbsp;vorübergehenden Schaden.,Curi e fornisci +1 al Danno Temporaneo alle unità in un'area ampia.,Cure e conceda +1 de dano temporário a unidades em uma área ampla.,"治疗大范围内的单位
 并给予 +1 临时伤害。"
@@ -6886,7 +6886,7 @@ ABILITY_CARRIONSHOT_DESC,"Deal 1 damage and inflict Leech 1.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 1 di danno e Sanguisuga 1.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 1 de dano e aplique sanguessuga 1.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成 1 点伤害并施加 1 层水蛭。
-[s:.7]此法术在你倒地时更强且可施放。
+[s:.7]此法术在你倒地时可施放且更强。
 [/s]"
 ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
 [s:.7]This spell is stronger and castable while you're downed.[/s]",,"Inflige 2 de daño y 2 de sanguijuela.
@@ -6894,7 +6894,7 @@ ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 2 di danno e Sanguisuga 2.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 2 de dano e aplique sanguessuga 2.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成 2 点伤害并施加 2 层水蛭。
-[s:.7]此法术在你倒地时更强且可施放。
+[s:.7]此法术在你倒地时可施放且更强。
 [/s]"
 ABILITY_LIFEDRAIN_NAME,Lifedrain,,Drenaje vital,Vol de vie,Leben absaugen,Drenaggio Vitale,Dreno de Vida,生命吸取
 ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
@@ -6903,7 +6903,7 @@ ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit 50&nbsp;% LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il 50% dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com 50% de saúde.[/s]","于近战范围吸取 2 点生命值。
-[s:.7]此法术在你倒地时更强且可施放。
+[s:.7]此法术在你倒地时可施放且更强。
 如果击杀单位，以 50% 生命值复活。
 [/s]"
 ABILITY_LIFEDRAIN2_DESC,"Drain 2 HP at melee range.
@@ -6912,7 +6912,7 @@ ABILITY_LIFEDRAIN2_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit max. LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il massimo dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com saúde completa.[/s]","于近战范围吸取 2 点生命值。
-[s:.7]此法术在你倒地时更强且可施放。
+[s:.7]此法术在你倒地时可施放且更强。
 如果击杀单位，以最大生命值复活。
 [/s]"
 ABILITY_COFFINFLOP_NAME,Coffin Flop,,Golpe de ataúd,Ouverture de cercueil,Sargklatscher,Bara Assassina,Caixão Virado,棺材重压

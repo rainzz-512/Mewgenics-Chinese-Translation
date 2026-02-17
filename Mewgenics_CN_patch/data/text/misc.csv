@@ -328,7 +328,7 @@ HOUSE_CAT_INFO_RIVAL_N,,,,,,,,
 HOUSE_CAT_INFO_AGE,Age {age},,Edad: {age},Âge&nbsp;: {age},Alter {age},Età: {age},Idade: {age},年龄 {age}
 HOUSE_CAT_INFO_HP,HP:,,PS:,PV&nbsp;:,LP:,PS:,PV:,HP:
 HOUSE_CAT_INFO_LEVEL,Lv.,,Nv.,Niv.,Lv.,Liv:,Nv.,Lv.
-HOUSE_CAT_INFO_OLD,old,,viejo,ans,alt,vecchio,,岁
+HOUSE_CAT_INFO_OLD,old,,viejo,ans,alt,vecchio,,年迈
 HOUSE_CAT_INFO_STR_NAME,[img:str]Strength,,[img:str] Fuerza,[img:str]Force,[img:str]Stärke,[img:str]Forza,[img:str]Força,[img:str]力量
 HOUSE_CAT_INFO_STR_DESC,Strength affects melee attack and melee ability damage.,,La fuerza afecta al daño de los ataques y las habilidades cuerpo a cuerpo.,La force affecte les dégâts des attaques et compétences au corps-à-corps.,Stärke wirkt sich auf den Schaden von Nahkampfangriffen und -fähigkeiten aus.,La forza influenza l'attacco corpo a corpo e il danno delle abilità corpo a corpo.,A força afeta o dano de ataques e habilidades corpo-a-corpo.,力量影响近战攻击和近战技能伤害。
 HOUSE_CAT_INFO_DEX_NAME,[img:dex]Dexterity,,[img:dex] Destreza,[img:dex]Dextérité,[img:dex]Geschicklichkeit,[img:dex]Destrezza,[img:dex]Destreza,[img:dex]灵巧
