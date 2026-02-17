@@ -477,7 +477,7 @@ KEYWORD_ENERGIZED_DESC,Takes an extra turn. Cannot be Energized again until afte
 "
 KEYWORD_ROT_NAME,Rot,,Putrefacción,Décomposition,Fäulnis,Putrefazione,Apodrecimento,腐烂
 KEYWORD_ROT_DESC,Hatches a Fly at the end of its turn. Damage from worms and bugs always crits against this.,,Genera una mosca al final del turno. Las lombrices y los bichos siempre le infligen daño crítico a esta unidad.,Invoque une mouche à la fin de son tour. Les dégâts qui lui sont infligés par les vers et les insectes sont toujours critiques.,Am Ende des Zuges schlüpft eine Fliege aus dieser Einheit. Schaden von Würmern und Insekten ist gegen diese Einheit immer kritisch.,Fa schiudere una Mosca alla fine del suo turno. Il danno da vermi e insetti è sempre critico contro questo bersaglio.,Gera uma mosca no final de seu turno. O dano de vermes e insetos são sempre críticos contra isto.,"在其回合结束时孵化一只苍蝇。
-虫子和甲虫的伤害对其总是暴击。
+蠕虫和虫子的伤害对其总是暴击。
 "
 KEYWORD_SAFEDOOMED_NAME,Doomed,,Condenación,Damnation,Todesurteil,Condanna,Perdição,被诅咒的
 KEYWORD_SAFEDOOMED_DESC,"Ticks down at the end of your turn. When it hits 0, Die (without being injured).",,"Se inicia una cuenta atrás al final del turno. Al llegar a 0, muere (sin sufrir lesiones).","Diminue à la fin de votre tour. À 0, meure (sans être blessé).","Zählt am Ende deines Zuges herunter. Stirb, wenn der Timer 0 erreicht (ohne eine Verletzung zu erleiden).","Il valore si riduce alla fine del tuo turno. Quando raggiunge lo 0, muori (senza subire ferite).","Diminui no final de seu turno. Ao chegar a 0, morra (sem sofrer ferimentos).","在你的回合结束时倒计时。
