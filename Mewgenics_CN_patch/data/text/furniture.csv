@@ -1,28 +1,28 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
-FURNITURE_RARE_FORMAT,Rare {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro),稀有 {furniturename}
-FURNITURE_NAME_POOP,Poop,,Caca,Crotte,Häufchen,Cacca,Cocô,粪便
+FURNITURE_RARE_FORMAT,Rare {furniturename},,{furniturename} inusual,{furniturename} rare,{furniturename} (Selten),{furniturename} (raro),{furniturename} (raro),稀有{furniturename}
+FURNITURE_NAME_POOP,Poop,,Caca,Crotte,Häufchen,Cacca,Cocô,便便
 FURNITURE_DESC_POOP,,,,,,,,
 FURNITURE_NAME_AUTOFEEDER,Autofeeder,"(cut, no need to localize)",Comedero automático,Autofeeder,,,,自动喂食器
-FURNITURE_DESC_AUTOFEEDER,This item got removed from the game and has no effect. Its a waste of space to keep in your house.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,此物品已从游戏中移除，无任何效果。放在家里只是占用空间。
+FURNITURE_DESC_AUTOFEEDER,This item got removed from the game and has no effect. Its a waste of space to keep in your house.,"(cut, no need to localize)","Este objeto ya no está en el juego, de modo que ocupa un espacio innecesario en la casa.",This item got removed from the game and has no effect. Its a waste of space to keep in your house.,,,,该物品已从游戏中移除，没有任何效果。放在家里只是浪费空间。
 FURNITURE_NAME_SPECIAL_FOODBOX,Food Storage Box,,Nevera de comida,Boîte de rangement de croquettes,Futterbox,Scatola per il cibo,Caixa de armazenamento de comida,食物储藏箱
 FURNITURE_DESC_SPECIAL_FOODBOX,+40 Max Food,,+40 de máximo de comida,Nourriture max.&nbsp;+40,+40&nbsp;max. Futter,+40 Cibo Massimo,+40 de comida máx.,+40 最大食物
-FURNITURE_NAME_SPECIAL_COMFORTIDOL,Idol of Comfort,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto,舒适偶像
+FURNITURE_NAME_SPECIAL_COMFORTIDOL,Idol of Comfort,,Ídolo de la comodidad,Idole de Bien-être,Idol des Komforts,Idolo del Comfort,Ídolo de conforto,舒适神像
 FURNITURE_DESC_SPECIAL_COMFORTIDOL,,,,,,,,
-FURNITURE_NAME_SPECIAL_APPEALIDOL,Idol of Appeal,,Ídolo del atractivo,Idole d'Attractivité,Idol der Anziehung,Idolo dell'Attrattiva,Ídolo de apelo,魅力偶像
+FURNITURE_NAME_SPECIAL_APPEALIDOL,Idol of Appeal,,Ídolo del atractivo,Idole d'Attractivité,Idol der Anziehung,Idolo dell'Attrattiva,Ídolo de apelo,吸引力神像
 FURNITURE_DESC_SPECIAL_APPEALIDOL,,,,,,,,
-FURNITURE_NAME_SPECIAL_HEALTHIDOL,Idol of Health,,Ídolo de la salud,Idole de Santé,Idol der Gesundheit,Idolo della Salute,Ídolo de saúde,健康偶像
+FURNITURE_NAME_SPECIAL_HEALTHIDOL,Idol of Health,,Ídolo de la salud,Idole de Santé,Idol der Gesundheit,Idolo della Salute,Ídolo de saúde,健康神像
 FURNITURE_DESC_SPECIAL_HEALTHIDOL,,,,,,,,
-FURNITURE_NAME_SPECIAL_EVOLUTIONIDOL,Idol of Evolution ,,Ídolo de la evolución ,Idole d'Évolution,Idol der Evolution ,Idolo dell'Evoluzione,Ídolo de evolução,进化偶像
+FURNITURE_NAME_SPECIAL_EVOLUTIONIDOL,Idol of Evolution ,,Ídolo de la evolución ,Idole d'Évolution,Idol der Evolution ,Idolo dell'Evoluzione,Ídolo de evolução,进化神像
 FURNITURE_DESC_SPECIAL_EVOLUTIONIDOL,,,,,,,,
-FURNITURE_NAME_SPECIAL_STIMULATIONIDOL,Idol of Stimulation ,,Ídolo de la estimulación ,Idole de Stimulation,Idol der Stimulation ,Idolo della Stimolazione,Ídolo de estimulação,刺激偶像
+FURNITURE_NAME_SPECIAL_STIMULATIONIDOL,Idol of Stimulation ,,Ídolo de la estimulación ,Idole de Stimulation,Idol der Stimulation ,Idolo della Stimolazione,Ídolo de estimulação,刺激神像
 FURNITURE_DESC_SPECIAL_STIMULATIONIDOL,,,,,,,,
-FURNITURE_NAME_SPECIAL_FIGHTIDOL,Idol of Chaos,,Ídolo del caos,Idole du Chaos,Idol des Chaos,Idolo del Caos,Ídolo de caos,混沌偶像
-FURNITURE_DESC_SPECIAL_FIGHTIDOL,Fights are deadlier but the winning cat gets double the stat rewards.,,"Los combates son más sangrientos, pero el gato ganador recibe el doble de recompensas de atributos.","Les combats sont plus sanguinaires, mais le chat vainqueur remporte le double des récompenses en stats.","Kämpfe sind tödlicher, aber Attributsbelohnungen sind verdoppelt.","I combattimenti sono più letali, ma il gatto vincitore ottiene il doppio delle ricompense alle statistiche.","Lutas são mais mortais, mas os gatos vencedores obtêm o dobro de recompensas de atributos.",战斗更致命，但获胜的猫获得双倍属性奖励。
-FURNITURE_NAME_SPECIAL_SUPPRESSORIDOL,Idol of Chastity,,Ídolo de la castidad,Idole de Chasteté,Idol der Keuschheit,Idolo della castità,Ídolo de castidade,贞洁偶像
+FURNITURE_NAME_SPECIAL_FIGHTIDOL,Idol of Chaos,,Ídolo del caos,Idole du Chaos,Idol des Chaos,Idolo del Caos,Ídolo de caos,混沌神像
+FURNITURE_DESC_SPECIAL_FIGHTIDOL,Fights are deadlier but the winning cat gets double the stat rewards.,,"Los combates son más sangrientos, pero el gato ganador recibe el doble de recompensas de atributos.","Les combats sont plus sanguinaires, mais le chat vainqueur remporte le double des récompenses en stats.","Kämpfe sind tödlicher, aber Attributsbelohnungen sind verdoppelt.","I combattimenti sono più letali, ma il gatto vincitore ottiene il doppio delle ricompense alle statistiche.","Lutas são mais mortais, mas os gatos vencedores obtêm o dobro de recompensas de atributos.",战斗更加致命，但获胜的猫咪将获得双倍的属性奖励。
+FURNITURE_NAME_SPECIAL_SUPPRESSORIDOL,Idol of Chastity,,Ídolo de la castidad,Idole de Chasteté,Idol der Keuschheit,Idolo della castità,Ídolo de castidade,贞洁神像
 FURNITURE_DESC_SPECIAL_SUPPRESSORIDOL,Cats will not breed.,,Los gatos no se aparean.,Les chats ne se reproduiront pas.,Katzen pflanzen sich nicht fort.,I gatti non si riproducono.,Gatos não procriam.,猫咪将不会繁殖。
 FURNITURE_NAME_SET_SPIDER_CANDELABRA,Spider Candelabra,,Candelabro arácnido,Candélabre araignée,Spinnenkronleuchter,Candelabro aracnide,Candelabro de aranha,蜘蛛烛台
 FURNITURE_DESC_SET_SPIDER_CANDELABRA,,,,,,,,
-FURNITURE_NAME_SET_SPIDER_VANITY,Spider Vanity,,Tocador arácnido,Coiffeuse araignée,Spinnenfrisiertisch,Toeletta aracnide,Penteadeira de aranha,蜘蛛化妆台
+FURNITURE_NAME_SET_SPIDER_VANITY,Spider Vanity,,Tocador arácnido,Coiffeuse araignée,Spinnenfrisiertisch,Toeletta aracnide,Penteadeira de aranha,蜘蛛梳妆台
 FURNITURE_DESC_SET_SPIDER_VANITY,,,,,,,,
 FURNITURE_NAME_SET_SPIDER_CHAIR,Spider Chair,,Silla arácnida,Chaise araignée,Spinnenstuhl,Sedia aracnide,Cadeira de aranha,蜘蛛椅
 FURNITURE_DESC_SET_SPIDER_CHAIR,,,,,,,,
@@ -32,83 +32,83 @@ FURNITURE_NAME_SET_SPIDER_DRESSER,Spider Dresser,,Aparador arácnido,Commode ara
 FURNITURE_DESC_SET_SPIDER_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_SPIDER_TV,Spider TV,,Tele arácnida,TV araignée,Spinnenfernseher,TV aracnide,TV de aranha,蜘蛛电视
 FURNITURE_DESC_SET_SPIDER_TV,,,,,,,,
-FURNITURE_NAME_SET_SPIDER_TOILET,Spider Toilet,,Retrete arácnido,Toilettes araignée,Spinnentoilette,WC aracnide,Privada de aranha,蜘蛛厕所
+FURNITURE_NAME_SET_SPIDER_TOILET,Spider Toilet,,Retrete arácnido,Toilettes araignée,Spinnentoilette,WC aracnide,Privada de aranha,蜘蛛马桶
 FURNITURE_DESC_SET_SPIDER_TOILET,,,,,,,,
-FURNITURE_NAME_SET_SPIDER_SHELF,Spider Shelf,,Estante arácnido,Étagère araignée,Spinnenregal,Mensola aracnide,Estante de aranha,蜘蛛架子
+FURNITURE_NAME_SET_SPIDER_SHELF,Spider Shelf,,Estante arácnido,Étagère araignée,Spinnenregal,Mensola aracnide,Estante de aranha,蜘蛛架
 FURNITURE_DESC_SET_SPIDER_SHELF,,,,,,,,
 FURNITURE_NAME_SET_SPIDER_BED,Spider Bed,,Cama arácnida,Lit araignée,Spinnenbett,Letto aracnide,Cama de aranha,蜘蛛床
 FURNITURE_DESC_SET_SPIDER_BED,,,,,,,,
 FURNITURE_NAME_SET_SPIDER_SIDETABLE,Spider Side Table,,Mesilla arácnida,Table d'appoint araignée,Spinnenbeistelltisch,Tavolino aracnide,Mesa lateral de aranha,蜘蛛边桌
 FURNITURE_DESC_SET_SPIDER_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_JUNK_SIDETABLE,Junk Side Table,,Mesilla de desechos,Table d'appoint au rabais,Müllbeistelltisch,Tavolino di ciarpame,Mesa lateral de lixo,废品边桌
+FURNITURE_NAME_SET_JUNK_SIDETABLE,Junk Side Table,,Mesilla de desechos,Table d'appoint au rabais,Müllbeistelltisch,Tavolino di ciarpame,Mesa lateral de lixo,垃圾边桌
 FURNITURE_DESC_SET_JUNK_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_JUNK_CHAIR,Junk Chair,,Silla de desechos,Chaise au rabais,Müllstuhl,Sedia di ciarpame,Cadeira de lixo,废品椅子
+FURNITURE_NAME_SET_JUNK_CHAIR,Junk Chair,,Silla de desechos,Chaise au rabais,Müllstuhl,Sedia di ciarpame,Cadeira de lixo,垃圾椅
 FURNITURE_DESC_SET_JUNK_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_JUNK_SHELF,Junk Shelf,,Estante de desechos,Étagère au rabais,Müllregal,Scaffale di ciarpame,Estante de lixo,废品架子
+FURNITURE_NAME_SET_JUNK_SHELF,Junk Shelf,,Estante de desechos,Étagère au rabais,Müllregal,Scaffale di ciarpame,Estante de lixo,垃圾架
 FURNITURE_DESC_SET_JUNK_SHELF,,,,,,,,
-FURNITURE_NAME_SET_JUNK_BED,Junk Bed,,Cama de desechos,Lit au rabais,Müllbett,Letto di ciarpame,Cama de lixo,废品床
+FURNITURE_NAME_SET_JUNK_BED,Junk Bed,,Cama de desechos,Lit au rabais,Müllbett,Letto di ciarpame,Cama de lixo,垃圾床
 FURNITURE_DESC_SET_JUNK_BED,,,,,,,,
-FURNITURE_NAME_SET_JUNK_CABINET,Junk Cabinet,,Vitrina de desechos,Placard au rabais,Müllschrank,Armadietto di ciarpame,Armário de lixo,废品柜子
+FURNITURE_NAME_SET_JUNK_CABINET,Junk Cabinet,,Vitrina de desechos,Placard au rabais,Müllschrank,Armadietto di ciarpame,Armário de lixo,垃圾柜
 FURNITURE_DESC_SET_JUNK_CABINET,,,,,,,,
-FURNITURE_NAME_SET_JUNK_TV,Junk TV,,Tele de desechos,TV au rabais,Müllfernseher,TV di ciarpame,TV de lixo,废品电视
+FURNITURE_NAME_SET_JUNK_TV,Junk TV,,Tele de desechos,TV au rabais,Müllfernseher,TV di ciarpame,TV de lixo,垃圾电视
 FURNITURE_DESC_SET_JUNK_TV,,,,,,,,
-FURNITURE_NAME_SET_JUNK_SUSPENDEDSHELF,Suspended Junk Shelf,,Estante de desechos colgado,Étagère suspendue au rabais,Müllhängeregal,Mensola sospesa di ciarpame,Prateleira de lixo,悬挂废品架子
+FURNITURE_NAME_SET_JUNK_SUSPENDEDSHELF,Suspended Junk Shelf,,Estante de desechos colgado,Étagère suspendue au rabais,Müllhängeregal,Mensola sospesa di ciarpame,Prateleira de lixo,悬挂式垃圾架
 FURNITURE_DESC_SET_JUNK_SUSPENDEDSHELF,,,,,,,,
-FURNITURE_NAME_SET_JUNK_LAMP,Junk Lamp,,Lámpara de desechos,Lampe au rabais,Mülllampe,Lampada di ciarpame,Luminária de lixo,废品灯
+FURNITURE_NAME_SET_JUNK_LAMP,Junk Lamp,,Lámpara de desechos,Lampe au rabais,Mülllampe,Lampada di ciarpame,Luminária de lixo,垃圾灯
 FURNITURE_DESC_SET_JUNK_LAMP,,,,,,,,
-FURNITURE_NAME_SET_JUNK_DRESSER,Junk Dresser,,Aparador de desechos,Commode au rabais,Müllkleiderschrank,Comò di ciarpame,Cômoda de lixo,废品衣柜
+FURNITURE_NAME_SET_JUNK_DRESSER,Junk Dresser,,Aparador de desechos,Commode au rabais,Müllkleiderschrank,Comò di ciarpame,Cômoda de lixo,垃圾衣柜
 FURNITURE_DESC_SET_JUNK_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_JUNK_TOILET,Junk Toilet,,Retrete de desechos,Toilettes au rabais,Mülltoilette,WC di ciarpame,Privada de lixo,废品厕所
+FURNITURE_NAME_SET_JUNK_TOILET,Junk Toilet,,Retrete de desechos,Toilettes au rabais,Mülltoilette,WC di ciarpame,Privada de lixo,垃圾马桶
 FURNITURE_DESC_SET_JUNK_TOILET,,,,,,,,
 FURNITURE_NAME_SET_SEWN_DRESSER,Sewn Dresser,,Aparador remendado,Commode cousue,Stoffkleiderschrank,Comò rammendato,Cômoda costurada,缝制衣柜
 FURNITURE_DESC_SET_SEWN_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_SEWN_SIDETABLE,Sewn Side Table,,Mesilla remendada,Table d'appoint cousue,Stoffbeistelltisch,Tavolino rammendato,Mesa lateral costurada,缝制边桌
 FURNITURE_DESC_SET_SEWN_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_SEWN_TABLE,Sewn Table,,Mesa remendada,Table cousue,Stofftisch,Tavolo rammendato,Mesa costurada,缝制桌子
+FURNITURE_NAME_SET_SEWN_TABLE,Sewn Table,,Mesa remendada,Table cousue,Stofftisch,Tavolo rammendato,Mesa costurada,缝制桌
 FURNITURE_DESC_SET_SEWN_TABLE,,,,,,,,
 FURNITURE_NAME_SET_SEWN_COUCH,Sewn Couch,,Sofá remendado,Canapé cousu,Stoffsofa,Divano rammendato,Sofá costurado,缝制沙发
 FURNITURE_DESC_SET_SEWN_COUCH,,,,,,,,
-FURNITURE_NAME_SET_SEWN_CHAIR,Sewn Chair,,Silla remendada,Chaise cousue,Stoffstuhl,Sedia rammendata,Cadeira costurada,缝制椅子
+FURNITURE_NAME_SET_SEWN_CHAIR,Sewn Chair,,Silla remendada,Chaise cousue,Stoffstuhl,Sedia rammendata,Cadeira costurada,缝制椅
 FURNITURE_DESC_SET_SEWN_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_SEWN_STOOL1,Sewn Stool A,,Taburete remendado A,Tabouret cousu A,Stoffhocker A,Sgabello rammendato A,Banqueta costurada A,缝制凳子 A
+FURNITURE_NAME_SET_SEWN_STOOL1,Sewn Stool A,,Taburete remendado A,Tabouret cousu A,Stoffhocker A,Sgabello rammendato A,Banqueta costurada A,缝制凳 A
 FURNITURE_DESC_SET_SEWN_STOOL1,,,,,,,,
 FURNITURE_NAME_SET_SEWN_TOILET,Sewn Toilet,,Retrete remendado,Toilettes cousues,Stofftoilette,WC rammendato,Privada costurada,缝制马桶
 FURNITURE_DESC_SET_SEWN_TOILET,,,,,,,,
 FURNITURE_NAME_SET_SEWN_TV,Sewn TV,,Tele remendada,TV cousue,Stofffernseher,TV rammendata,TV costurada,缝制电视
 FURNITURE_DESC_SET_SEWN_TV,,,,,,,,
-FURNITURE_NAME_SET_SEWN_DOLL,Sewn Doll,,Muñeca remendada,Poupée cousue,Stoffpuppe,Bambolotto rammendato,Boneca costurada,缝制洋娃娃
+FURNITURE_NAME_SET_SEWN_DOLL,Sewn Doll,,Muñeca remendada,Poupée cousue,Stoffpuppe,Bambolotto rammendato,Boneca costurada,缝制玩偶
 FURNITURE_DESC_SET_SEWN_DOLL,,,,,,,,
-FURNITURE_NAME_SET_SEWN_STOOL2,Sewn Stool B,,Taburete remendado B,Tabouret cousu B,Stoffhocker B,Sgabello rammendato B,Banqueta costurada B,缝制凳子 B
+FURNITURE_NAME_SET_SEWN_STOOL2,Sewn Stool B,,Taburete remendado B,Tabouret cousu B,Stoffhocker B,Sgabello rammendato B,Banqueta costurada B,缝制凳 B
 FURNITURE_DESC_SET_SEWN_STOOL2,,,,,,,,
-FURNITURE_NAME_SET_CAT_SHELF,Cat Shelf,,Estante gatuno,Étagère chat,Katzenregal,Scaffale a forma di gatto,Estante de gato,猫架
+FURNITURE_NAME_SET_CAT_SHELF,Cat Shelf,,Estante gatuno,Étagère chat,Katzenregal,Scaffale a forma di gatto,Estante de gato,猫咪架
 FURNITURE_DESC_SET_CAT_SHELF,,,,,,,,
-FURNITURE_NAME_SET_CAT_COUCH,Cat Couch,,Sofá gatuno,Canapé chat,Katzensofa,Divano a forma di gatto,Sofá de gato,猫沙发
+FURNITURE_NAME_SET_CAT_COUCH,Cat Couch,,Sofá gatuno,Canapé chat,Katzensofa,Divano a forma di gatto,Sofá de gato,猫咪沙发
 FURNITURE_DESC_SET_CAT_COUCH,,,,,,,,
-FURNITURE_NAME_SET_CAT_CHAIR,Cat Chair,,Silla gatuna,Chaise chat,Katzenstuhl,Sedia a forma di gatto,Cadeira de gato,猫椅子
+FURNITURE_NAME_SET_CAT_CHAIR,Cat Chair,,Silla gatuna,Chaise chat,Katzenstuhl,Sedia a forma di gatto,Cadeira de gato,猫咪椅
 FURNITURE_DESC_SET_CAT_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_CAT_BED,Cat Bed,,Cama gatuna,Lit chat,Katzenbett,Letto a forma di gatto,Cama de gato,猫窝
+FURNITURE_NAME_SET_CAT_BED,Cat Bed,,Cama gatuna,Lit chat,Katzenbett,Letto a forma di gatto,Cama de gato,猫咪床
 FURNITURE_DESC_SET_CAT_BED,,,,,,,,
-FURNITURE_NAME_SET_CAT_TABLE,Cat Table A,,Mesa gatuna A,Table&nbsp;chat A,Katzentisch A,Tavolo a forma di gatto A,Mesa de gato A,猫桌子 A
+FURNITURE_NAME_SET_CAT_TABLE,Cat Table A,,Mesa gatuna A,Table&nbsp;chat A,Katzentisch A,Tavolo a forma di gatto A,Mesa de gato A,猫咪桌 A
 FURNITURE_DESC_SET_CAT_TABLE,,,,,,,,
-FURNITURE_NAME_SET_CAT_TV,Cat TV,,Tele gatuna,TV chat,Katzenfernseher,TV a forma di gatto,TV de gato,猫电视
+FURNITURE_NAME_SET_CAT_TV,Cat TV,,Tele gatuna,TV chat,Katzenfernseher,TV a forma di gatto,TV de gato,猫咪电视
 FURNITURE_DESC_SET_CAT_TV,,,,,,,,
-FURNITURE_NAME_SET_CAT_BENCH,Cat Bench,,Banco gatuno,Banc chat,Katzenbank,Panca a forma di gatto,Banco de gato,猫长凳
+FURNITURE_NAME_SET_CAT_BENCH,Cat Bench,,Banco gatuno,Banc chat,Katzenbank,Panca a forma di gatto,Banco de gato,猫咪长椅
 FURNITURE_DESC_SET_CAT_BENCH,,,,,,,,
-FURNITURE_NAME_SET_CAT_DRESSER,Cat Dresser,,Aparador gatuno,Commode chat,Katzenkleiderschrank,Comò a forma di gatto,Cômoda de gato,猫衣柜
+FURNITURE_NAME_SET_CAT_DRESSER,Cat Dresser,,Aparador gatuno,Commode chat,Katzenkleiderschrank,Comò a forma di gatto,Cômoda de gato,猫咪衣柜
 FURNITURE_DESC_SET_CAT_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_CAT_SUSPENDED_SHELF,Suspended Cat Shelf,,Estante gatuno colgado,Étagère suspendue chat,Katzenhängeregal,Mensola sospesa a forma di gatto,Prateleira de gato,悬挂猫架
+FURNITURE_NAME_SET_CAT_SUSPENDED_SHELF,Suspended Cat Shelf,,Estante gatuno colgado,Étagère suspendue chat,Katzenhängeregal,Mensola sospesa a forma di gatto,Prateleira de gato,悬挂式猫咪架
 FURNITURE_DESC_SET_CAT_SUSPENDED_SHELF,,,,,,,,
-FURNITURE_NAME_SET_CAT_TABLE2,Cat Table B,,Mesa gatuna B,Table&nbsp;B chat,Katzentisch B,Tavolo a forma di gatto B,Mesa de gato B,猫桌子 B
+FURNITURE_NAME_SET_CAT_TABLE2,Cat Table B,,Mesa gatuna B,Table&nbsp;B chat,Katzentisch B,Tavolo a forma di gatto B,Mesa de gato B,猫咪桌 B
 FURNITURE_DESC_SET_CAT_TABLE2,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_SHELF,Wooden Shelf A,,Estante de madera A,Étagère en bois A,Holzregal A,Scaffale di legno A,Estante de madeira A,木架 A
+FURNITURE_NAME_SET_WOODEN_SHELF,Wooden Shelf A,,Estante de madera A,Étagère en bois A,Holzregal A,Scaffale di legno A,Estante de madeira A,木制架 A
 FURNITURE_DESC_SET_WOODEN_SHELF,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_DRESSER,Wooden Dresser,,Aparador de madera A,Commode en bois,Holzkleiderschrank,Comò di legno,Cômoda de madeira,木衣柜
+FURNITURE_NAME_SET_WOODEN_DRESSER,Wooden Dresser,,Aparador de madera A,Commode en bois,Holzkleiderschrank,Comò di legno,Cômoda de madeira,木制衣柜
 FURNITURE_DESC_SET_WOODEN_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_CHAIR,Wooden Chair,,Silla de madera,Chaise en bois,Holzstuhl,Sedia di legno,Cadeira de madeira,木椅子
+FURNITURE_NAME_SET_WOODEN_CHAIR,Wooden Chair,,Silla de madera,Chaise en bois,Holzstuhl,Sedia di legno,Cadeira de madeira,木制椅
 FURNITURE_DESC_SET_WOODEN_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_TOILET,Wooden Toilet,,Retrete de madera,Toilettes en bois,Holztoilette,WC di legno,Privada de madeira,木马桶
+FURNITURE_NAME_SET_WOODEN_TOILET,Wooden Toilet,,Retrete de madera,Toilettes en bois,Holztoilette,WC di legno,Privada de madeira,木制马桶
 FURNITURE_DESC_SET_WOODEN_TOILET,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_TABLE,Wooden Table,,Mesa de madera,Table en bois,Holztisch,Tavolo di legno,Mesa de madeira,木桌子
+FURNITURE_NAME_SET_WOODEN_TABLE,Wooden Table,,Mesa de madera,Table en bois,Holztisch,Tavolo di legno,Mesa de madeira,木制桌
 FURNITURE_DESC_SET_WOODEN_TABLE,,,,,,,,
 FURNITURE_NAME_SET_WOODEN_SINK,Wooden Sink,,Lavabo de madera,Évier en bois,Holzwaschbecken,Lavandino di legno,Pia de madeira,木制水槽
 FURNITURE_DESC_SET_WOODEN_SINK,,,,,,,,
@@ -116,73 +116,73 @@ FURNITURE_NAME_SET_WOODEN_LAMP,Wooden Lamp,,Lámpara de madera,Lampe en bois,Hol
 FURNITURE_DESC_SET_WOODEN_LAMP,,,,,,,,
 FURNITURE_NAME_SET_WOODEN_TV,Wooden TV,,Tele de madera,TV en bois,Holzfernseher,TV di legno,TV de madeira,木制电视
 FURNITURE_DESC_SET_WOODEN_TV,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_SUSPENDEDSHELF,Suspended Wooden Shelf,,Estante de madera colgado,Étagère suspendue en bois,Holzhängeregal,Mensola sospesa di legno,Prateleira de madeira,悬挂木制搁板
+FURNITURE_NAME_SET_WOODEN_SUSPENDEDSHELF,Suspended Wooden Shelf,,Estante de madera colgado,Étagère suspendue en bois,Holzhängeregal,Mensola sospesa di legno,Prateleira de madeira,悬挂式木制架
 FURNITURE_DESC_SET_WOODEN_SUSPENDEDSHELF,,,,,,,,
-FURNITURE_NAME_SET_WOODEN_SHELF2,Wooden Shelf B,,Estante de madera B,Étagère en bois B,Holzregal B,Mensola di legno B,Estante de madeira B,木制搁板 B
+FURNITURE_NAME_SET_WOODEN_SHELF2,Wooden Shelf B,,Estante de madera B,Étagère en bois B,Holzregal B,Mensola di legno B,Estante de madeira B,木制架 B
 FURNITURE_DESC_SET_WOODEN_SHELF2,,,,,,,,
 FURNITURE_NAME_SET_SEWER_SINK,Sewer Sink,,Lavabo de alcantarilla,Évier d'égout,Abwasserwaschbecken,Lavandino di fogna,Pia de esgoto,下水道水槽
 FURNITURE_DESC_SET_SEWER_SINK,,,,,,,,
-FURNITURE_NAME_SET_SEWER_SHELF,Sewer Shelf,,Estante de alcantarilla,Étagère d'égout,Abwasserregal,Scaffale di fogna,Estante de esgoto,下水道搁板
+FURNITURE_NAME_SET_SEWER_SHELF,Sewer Shelf,,Estante de alcantarilla,Étagère d'égout,Abwasserregal,Scaffale di fogna,Estante de esgoto,下水道架
 FURNITURE_DESC_SET_SEWER_SHELF,,,,,,,,
-FURNITURE_NAME_SET_SEWER_TABLE,Sewer Table,,Mesa de alcantarilla,Table d'égout,Abwassertisch,Tavolo di fogna,Mesa de esgoto,下水道桌子
+FURNITURE_NAME_SET_SEWER_TABLE,Sewer Table,,Mesa de alcantarilla,Table d'égout,Abwassertisch,Tavolo di fogna,Mesa de esgoto,下水道桌
 FURNITURE_DESC_SET_SEWER_TABLE,,,,,,,,
-FURNITURE_NAME_SET_SEWER_DRESSER,Sewer Dresser,,Aparador de alcantarilla,Commode d'égout,Abwasserkleiderschrank,Comò di fogna,Cômoda de esgoto,下水道梳妆台
+FURNITURE_NAME_SET_SEWER_DRESSER,Sewer Dresser,,Aparador de alcantarilla,Commode d'égout,Abwasserkleiderschrank,Comò di fogna,Cômoda de esgoto,下水道衣柜
 FURNITURE_DESC_SET_SEWER_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_SEWER_CHAIR,Sewer Chair,,Silla de alcantarilla,Chaise d'égout,Abwasserstuhl,Sedia di fogna,Cadeira de esgoto,下水道椅子
+FURNITURE_NAME_SET_SEWER_CHAIR,Sewer Chair,,Silla de alcantarilla,Chaise d'égout,Abwasserstuhl,Sedia di fogna,Cadeira de esgoto,下水道椅
 FURNITURE_DESC_SET_SEWER_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_SEWER_SUSPENDEDSHELF,Suspended Sewer Shelf,,Estante de alcantarilla colgado,Étagère suspendue d'égout,Abwasserhängeregal,Mensola sospesa di fogna,Prateleira de esgoto,悬挂下水道搁板
+FURNITURE_NAME_SET_SEWER_SUSPENDEDSHELF,Suspended Sewer Shelf,,Estante de alcantarilla colgado,Étagère suspendue d'égout,Abwasserhängeregal,Mensola sospesa di fogna,Prateleira de esgoto,悬挂式下水道架
 FURNITURE_DESC_SET_SEWER_SUSPENDEDSHELF,,,,,,,,
 FURNITURE_NAME_SET_SEWER_TV,Sewer TV,,Tele de alcantarilla,TV d'égout,Abwasserfernseher,TV di fogna,TV de esgoto,下水道电视
 FURNITURE_DESC_SET_SEWER_TV,,,,,,,,
-FURNITURE_NAME_SET_SEWER_SMALL_TABLE,Sewer Small Table,,Mesita de alcantarilla,Petite table d'égout,Kleiner Abwassertisch,Tavolino di fogna,Mesa pequena de esgoto,下水道小桌子
+FURNITURE_NAME_SET_SEWER_SMALL_TABLE,Sewer Small Table,,Mesita de alcantarilla,Petite table d'égout,Kleiner Abwassertisch,Tavolino di fogna,Mesa pequena de esgoto,下水道小桌
 FURNITURE_DESC_SET_SEWER_SMALL_TABLE,,,,,,,,
-FURNITURE_NAME_SET_SEWER_STOOL,Sewer Stool,,Taburete de alcantarilla,Tabouret d'égout,Abwasserhocker,Sgabello di fogna,Banqueta de esgoto,下水道凳子
+FURNITURE_NAME_SET_SEWER_STOOL,Sewer Stool,,Taburete de alcantarilla,Tabouret d'égout,Abwasserhocker,Sgabello di fogna,Banqueta de esgoto,下水道凳
 FURNITURE_DESC_SET_SEWER_STOOL,,,,,,,,
 FURNITURE_NAME_SET_SEWER_LAMP,Sewer Lamp,,Lámpara de alcantarilla,Lampe d'égout,Abwasserlampe,Lampada di fogna,Luminária de esgoto,下水道灯
 FURNITURE_DESC_SET_SEWER_LAMP,,,,,,,,
-FURNITURE_NAME_SET_BONE_SHELF,Bone Shelf,,Estante de huesos,Étagère en os,Knochenregal,Mensola d'osso,Estante de osso,骨制搁板
+FURNITURE_NAME_SET_BONE_SHELF,Bone Shelf,,Estante de huesos,Étagère en os,Knochenregal,Mensola d'osso,Estante de osso,白骨架
 FURNITURE_DESC_SET_BONE_SHELF,,,,,,,,
-FURNITURE_NAME_SET_BONE_SINK,Bone Sink,,Lavabo de huesos,Évier en os,Knochenwaschbecken,Lavandino d'osso,Pia de osso,骨制水槽
+FURNITURE_NAME_SET_BONE_SINK,Bone Sink,,Lavabo de huesos,Évier en os,Knochenwaschbecken,Lavandino d'osso,Pia de osso,白骨水槽
 FURNITURE_DESC_SET_BONE_SINK,,,,,,,,
-FURNITURE_NAME_SET_BONE_SIDETABLE,Bone Side Table,,Mesilla de huesos,Table d'appoint en os,Knochenbeistelltisch,Tavolino d'osso,Mesa lateral de osso,骨制边桌
+FURNITURE_NAME_SET_BONE_SIDETABLE,Bone Side Table,,Mesilla de huesos,Table d'appoint en os,Knochenbeistelltisch,Tavolino d'osso,Mesa lateral de osso,白骨边桌
 FURNITURE_DESC_SET_BONE_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_BONE_TABLE,Bone Table,,Mesa de huesos,Table en os,Knochentisch,Tavolo d'osso,Mesa de osso,骨制桌子
+FURNITURE_NAME_SET_BONE_TABLE,Bone Table,,Mesa de huesos,Table en os,Knochentisch,Tavolo d'osso,Mesa de osso,白骨桌
 FURNITURE_DESC_SET_BONE_TABLE,,,,,,,,
-FURNITURE_NAME_SET_BONE_COUCH,Bone Couch,,Sofá de huesos,Canapé en os,Knochensofa,Divano d'osso,Sofá de osso,骨制长沙发
+FURNITURE_NAME_SET_BONE_COUCH,Bone Couch,,Sofá de huesos,Canapé en os,Knochensofa,Divano d'osso,Sofá de osso,白骨沙发
 FURNITURE_DESC_SET_BONE_COUCH,,,,,,,,
-FURNITURE_NAME_SET_BONE_TV,Bone TV,,Tele de huesos,TV en os,Knochenfernseher,TV d'osso,TV de osso,骨头电视
+FURNITURE_NAME_SET_BONE_TV,Bone TV,,Tele de huesos,TV en os,Knochenfernseher,TV d'osso,TV de osso,白骨电视
 FURNITURE_DESC_SET_BONE_TV,,,,,,,,
-FURNITURE_NAME_SET_BONE_CHANDELIER,Bone Chandelier,,Araña de huesos,Chandelier en os,Knochenkronleuchter,Lampadario d'osso,Lustre de osso,骨头吊灯
+FURNITURE_NAME_SET_BONE_CHANDELIER,Bone Chandelier,,Araña de huesos,Chandelier en os,Knochenkronleuchter,Lampadario d'osso,Lustre de osso,白骨吊灯
 FURNITURE_DESC_SET_BONE_CHANDELIER,,,,,,,,
-FURNITURE_NAME_SET_BONE_LAMP,Bone Lamp,,Lámpara de huesos,Lampe en os,Knochenlampe,Lampada d'osso,Luminária de osso,骨头灯
+FURNITURE_NAME_SET_BONE_LAMP,Bone Lamp,,Lámpara de huesos,Lampe en os,Knochenlampe,Lampada d'osso,Luminária de osso,白骨灯
 FURNITURE_DESC_SET_BONE_LAMP,,,,,,,,
-FURNITURE_NAME_SET_BONE_CHAIR,Bone Chair,,Silla de huesos,Chaise en os,Knochenstuhl,Sedia d'osso,Cadeira de osso,骨头椅子
+FURNITURE_NAME_SET_BONE_CHAIR,Bone Chair,,Silla de huesos,Chaise en os,Knochenstuhl,Sedia d'osso,Cadeira de osso,白骨椅
 FURNITURE_DESC_SET_BONE_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_BONE_PILE,Bone Pile,,Pila de huesos,Pile d'os,Knochenhaufen,Pila d'osso,Pilha de ossos,骨堆
+FURNITURE_NAME_SET_BONE_PILE,Bone Pile,,Pila de huesos,Pile d'os,Knochenhaufen,Pila d'osso,Pilha de ossos,白骨堆
 FURNITURE_DESC_SET_BONE_PILE,,,,,,,,
-FURNITURE_NAME_SET_ROBO_SHELF,Robo Shelf,,Estante robótico,Étagère robo,Roboregal,Robo-scaffale,Estante robô,机器人书架
+FURNITURE_NAME_SET_ROBO_SHELF,Robo Shelf,,Estante robótico,Étagère robo,Roboregal,Robo-scaffale,Estante robô,机器架
 FURNITURE_DESC_SET_ROBO_SHELF,,,,,,,,
-FURNITURE_NAME_SET_ROBO_SINK,Robo Sink,,Lavabo robótico,Évier robo,Robowaschbecken,Robo-lavandino,Pia robô,机器人水槽
+FURNITURE_NAME_SET_ROBO_SINK,Robo Sink,,Lavabo robótico,Évier robo,Robowaschbecken,Robo-lavandino,Pia robô,机器水槽
 FURNITURE_DESC_SET_ROBO_SINK,,,,,,,,
-FURNITURE_NAME_SET_ROBO_DESK,Robo Desk,,Escritorio robótico,Bureau robo,Roboschreibtisch,Robo-scrivania,Escrivaninha robô,机器人书桌
+FURNITURE_NAME_SET_ROBO_DESK,Robo Desk,,Escritorio robótico,Bureau robo,Roboschreibtisch,Robo-scrivania,Escrivaninha robô,机器书桌
 FURNITURE_DESC_SET_ROBO_DESK,,,,,,,,
-FURNITURE_NAME_SET_ROBO_TABLE,Robo Table,,Mesa robótica,Table robo,Robotisch,Robo-tavolo,Mesa robô,机器人桌子
+FURNITURE_NAME_SET_ROBO_TABLE,Robo Table,,Mesa robótica,Table robo,Robotisch,Robo-tavolo,Mesa robô,机器桌
 FURNITURE_DESC_SET_ROBO_TABLE,,,,,,,,
-FURNITURE_NAME_SET_ROBO_DRESSER,Robo Dresser,,Aparador robótico,Commande robo,Robokleiderschrank,Robo-comò,Cômoda robô,机器人梳妆台
+FURNITURE_NAME_SET_ROBO_DRESSER,Robo Dresser,,Aparador robótico,Commande robo,Robokleiderschrank,Robo-comò,Cômoda robô,机器衣柜
 FURNITURE_DESC_SET_ROBO_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_ROBO_TV,Robo TV,,Tele robótica,TV robo,Robofernseher,Robo-TV,TV robô,机器人电视
+FURNITURE_NAME_SET_ROBO_TV,Robo TV,,Tele robótica,TV robo,Robofernseher,Robo-TV,TV robô,机器电视
 FURNITURE_DESC_SET_ROBO_TV,,,,,,,,
-FURNITURE_NAME_SET_ROBO_ROBOBODY,Robo Body,,Cuerpo robótico,Corps robo,Robokörper,Robo-corpo,Corpo de robô,机器人躯干
+FURNITURE_NAME_SET_ROBO_ROBOBODY,Robo Body,,Cuerpo robótico,Corps robo,Robokörper,Robo-corpo,Corpo de robô,机器身躯
 FURNITURE_DESC_SET_ROBO_ROBOBODY,,,,,,,,
-FURNITURE_NAME_SET_ROBO_ROBOCHEST,Robo Chest,,Pecho robótico,Coffre robo,Robooberkörper,Robo-torace,Torso de robô,机器人箱子
+FURNITURE_NAME_SET_ROBO_ROBOCHEST,Robo Chest,,Pecho robótico,Coffre robo,Robooberkörper,Robo-torace,Torso de robô,机器箱
 FURNITURE_DESC_SET_ROBO_ROBOCHEST,,,,,,,,
-FURNITURE_NAME_SET_ROBO_ROBOARMS,Robo Arms,,Brazos robóticos,Bras robo,Roboarme,Robo-braccia,Braços de robô,机器人手臂
+FURNITURE_NAME_SET_ROBO_ROBOARMS,Robo Arms,,Brazos robóticos,Bras robo,Roboarme,Robo-braccia,Braços de robô,机器手臂
 FURNITURE_DESC_SET_ROBO_ROBOARMS,,,,,,,,
-FURNITURE_NAME_SET_ROBO_HEAD,Robo Head,,Cabeza robótica,Tête robo,Robokopf,Robo-testa,Cabeça de robô,机器人头部
+FURNITURE_NAME_SET_ROBO_HEAD,Robo Head,,Cabeza robótica,Tête robo,Robokopf,Robo-testa,Cabeça de robô,机器头颅
 FURNITURE_DESC_SET_ROBO_HEAD,,,,,,,,
-FURNITURE_NAME_SET_GUTS_SHELF,Guts Shelf,,Estante visceral,Étagère entrailles,Eingeweideregal,Mensola di viscere,Estante de tripas,内脏书架
+FURNITURE_NAME_SET_GUTS_SHELF,Guts Shelf,,Estante visceral,Étagère entrailles,Eingeweideregal,Mensola di viscere,Estante de tripas,内脏架
 FURNITURE_DESC_SET_GUTS_SHELF,,,,,,,,
-FURNITURE_NAME_SET_GUTS_TABLE,Guts Table,,Mesa visceral,Table entrailles,Eingeweidetisch,Tavolo di viscere,Mesa de tripas,内脏桌子
+FURNITURE_NAME_SET_GUTS_TABLE,Guts Table,,Mesa visceral,Table entrailles,Eingeweidetisch,Tavolo di viscere,Mesa de tripas,内脏桌
 FURNITURE_DESC_SET_GUTS_TABLE,,,,,,,,
 FURNITURE_NAME_SET_GUTS_SIDETABLE,Guts Side Table A,,Mesilla visceral A,Table d'appoint entrailles A,Eingeweidebeistelltisch A,Tavolino di viscere A,Mesa lateral de tripas A,内脏边桌 A
 FURNITURE_DESC_SET_GUTS_SIDETABLE,,,,,,,,
@@ -190,71 +190,71 @@ FURNITURE_NAME_SET_GUTS_SINK,Guts Sink,,Lavabo visceral,Évier entrailles,Eingew
 FURNITURE_DESC_SET_GUTS_SINK,,,,,,,,
 FURNITURE_NAME_SET_GUTS_SIDETABLE2,Guts Side Table B,,Mesilla visceral B,Table d'appoint entrailles B,Eingeweidebeistelltisch B,Tavolino di viscere B,Mesa lateral de tripas B,内脏边桌 B
 FURNITURE_DESC_SET_GUTS_SIDETABLE2,,,,,,,,
-FURNITURE_NAME_SET_GUTS_TOILET,Guts Toilet,,Retrete visceral,Toilettes entrailles,Eingeweidetoilette,WC di viscere,Privada de tripas,内脏厕所
+FURNITURE_NAME_SET_GUTS_TOILET,Guts Toilet,,Retrete visceral,Toilettes entrailles,Eingeweidetoilette,WC di viscere,Privada de tripas,内脏马桶
 FURNITURE_DESC_SET_GUTS_TOILET,,,,,,,,
 FURNITURE_NAME_SET_GUTS_LAMP,Guts Lamp A,,Lámpara visceral A,Lampe entrailles A,Eingeweidelampe A,Lampada di viscere A,Luminária de tripas A,内脏灯 A
 FURNITURE_DESC_SET_GUTS_LAMP,,,,,,,,
 FURNITURE_NAME_SET_GUTS_LAMP2,Guts Lamp B,,Lámpara visceral B,Lampe entrailles B,Eingeweidelampe B,Lampada di viscere B,Luminária de tripas B,内脏灯 B
 FURNITURE_DESC_SET_GUTS_LAMP2,,,,,,,,
-FURNITURE_NAME_SET_GUTS_SUSPENDEDSHELF,Suspended Guts Shelf,,Estante visceral colgado,Étagère suspendue entrailles,Eingeweidehängeregal,Mensola sospesa di viscere,Prateleira de tripas,悬挂内脏架
+FURNITURE_NAME_SET_GUTS_SUSPENDEDSHELF,Suspended Guts Shelf,,Estante visceral colgado,Étagère suspendue entrailles,Eingeweidehängeregal,Mensola sospesa di viscere,Prateleira de tripas,悬挂式内脏架
 FURNITURE_DESC_SET_GUTS_SUSPENDEDSHELF,,,,,,,,
 FURNITURE_NAME_SET_GUTS_TV,Guts TV,,Tele visceral,TV entrailles,Eingeweidefernseher,TV di viscere,TV de tripas,内脏电视
 FURNITURE_DESC_SET_GUTS_TV,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_TOILET,Crystal Toilet,,Retrete de cristal,Toilettes cristal,Kristalltoilette,WC di cristallo,Privada de cristal,水晶厕所
+FURNITURE_NAME_SET_CRYSTAL_TOILET,Crystal Toilet,,Retrete de cristal,Toilettes cristal,Kristalltoilette,WC di cristallo,Privada de cristal,水晶马桶
 FURNITURE_DESC_SET_CRYSTAL_TOILET,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_DRESSER,Crystal Dresser A,,Aparador de cristal A,Commode cristal A,Kristallkleiderschrank A,Comò di cristallo A,Cômoda de cristal A,水晶梳妆台 A
+FURNITURE_NAME_SET_CRYSTAL_DRESSER,Crystal Dresser A,,Aparador de cristal A,Commode cristal A,Kristallkleiderschrank A,Comò di cristallo A,Cômoda de cristal A,水晶衣柜 A
 FURNITURE_DESC_SET_CRYSTAL_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_CRYSTAL_LAMP,Crystal Lamp,,Lámpara de cristal,Lampe cristal,Kristalllampe,Lampada di cristallo,Luminária de cristal,水晶灯
 FURNITURE_DESC_SET_CRYSTAL_LAMP,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_TABLE,Crystal Table,,Mesa de cristal,Table cristal,Kristalltisch,Tavolo di cristallo,Mesa de cristal,水晶桌子
+FURNITURE_NAME_SET_CRYSTAL_TABLE,Crystal Table,,Mesa de cristal,Table cristal,Kristalltisch,Tavolo di cristallo,Mesa de cristal,水晶桌
 FURNITURE_DESC_SET_CRYSTAL_TABLE,,,,,,,,
 FURNITURE_NAME_SET_CRYSTAL_CHANDELIER,Crystal Chandelier,,Araña de cristal,Chandelier cristal,Kristallkronleuchter,Lampadario di cristallo,Lustre de cristal,水晶吊灯
 FURNITURE_DESC_SET_CRYSTAL_CHANDELIER,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_DRESSER2,Crystal Dresser B,,Aparador de cristal B,Commode&nbsp;cristal B,Kristallkleiderschrank B,Comò di cristallo B,Cômoda de cristal B,水晶梳妆台 B
+FURNITURE_NAME_SET_CRYSTAL_DRESSER2,Crystal Dresser B,,Aparador de cristal B,Commode&nbsp;cristal B,Kristallkleiderschrank B,Comò di cristallo B,Cômoda de cristal B,水晶衣柜 B
 FURNITURE_DESC_SET_CRYSTAL_DRESSER2,,,,,,,,
 FURNITURE_NAME_SET_CRYSTAL_SIDETABLE,Crystal Side Table,,Mesilla de cristal,Table d'appoint cristal,Kristallbeistelltisch,Tavolino di cristallo,Mesa lateral de cristal,水晶边桌
 FURNITURE_DESC_SET_CRYSTAL_SIDETABLE,,,,,,,,
 FURNITURE_NAME_SET_CRYSTAL_COUCH,Crystal Couch,,Sofá de cristal,Canapé cristal,Kristallsofa,Divano di cristallo,Sofá de cristal,水晶沙发
 FURNITURE_DESC_SET_CRYSTAL_COUCH,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_CHAIR,Crystal Chair,,Silla de cristal,Chaise cristal,Kristallstuhl,Sedia di cristallo,Cadeira de cristal,水晶椅子
+FURNITURE_NAME_SET_CRYSTAL_CHAIR,Crystal Chair,,Silla de cristal,Chaise cristal,Kristallstuhl,Sedia di cristallo,Cadeira de cristal,水晶椅
 FURNITURE_DESC_SET_CRYSTAL_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_CRYSTAL_SHELF,Crystal Shelf,,Estante de cristal,Étagère cristal,Kristallregal,Mensola di cristallo,Estante de cristal,水晶架子
+FURNITURE_NAME_SET_CRYSTAL_SHELF,Crystal Shelf,,Estante de cristal,Étagère cristal,Kristallregal,Mensola di cristallo,Estante de cristal,水晶架
 FURNITURE_DESC_SET_CRYSTAL_SHELF,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_L,"""L"" Block",,Pieza L,Bloc «&nbsp;L&nbsp;»,„L“-Block,"Blocco ""L""","Bloco ""L""",“L” 方块
+FURNITURE_NAME_SET_BLOCK_L,"""L"" Block",,Pieza L,Bloc «&nbsp;L&nbsp;»,„L“-Block,"Blocco ""L""","Bloco ""L""","""L""型方块"
 FURNITURE_DESC_SET_BLOCK_L,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_T,"""T"" Block",,Pieza T,Bloc «&nbsp;T&nbsp;»,„T“-Block,"Blocco ""T""","Bloco ""T""",“T” 方块
+FURNITURE_NAME_SET_BLOCK_T,"""T"" Block",,Pieza T,Bloc «&nbsp;T&nbsp;»,„T“-Block,"Blocco ""T""","Bloco ""T""","""T""型方块"
 FURNITURE_DESC_SET_BLOCK_T,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_SQUARE,"""O"" Block",,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O""",“O” 方块
+FURNITURE_NAME_SET_BLOCK_SQUARE,"""O"" Block",,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O""","""O""型方块"
 FURNITURE_DESC_SET_BLOCK_SQUARE,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_7,"Flipped ""L"" Block",,Pieza L girada,Bloc «&nbsp;L&nbsp;» renversé,Gespiegelter „L“-Block,"Blocco ""L"" capovolto","Bloco ""L"" invertido",翻转的 “L” 方块
+FURNITURE_NAME_SET_BLOCK_7,"Flipped ""L"" Block",,Pieza L girada,Bloc «&nbsp;L&nbsp;» renversé,Gespiegelter „L“-Block,"Blocco ""L"" capovolto","Bloco ""L"" invertido","翻转""L""型方块"
 FURNITURE_DESC_SET_BLOCK_7,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_SQUARE2,"""O""Block",,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O""",“O” 方块
+FURNITURE_NAME_SET_BLOCK_SQUARE2,"""O""Block",,Pieza O,Bloc «&nbsp;O&nbsp;»,„O“-Block,"Blocco ""O""","Bloco ""O""","""O""型方块"
 FURNITURE_DESC_SET_BLOCK_SQUARE2,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_LAYINGL,"Laying ""L"" Block",,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado",平放的“L”块
+FURNITURE_NAME_SET_BLOCK_LAYINGL,"Laying ""L"" Block",,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado","平放""L""型方块"
 FURNITURE_DESC_SET_BLOCK_LAYINGL,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_I,"""I"" Block",,Pieza I,Bloc «&nbsp;I&nbsp;»,„I“-Block,"Blocco ""I""","Bloco ""I""",“I”块
+FURNITURE_NAME_SET_BLOCK_I,"""I"" Block",,Pieza I,Bloc «&nbsp;I&nbsp;»,„I“-Block,"Blocco ""I""","Bloco ""I""","""I""型方块"
 FURNITURE_DESC_SET_BLOCK_I,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_SIDET,"Sideways ""T"" Block",,Pieza T de lado,Bloc «&nbsp;T&nbsp;» de côté,Seitlicher „T“-Block,"Blocco ""T"" laterale","Bloco ""T"" de lado",侧放的“T”块
+FURNITURE_NAME_SET_BLOCK_SIDET,"Sideways ""T"" Block",,Pieza T de lado,Bloc «&nbsp;T&nbsp;» de côté,Seitlicher „T“-Block,"Blocco ""T"" laterale","Bloco ""T"" de lado","侧向""T""型方块"
 FURNITURE_DESC_SET_BLOCK_SIDET,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_DOWNL,"Laying ""L"" Block",,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado",平放的“L”块
+FURNITURE_NAME_SET_BLOCK_DOWNL,"Laying ""L"" Block",,Pieza L tumbada,Bloc «&nbsp;L&nbsp;» couché,Liegender „L“-Block,"Blocco ""L"" orizzontale","Bloco ""L"" deitado","平放""L""型方块"
 FURNITURE_DESC_SET_BLOCK_DOWNL,,,,,,,,
-FURNITURE_NAME_SET_BLOCK_SIDEI,"Laying ""I"" Block",,Pieza I tumbada,Bloc «&nbsp;I&nbsp;» couché,Liegender „I“-Block,"Blocco ""I"" orizzontale","Bloco ""I"" deitado",平放的“I”块
+FURNITURE_NAME_SET_BLOCK_SIDEI,"Laying ""I"" Block",,Pieza I tumbada,Bloc «&nbsp;I&nbsp;» couché,Liegender „I“-Block,"Blocco ""I"" orizzontale","Bloco ""I"" deitado","平放""I""型方块"
 FURNITURE_DESC_SET_BLOCK_SIDEI,,,,,,,,
 FURNITURE_NAME_SET_MONSTER_SHELF,Monster Shelf,,Estante monstruoso,Étagère monstre,Monsterregal,Scaffale a forma di mostro,Estante monstruosa,怪物架
 FURNITURE_DESC_SET_MONSTER_SHELF,,,,,,,,
-FURNITURE_NAME_SET_MONSTER_DRESSER,Monster Dresser,,Aparador monstruoso,Commode monstre,Monsterkleiderschrank,Comò a forma di mostro,Cômoda monstruosa,怪物梳妆台
+FURNITURE_NAME_SET_MONSTER_DRESSER,Monster Dresser,,Aparador monstruoso,Commode monstre,Monsterkleiderschrank,Comò a forma di mostro,Cômoda monstruosa,怪物衣柜
 FURNITURE_DESC_SET_MONSTER_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_MONSTER_TABLE,Monster Table A,,Mesa monstruosa A,Table monstre A,Monstertisch A,Tavolo a forma di mostro A,Mesa monstruosa A,怪物桌A
+FURNITURE_NAME_SET_MONSTER_TABLE,Monster Table A,,Mesa monstruosa A,Table monstre A,Monstertisch A,Tavolo a forma di mostro A,Mesa monstruosa A,怪物桌 A
 FURNITURE_DESC_SET_MONSTER_TABLE,,,,,,,,
-FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF,Suspended Monster Shelf A,,Estante monstruoso colgado A,Étagère suspendue monstre A,Monsterhängeregal A,Mensola sospesa a forma di mostro A,Prateleira monstruosa A,悬挂怪物架A
+FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF,Suspended Monster Shelf A,,Estante monstruoso colgado A,Étagère suspendue monstre A,Monsterhängeregal A,Mensola sospesa a forma di mostro A,Prateleira monstruosa A,悬挂式怪物架 A
 FURNITURE_DESC_SET_MONSTER_SUSPENDEDSHELF,,,,,,,,
 FURNITURE_NAME_SET_MONSTER_SIDETABLE,Monster Side Table,,Mesilla monstruosa,Table d'appoint monstre,Monsterbeistelltisch,Tavolino a forma di mostro,Mesa lateral monstruosa,怪物边桌
 FURNITURE_DESC_SET_MONSTER_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF2,Suspended Monster Shelf B,,Estante monstruoso colgado B,Étagère suspendue monstre B,Monsterhängeregal B,Mensola sospesa a forma di mostro B,Prateleira monstruosa B,悬挂怪物架B
+FURNITURE_NAME_SET_MONSTER_SUSPENDEDSHELF2,Suspended Monster Shelf B,,Estante monstruoso colgado B,Étagère suspendue monstre B,Monsterhängeregal B,Mensola sospesa a forma di mostro B,Prateleira monstruosa B,悬挂式怪物架 B
 FURNITURE_DESC_SET_MONSTER_SUSPENDEDSHELF2,,,,,,,,
 FURNITURE_NAME_SET_MONSTER_CHAIR,Monster Chair,,Silla monstruosa,Chaise monstre,Monsterstuhl,Sedia a forma di mostro,Estante monstruosa,怪物椅
 FURNITURE_DESC_SET_MONSTER_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_MONSTER_TABLE2,Monster Table B,,Mesa monstruosa B,Table monstre B,Monstertisch B,Tavolo a forma di mostro B,Mesa monstruosa B,怪物桌B
+FURNITURE_NAME_SET_MONSTER_TABLE2,Monster Table B,,Mesa monstruosa B,Table monstre B,Monstertisch B,Tavolo a forma di mostro B,Mesa monstruosa B,怪物桌 B
 FURNITURE_DESC_SET_MONSTER_TABLE2,,,,,,,,
 FURNITURE_NAME_SET_MONSTER_TV,Monster TV,,Tele monstruosa,TV monstre,Monsterfernseher,TV a forma di mostro,TV monstruosa,怪物电视
 FURNITURE_DESC_SET_MONSTER_TV,,,,,,,,
@@ -266,17 +266,17 @@ FURNITURE_NAME_SET_ANGELIC_SHELF,Angelic Shelf,,Estante angelical,Étagère ang�
 FURNITURE_DESC_SET_ANGELIC_SHELF,,,,,,,,
 FURNITURE_NAME_SET_ANGELIC_CHAIR,Angelic Chair,,Silla angelical,Chaise angélique,Engelstuhl,Sedia angelica,Cadeira angelical,天使椅
 FURNITURE_DESC_SET_ANGELIC_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_ANGELIC_DRESSER,Angelic Dresser,,Aparador angelical,Commode angélique,Engelkleiderschrank,Comò angelico,Cômoda angelical,天使梳妆台
+FURNITURE_NAME_SET_ANGELIC_DRESSER,Angelic Dresser,,Aparador angelical,Commode angélique,Engelkleiderschrank,Comò angelico,Cômoda angelical,天使衣柜
 FURNITURE_DESC_SET_ANGELIC_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_ANGELIC_SIDETABLE,Angelic Side Table,,Mesilla angelical,Table d'appoint angélique,Engelbeistelltisch,Tavolino angelico,Mesa lateral angelical,天使边桌
 FURNITURE_DESC_SET_ANGELIC_SIDETABLE,,,,,,,,
 FURNITURE_NAME_SET_ANGELIC_TOILET,Angelic Toilet,,Retrete angelical,Toilettes angéliques,Engeltoilette,WC angelico,Privada angelical,天使马桶
 FURNITURE_DESC_SET_ANGELIC_TOILET,,,,,,,,
-FURNITURE_NAME_SET_ANGELIC_TABLE,Angelic Table A,,Mesa angelical A,Table angélique A,Engeltisch A,Tavolo angelico A,Mesa angelical A,天使桌子 A
+FURNITURE_NAME_SET_ANGELIC_TABLE,Angelic Table A,,Mesa angelical A,Table angélique A,Engeltisch A,Tavolo angelico A,Mesa angelical A,天使桌 A
 FURNITURE_DESC_SET_ANGELIC_TABLE,,,,,,,,
-FURNITURE_NAME_SET_ANGELIC_TABLE2,Angelic Table B,,Mesa angelical B,Table angélique B,Engeltisch B,Tavolo angelico B,Mesa angelical B,天使桌子 B
+FURNITURE_NAME_SET_ANGELIC_TABLE2,Angelic Table B,,Mesa angelical B,Table angélique B,Engeltisch B,Tavolo angelico B,Mesa angelical B,天使桌 B
 FURNITURE_DESC_SET_ANGELIC_TABLE2,,,,,,,,
-FURNITURE_NAME_SET_ANGELIC_SUSPENDEDSHELF,Suspended Angelic Shelf,,Estante angelical colgado,Étagère suspendue angélique,Engelhängeregal,Mensola sospesa angelica,Prateleira angelical,悬挂天使架
+FURNITURE_NAME_SET_ANGELIC_SUSPENDEDSHELF,Suspended Angelic Shelf,,Estante angelical colgado,Étagère suspendue angélique,Engelhängeregal,Mensola sospesa angelica,Prateleira angelical,悬挂式天使架
 FURNITURE_DESC_SET_ANGELIC_SUSPENDEDSHELF,,,,,,,,
 FURNITURE_NAME_SET_ANGELIC_LAMP,Angelic Lamp,,Lámpara angelical,Lampe angélique,Engellampe,Lampada angelica,Luminária angelical,天使灯
 FURNITURE_DESC_SET_ANGELIC_LAMP,,,,,,,,
@@ -288,7 +288,7 @@ FURNITURE_NAME_SET_ATOMIC_COUCH,Atomic Couch,,Sofá atómico,Canapé atomique,Ra
 FURNITURE_DESC_SET_ATOMIC_COUCH,,,,,,,,
 FURNITURE_NAME_SET_ATOMIC_TV,Atomic TV,,Tele atómica,TV atomique,Radioaktiver Fernseher,TV atomica,TV atômica,原子电视
 FURNITURE_DESC_SET_ATOMIC_TV,,,,,,,,
-FURNITURE_NAME_SET_ATOMIC_TABLE,Atomic Table,,Mesa atómica,Table atomique,Radioaktiver Tisch,Tavolo atomico,Mesa atômica,原子桌子
+FURNITURE_NAME_SET_ATOMIC_TABLE,Atomic Table,,Mesa atómica,Table atomique,Radioaktiver Tisch,Tavolo atomico,Mesa atômica,原子桌
 FURNITURE_DESC_SET_ATOMIC_TABLE,,,,,,,,
 FURNITURE_NAME_SET_ATOMIC_SIDETABLE,Atomic Side Table,,Mesilla atómica,Table d'appoint atomique,Radioaktiver Beistelltisch,Tavolino atomico,Mesa lateral atômica,原子边桌
 FURNITURE_DESC_SET_ATOMIC_SIDETABLE,,,,,,,,
@@ -296,29 +296,29 @@ FURNITURE_NAME_SET_ATOMIC_RADIO,Atomic Radio,,Radio atómica,Radio atomique,Radi
 FURNITURE_DESC_SET_ATOMIC_RADIO,,,,,,,,
 FURNITURE_NAME_SET_ATOMIC_LAMP,Atomic Lamp,,Lámpara atómica,Lampe atomique,Radioaktive Lampe,Lampada atomica,Luminária atômica,原子灯
 FURNITURE_DESC_SET_ATOMIC_LAMP,,,,,,,,
-FURNITURE_NAME_SET_ATOMIC_SHELF,Atomic Shelf,,Estante atómico,Étagère atomique,Radioaktives Regal,Scaffale atomico,Estante atômica,原子架子
+FURNITURE_NAME_SET_ATOMIC_SHELF,Atomic Shelf,,Estante atómico,Étagère atomique,Radioaktives Regal,Scaffale atomico,Estante atômica,原子架
 FURNITURE_DESC_SET_ATOMIC_SHELF,,,,,,,,
-FURNITURE_NAME_SET_ATOMIC_CHAIR,Atomic Chair,,Silla atómica,Chaise atomique,Radioaktiver Stuhl,Sedia atomica,Cadeira atômica,原子椅子
+FURNITURE_NAME_SET_ATOMIC_CHAIR,Atomic Chair,,Silla atómica,Chaise atomique,Radioaktiver Stuhl,Sedia atomica,Cadeira atômica,原子椅
 FURNITURE_DESC_SET_ATOMIC_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_TABLE,Elegant Table,,Mesa elegante,Table élégante,Stilvoller Tisch,Tavolo elegante,Mesa elegante,优雅桌子
+FURNITURE_NAME_SET_ELEGANT_TABLE,Elegant Table,,Mesa elegante,Table élégante,Stilvoller Tisch,Tavolo elegante,Mesa elegante,优雅桌
 FURNITURE_DESC_SET_ELEGANT_TABLE,,,,,,,,
 FURNITURE_NAME_SET_ELEGANT_BED,Elegant Bed,,Cama elegante,Lit élégant,Stilvolles Bett,Letto elegante,Cama elegante,优雅床
 FURNITURE_DESC_SET_ELEGANT_BED,,,,,,,,
 FURNITURE_NAME_SET_ELEGANT_DESK,Elegant Desk,,Escritorio elegante,Bureau élégant,Stilvoller Schreibtisch,Scrivania elegante,Escrivaninha elegante,优雅书桌
 FURNITURE_DESC_SET_ELEGANT_DESK,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_DRESSER,Elegant Dresser A,,Aparador elegante A,Commode élégante A,Stilvoller Kleiderschrank A,Comò elegante A,Cômoda elegante A,优雅梳妆台 A
+FURNITURE_NAME_SET_ELEGANT_DRESSER,Elegant Dresser A,,Aparador elegante A,Commode élégante A,Stilvoller Kleiderschrank A,Comò elegante A,Cômoda elegante A,优雅衣柜 A
 FURNITURE_DESC_SET_ELEGANT_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_DRESSER2,Elegant Dresser B,,Aparador elegante B,Commode élégante B,Stilvoller Kleiderschrank B,Comò elegante B,Cômoda elegante B,优雅梳妆台 B
+FURNITURE_NAME_SET_ELEGANT_DRESSER2,Elegant Dresser B,,Aparador elegante B,Commode élégante B,Stilvoller Kleiderschrank B,Comò elegante B,Cômoda elegante B,优雅衣柜 B
 FURNITURE_DESC_SET_ELEGANT_DRESSER2,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_SIDETABLE,Elegant Side Table A,,Mesilla elegante A,Table d'appoint élégante A,Stilvoller Beistelltisch A,Tavolino elegante A,Mesa lateral elegante A,优雅的边桌 A
+FURNITURE_NAME_SET_ELEGANT_SIDETABLE,Elegant Side Table A,,Mesilla elegante A,Table d'appoint élégante A,Stilvoller Beistelltisch A,Tavolino elegante A,Mesa lateral elegante A,优雅边桌 A
 FURNITURE_DESC_SET_ELEGANT_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_SIDETABLE2,Elegant Side Table B,,Mesilla elegante B,Table d'appoint élégante B,Stilvoller Beistelltisch B,Tavolino elegante B,Mesa lateral elegante B,优雅的边桌 B
+FURNITURE_NAME_SET_ELEGANT_SIDETABLE2,Elegant Side Table B,,Mesilla elegante B,Table d'appoint élégante B,Stilvoller Beistelltisch B,Tavolino elegante B,Mesa lateral elegante B,优雅边桌 B
 FURNITURE_DESC_SET_ELEGANT_SIDETABLE2,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_CHAIR,Elegant Chair,,Silla elegante,Chaise élégante,Stilvoller Stuhl,Sedia elegante,Cadeira elegante,优雅的椅子
+FURNITURE_NAME_SET_ELEGANT_CHAIR,Elegant Chair,,Silla elegante,Chaise élégante,Stilvoller Stuhl,Sedia elegante,Cadeira elegante,优雅椅
 FURNITURE_DESC_SET_ELEGANT_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_SHELF,Elegant Shelf,,Estante elegante,Étagère élégante,Stilvolles Regal,Mensola elegante,Estante elegante,优雅的书架
+FURNITURE_NAME_SET_ELEGANT_SHELF,Elegant Shelf,,Estante elegante,Étagère élégante,Stilvolles Regal,Mensola elegante,Estante elegante,优雅架
 FURNITURE_DESC_SET_ELEGANT_SHELF,,,,,,,,
-FURNITURE_NAME_SET_ELEGANT_LAMP,Elegant Lamp,,Lámpara elegante,Lampe élégante,Stilvolle Lampe,Lampada elegante,Luminária elegante,优雅的灯
+FURNITURE_NAME_SET_ELEGANT_LAMP,Elegant Lamp,,Lámpara elegante,Lampe élégante,Stilvolle Lampe,Lampada elegante,Luminária elegante,优雅灯
 FURNITURE_DESC_SET_ELEGANT_LAMP,,,,,,,,
 FURNITURE_NAME_SET_MODERN_BED,Modern Bed,,Cama moderna,Lit moderne,Modernes Bett,Letto moderno,Cama moderna,现代床
 FURNITURE_DESC_SET_MODERN_BED,,,,,,,,
@@ -328,143 +328,143 @@ FURNITURE_NAME_SET_MODERN_STOVE,Modern Stove,,Hornillo moderno,Cuisinière moder
 FURNITURE_DESC_SET_MODERN_STOVE,,,,,,,,
 FURNITURE_NAME_SET_MODERN_COUCH,Modern Couch,,Sofá moderno,Canapé moderne,Modernes Sofa,Divano moderno,Sofá moderno,现代沙发
 FURNITURE_DESC_SET_MODERN_COUCH,,,,,,,,
-FURNITURE_NAME_SET_MODERN_CHAIR,Modern Chair,,Silla moderna,Chaise moderne,Moderner Stuhl,Sedia moderna,Cadeira moderna,现代椅子
+FURNITURE_NAME_SET_MODERN_CHAIR,Modern Chair,,Silla moderna,Chaise moderne,Moderner Stuhl,Sedia moderna,Cadeira moderna,现代椅
 FURNITURE_DESC_SET_MODERN_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_MODERN_DRESSER,Modern Dresser,,Aparador moderno,Commode moderne,Moderner Kleiderschrank,Comò moderno,Cômoda moderna,现代梳妆台
+FURNITURE_NAME_SET_MODERN_DRESSER,Modern Dresser,,Aparador moderno,Commode moderne,Moderner Kleiderschrank,Comò moderno,Cômoda moderna,现代衣柜
 FURNITURE_DESC_SET_MODERN_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_MODERN_SIDETABLE,Modern Side Table,,Mesilla moderna,Table d'appoint moderne,Moderner Beistelltisch,Tavolino moderno,Mesa lateral moderna,现代边桌
 FURNITURE_DESC_SET_MODERN_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_MODERN_TABLE,Modern Table,,Mesa moderna,Table moderne,Moderner Tisch,Tavolo moderno,Mesa moderna,现代桌子
+FURNITURE_NAME_SET_MODERN_TABLE,Modern Table,,Mesa moderna,Table moderne,Moderner Tisch,Tavolo moderno,Mesa moderna,现代桌
 FURNITURE_DESC_SET_MODERN_TABLE,,,,,,,,
 FURNITURE_NAME_SET_MODERN_DESK,Modern Desk,,Escritorio moderno,Bureau moderne,Moderner Schreibtisch,Scrivania moderna,Escrivaninha moderna,现代书桌
 FURNITURE_DESC_SET_MODERN_DESK,,,,,,,,
 FURNITURE_NAME_SET_MODERN_TV,Modern TV,,Tele moderna,TV moderne,Moderner Fernseher,TV moderna,TV moderna,现代电视
 FURNITURE_DESC_SET_MODERN_TV,,,,,,,,
-FURNITURE_NAME_SET_80S_COUCH,80s Couch,,Sofá ochentero,Canapé années&nbsp;80,80er-Sofa,Divano anni '80,Sofá anos 80,80 年代沙发
+FURNITURE_NAME_SET_80S_COUCH,80s Couch,,Sofá ochentero,Canapé années&nbsp;80,80er-Sofa,Divano anni '80,Sofá anos 80,80年代沙发
 FURNITURE_DESC_SET_80S_COUCH,,,,,,,,
-FURNITURE_NAME_SET_80S_BED,80s Bed,,Cama ochentera,Lit années&nbsp;80,80er-Bett,Letto anni '80,Cama anos 80,80 年代床
+FURNITURE_NAME_SET_80S_BED,80s Bed,,Cama ochentera,Lit années&nbsp;80,80er-Bett,Letto anni '80,Cama anos 80,80年代床
 FURNITURE_DESC_SET_80S_BED,,,,,,,,
-FURNITURE_NAME_SET_80S_DRESSER,80s Dresser,,Aparador ochentero,Commode années&nbsp;80,80er-Kleiderschrank,Comò anni '80,Cômoda anos 80,80 年代梳妆台
+FURNITURE_NAME_SET_80S_DRESSER,80s Dresser,,Aparador ochentero,Commode années&nbsp;80,80er-Kleiderschrank,Comò anni '80,Cômoda anos 80,80年代衣柜
 FURNITURE_DESC_SET_80S_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_80S_CHAIR,80s Chair,,Silla ochentera,Chaise années&nbsp;80,80er-Stuhl,Sedia anni '80,Cadeira anos 80,80 年代椅子
+FURNITURE_NAME_SET_80S_CHAIR,80s Chair,,Silla ochentera,Chaise années&nbsp;80,80er-Stuhl,Sedia anni '80,Cadeira anos 80,80年代椅
 FURNITURE_DESC_SET_80S_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_80S_STOVE,80s Stove,,Hornillo ochentero,Cuisinière années&nbsp;80,80er-Ofen,Stufa anni '80,Fogão anos 80,80 年代炉灶
+FURNITURE_NAME_SET_80S_STOVE,80s Stove,,Hornillo ochentero,Cuisinière années&nbsp;80,80er-Ofen,Stufa anni '80,Fogão anos 80,80年代炉灶
 FURNITURE_DESC_SET_80S_STOVE,,,,,,,,
 FURNITURE_NAME_SET_80S_FRIGE,80s Fridge,,Nevera ochentera,Frigo années&nbsp;80,80er-Kühlschrank,Frigo anni '80,Geladeira anos 80,80年代冰箱
 FURNITURE_DESC_SET_80S_FRIGE,,,,,,,,
-FURNITURE_NAME_SET_80S_SHELF,80s Shelf,,Estante ochentero,Étagère années&nbsp;80,80er-Regal,Scaffale anni '80,Prateleira anos 80,80年代架子
+FURNITURE_NAME_SET_80S_SHELF,80s Shelf,,Estante ochentero,Étagère années&nbsp;80,80er-Regal,Scaffale anni '80,Prateleira anos 80,80年代架
 FURNITURE_DESC_SET_80S_SHELF,,,,,,,,
 FURNITURE_NAME_SET_80S_TV,80s TV,,Tele ochentera,TV années&nbsp;80,80er-Fernseher,TV anni '80,TV anos 80,80年代电视
 FURNITURE_DESC_SET_80S_TV,,,,,,,,
-FURNITURE_NAME_SET_80S_TABLE,80s Table,,Mesa ochentera,Table années&nbsp;80,80er-Tisch,Tavolo anni '80,Mesa anos 80,80年代桌子
+FURNITURE_NAME_SET_80S_TABLE,80s Table,,Mesa ochentera,Table années&nbsp;80,80er-Tisch,Tavolo anni '80,Mesa anos 80,80年代桌
 FURNITURE_DESC_SET_80S_TABLE,,,,,,,,
 FURNITURE_NAME_SET_80S_SIDETABLE,80s Side Table,,Mesilla ochentera,Table d'appoint années&nbsp;80,80er-Beistelltisch,Tavolino anni '80,Mesa lateral anos 80,80年代边桌
 FURNITURE_DESC_SET_80S_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_RETRO_BED,Art Deco Bed,,Cama art déco,Lit art déco,Art Deco Bett,Letto Art Déco,Cama art déco,装饰艺术风格床
+FURNITURE_NAME_SET_RETRO_BED,Art Deco Bed,,Cama art déco,Lit art déco,Art Deco Bett,Letto Art Déco,Cama art déco,装饰艺术床
 FURNITURE_DESC_SET_RETRO_BED,,,,,,,,
-FURNITURE_NAME_SET_RETRO_STOVE,Art Deco Stove,,Hornillo art déco,Cuisinière art déco,Art Deco Ofen,Stufa Art Déco,Fogão art déco,装饰艺术风格炉灶
+FURNITURE_NAME_SET_RETRO_STOVE,Art Deco Stove,,Hornillo art déco,Cuisinière art déco,Art Deco Ofen,Stufa Art Déco,Fogão art déco,装饰艺术炉灶
 FURNITURE_DESC_SET_RETRO_STOVE,,,,,,,,
-FURNITURE_NAME_SET_RETRO_FRIGE,Art Deco Fridge,,Nevera art déco,Frigo art déco,Art Deco Kühlschrank,Frigo Art Déco,Geladeira art déco,装饰艺术风格冰箱
+FURNITURE_NAME_SET_RETRO_FRIGE,Art Deco Fridge,,Nevera art déco,Frigo art déco,Art Deco Kühlschrank,Frigo Art Déco,Geladeira art déco,装饰艺术冰箱
 FURNITURE_DESC_SET_RETRO_FRIGE,,,,,,,,
-FURNITURE_NAME_SET_RETRO_COUCH,Art Deco Couch,,Sofá art déco,Canapé art déco,Art Deco Sofa,Divano Art Déco,Sofá art déco,装饰艺术风格沙发
+FURNITURE_NAME_SET_RETRO_COUCH,Art Deco Couch,,Sofá art déco,Canapé art déco,Art Deco Sofa,Divano Art Déco,Sofá art déco,装饰艺术沙发
 FURNITURE_DESC_SET_RETRO_COUCH,,,,,,,,
-FURNITURE_NAME_SET_RETRO_CHAIR,Art Deco Chair,,Silla art déco,Chaise art déco,Art Deco Stuhl,Sedia Art Déco,Cadeira art déco,装饰艺术风格椅子
+FURNITURE_NAME_SET_RETRO_CHAIR,Art Deco Chair,,Silla art déco,Chaise art déco,Art Deco Stuhl,Sedia Art Déco,Cadeira art déco,装饰艺术椅
 FURNITURE_DESC_SET_RETRO_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_RETRO_DRESSER,Art Deco Dresser,,Aparador art déco,Commode art déco,Art Deco Kleiderschrank,Comò Art Déco,Cômoda art déco,装饰艺术风格梳妆台
+FURNITURE_NAME_SET_RETRO_DRESSER,Art Deco Dresser,,Aparador art déco,Commode art déco,Art Deco Kleiderschrank,Comò Art Déco,Cômoda art déco,装饰艺术衣柜
 FURNITURE_DESC_SET_RETRO_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_RETRO_DRESSER2,Art Deco Vanity,,Tocador art déco,Coiffeuse art déco,Art Deco Frisiertisch,Toeletta Art Déco,Penteadeira art déco,装饰艺术风格梳妆柜
+FURNITURE_NAME_SET_RETRO_DRESSER2,Art Deco Vanity,,Tocador art déco,Coiffeuse art déco,Art Deco Frisiertisch,Toeletta Art Déco,Penteadeira art déco,装饰艺术梳妆台
 FURNITURE_DESC_SET_RETRO_DRESSER2,,,,,,,,
-FURNITURE_NAME_SET_RETRO_DRESSER3,Art Deco Armoire,,Cómoda art déco,Armoire art déco,Art Deco Vertiko,Armadio Art Déco,Guarda-roupa art déco,装饰艺术风格衣柜
+FURNITURE_NAME_SET_RETRO_DRESSER3,Art Deco Armoire,,Cómoda art déco,Armoire art déco,Art Deco Vertiko,Armadio Art Déco,Guarda-roupa art déco,装饰艺术衣橱
 FURNITURE_DESC_SET_RETRO_DRESSER3,,,,,,,,
-FURNITURE_NAME_SET_RETRO_SIDETABLE,Art Deco Side Table,,Mesilla art déco,Table d'appoint art déco,Art Deco Beistelltisch,Tavolino Art Déco,Mesa lateral art déco,装饰艺术风格边桌
+FURNITURE_NAME_SET_RETRO_SIDETABLE,Art Deco Side Table,,Mesilla art déco,Table d'appoint art déco,Art Deco Beistelltisch,Tavolino Art Déco,Mesa lateral art déco,装饰艺术边桌
 FURNITURE_DESC_SET_RETRO_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_RETRO_LAMP,Art Deco Lamp,,Lámpara art déco,Lampe art déco,Art Deco Lampe,Lampada Art Déco,Luminária art déco,装饰艺术风格灯
+FURNITURE_NAME_SET_RETRO_LAMP,Art Deco Lamp,,Lámpara art déco,Lampe art déco,Art Deco Lampe,Lampada Art Déco,Luminária art déco,装饰艺术灯
 FURNITURE_DESC_SET_RETRO_LAMP,,,,,,,,
 FURNITURE_NAME_SET_90S_BED,90s Bed,,Cama noventera,Lit années&nbsp;90,90er-Bett,Letto anni '90,Cama anos 90,90年代床
 FURNITURE_DESC_SET_90S_BED,,,,,,,,
-FURNITURE_NAME_SET_90S_CABINET,Suspended 90s Cabinet,,Vitrina noventera colgada,Placard suspendu années&nbsp;90,90er-Hängeschrank,Armadietto sospeso anni '90,Armário suspenso anos 90,悬挂式90年代橱柜
+FURNITURE_NAME_SET_90S_CABINET,Suspended 90s Cabinet,,Vitrina noventera colgada,Placard suspendu années&nbsp;90,90er-Hängeschrank,Armadietto sospeso anni '90,Armário suspenso anos 90,悬挂式90年代柜
 FURNITURE_DESC_SET_90S_CABINET,,,,,,,,
-FURNITURE_NAME_SET_90S_CABINET2,90s Cabinet,,Vitrina noventera,Placard années&nbsp;90,90er-Schrank,Armadietto anni '90,Armário anos 90,90年代橱柜
+FURNITURE_NAME_SET_90S_CABINET2,90s Cabinet,,Vitrina noventera,Placard années&nbsp;90,90er-Schrank,Armadietto anni '90,Armário anos 90,90年代柜
 FURNITURE_DESC_SET_90S_CABINET2,,,,,,,,
-FURNITURE_NAME_SET_90S_SINK,90s Sink,,Lavabo noventero,Évier années&nbsp;90,90er-Waschbecken,Lavandino anni '90,Pia anos 90,90年代洗手槽
+FURNITURE_NAME_SET_90S_SINK,90s Sink,,Lavabo noventero,Évier années&nbsp;90,90er-Waschbecken,Lavandino anni '90,Pia anos 90,90年代水槽
 FURNITURE_DESC_SET_90S_SINK,,,,,,,,
 FURNITURE_NAME_SET_90S_STOVE,90s Stove,,Hornillo noventero,Cuisinière années&nbsp;90,90er-Ofen,Stufa anni '90,Fogão anos 90,90年代炉灶
 FURNITURE_DESC_SET_90S_STOVE,,,,,,,,
 FURNITURE_NAME_SET_90S_FRIGE,90s Fridge,,Nevera noventera,Frigo années&nbsp;90,90er-Kühlschrank,Frigorifero anni '90,Geladeira anos 90,90年代冰箱
 FURNITURE_DESC_SET_90S_FRIGE,,,,,,,,
-FURNITURE_NAME_SET_90S_SHELF,90s Shelf,,Estante noventero,Étagère années&nbsp;90,90er-Regal,Scaffale anni '90,Estante anos 90,90年代架子
+FURNITURE_NAME_SET_90S_SHELF,90s Shelf,,Estante noventero,Étagère années&nbsp;90,90er-Regal,Scaffale anni '90,Estante anos 90,90年代架
 FURNITURE_DESC_SET_90S_SHELF,,,,,,,,
-FURNITURE_NAME_SET_90S_SUSPENDEDSHELF,Suspended 90s Shelf,,Estante noventero colgado,Étagère suspendue années&nbsp;90,90er-Hängeregal,Mensola sospesa anni '90,Prateleira anos 90,悬挂的90年代架子
+FURNITURE_NAME_SET_90S_SUSPENDEDSHELF,Suspended 90s Shelf,,Estante noventero colgado,Étagère suspendue années&nbsp;90,90er-Hängeregal,Mensola sospesa anni '90,Prateleira anos 90,悬挂式90年代架
 FURNITURE_DESC_SET_90S_SUSPENDEDSHELF,,,,,,,,
-FURNITURE_NAME_SET_90S_CHAIR,90s Chair,,Silla noventera,Chaise années&nbsp;90,90er-Stuhl,Sedia anni '90,Cadeira anos 90,90年代椅子
+FURNITURE_NAME_SET_90S_CHAIR,90s Chair,,Silla noventera,Chaise années&nbsp;90,90er-Stuhl,Sedia anni '90,Cadeira anos 90,90年代椅
 FURNITURE_DESC_SET_90S_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_90S_STOOL,90s Stool,,Taburete noventero,Tabouret années&nbsp;90,90er-Hocker,Sgabello anni '90,Banqueta anos 90,90年代凳子
+FURNITURE_NAME_SET_90S_STOOL,90s Stool,,Taburete noventero,Tabouret années&nbsp;90,90er-Hocker,Sgabello anni '90,Banqueta anos 90,90年代凳
 FURNITURE_DESC_SET_90S_STOOL,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_TABLE1,Mushroom Table A,,Mesa fúngica A,Table champignon A,Pilztisch A,Tavolo a forma di fungo A,Mesa cogumelo A,蘑菇桌A
+FURNITURE_NAME_SET_MUSHROOM_TABLE1,Mushroom Table A,,Mesa fúngica A,Table champignon A,Pilztisch A,Tavolo a forma di fungo A,Mesa cogumelo A,蘑菇桌 A
 FURNITURE_DESC_SET_MUSHROOM_TABLE1,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_STOOL,Mushroom Stool A,,Taburete fúngico A,Tabouret champignon A,Pilzhocker A,Sgabello a forma di fungo A,Banqueta cogumelo A,蘑菇凳A
+FURNITURE_NAME_SET_MUSHROOM_STOOL,Mushroom Stool A,,Taburete fúngico A,Tabouret champignon A,Pilzhocker A,Sgabello a forma di fungo A,Banqueta cogumelo A,蘑菇凳 A
 FURNITURE_DESC_SET_MUSHROOM_STOOL,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_STOOL2,Mushroom Stool B,,Taburete fúngico B,Tabouret champignon B,Pilzhocker B,Sgabello a forma di fungo B,Banqueta cogumelo B,蘑菇凳B
+FURNITURE_NAME_SET_MUSHROOM_STOOL2,Mushroom Stool B,,Taburete fúngico B,Tabouret champignon B,Pilzhocker B,Sgabello a forma di fungo B,Banqueta cogumelo B,蘑菇凳 B
 FURNITURE_DESC_SET_MUSHROOM_STOOL2,,,,,,,,
 FURNITURE_NAME_SET_MUSHROOM_CHAIR,Mushroom Chair,,Silla fúngica,Chaise champignon,Pilzstuhl,Sedia a forma di fungo,Cadeira cogumelo,蘑菇椅
 FURNITURE_DESC_SET_MUSHROOM_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_TABLE,Mushroom Table B,,Mesa fúngica B,Table champignon B,Pilztisch B,Tavolo a forma di fungo B,Mesa cogumelo B,蘑菇桌B
+FURNITURE_NAME_SET_MUSHROOM_TABLE,Mushroom Table B,,Mesa fúngica B,Table champignon B,Pilztisch B,Tavolo a forma di fungo B,Mesa cogumelo B,蘑菇桌 B
 FURNITURE_DESC_SET_MUSHROOM_TABLE,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_TOILET,Mushroom Toilet,,Retrete fúngico,Toilettes champignon,Pilztoilette,WC a forma di fungo,Privada cogumelo,蘑菇厕所
+FURNITURE_NAME_SET_MUSHROOM_TOILET,Mushroom Toilet,,Retrete fúngico,Toilettes champignon,Pilztoilette,WC a forma di fungo,Privada cogumelo,蘑菇马桶
 FURNITURE_DESC_SET_MUSHROOM_TOILET,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_SHELF,Mushroom Shelf,,Estante fúngico,Étagère champignon,Pilzregal,Mensola a forma di fungo,Estante cogumelo,蘑菇架子
+FURNITURE_NAME_SET_MUSHROOM_SHELF,Mushroom Shelf,,Estante fúngico,Étagère champignon,Pilzregal,Mensola a forma di fungo,Estante cogumelo,蘑菇架
 FURNITURE_DESC_SET_MUSHROOM_SHELF,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF,Suspended Mushroom Shelf A,,Estante fúngico colgado A,Étagère suspendue champignon A,Pilzhängeregal A,Mensola sospesa a forma di fungo A,Prateleira cogumelo A,悬挂的蘑菇架A
+FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF,Suspended Mushroom Shelf A,,Estante fúngico colgado A,Étagère suspendue champignon A,Pilzhängeregal A,Mensola sospesa a forma di fungo A,Prateleira cogumelo A,悬挂式蘑菇架 A
 FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF2,Suspended Mushroom Shelf B,,Estante fúngico colgado B,Étagère suspendue champignon B,Pilzhängeregal B,Mensola sospesa a forma di fungo B,Prateleira cogumelo B,悬挂的蘑菇架B
+FURNITURE_NAME_SET_MUSHROOM_SUSPENDEDSHELF2,Suspended Mushroom Shelf B,,Estante fúngico colgado B,Étagère suspendue champignon B,Pilzhängeregal B,Mensola sospesa a forma di fungo B,Prateleira cogumelo B,悬挂式蘑菇架 B
 FURNITURE_DESC_SET_MUSHROOM_SUSPENDEDSHELF2,,,,,,,,
-FURNITURE_NAME_SET_MUSHROOM_STOOL3,Mushroom Stool C,,Taburete fúngico C,Tabouret champignon C,Pilzhocker C,Sgabello a forma di fungo C,Banqueta cogumelo C,蘑菇凳C
+FURNITURE_NAME_SET_MUSHROOM_STOOL3,Mushroom Stool C,,Taburete fúngico C,Tabouret champignon C,Pilzhocker C,Sgabello a forma di fungo C,Banqueta cogumelo C,蘑菇凳 C
 FURNITURE_DESC_SET_MUSHROOM_STOOL3,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_DRESSER,Rustic Dresser,,Aparador rústico,Commode rustique,Rustikaler Kleiderschrank,Comò rustico,Cômoda rústica,乡村梳妆台
+FURNITURE_NAME_SET_RUSTIC_DRESSER,Rustic Dresser,,Aparador rústico,Commode rustique,Rustikaler Kleiderschrank,Comò rustico,Cômoda rústica,乡村衣柜
 FURNITURE_DESC_SET_RUSTIC_DRESSER,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SHELF,Suspended Rustic Shelf A,,Estante rústico colgado A,Étagère suspendue&nbsp;rustique A,Rustikales Hängeregal A,Mensola rustica sospesa A,Prateleira rústica A,悬挂的乡村架A
+FURNITURE_NAME_SET_RUSTIC_SHELF,Suspended Rustic Shelf A,,Estante rústico colgado A,Étagère suspendue&nbsp;rustique A,Rustikales Hängeregal A,Mensola rustica sospesa A,Prateleira rústica A,悬挂式乡村架 A
 FURNITURE_DESC_SET_RUSTIC_SHELF,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF,Suspended Rustic Shelf B,,Estante rústico colgado B,Étagère suspendue rustique B,Rustikales Hängeregal B,Mensola rustica sospesa B,Prateleira rústica B,悬挂的乡村架B
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF,Suspended Rustic Shelf B,,Estante rústico colgado B,Étagère suspendue rustique B,Rustikales Hängeregal B,Mensola rustica sospesa B,Prateleira rústica B,悬挂式乡村架 B
 FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF,,,,,,,,
 FURNITURE_NAME_SET_RUSTIC_SIDETABLE,Rustic Side Table,,Mesilla rústica,Table d'appoint rustique,Rustikaler Beistelltisch,Tavolino rustico,Mesa lateral rústica,乡村边桌
 FURNITURE_DESC_SET_RUSTIC_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF2,Suspended Rustic Spice Rack,,Especiero rústico colgado,Étagère à épices suspendue rustique,Rustikales Gewürzregal,Portaspezie rustico sospeso,Suporte de temperos rústico,悬挂的乡村香料架
+FURNITURE_NAME_SET_RUSTIC_SUSPENDEDSHELF2,Suspended Rustic Spice Rack,,Especiero rústico colgado,Étagère à épices suspendue rustique,Rustikales Gewürzregal,Portaspezie rustico sospeso,Suporte de temperos rústico,悬挂式乡村调料架
 FURNITURE_DESC_SET_RUSTIC_SUSPENDEDSHELF2,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_CHAIR,Rustic Chair,,Silla rústica,Chaise rustique,Rustikaler Stuhl,Sedia rustica,Cadeira rústica,乡村椅子
+FURNITURE_NAME_SET_RUSTIC_CHAIR,Rustic Chair,,Silla rústica,Chaise rustique,Rustikaler Stuhl,Sedia rustica,Cadeira rústica,乡村椅
 FURNITURE_DESC_SET_RUSTIC_CHAIR,,,,,,,,
 FURNITURE_NAME_SET_RUSTIC_DESK,Rustic Desk,,Escritorio rústico,Bureau rustique,Rustikaler Schreibtisch,Scrivania rustica,Escrivaninha rústica,乡村书桌
 FURNITURE_DESC_SET_RUSTIC_DESK,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_BENCH,Rustic Bench,,Banco rústico,Banc rustique,Rustikale Bank,Panca rustica,Banco rústico,乡村长凳
+FURNITURE_NAME_SET_RUSTIC_BENCH,Rustic Bench,,Banco rústico,Banc rustique,Rustikale Bank,Panca rustica,Banco rústico,乡村长椅
 FURNITURE_DESC_SET_RUSTIC_BENCH,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_TABLE,Rustic Table,,Mesa rústica,Table rustique,Rustikaler Tisch,Tavolo rustico,Mesa rústica,乡村餐桌
+FURNITURE_NAME_SET_RUSTIC_TABLE,Rustic Table,,Mesa rústica,Table rustique,Rustikaler Tisch,Tavolo rustico,Mesa rústica,乡村桌
 FURNITURE_DESC_SET_RUSTIC_TABLE,,,,,,,,
-FURNITURE_NAME_SET_RUSTIC_STOOL,Rustic Stool,,Taburete rústico,Tabouret rustique,Rustikaler Hocker,Sgabello rustico,Banqueta rústica,乡村凳子
+FURNITURE_NAME_SET_RUSTIC_STOOL,Rustic Stool,,Taburete rústico,Tabouret rustique,Rustikaler Hocker,Sgabello rustico,Banqueta rústica,乡村凳
 FURNITURE_DESC_SET_RUSTIC_STOOL,,,,,,,,
-FURNITURE_NAME_SET_CUTE_DRESSER,Cute Dresser,,Aparador cuqui,Commode mimi,Süßer Kleiderschrank,Comò carino,Cômoda fofinha,可爱梳妆台
+FURNITURE_NAME_SET_CUTE_DRESSER,Cute Dresser,,Aparador cuqui,Commode mimi,Süßer Kleiderschrank,Comò carino,Cômoda fofinha,可爱衣柜
 FURNITURE_DESC_SET_CUTE_DRESSER,,,,,,,,
 FURNITURE_NAME_SET_CUTE_SIDETABLE,Cute Side Table A,,Mesilla cuqui A,Table d'appoint mimi A,Süßer Beistelltisch A,Tavolino carino A,Mesa lateral fofinha A,可爱边桌 A
 FURNITURE_DESC_SET_CUTE_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SET_CUTE_SHELF,Cute Shelf,,Estante cuqui,Étagère mimi,Süßes Regal,Scaffale carino,Estante fofinha,可爱书架
+FURNITURE_NAME_SET_CUTE_SHELF,Cute Shelf,,Estante cuqui,Étagère mimi,Süßes Regal,Scaffale carino,Estante fofinha,可爱架
 FURNITURE_DESC_SET_CUTE_SHELF,,,,,,,,
-FURNITURE_NAME_SET_CUTE_DRESSER2,Cute Armoire,,Cómoda cuqui,Armoire mimi,Süßes Vertiko,Armadio carino,Guarda-roupa fofinho,可爱衣柜
+FURNITURE_NAME_SET_CUTE_DRESSER2,Cute Armoire,,Cómoda cuqui,Armoire mimi,Süßes Vertiko,Armadio carino,Guarda-roupa fofinho,可爱衣橱
 FURNITURE_DESC_SET_CUTE_DRESSER2,,,,,,,,
 FURNITURE_NAME_SET_CUTE_COUCH,Cute Couch,,Sofá cuqui,Canapé mimi,Süßes Sofa,Divano carino,Sofá fofinho,可爱沙发
 FURNITURE_DESC_SET_CUTE_COUCH,,,,,,,,
 FURNITURE_NAME_SET_CUTE_BED,Cute Bed,,Cama cuqui,Lit mimi,Süßes Bett,Letto carino,Cama fofinha,可爱床
 FURNITURE_DESC_SET_CUTE_BED,,,,,,,,
-FURNITURE_NAME_SET_CUTE_CHAIR,Cute Chair,,Silla cuqui,Chaise mimi,Süßer Stuhl,Sedia carina,Cadeira fofinha,可爱椅子
+FURNITURE_NAME_SET_CUTE_CHAIR,Cute Chair,,Silla cuqui,Chaise mimi,Süßer Stuhl,Sedia carina,Cadeira fofinha,可爱椅
 FURNITURE_DESC_SET_CUTE_CHAIR,,,,,,,,
-FURNITURE_NAME_SET_CUTE_STOOL,Cute Stool,,Taburete cuqui,Tabouret mimi,Süßer Hocker,Sgabello carino,Banqueta fofinha,可爱凳子
+FURNITURE_NAME_SET_CUTE_STOOL,Cute Stool,,Taburete cuqui,Tabouret mimi,Süßer Hocker,Sgabello carino,Banqueta fofinha,可爱凳
 FURNITURE_DESC_SET_CUTE_STOOL,,,,,,,,
-FURNITURE_NAME_SET_CUTE_TABLE2,Cute Coffee Table,,Mesa de centro cuqui,Table d'appoint mimi,Süßer Kaffeetisch,Tavolino da caffè carino,Mesa de centro fofinha,可爱咖啡桌
+FURNITURE_NAME_SET_CUTE_TABLE2,Cute Coffee Table,,Mesa de centro cuqui,Table d'appoint mimi,Süßer Kaffeetisch,Tavolino da caffè carino,Mesa de centro fofinha,可爱茶几
 FURNITURE_DESC_SET_CUTE_TABLE2,,,,,,,,
 FURNITURE_NAME_SET_CUTE_SIDETABLE2,Cute Side Table B,,Mesilla cuqui B,Table d'appoint mimi B,Süßer Beistelltisch B,Tavolino carino B,Mesa lateral fofinha B,可爱边桌 B
 FURNITURE_DESC_SET_CUTE_SIDETABLE2,,,,,,,,
 FURNITURE_NAME_OBJECT_WOOD_TABLE,Wood Table,,Mesa de madera,Table en bois,Holztisch,Tavolo di legno,Mesa de madeira,木桌
 FURNITURE_DESC_OBJECT_WOOD_TABLE,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_LION,Guardian Lion Statue,,Estatua de león guardián,Statue de lion gardien,Löwenwächterstatue,Statua del Leone Guardiano,Estátua do leão guardião,石狮子雕像
+FURNITURE_NAME_OBJECT_STATUE_LION,Guardian Lion Statue,,Estatua de león guardián,Statue de lion gardien,Löwenwächterstatue,Statua del Leone Guardiano,Estátua do leão guardião,守门狮雕像
 FURNITURE_DESC_OBJECT_STATUE_LION,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_JESUS,Christ the Redeemer Statue,,Estatua del Cristo Redentor,Statue du Christ Rédempteur,Jesusstatue,Statua del Cristo Redentore,Estátua do Cristo Redentor,基督救世主雕像
+FURNITURE_NAME_OBJECT_STATUE_JESUS,Christ the Redeemer Statue,,Estatua del Cristo Redentor,Statue du Christ Rédempteur,Jesusstatue,Statua del Cristo Redentore,Estátua do Cristo Redentor,救世基督像
 FURNITURE_DESC_OBJECT_STATUE_JESUS,,,,,,,,
 FURNITURE_NAME_OBJECT_STATUE_DEVIL,Baphomet Statue,,Estatua de Bafomet,Statue de Baphomet,Statue von Baphomet,Statua di Bafometto,Estátua de Baphomet,巴风特雕像
 FURNITURE_DESC_OBJECT_STATUE_DEVIL,,,,,,,,
@@ -472,7 +472,7 @@ FURNITURE_NAME_OBJECT_STATUE_MERMAID,The Little Mermaid Statue,,Estatua de la Si
 FURNITURE_DESC_OBJECT_STATUE_MERMAID,,,,,,,,
 FURNITURE_NAME_OBJECT_STATUE_LOTUS,Lord Shiva Statue,,Estatua de Shiva,Statue Adiyogi Shiva,Shivastatue,Statua di Shiva,Estátua de Shiva,湿婆神像
 FURNITURE_DESC_OBJECT_STATUE_LOTUS,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_BUDDAH,Laughing Buddha Statue,,Estatua de Buda sonriente,Statue de Bouddha rieur,Statue des lachenden Buddha,Statua del Buddha Sorridente,Estátua do Buda risonho,笑佛雕像
+FURNITURE_NAME_OBJECT_STATUE_BUDDAH,Laughing Buddha Statue,,Estatua de Buda sonriente,Statue de Bouddha rieur,Statue des lachenden Buddha,Statua del Buddha Sorridente,Estátua do Buda risonho,弥勒佛雕像
 FURNITURE_DESC_OBJECT_STATUE_BUDDAH,,,,,,,,
 FURNITURE_NAME_OBJECT_STATUE_LUCKYCAT,Maneki Neko Statue,,Estatua de gato de la suerte,Statue de Maneki Neko,Maneki Neko,Statua di Maneki Neko,Estátua de Maneki Neko,招财猫雕像
 FURNITURE_DESC_OBJECT_STATUE_LUCKYCAT,,,,,,,,
@@ -480,13 +480,13 @@ FURNITURE_NAME_OBJECT_STATUE_BAST,Bastet Statue,,Estatua de Bastet,Statue de Bas
 FURNITURE_DESC_OBJECT_STATUE_BAST,,,,,,,,
 FURNITURE_NAME_OBJECT_STATUE_DARUMA,Daruma Statue,,Estatua de Daruma,Statue de Daruma,Darumastatue,Statua di Daruma,Estátua de Daruma,达摩雕像
 FURNITURE_DESC_OBJECT_STATUE_DARUMA,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDSMALL,Small Easter Island Head,,Cabeza pequeña de la isla de Pascua,Petite tête de l'île de Pâques,Kleine Moai-Statue,Testa piccola dell'Isola di Pasqua,Cabeça pequena da Ilha de Páscoa,小复活节岛头像
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDSMALL,Small Easter Island Head,,Cabeza pequeña de la isla de Pascua,Petite tête de l'île de Pâques,Kleine Moai-Statue,Testa piccola dell'Isola di Pasqua,Cabeça pequena da Ilha de Páscoa,小型复活节岛石像头
 FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDSMALL,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDMEDIUM,Medium Easter Island Head,,Cabeza mediana de la isla de Pascua,Tête de l'île de Pâques,Mittelgroße Moai-Statue,Testa media dell'Isola di Pasqua,Cabeça média da Ilha de Páscoa,中等复活节岛头像
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDMEDIUM,Medium Easter Island Head,,Cabeza mediana de la isla de Pascua,Tête de l'île de Pâques,Mittelgroße Moai-Statue,Testa media dell'Isola di Pasqua,Cabeça média da Ilha de Páscoa,中型复活节岛石像头
 FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDMEDIUM,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDLARGE,Large Easter Island Head,,Cabeza grande de la isla de Pascua,Grande tête de l'île de Pâques,Große Moai-Statue,Testa grande dell'Isola di Pasqua,Cabeça grande da Ilha de Páscoa,大复活节岛头像
+FURNITURE_NAME_OBJECT_STATUE_EASTERISLANDLARGE,Large Easter Island Head,,Cabeza grande de la isla de Pascua,Grande tête de l'île de Pâques,Große Moai-Statue,Testa grande dell'Isola di Pasqua,Cabeça grande da Ilha de Páscoa,大型复活节岛石像头
 FURNITURE_DESC_OBJECT_STATUE_EASTERISLANDLARGE,,,,,,,,
-FURNITURE_NAME_OBJECT_VASE_LARGE,Large Empty Vase,,Jarrón grande vacío,Grande vase vide,Große leere Vase,Grosso vaso vuoto,Vaso grande vazio,大空花瓶
+FURNITURE_NAME_OBJECT_VASE_LARGE,Large Empty Vase,,Jarrón grande vacío,Grande vase vide,Große leere Vase,Grosso vaso vuoto,Vaso grande vazio,大型空花瓶
 FURNITURE_DESC_OBJECT_VASE_LARGE,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_TENTACLE,Potted Tentacle,,Tiesto con tentáculo,Tentacule en pot,Eingetopftes Tentakel,Tentacolo in vaso,Tentáculo no vaso,盆栽触手
 FURNITURE_DESC_OBJECT_PLANT_TENTACLE,,,,,,,,
@@ -494,7 +494,7 @@ FURNITURE_NAME_OBJECT_PLANT_MONSTERA,Potted Monstera,,Tiesto con monstera,Monste
 FURNITURE_DESC_OBJECT_PLANT_MONSTERA,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_SPIKEY,Potted Dracaena,,Tiesto con dracaena,Dracaena en pot,Eingetopfte Dracaena,Dracena in vaso,Dracaena no vaso,盆栽龙血树
 FURNITURE_DESC_OBJECT_PLANT_SPIKEY,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_BUSH,Potted Boxwood,,Tiesto con boj,Buis en pot,Eingetopfter Buchsbaum,Bosso in vaso,Buxo no vaso,盆栽黄杨木
+FURNITURE_NAME_OBJECT_PLANT_BUSH,Potted Boxwood,,Tiesto con boj,Buis en pot,Eingetopfter Buchsbaum,Bosso in vaso,Buxo no vaso,盆栽黄杨
 FURNITURE_DESC_OBJECT_PLANT_BUSH,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_POTATO,Potted Potato,,Tiesto con patatas,Patate en pot,Eingetopfte Kartoffel,Patata in vaso,Batata no vaso,盆栽土豆
 FURNITURE_DESC_OBJECT_PLANT_POTATO,,,,,,,,
@@ -508,31 +508,31 @@ FURNITURE_NAME_OBJECT_PLANT_RAFFLESIA,Potted Rafflesia,,Tiesto con rafflesia,Raf
 FURNITURE_DESC_OBJECT_PLANT_RAFFLESIA,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_PIRANHASPLANT,Potted Piranha Plant,,Tiesto con planta piraña,Plante Piranha en pot,Eingetopfte Piranha-Pflanze,Pianta piranha in vaso,Planta carnívora no vaso,盆栽食人花
 FURNITURE_DESC_OBJECT_PLANT_PIRANHASPLANT,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_CACTUS,Potted Cactuar,,Tiesto con cactilio,Pampa en pot,Eingetopfter Kaktuar,Cactuar in vaso,Cactuar no vaso,盆栽仙人掌
+FURNITURE_NAME_OBJECT_PLANT_CACTUS,Potted Cactuar,,Tiesto con cactilio,Pampa en pot,Eingetopfter Kaktuar,Cactuar in vaso,Cactuar no vaso,盆栽仙人掌怪
 FURNITURE_DESC_OBJECT_PLANT_CACTUS,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_BLOWFISH,Blowfish Aquarium,,Pecera con pez globo,Aquarium de poisson-globe,Aquarium (Kugelfisch),Acquario di pesci palla,Aquário de baiacus,河豚水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_BLOWFISH,Blowfish Aquarium,,Pecera con pez globo,Aquarium de poisson-globe,Aquarium (Kugelfisch),Acquario di pesci palla,Aquário de baiacus,河豚水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_BLOWFISH,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_CATFISH,Catfish Aquarium,,Pecera con pez gato,Aquarium de poisson-chat,Aquarium (Wels),Acquario di pesci gatto,Aquário de bagres,鲶鱼水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_CATFISH,Catfish Aquarium,,Pecera con pez gato,Aquarium de poisson-chat,Aquarium (Wels),Acquario di pesci gatto,Aquário de bagres,鲶鱼水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_CATFISH,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_BOOZE,Booze Aquarium,,Pecera con bebercio,Aquarium de beuverie,Aquarium (Flasche),Acquario di pesci alcool,Aquário de bebida,酒水水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_BOOZE,Booze Aquarium,,Pecera con bebercio,Aquarium de beuverie,Aquarium (Flasche),Acquario di pesci alcool,Aquário de bebida,酒水水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_BOOZE,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_TADPOLES,Tadpole Aquarium,,Pecera con renacuajo,Aquarium de têtard,Aquarium (Kaulquappe),Acquario di girini,Aquário de girinos,蝌蚪水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_TADPOLES,Tadpole Aquarium,,Pecera con renacuajo,Aquarium de têtard,Aquarium (Kaulquappe),Acquario di girini,Aquário de girinos,蝌蚪水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_TADPOLES,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_MERMAID,Fiji Mermaid Aquarium,,Pecera con la sirena de Fiyi,Aquarium de sirène des Fidji,Aquarium (Fidschi-Meerjungfrau),Acquario di sirene delle Fiji,Aquário de sereias de Fiji,斐济美人鱼水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_MERMAID,Fiji Mermaid Aquarium,,Pecera con la sirena de Fiyi,Aquarium de sirène des Fidji,Aquarium (Fidschi-Meerjungfrau),Acquario di sirene delle Fiji,Aquário de sereias de Fiji,斐济美人鱼水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_MERMAID,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_WHALE,Baby Whale Aquarium,,Pecera con cría de ballena,Aquarium de baleineau,Aquarium (Babywal),Acquario di baby balene,Aquário de baleias bebês,小鲸鱼水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_WHALE,Baby Whale Aquarium,,Pecera con cría de ballena,Aquarium de baleineau,Aquarium (Babywal),Acquario di baby balene,Aquário de baleias bebês,鲸鱼宝宝水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_WHALE,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_TADPOLES,Small Tadpole Aquarium,,Pecera con renacuajo pequeño,Petit aquarium de têtard,Aquarium (Kleine Kaulquappe),Acquario piccolo di girini,Aquário pequeno de girinos,小蝌蚪水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_TADPOLES,Small Tadpole Aquarium,,Pecera con renacuajo pequeño,Petit aquarium de têtard,Aquarium (Kleine Kaulquappe),Acquario piccolo di girini,Aquário pequeno de girinos,小型蝌蚪水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_TADPOLES,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_POOP,Small Poop Aquarium,,Pecera con caca pequeña,Petit aquarium de caca,Aquarium (Kleines Häufchen),Acquario piccolo di cacche,Aquário pequeno de cocôs,小便便水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_POOP,Small Poop Aquarium,,Pecera con caca pequeña,Petit aquarium de caca,Aquarium (Kleines Häufchen),Acquario piccolo di cacche,Aquário pequeno de cocôs,小型便便水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_POOP,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_SKULL,Small Skull Aquarium,,Pecera con cráneo pequeño,Petit aquarium de crâne,Aquarium (Kleiner Schädel),Acquario piccolo di teschi,Aquário pequeno de crânios,小骷髅水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_SKULL,Small Skull Aquarium,,Pecera con cráneo pequeño,Petit aquarium de crâne,Aquarium (Kleiner Schädel),Acquario piccolo di teschi,Aquário pequeno de crânios,小型头骨水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_SKULL,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_FISH,Small Goldfish Aquarium,,Pecera con pez dorado pequeño,Petit aquarium de poisson rouge,Aquarium (Kleiner Goldfisch),Acquario piccolo di pesci rossi,Aquário pequeno de peixinhos dourados,小金鱼水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_FISH,Small Goldfish Aquarium,,Pecera con pez dorado pequeño,Petit aquarium de poisson rouge,Aquarium (Kleiner Goldfisch),Acquario piccolo di pesci rossi,Aquário pequeno de peixinhos dourados,小型金鱼水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_FISH,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISH,Small Minnow Aquarium,,Pecera con foxino pequeño,Petit aquarium de vairon,Aquarium (Kleine Elritze),Acquario piccolo di esche,Aquário pequeno de tanictis,小鲦鱼水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISH,Small Minnow Aquarium,,Pecera con foxino pequeño,Petit aquarium de vairon,Aquarium (Kleine Elritze),Acquario piccolo di esche,Aquário pequeno de tanictis,小型鲦鱼水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_LILFISH,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISHES,Small Minnow Family Aquarium,,Pecera con familia de foxinos,Petit aquarium famille de vairons,Aquarium (Kleine Elritzenfamilie),Acquario piccolo di famiglie di esche,Aquário pequeno de família de tanictis,小鲦鱼家族水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_SMALL_LILFISHES,Small Minnow Family Aquarium,,Pecera con familia de foxinos,Petit aquarium famille de vairons,Aquarium (Kleine Elritzenfamilie),Acquario piccolo di famiglie di esche,Aquário pequeno de família de tanictis,小型鲦鱼家族水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_SMALL_LILFISHES,,,,,,,,
 FURNITURE_NAME_OBJECT_RADIO_30S,30s Radio ,,Radio de los años 30 ,Radio des années&nbsp;30,30er-Radio ,Radio anni '30,Rádio dos anos 30,30年代收音机
 FURNITURE_DESC_OBJECT_RADIO_30S,,,,,,,,
@@ -550,33 +550,33 @@ FURNITURE_NAME_OBJECT_RADIO_90S,90s Radio,,Radio noventera,Radio des années&nbs
 FURNITURE_DESC_OBJECT_RADIO_90S,,,,,,,,
 FURNITURE_NAME_OBJECT_RADIO_60S,60s Radio,,Radio sesentera,Radio des années&nbsp;60,60er-Radio,Radio anni '60,Rádio dos anos 60,60年代收音机
 FURNITURE_DESC_OBJECT_RADIO_60S,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_PIG,Taxidermy Pig,,Cerdo disecado,Cochon empaillé,Ausgestopftes Schwein,Maiale impagliato,Porco empalhado,人体标本小猪
+FURNITURE_NAME_OBJECT_TAXIDERMY_PIG,Taxidermy Pig,,Cerdo disecado,Cochon empaillé,Ausgestopftes Schwein,Maiale impagliato,Porco empalhado,猪标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_PIG,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_BAT,Taxidermy Bat,,Murciélago disecado,Chauve-souris empaillée,Ausgestopfte Fledermaus,Pipistrello impagliato,Morcego empalhado,人体标本蝙蝠
+FURNITURE_NAME_OBJECT_TAXIDERMY_BAT,Taxidermy Bat,,Murciélago disecado,Chauve-souris empaillée,Ausgestopfte Fledermaus,Pipistrello impagliato,Morcego empalhado,蝙蝠标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_BAT,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_FISH,Taxidermy Cod,,Bacalao disecado,Cabillaud empaillé,Ausgestopfter Kabeljau,Merluzzo impagliato,Bacalhau empalhado,人体标本鳕鱼
+FURNITURE_NAME_OBJECT_TAXIDERMY_FISH,Taxidermy Cod,,Bacalao disecado,Cabillaud empaillé,Ausgestopfter Kabeljau,Merluzzo impagliato,Bacalhau empalhado,鳕鱼标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_FISH,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_BIRD,Taxidermy Pigeon,,Palomo disecado,Pigeon empaillé,Ausgestopfte Taube,Piccione impagliato,Pombo empalhado,人体标本鸽子
+FURNITURE_NAME_OBJECT_TAXIDERMY_BIRD,Taxidermy Pigeon,,Palomo disecado,Pigeon empaillé,Ausgestopfte Taube,Piccione impagliato,Pombo empalhado,鸽子标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_BIRD,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_TURTLE,Taxidermy Turtle,,Tortuga disecada,Tortue empaillée,Ausgestopfte Schildkröte,Tartaruga impagliata,Tartaruga empalhada,人体标本乌龟
+FURNITURE_NAME_OBJECT_TAXIDERMY_TURTLE,Taxidermy Turtle,,Tortuga disecada,Tortue empaillée,Ausgestopfte Schildkröte,Tartaruga impagliata,Tartaruga empalhada,乌龟标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_TURTLE,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_LIZARD,Taxidermy Iguana,,Iguana disecada,Iguane empaillé,Ausgestopfter Iguana,Iguana impagliata,Iguana empalhada,人体标本鬣蜥
+FURNITURE_NAME_OBJECT_TAXIDERMY_LIZARD,Taxidermy Iguana,,Iguana disecada,Iguane empaillé,Ausgestopfter Iguana,Iguana impagliata,Iguana empalhada,鬣蜥标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_LIZARD,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_SNAKE,Taxidermy Snake,,Serpiente disecada,Serpent empaillé,Ausgestopfte Schlange,Serpente impagliato,Cobra empalhada,人体标本蛇
+FURNITURE_NAME_OBJECT_TAXIDERMY_SNAKE,Taxidermy Snake,,Serpiente disecada,Serpent empaillé,Ausgestopfte Schlange,Serpente impagliato,Cobra empalhada,蛇标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_SNAKE,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_SQUIRREL,Taxidermy Squirrel,,Ardilla disecada,Écureuil empaillé,Ausgestopftes Eichhörnchen,Scoiattolo impagliato,Esquilo empalhado,人体标本松鼠
+FURNITURE_NAME_OBJECT_TAXIDERMY_SQUIRREL,Taxidermy Squirrel,,Ardilla disecada,Écureuil empaillé,Ausgestopftes Eichhörnchen,Scoiattolo impagliato,Esquilo empalhado,松鼠标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_SQUIRREL,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_MOUSE,Taxidermy Mouse,,Ratón disecado,Souris empaillée,Ausgestopfte Maus,Topo impagliato,Camundongo empalhado,人体标本老鼠
+FURNITURE_NAME_OBJECT_TAXIDERMY_MOUSE,Taxidermy Mouse,,Ratón disecado,Souris empaillée,Ausgestopfte Maus,Topo impagliato,Camundongo empalhado,小鼠标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_MOUSE,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_GOPHER,Taxidermy Gopher,,Taltuza disecada,Gauphre empaillé,Ausgestopftes Erdhörnchen,Geomide impagliato,Geômis empalhado,人体标本旱獭
+FURNITURE_NAME_OBJECT_TAXIDERMY_GOPHER,Taxidermy Gopher,,Taltuza disecada,Gauphre empaillé,Ausgestopftes Erdhörnchen,Geomide impagliato,Geômis empalhado,地鼠标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_GOPHER,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_CROW,Taxidermy Crow,,Cuervo disecado,Corbeau empaillé,Ausgestopfte Krähe,Corvo impagliato,Corvo empalhado,人体标本乌鸦
+FURNITURE_NAME_OBJECT_TAXIDERMY_CROW,Taxidermy Crow,,Cuervo disecado,Corbeau empaillé,Ausgestopfte Krähe,Corvo impagliato,Corvo empalhado,乌鸦标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_CROW,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_RAT,Taxidermy Rat,,Rata disecada,Rat empaillé,Ausgestopfte Ratte,Ratto impagliato,Rato empalhado,人体标本大鼠
+FURNITURE_NAME_OBJECT_TAXIDERMY_RAT,Taxidermy Rat,,Rata disecada,Rat empaillé,Ausgestopfte Ratte,Ratto impagliato,Rato empalhado,老鼠标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_RAT,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_MONITOR,PC Monitor,,Monitor de PC,Écran d'ordinateur,PC-Monitor,Monitor del PC,Monitor,电脑显示器
 FURNITURE_DESC_OBJECT_ELECTRONICS_MONITOR,,,,,,,,
-FURNITURE_NAME_OBJECT_ELECTRONICS_PC,PC,,PC,PC,PC,PC,PC,个人电脑
+FURNITURE_NAME_OBJECT_ELECTRONICS_PC,PC,,PC,PC,PC,PC,PC,电脑
 FURNITURE_DESC_OBJECT_ELECTRONICS_PC,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_PRINTER,Printer,,Impresora,Imprimante,Drucker,Stampante,Impressora,打印机
 FURNITURE_DESC_OBJECT_ELECTRONICS_PRINTER,,,,,,,,
@@ -584,9 +584,9 @@ FURNITURE_NAME_OBJECT_ELECTRONICS_LAPTOP,Laptop,,Portátil,PC portable,Laptop,Co
 FURNITURE_DESC_OBJECT_ELECTRONICS_LAPTOP,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_VHS,VHS Player,,Reproductor VHS,Lecteur de cassettes,Videorekorder,Lettore VHS,Videocassete,录像机
 FURNITURE_DESC_OBJECT_ELECTRONICS_VHS,,,,,,,,
-FURNITURE_NAME_OBJECT_ELECTRONICS_DVDPLAYER,DVD Player,,Reproductor DVD,Lecteur de DVD,DVD-Player,Lettore DVD,DVD Player,DVD播放器
+FURNITURE_NAME_OBJECT_ELECTRONICS_DVDPLAYER,DVD Player,,Reproductor DVD,Lecteur de DVD,DVD-Player,Lettore DVD,DVD Player,DVD播放机
 FURNITURE_DESC_OBJECT_ELECTRONICS_DVDPLAYER,,,,,,,,
-FURNITURE_NAME_OBJECT_ELECTRONICS_SPEAKER,Speaker,,Altavoz,Enceinte,Lautsprecher,Altoparlante,Alto-falante,扬声器
+FURNITURE_NAME_OBJECT_ELECTRONICS_SPEAKER,Speaker,,Altavoz,Enceinte,Lautsprecher,Altoparlante,Alto-falante,音箱
 FURNITURE_DESC_OBJECT_ELECTRONICS_SPEAKER,,,,,,,,
 FURNITURE_NAME_OBJECT_BOOKS1,Books A,,Libros A,Livres&nbsp;A,Bücher A,Libri A,Livros A,书籍 A
 FURNITURE_DESC_OBJECT_BOOKS1,,,,,,,,
@@ -618,13 +618,13 @@ FURNITURE_NAME_OBJECT_PLANT_SUNFLOWER,Potted Sunflower,,Tiesto con girasol,Tourn
 FURNITURE_DESC_OBJECT_PLANT_SUNFLOWER,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_MUSHROOM,Potted Mushroom,,Tiesto con seta,Champignon en pot,Eingetopfter Pilz,Fungo in vaso,Cogumelo no vaso,盆栽蘑菇
 FURNITURE_DESC_OBJECT_PLANT_MUSHROOM,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_MUSHROOMS,Potted Mushrooms,,Tiesto con setas,Champignons en pot,Eingetopfte Pilze,Funghi in vaso,Cogumelos no vaso,盆栽蘑菇
+FURNITURE_NAME_OBJECT_PLANT_MUSHROOMS,Potted Mushrooms,,Tiesto con setas,Champignons en pot,Eingetopfte Pilze,Funghi in vaso,Cogumelos no vaso,盆栽蘑菇丛
 FURNITURE_DESC_OBJECT_PLANT_MUSHROOMS,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_BULB1,Potted Green Bulb,,Tiesto con bulbo verde,Bulbe vert en pot,Eingetopfte grüne Knolle,Bulbo verde in vaso,Bulbo verde no vaso,盆栽绿灯泡
+FURNITURE_NAME_OBJECT_PLANT_BULB1,Potted Green Bulb,,Tiesto con bulbo verde,Bulbe vert en pot,Eingetopfte grüne Knolle,Bulbo verde in vaso,Bulbo verde no vaso,盆栽绿色球茎
 FURNITURE_DESC_OBJECT_PLANT_BULB1,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_BULB2,Potted Blue Bulb,,Tiesto con bulbo azul,Bulbe bleu en pot,Eingetopfte blaue Knolle,Bulbo blu in vaso,Bulbo azul no vaso,盆栽蓝灯泡
+FURNITURE_NAME_OBJECT_PLANT_BULB2,Potted Blue Bulb,,Tiesto con bulbo azul,Bulbe bleu en pot,Eingetopfte blaue Knolle,Bulbo blu in vaso,Bulbo azul no vaso,盆栽蓝色球茎
 FURNITURE_DESC_OBJECT_PLANT_BULB2,,,,,,,,
-FURNITURE_NAME_OBJECT_PLANT_BULB3,Potted Yellow Bulb,,Tiesto con bulbo amarillo,Bulbe jaune en pot,Eingetopfte gelbe Knolle,Bulbo giallo in vaso,Bulbo amarelo no vaso,盆栽黄灯泡
+FURNITURE_NAME_OBJECT_PLANT_BULB3,Potted Yellow Bulb,,Tiesto con bulbo amarillo,Bulbe jaune en pot,Eingetopfte gelbe Knolle,Bulbo giallo in vaso,Bulbo amarelo no vaso,盆栽黄色球茎
 FURNITURE_DESC_OBJECT_PLANT_BULB3,,,,,,,,
 FURNITURE_NAME_OBJECT_PLANT_FLYTRAP,Venus Flytrap,,Atrapamoscas,Dionée attrape-mouche,Venusfliegenfalle,Venere acchiappamosche,Dionaea muscipula,捕蝇草
 FURNITURE_DESC_OBJECT_PLANT_FLYTRAP,,,,,,,,
@@ -636,11 +636,11 @@ FURNITURE_NAME_OBJECT_TELEPHONE_10S,Antique Telephone ,,Teléfono antiguo ,Tél�
 FURNITURE_DESC_OBJECT_TELEPHONE_10S,,,,,,,,
 FURNITURE_NAME_OBJECT_COFFEN,Coffin,,Ataúd,Cercueil,Sarg,Bara,Caixão,棺材
 FURNITURE_DESC_OBJECT_COFFEN,,,,,,,,
-FURNITURE_NAME_OBJECT_BARREL,Barrel,,Barril,Tonneau,Fass,Barile,Barril,桶
+FURNITURE_NAME_OBJECT_BARREL,Barrel,,Barril,Tonneau,Fass,Barile,Barril,木桶
 FURNITURE_DESC_OBJECT_BARREL,,,,,,,,
 FURNITURE_NAME_OBJECT_TOXICWASTE,Toxic Waste,,Residuo tóxico,Déchets toxiques,Giftmüll,Rifiuti tossici,Lixo tóxico,有毒废料
 FURNITURE_DESC_OBJECT_TOXICWASTE,,,,,,,,
-FURNITURE_NAME_OBJECT_CRATE,Crate,,Caja,Caisse,Kiste,Cassa,Caixa,箱子
+FURNITURE_NAME_OBJECT_CRATE,Crate,,Caja,Caisse,Kiste,Cassa,Caixa,木箱
 FURNITURE_DESC_OBJECT_CRATE,,,,,,,,
 FURNITURE_NAME_OBJECT_CHEST,Chest,,Cofre,Coffre,Truhe,Baule,Baú,箱子
 FURNITURE_DESC_OBJECT_CHEST,,,,,,,,
@@ -652,9 +652,9 @@ FURNITURE_NAME_OBJECT_ELECTRONICS_MICROWAVE2,Microwave B,,Microondas B,Micro-ond
 FURNITURE_DESC_OBJECT_ELECTRONICS_MICROWAVE2,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_MICROWAVE3,Microwave C,,Microondas C,Micro-ondes&nbsp;C,Mikrowelle C,Microonde C,Micro-ondas C,微波炉 C
 FURNITURE_DESC_OBJECT_ELECTRONICS_MICROWAVE3,,,,,,,,
-FURNITURE_NAME_OBJECT_CINDERBLOCK1,Cinderblock,,Bloque de hormigón,Parpaing,Betonblock,Blocco di cemento,Bloco de concreto,混凝土块
+FURNITURE_NAME_OBJECT_CINDERBLOCK1,Cinderblock,,Bloque de hormigón,Parpaing,Betonblock,Blocco di cemento,Bloco de concreto,煤渣块
 FURNITURE_DESC_OBJECT_CINDERBLOCK1,,,,,,,,
-FURNITURE_NAME_OBJECT_CINDERBLOCK2,Small Cinderblock,,Bloque de hormigón pequeño,Petit parpaing,Kleiner Betonblock,Blocco di cemento piccolo,Bloco de concreto pequeno,小混凝土块
+FURNITURE_NAME_OBJECT_CINDERBLOCK2,Small Cinderblock,,Bloque de hormigón pequeño,Petit parpaing,Kleiner Betonblock,Blocco di cemento piccolo,Bloco de concreto pequeno,小煤渣块
 FURNITURE_DESC_OBJECT_CINDERBLOCK2,,,,,,,,
 FURNITURE_NAME_OBJECT_ROCK,Rock,,Roca,Pierre,Stein,Roccia,Pedra,岩石
 FURNITURE_DESC_OBJECT_ROCK,,,,,,,,
@@ -662,7 +662,7 @@ FURNITURE_NAME_OBJECT_SMALLROCK,Small Rock,,Roca pequeña,Caillou,Kleiner Stein,
 FURNITURE_DESC_OBJECT_SMALLROCK,,,,,,,,
 FURNITURE_NAME_OBJECT_DIAMOND,Diamond,,Diamante,Diamant,Diamant,Diamante,Diamante,钻石
 FURNITURE_DESC_OBJECT_DIAMOND,,,,,,,,
-FURNITURE_NAME_OBJECT_ELECTRONICS_ORB,Plasma Orb,,Orbe plasmático,Orbe de plasma,Plasmakugel,Sfera di plasma,Orbe de plasma,等离子体球
+FURNITURE_NAME_OBJECT_ELECTRONICS_ORB,Plasma Orb,,Orbe plasmático,Orbe de plasma,Plasmakugel,Sfera di plasma,Orbe de plasma,等离子球
 FURNITURE_DESC_OBJECT_ELECTRONICS_ORB,,,,,,,,
 FURNITURE_NAME_OBJECT_CRYSTALBALL,Crystal Ball,,Bola de cristal,Boule de cristal,Kristallkugel,Sfera di cristallo,Bola de cristal,水晶球
 FURNITURE_DESC_OBJECT_CRYSTALBALL,,,,,,,,
@@ -676,13 +676,13 @@ FURNITURE_NAME_OBJECT_JAR_HEAD1,Head In Jar A,,Cabeza en un tarro A,Tête en boc
 FURNITURE_DESC_OBJECT_JAR_HEAD1,,,,,,,,
 FURNITURE_NAME_OBJECT_JAR_HEAD2,Head In Jar B,,Cabeza en un tarro B,Tête en bocal&nbsp;B,Kopf im Glas B,Testa in barattolo B,Cabeça no pote B,罐中头 B
 FURNITURE_DESC_OBJECT_JAR_HEAD2,,,,,,,,
-FURNITURE_NAME_OBJECT_JAR_EGGS,Jar of Eggs,,Tarro con huevos,Bocal d'œufs,Glas mit Eiern,Barattolo di uova,Pote de ovos,蛋罐
+FURNITURE_NAME_OBJECT_JAR_EGGS,Jar of Eggs,,Tarro con huevos,Bocal d'œufs,Glas mit Eiern,Barattolo di uova,Pote de ovos,一罐蛋
 FURNITURE_DESC_OBJECT_JAR_EGGS,,,,,,,,
-FURNITURE_NAME_OBJECT_JAR_CAT,Conjoined Cat in Jar,,Gato conjunto en un tarro,Chats fusionnés en bocal,Siamesische Katzen im Glas,Gatto siamese in barattolo,Gatos siameses no pote,连体猫罐
+FURNITURE_NAME_OBJECT_JAR_CAT,Conjoined Cat in Jar,,Gato conjunto en un tarro,Chats fusionnés en bocal,Siamesische Katzen im Glas,Gatto siamese in barattolo,Gatos siameses no pote,罐中连体猫
 FURNITURE_DESC_OBJECT_JAR_CAT,,,,,,,,
 FURNITURE_NAME_OBJECT_JAR_FETUS,Fetus in a Jar,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in barattolo,Feto no pote,罐中胎儿
 FURNITURE_DESC_OBJECT_JAR_FETUS,,,,,,,,
-FURNITURE_NAME_OBJECT_LOG,Log,,Tronco,Bûche,Stamm,Tronco,Tronco,日记
+FURNITURE_NAME_OBJECT_LOG,Log,,Tronco,Bûche,Stamm,Tronco,Tronco,原木
 FURNITURE_DESC_OBJECT_LOG,,,,,,,,
 FURNITURE_NAME_OBJECT_FOOD_HAM,Ham,,Jamón,Jambon,Schinken,Prosciutto,Presunto,火腿
 FURNITURE_DESC_OBJECT_FOOD_HAM,,,,,,,,
@@ -690,39 +690,39 @@ FURNITURE_NAME_OBJECT_FOOD_TURKEY,Turkey,,Pavo,Dinde,Pute,Tacchino,Peru,火鸡
 FURNITURE_DESC_OBJECT_FOOD_TURKEY,,,,,,,,
 FURNITURE_NAME_OBJECT_BUG_CENIPEDE,Centipede,,Ciempiés,Centipède,Tausendfüßler,Millepiedi,Centopeia,蜈蚣
 FURNITURE_DESC_OBJECT_BUG_CENIPEDE,,,,,,,,
-FURNITURE_NAME_OBJECT_BUG_PILLBUG,Pillbug,,Cochinilla,Cloporte,Kugelassel,Porcellino di terra,Bicho-de-conta,草履虫
+FURNITURE_NAME_OBJECT_BUG_PILLBUG,Pillbug,,Cochinilla,Cloporte,Kugelassel,Porcellino di terra,Bicho-de-conta,潮虫
 FURNITURE_DESC_OBJECT_BUG_PILLBUG,,,,,,,,
 FURNITURE_NAME_OBJECT_BUG_SPIDER,Black Widow,,Viuda negra,Veuve noire,Schwarze Witwe,Vedova nera,Viúva negra,黑寡妇
 FURNITURE_DESC_OBJECT_BUG_SPIDER,,,,,,,,
 FURNITURE_NAME_OBJECT_FISHTANK_CHAMELEON,Chameleon,,Camaleón,Caméléon,Chamäleon,Camaleonte,Camaleão,变色龙
 FURNITURE_DESC_OBJECT_FISHTANK_CHAMELEON,,,,,,,,
-FURNITURE_NAME_OBJECT_GASTANK,Gas Tank,,Bidón de gasolina,Réservoir,Gastank,Serbatoio del carburante,Tanque de gasolina,燃气罐
+FURNITURE_NAME_OBJECT_GASTANK,Gas Tank,,Bidón de gasolina,Réservoir,Gastank,Serbatoio del carburante,Tanque de gasolina,煤气罐
 FURNITURE_DESC_OBJECT_GASTANK,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_ARCADE1,Arcade Machine,,Máquina recreativa,Borne d'arcade,Spielautomat,Arcade da sala giochi,Fliperama,街机
 FURNITURE_DESC_OBJECT_ELECTRONICS_ARCADE1,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_ARCADE2,Indie Arcade,,Recreativa indie,Borne d'arcade indie,Indie-Spielautomat,Arcade indie,Arcade,独立游戏街机
 FURNITURE_DESC_OBJECT_ELECTRONICS_ARCADE2,,,,,,,,
-FURNITURE_NAME_OBJECT_FORTUNETELLER,Fortuneteller,,Máquina de adivinación,Voyante,Wahrsager,Chiromante,Vidente,算命师
+FURNITURE_NAME_OBJECT_FORTUNETELLER,Fortuneteller,,Máquina de adivinación,Voyante,Wahrsager,Chiromante,Vidente,占卜机
 FURNITURE_DESC_OBJECT_FORTUNETELLER,,,,,,,,
 FURNITURE_NAME_OBJECT_ELECTRONICS_CRANEGAME,Crane Game,,Máquina de gancho,Machine à pince,Greifautomat,Gioco dell'artiglio,Máquina de gancho,抓娃娃机
 FURNITURE_DESC_OBJECT_ELECTRONICS_CRANEGAME,,,,,,,,
-FURNITURE_NAME_OBJECT_OUTHOUSE,Outhouse,,Retrete exterior,Remise,Plumpsklo,Latrina,Casinha,户外简易厕所
+FURNITURE_NAME_OBJECT_OUTHOUSE,Outhouse,,Retrete exterior,Remise,Plumpsklo,Latrina,Casinha,茅房
 FURNITURE_DESC_OBJECT_OUTHOUSE,,,,,,,,
-FURNITURE_NAME_OBJECT_POTOPOTTY,Pot O' Potty,,Váter portátil,Sanitaire mobile,Toilettenkabine,Vasino,Banheirinho,便桶
+FURNITURE_NAME_OBJECT_POTOPOTTY,Pot O' Potty,,Váter portátil,Sanitaire mobile,Toilettenkabine,Vasino,Banheirinho,金罐马桶
 FURNITURE_DESC_OBJECT_POTOPOTTY,,,,,,,,
-FURNITURE_NAME_OBJECT_ICECHEST,Ice Chest,,Nevera portátil,Glacière,Eistruhe,Ghiacciaia,Baú de gelo,冰箱
+FURNITURE_NAME_OBJECT_ICECHEST,Ice Chest,,Nevera portátil,Glacière,Eistruhe,Ghiacciaia,Baú de gelo,保温箱
 FURNITURE_DESC_OBJECT_ICECHEST,,,,,,,,
-FURNITURE_NAME_OBJECT_FISHTANK_OCTOCAT,Octocat Aquarium,,Pecera con octogato,Aquarium de chapoulpe,Aquarium (Oktokatze),Acquario di poligatto,Aquário de polvogatos,章鱼猫水族馆
+FURNITURE_NAME_OBJECT_FISHTANK_OCTOCAT,Octocat Aquarium,,Pecera con octogato,Aquarium de chapoulpe,Aquarium (Oktokatze),Acquario di poligatto,Aquário de polvogatos,八爪猫水族箱
 FURNITURE_DESC_OBJECT_FISHTANK_OCTOCAT,,,,,,,,
-FURNITURE_NAME_OBJECT_TAXIDERMY_BEAR,Taxidermy Bear,,Oso disecado,Ours empaillé,Ausgestopfter Bär,Orso impagliato,Urso empalhado,标本熊
+FURNITURE_NAME_OBJECT_TAXIDERMY_BEAR,Taxidermy Bear,,Oso disecado,Ours empaillé,Ausgestopfter Bär,Orso impagliato,Urso empalhado,熊标本
 FURNITURE_DESC_OBJECT_TAXIDERMY_BEAR,,,,,,,,
 FURNITURE_NAME_OBJECT_BATH1,Antique Bath,,Bañera antigua,Baignoire antique,Antike Badewanne,Vasca antica,Banheira antiga,古董浴缸
 FURNITURE_DESC_OBJECT_BATH1,,,,,,,,
 FURNITURE_NAME_OBJECT_BATH2,Retro Bath,,Bañera retro,Baignoire rétro,Retrobadewanne,Vasca rétro,Banheira retrô,复古浴缸
 FURNITURE_DESC_OBJECT_BATH2,,,,,,,,
-FURNITURE_NAME_OBJECT_SHOWER,Shower,,Ducha,Douche,Dusche,Doccia,Chuveiro,淋浴
+FURNITURE_NAME_OBJECT_SHOWER,Shower,,Ducha,Douche,Dusche,Doccia,Chuveiro,淋浴间
 FURNITURE_DESC_OBJECT_SHOWER,,,,,,,,
-FURNITURE_NAME_OBJECT_BBQ,BBQ,,Barbacoa,BBQ,Grill,Barbecue,Churrasqueira,烤肉
+FURNITURE_NAME_OBJECT_BBQ,BBQ,,Barbacoa,BBQ,Grill,Barbecue,Churrasqueira,烧烤架
 FURNITURE_DESC_OBJECT_BBQ,,,,,,,,
 FURNITURE_NAME_OBJECT_OLDSTOVE,Antique Stove,,Hornillo antiguo,Cuisinière antique,Antiker Ofen,Stufa antica,Fogão antigo,古董炉灶
 FURNITURE_DESC_OBJECT_OLDSTOVE,,,,,,,,
@@ -730,9 +730,9 @@ FURNITURE_NAME_OBJECT_EASEL,Easel,,Caballete,Chevalet,Staffelei,Cavalletto,Caval
 FURNITURE_DESC_OBJECT_EASEL,,,,,,,,
 FURNITURE_NAME_OBJECT_BIRDCAGE,Birdcage,,Jaula,Cage à oiseaux,Vogelkäfig,Gabbia per uccelli,Gaiola de pássaros,鸟笼
 FURNITURE_DESC_OBJECT_BIRDCAGE,,,,,,,,
-FURNITURE_NAME_OBJECT_DOLLHOUSE,Dollhouse,,Casita de muñecas,Maison de poupée,Puppenhaus,Casa delle bambole,Casa de bonecas,娃娃屋
+FURNITURE_NAME_OBJECT_DOLLHOUSE,Dollhouse,,Casita de muñecas,Maison de poupée,Puppenhaus,Casa delle bambole,Casa de bonecas,玩偶屋
 FURNITURE_DESC_OBJECT_DOLLHOUSE,,,,,,,,
-FURNITURE_NAME_OBJECT_SAFE,Safe,,Caja fuerte,Coffre-fort,Safe,Cassaforte,Cofre,安全
+FURNITURE_NAME_OBJECT_SAFE,Safe,,Caja fuerte,Coffre-fort,Safe,Cassaforte,Cofre,保险箱
 FURNITURE_DESC_OBJECT_SAFE,,,,,,,,
 FURNITURE_NAME_OBJECT_BED,Mattress,,Colchón,Matelas,Matratze,Materasso,Colchão,床垫
 FURNITURE_DESC_OBJECT_BED,,,,,,,,
@@ -740,11 +740,11 @@ FURNITURE_NAME_OBJECT_WATERTOWER,Water Cooler,,Dispensador de agua,Fontaine à e
 FURNITURE_DESC_OBJECT_WATERTOWER,,,,,,,,
 FURNITURE_NAME_OBJECT_VISIBLEMAN,Visible Man,,Torso anatómico,Torse d'homme,Anatomiemodell,Uomo visibile,Modelo anatômico,透明人体模型
 FURNITURE_DESC_OBJECT_VISIBLEMAN,,,,,,,,
-FURNITURE_NAME_OBJECT_STATUE_STONEHEAD,Olmec Head,,Cabeza olmeca,Tête olmèque,Olmec-Kopf,Testa olmeca,Cabeça de Olmec,奥尔梅克头
+FURNITURE_NAME_OBJECT_STATUE_STONEHEAD,Olmec Head,,Cabeza olmeca,Tête olmèque,Olmec-Kopf,Testa olmeca,Cabeça de Olmec,奥尔梅克头像
 FURNITURE_DESC_OBJECT_STATUE_STONEHEAD,,,,,,,,
-FURNITURE_NAME_OBJECT_CLOCK,Grandfather Clock,,Reloj de pie,Horloge de parquet,Großvateruhr,Orologio a pendolo,Relógio antigo,座钟
+FURNITURE_NAME_OBJECT_CLOCK,Grandfather Clock,,Reloj de pie,Horloge de parquet,Großvateruhr,Orologio a pendolo,Relógio antigo,落地钟
 FURNITURE_DESC_OBJECT_CLOCK,,,,,,,,
-FURNITURE_NAME_OBJECT_IV,IV,,IV,Intraveineuse,Infusionsständer,Flebo,Soro,静脉注射
+FURNITURE_NAME_OBJECT_IV,IV,,IV,Intraveineuse,Infusionsständer,Flebo,Soro,输液架
 FURNITURE_DESC_OBJECT_IV,,,,,,,,
 FURNITURE_NAME_OBJECT_FIREPLACE,Fireplace,,Chimenea,Cheminée,Kamin,Camino,Lareira,壁炉
 FURNITURE_DESC_OBJECT_FIREPLACE,,,,,,,,
@@ -752,13 +752,13 @@ FURNITURE_NAME_OBJECT_DRYER,Dryer,,Secadora,Sèche-linge,Trockner,Asciugatrice,S
 FURNITURE_DESC_OBJECT_DRYER,,,,,,,,
 FURNITURE_NAME_OBJECT_WASHER,Washer,,Lavadora,Machine à laver,Waschmaschine,Lavatrice,Lava-roupas,洗衣机
 FURNITURE_DESC_OBJECT_WASHER,,,,,,,,
-FURNITURE_NAME_OBJECT_FILINGCABINET,Filing Cabinet,,Archivador,Classeur à tiroirs,Aktenschrank,Schedario,Arquivo,文件柜
+FURNITURE_NAME_OBJECT_FILINGCABINET,Filing Cabinet,,Archivador,Classeur à tiroirs,Aktenschrank,Schedario,Arquivo,档案柜
 FURNITURE_DESC_OBJECT_FILINGCABINET,,,,,,,,
-FURNITURE_NAME_OBJECT_CATTREE1,Cat Tree A,,Árbol rascador A,Arbre à chat&nbsp;A,Katzenbaum A,Tiragraffi A,Árvore de gatos A,猫树 A
+FURNITURE_NAME_OBJECT_CATTREE1,Cat Tree A,,Árbol rascador A,Arbre à chat&nbsp;A,Katzenbaum A,Tiragraffi A,Árvore de gatos A,猫爬架 A
 FURNITURE_DESC_OBJECT_CATTREE1,,,,,,,,
-FURNITURE_NAME_OBJECT_CATTREE2,Cat Tree B,,Árbol rascador B,Arbre à chat&nbsp;B,Katzenbaum B,Tiragraffi B,Árvore de gatos B,猫树 B
+FURNITURE_NAME_OBJECT_CATTREE2,Cat Tree B,,Árbol rascador B,Arbre à chat&nbsp;B,Katzenbaum B,Tiragraffi B,Árvore de gatos B,猫爬架 B
 FURNITURE_DESC_OBJECT_CATTREE2,,,,,,,,
-FURNITURE_NAME_OBJECT_CATTREE3,Cat Tree C,,Árbol rascador C,Arbre à chat&nbsp;C,Katzenbaum C,Tiragraffi C,Árvore de gatos C,猫树 C
+FURNITURE_NAME_OBJECT_CATTREE3,Cat Tree C,,Árbol rascador C,Arbre à chat&nbsp;C,Katzenbaum C,Tiragraffi C,Árvore de gatos C,猫爬架 C
 FURNITURE_DESC_OBJECT_CATTREE3,,,,,,,,
 FURNITURE_NAME_OBJECT_PUNCHY,Boxing Bill,,Muñeco de boxeo,Torse de boxe,Boxfigur,Boxing Bill,Bob,拳击比尔
 FURNITURE_DESC_OBJECT_PUNCHY,,,,,,,,
@@ -766,65 +766,65 @@ FURNITURE_NAME_OBJECT_SINK,Sink,,Lavabo,Évier,Waschbecken,Lavandino,Pia,水槽
 FURNITURE_DESC_OBJECT_SINK,,,,,,,,
 FURNITURE_NAME_OBJECT_TOOLCHEST,Tool Chest,,Carrito de herramientas,Coffre à outils,Werkzeugkiste,Cassetta degli attrezzi,Caixa de ferramentas,工具箱
 FURNITURE_DESC_OBJECT_TOOLCHEST,,,,,,,,
-FURNITURE_NAME_OBJECT_IRONINGBOARD,Ironing Board,,Tabla de planchar,Plancher à repasser,Bügelbrett,Asse da stiro,Tábua de passar,熨衣板
+FURNITURE_NAME_OBJECT_IRONINGBOARD,Ironing Board,,Tabla de planchar,Plancher à repasser,Bügelbrett,Asse da stiro,Tábua de passar,烫衣板
 FURNITURE_DESC_OBJECT_IRONINGBOARD,,,,,,,,
 FURNITURE_NAME_OBJECT_BROOM,Broom,,Escoba,Balai,Besen,Scopa,Vassoura,扫帚
 FURNITURE_DESC_OBJECT_BROOM,,,,,,,,
-FURNITURE_NAME_OBJECT_VACUUM,Vacuum,,Aspiradora,Aspirateur,Staubsauger,Aspirapolvere,Aspirador,真空
+FURNITURE_NAME_OBJECT_VACUUM,Vacuum,,Aspiradora,Aspirateur,Staubsauger,Aspirapolvere,Aspirador,吸尘器
 FURNITURE_DESC_OBJECT_VACUUM,,,,,,,,
-FURNITURE_NAME_OBJECT_GNOME,Gnome,,Gnomo,Nain de jardin,Gartenzwerg,Gnomo,Gnomo,侏儒
+FURNITURE_NAME_OBJECT_GNOME,Gnome,,Gnomo,Nain de jardin,Gartenzwerg,Gnomo,Gnomo,花园地精
 FURNITURE_DESC_OBJECT_GNOME,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_BLUEBOY,Framed Blue Boy,,«El joven azul»,Tableau «&nbsp;L'Enfant bleu&nbsp;»,Knabe in Blau,Quadro incorniciato: Il Ragazzo in Azzurro,Quadro Menino Azul,蓝色男孩画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_BLUEBOY,Framed Blue Boy,,«El joven azul»,Tableau «&nbsp;L'Enfant bleu&nbsp;»,Knabe in Blau,Quadro incorniciato: Il Ragazzo in Azzurro,Quadro Menino Azul,装裱的《蓝衣少年》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_BLUEBOY,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_FRIDA,Framed Frida,,Cuadro de Frida,Tableau «&nbsp;Frida&nbsp;»,Frida,Quadro incorniciato: Frida,Quadro Frida,弗里达画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_FRIDA,Framed Frida,,Cuadro de Frida,Tableau «&nbsp;Frida&nbsp;»,Frida,Quadro incorniciato: Frida,Quadro Frida,装裱的弗里达
 FURNITURE_DESC_WALLMOUNTED_PICTURE_FRIDA,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_GOD,Framed Creation of Adam,,«La creación de Adán»,Tableau «&nbsp;La Création d'Adam&nbsp;»,Die Erschaffung Adams,Quadro incorniciato: Creazione di Adamo,Quadro Criação de Adão,亚当创造画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_GOD,Framed Creation of Adam,,«La creación de Adán»,Tableau «&nbsp;La Création d'Adam&nbsp;»,Die Erschaffung Adams,Quadro incorniciato: Creazione di Adamo,Quadro Criação de Adão,装裱的《创造亚当》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_GOD,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_LISA,Framed Mona Lisa,,«Mona Lisa»,Tableau «&nbsp;Mona Lisa&nbsp;»,Mona Lisa,Quadro incorniciato: Gioconda,Quadro Monalisa,蒙娜丽莎画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_LISA,Framed Mona Lisa,,«Mona Lisa»,Tableau «&nbsp;Mona Lisa&nbsp;»,Mona Lisa,Quadro incorniciato: Gioconda,Quadro Monalisa,装裱的《蒙娜丽莎》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_LISA,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_SCREAM,Framed The Scream,,«El grito»,Tableau «&nbsp;Le Cri&nbsp;»,Der Schrei,Quadro incorniciato: L'Urlo,Quadro O Grito,呐喊画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SCREAM,Framed The Scream,,«El grito»,Tableau «&nbsp;Le Cri&nbsp;»,Der Schrei,Quadro incorniciato: L'Urlo,Quadro O Grito,装裱的《呐喊》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_SCREAM,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_NIGHT,Framed Starry Night,,«La noche estrellada»,Tableau «&nbsp;La Nuit étoilée&nbsp;»,Sternennacht,Quadro incorniciato: Notte Stellata,Quadro Noite Estrelada,星夜画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_NIGHT,Framed Starry Night,,«La noche estrellada»,Tableau «&nbsp;La Nuit étoilée&nbsp;»,Sternennacht,Quadro incorniciato: Notte Stellata,Quadro Noite Estrelada,装裱的《星月夜》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_NIGHT,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_GOTHIC,Framed American Gothic,,«Gótico estadounidense»,Tableau «&nbsp;American Gothic&nbsp;»,American Gothic,Quadro incorniciato: American Gothic,Quadro American Gothic,美国哥特画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_GOTHIC,Framed American Gothic,,«Gótico estadounidense»,Tableau «&nbsp;American Gothic&nbsp;»,American Gothic,Quadro incorniciato: American Gothic,Quadro American Gothic,装裱的《美国哥特式》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_GOTHIC,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_PICASSO,Framed Picasso,,Cuadro de Picasso,Tableau de Picasso,Picasso,Quadro incorniciato: Picasso,Quadro Picasso,毕加索画框
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PICASSO,Framed Picasso,,Cuadro de Picasso,Tableau de Picasso,Picasso,Quadro incorniciato: Picasso,Quadro Picasso,装裱的毕加索
 FURNITURE_DESC_WALLMOUNTED_PICTURE_PICASSO,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_KEITH,Framed Keith Haring,,Cuadro de Keith Haring,Tableau de Keith Haring,Keith Haring,Quadro incorniciato: Keith Haring,Quadro Keith Haring,装框的基思·哈林
+FURNITURE_NAME_WALLMOUNTED_PICTURE_KEITH,Framed Keith Haring,,Cuadro de Keith Haring,Tableau de Keith Haring,Keith Haring,Quadro incorniciato: Keith Haring,Quadro Keith Haring,装裱的凯斯·哈林
 FURNITURE_DESC_WALLMOUNTED_PICTURE_KEITH,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_PEARL,Framed The Pearl,,«La joven de la perla»,Tableau «&nbsp;La Perle&nbsp;»,Das Mädchen mit dem Perlenohrring,Quadro incorniciato: La Ragazza col Turbante,Quadro Moça com o Brinco de Pérola,装框的珍珠
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PEARL,Framed The Pearl,,«La joven de la perla»,Tableau «&nbsp;La Perle&nbsp;»,Das Mädchen mit dem Perlenohrring,Quadro incorniciato: La Ragazza col Turbante,Quadro Moça com o Brinco de Pérola,装裱的《戴珍珠耳环的少女》
 FURNITURE_DESC_WALLMOUNTED_PICTURE_PEARL,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_ROSIE,Rosie Poster,,Póster de «Rosie»,Affiche de Rosie,Rosie-Poster,Poster - Rosie,Pôster Rosie,罗西海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_ROSIE,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_UFO,UFO Poster,,Póster de «Ovni»,Affiche d'OVNI,UFO-Poster,Poster - UFO,Pôster Ufo,UFO海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_UFO,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_CHE,Che Purvara Poster,,Póster de «Miau Guevara»,Affiche de Cha Guevara,Che-Guemiaura-Poster,Poster - Che Purvara,Pôster Che Miauguevara,切·普尔瓦拉海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_CHE,Che Purvara Poster,,Póster de «Miau Guevara»,Affiche de Cha Guevara,Che-Guemiaura-Poster,Poster - Che Purvara,Pôster Che Miauguevara,切·普瓦拉海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_CHE,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_OBEY,Meowbey Poster,,Póster de «Obediencia minina»,Affiche de Meowbey,Meowbey-Poster,Poster - Miaobey,Pôster Meowbey,喵贝海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_OBEY,Meowbey Poster,,Póster de «Obediencia minina»,Affiche de Meowbey,Meowbey-Poster,Poster - Miaobey,Pôster Meowbey,喵从海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_OBEY,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_HANG,Hang in There Poster,,Póster de «Colgados de la gata»,Affiche Chat perché,Hang in There Poster,Poster - Tieni Duro,Pôster Aguenta firme,坚持住海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_HANG,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_JAWS,Paws Poster,,Póster de «Bufidón»,Affiche «&nbsp;Les Crocs de la terre&nbsp;»,Der Weiße Kater Poster,Poster - Il Pescegatto,Pôster Gatubarão,爪子海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_JAWS,Paws Poster,,Póster de «Bufidón»,Affiche «&nbsp;Les Crocs de la terre&nbsp;»,Der Weiße Kater Poster,Poster - Il Pescegatto,Pôster Gatubarão,《大爪》海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_JAWS,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_SCARFACE,Catface Poster,,Póster de «Caragatuna»,Affiche «&nbsp;Catface&nbsp;»,Catface-Poster,Poster - Catface,Pôster Catface,猫脸海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SCARFACE,Catface Poster,,Póster de «Caragatuna»,Affiche «&nbsp;Catface&nbsp;»,Catface-Poster,Poster - Catface,Pôster Catface,《猫面煞星》海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_SCARFACE,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_LAMBS,Silence of the Mice Poster,,Póster de «El silencio de los ratones»,Affiche «&nbsp;Le Silence des souris&nbsp;»,Das Schweigen der Mäuse Poster,Poster - Il Silenzio delle Pantegane,Pôster Silêncio dos camundongos,老鼠的沉默海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_LAMBS,Silence of the Mice Poster,,Póster de «El silencio de los ratones»,Affiche «&nbsp;Le Silence des souris&nbsp;»,Das Schweigen der Mäuse Poster,Poster - Il Silenzio delle Pantegane,Pôster Silêncio dos camundongos,《沉默的老鼠》海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_LAMBS,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_ORANGE,Catwork Orange Poster,,Póster de «La naranja michina»,Affiche «&nbsp;Orange méchanique&nbsp;»,Uhrwerk Miaurange Poster,Poster - Miaoarancia Meccanica,Pôster Laranja miaucânica,猫橘海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ORANGE,Catwork Orange Poster,,Póster de «La naranja michina»,Affiche «&nbsp;Orange méchanique&nbsp;»,Uhrwerk Miaurange Poster,Poster - Miaoarancia Meccanica,Pôster Laranja miaucânica,《发条橘猫》海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_ORANGE,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_ERASER,Litterhead Poster,,Póster de «Cabeza basurera»,Affiche «&nbsp;Litterhead&nbsp;»,Litterhead-Poster,Poster - Testa di Lettiera,Pôster Litterhead,垃圾头海报
+FURNITURE_NAME_WALLMOUNTED_PICTURE_ERASER,Litterhead Poster,,Póster de «Cabeza basurera»,Affiche «&nbsp;Litterhead&nbsp;»,Litterhead-Poster,Poster - Testa di Lettiera,Pôster Litterhead,《猫砂头》海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_ERASER,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_SEWN_CLOCK,Sewn Clock,,Reloj remendado,Horloge cousue,Stoffuhr,Orologio rammendato,Relógio costurado,缝制时钟
 FURNITURE_DESC_WALLMOUNTED_SEWN_CLOCK,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_CLOCK,Cat Clock,,Reloj gatuno,Horloge chat,Katzenuhr,Orologio di gatto,Relógio de gato,猫时钟
+FURNITURE_NAME_WALLMOUNTED_CLOCK,Cat Clock,,Reloj gatuno,Horloge chat,Katzenuhr,Orologio di gatto,Relógio de gato,猫咪时钟
 FURNITURE_DESC_WALLMOUNTED_CLOCK,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_WOODEN_CLOCK,Wooden Clock,,Reloj de madera,Horloge en bois,Holzuhr,Orologio di legno,Relógio de madeira,木制时钟
 FURNITURE_DESC_WALLMOUNTED_WOODEN_CLOCK,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_ATOMIC_CLOCK,Atomic Clock,,Reloj atómico,Horloge atomique,Radioaktive Uhr,Orologio atomico,Relógio atômico,原子时钟
 FURNITURE_DESC_WALLMOUNTED_ATOMIC_CLOCK,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_GHOST1,Blinky,,Pestañita,Blinky,Blinky,Lampeggino,Blinky,闪烁
+FURNITURE_NAME_WALLMOUNTED_GHOST1,Blinky,,Pestañita,Blinky,Blinky,Lampeggino,Blinky,布林奇
 FURNITURE_DESC_WALLMOUNTED_GHOST1,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_GHOST2,Pinky,,Rosita,Pinky,Pinky,Mignoletto,Pinky,粉红
+FURNITURE_NAME_WALLMOUNTED_GHOST2,Pinky,,Rosita,Pinky,Pinky,Mignoletto,Pinky,粉红怪
 FURNITURE_DESC_WALLMOUNTED_GHOST2,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_GHOST3,Clyde,,Clyde,Clyde,Clyde,Clyde,Clyde,克莱德
 FURNITURE_DESC_WALLMOUNTED_GHOST3,,,,,,,,
@@ -832,11 +832,11 @@ FURNITURE_NAME_WALLMOUNTED_MASK_BUNNY,Bunny Mask,,Máscara de conejito,Masque de
 FURNITURE_DESC_WALLMOUNTED_MASK_BUNNY,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_MASK_TONETTA,Tonetta Mask,,Máscara de Tonetta,Masque de Tonetta,Tonettamaske,Maschera di Tonetta,Máscara Tonetta,托内塔面具
 FURNITURE_DESC_WALLMOUNTED_MASK_TONETTA,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_MASK_HOCKY,Hockey Mask,,Máscara de hockey,Masque de hockey,Hockeymaske,Maschera da hockey,Máscara de hóquei,冰球面具
+FURNITURE_NAME_WALLMOUNTED_MASK_HOCKY,Hockey Mask,,Máscara de hockey,Masque de hockey,Hockeymaske,Maschera da hockey,Máscara de hóquei,曲棍球面具
 FURNITURE_DESC_WALLMOUNTED_MASK_HOCKY,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_SAILBOAT,Framed Sailboat,,Cuadro de un velero,Tableau de voilier,Segelboot,Barca a vela incorniciata,Quadro Barco à Vela,装框帆船
+FURNITURE_NAME_WALLMOUNTED_PICTURE_SAILBOAT,Framed Sailboat,,Cuadro de un velero,Tableau de voilier,Segelboot,Barca a vela incorniciata,Quadro Barco à Vela,装裱的帆船
 FURNITURE_DESC_WALLMOUNTED_PICTURE_SAILBOAT,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_MAGAZINE,Centerfold,,Despegable,Pin-up,Magazin,Pagina centrale,Pôster de revista,中间页
+FURNITURE_NAME_WALLMOUNTED_PICTURE_MAGAZINE,Centerfold,,Despegable,Pin-up,Magazin,Pagina centrale,Pôster de revista,插页海报
 FURNITURE_DESC_WALLMOUNTED_PICTURE_MAGAZINE,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_POEM,Poem,,Poema,Poème,Gedicht,Poesia,Poema,诗歌
 FURNITURE_DESC_WALLMOUNTED_PICTURE_POEM,,,,,,,,
@@ -844,7 +844,7 @@ FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO,Photo A,,Foto A,Photo&nbsp;A,Foto A,Fot
 FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO2,Photo B,,Foto B,Photo&nbsp;B,Foto B,Foto B,Foto B,照片 B
 FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO2,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO3,Photos,,Fotos,Photos,Fotos,Foto,Fotos,照片集
+FURNITURE_NAME_WALLMOUNTED_PICTURE_PHOTO3,Photos,,Fotos,Photos,Fotos,Foto,Fotos,相片集
 FURNITURE_DESC_WALLMOUNTED_PICTURE_PHOTO3,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS1,Wooden Boards A,,Tablones de madera A,Panneaux en bois&nbsp;A,Holzbretter A,Assi di legno A,Placas de madeira A,木板 A
 FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS1,,,,,,,,
@@ -854,7 +854,7 @@ FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS3,Wooden Boards C,,Tablones de madera C,
 FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS3,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_WOODEN_BOARDS4,Wooden Boards D,,Tablones de madera D,Panneaux en bois&nbsp;D,Holzbretter D,Assi di legno D,Placas de madeira D,木板 D
 FURNITURE_DESC_WALLMOUNTED_WOODEN_BOARDS4,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SWITCH,Light Switch,,Interruptor,Interrupteur,Lichtschalter,Interruttore della luce,Interruptor,灯开关
+FURNITURE_NAME_WALLMOUNTED_SWITCH,Light Switch,,Interruptor,Interrupteur,Lichtschalter,Interruttore della luce,Interruptor,电灯开关
 FURNITURE_DESC_WALLMOUNTED_SWITCH,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_OUTLET,Outlet,,Enchufe,Prise de courant,Steckdose,Presa di corrente,Tomada,插座
 FURNITURE_DESC_WALLMOUNTED_OUTLET,,,,,,,,
@@ -864,9 +864,9 @@ FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE2,Metal Plate B,,Placa metálica B,Plaque e
 FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE2,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE3,Metal Plate C,,Placa metálica C,Plaque en métal&nbsp;C,Metallplatte C,Piastra metallica C,Placa de metal C,金属板 C
 FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE3,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_FURNACE,Furnace,,Horno,Chaudière,Hochofen,Fornace,Fornalha,炉子
+FURNITURE_NAME_WALLMOUNTED_FURNACE,Furnace,,Horno,Chaudière,Hochofen,Fornace,Fornalha,熔炉
 FURNITURE_DESC_WALLMOUNTED_FURNACE,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE4,Robo Plate,,Placa robótica,Assiette robo,Roboplatte,Robo-piastra,Placa robô,机器人板
+FURNITURE_NAME_WALLMOUNTED_ROBO_PLATE4,Robo Plate,,Placa robótica,Assiette robo,Roboplatte,Robo-piastra,Placa robô,机器板
 FURNITURE_DESC_WALLMOUNTED_ROBO_PLATE4,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_TV,Wall-Mounted TV,,Tele de pared,TV murale,Wandfernseher,TV a parete,TV na parede,壁挂电视
 FURNITURE_DESC_WALLMOUNTED_TV,,,,,,,,
@@ -876,11 +876,11 @@ FURNITURE_NAME_WALLMOUNTED_BALLOON2,Balloon B,,Globo B,Ballon&nbsp;B,Ballon B,Pa
 FURNITURE_DESC_WALLMOUNTED_BALLOON2,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_BALLOON3,Balloon C,,Globo C,Ballon&nbsp;C,Ballon C,Palloncino C,Balão C,气球 C
 FURNITURE_DESC_WALLMOUNTED_BALLOON3,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES1,Sewer Pipes A,,Cañerías A,Tuyaux d'égout&nbsp;A,Abwasserrohre A,Tubi di fogna A,Canos de esgoto A,下水道管道 A
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES1,Sewer Pipes A,,Cañerías A,Tuyaux d'égout&nbsp;A,Abwasserrohre A,Tubi di fogna A,Canos de esgoto A,下水道管 A
 FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES1,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES2,Sewer Pipes B,,Cañerías B,Tuyaux d'égout&nbsp;B,Abwasserrohre B,Tubi di fogna B,Canos de esgoto B,下水道管道 B
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES2,Sewer Pipes B,,Cañerías B,Tuyaux d'égout&nbsp;B,Abwasserrohre B,Tubi di fogna B,Canos de esgoto B,下水道管 B
 FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES2,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES3,Sewer Pipes C,,Cañerías C,Tuyaux d'égout&nbsp;C,Abwasserrohre C,Tubi di fogna C,Canos de esgoto C,下水道管道 C
+FURNITURE_NAME_WALLMOUNTED_SEWER_PIPES3,Sewer Pipes C,,Cañerías C,Tuyaux d'égout&nbsp;C,Abwasserrohre C,Tubi di fogna C,Canos de esgoto C,下水道管 C
 FURNITURE_DESC_WALLMOUNTED_SEWER_PIPES3,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_BALLOON4,Heart Balloon,,Globo acorazonado,Ballon cœur,Herzballon,Palloncino a cuore,Balão de coração,心形气球
 FURNITURE_DESC_WALLMOUNTED_BALLOON4,,,,,,,,
@@ -890,21 +890,21 @@ FURNITURE_NAME_WALLMOUNTED_JUNK_PAPER1,Newspapers A,,Periódicos A,Journeaux&nbs
 FURNITURE_DESC_WALLMOUNTED_JUNK_PAPER1,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_PICTURE_DRAWING,Drawing,,Dibujo,Dessin,Zeichnung,Disegno,Desenho,画作
 FURNITURE_DESC_WALLMOUNTED_PICTURE_DRAWING,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_COWSKULL,Wallmounted Cow Skull,,Cráneo de vaca colgado,Crâne de vache mural,Rinderschädel,Teschio di mucca a parete,Crânio de vaca na parede,挂墙的牛头骨
+FURNITURE_NAME_WALLMOUNTED_COWSKULL,Wallmounted Cow Skull,,Cráneo de vaca colgado,Crâne de vache mural,Rinderschädel,Teschio di mucca a parete,Crânio de vaca na parede,壁挂牛头骨
 FURNITURE_DESC_WALLMOUNTED_COWSKULL,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_DEERHEAD,Taxidermy Deer,,Ciervo disecado,Cerf empaillé,Ausgestopfter Hirsch,Cervo impagliato,Cervo empalhado,动物标本鹿
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_DEERHEAD,Taxidermy Deer,,Ciervo disecado,Cerf empaillé,Ausgestopfter Hirsch,Cervo impagliato,Cervo empalhado,鹿标本
 FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_DEERHEAD,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_GUPPY,Taxidermy Guppy,,Guppy disecado,Guppy empaillé,Ausgestopfter Guppy,Pesce milione impagliato,Guppy empalhado,动物标本古比鱼
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_GUPPY,Taxidermy Guppy,,Guppy disecado,Guppy empaillé,Ausgestopfter Guppy,Pesce milione impagliato,Guppy empalhado,嗝屁猫标本
 FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_GUPPY,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_JOLLYROGER,Jolly Roger,,Bandera pirata,Pavillon pirate,Totenkopf,Jolly Roger,Bandeira de pirata,海盗旗
 FURNITURE_DESC_WALLMOUNTED_JOLLYROGER,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_BUGS,Taxidermy Bugs,,Bichos disecados,Insectes empaillés,Ausgestopfte Käfer,Insetti impagliati,Insetos empalhados,动物标本虫子
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_BUGS,Taxidermy Bugs,,Bichos disecados,Insectes empaillés,Ausgestopfte Käfer,Insetti impagliati,Insetos empalhados,昆虫标本
 FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_BUGS,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_FISH,Taxidermy Bass,,Lubina disecada,Bar empaillé,Ausgestopfter Barsch,Branzino impagliato,Bagre empalhado,动物标本鲈鱼
+FURNITURE_NAME_WALLMOUNTED_TAXIDERMY_FISH,Taxidermy Bass,,Lubina disecada,Bar empaillé,Ausgestopfter Barsch,Branzino impagliato,Bagre empalhado,鲈鱼标本
 FURNITURE_DESC_WALLMOUNTED_TAXIDERMY_FISH,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_MASK_INFAMY,Infamous Mask,,Máscara infame,Masque d'Infamie,Berüchtigte Maske,"Maschera ""Infamous""",Máscara infame,臭名昭著的面具
+FURNITURE_NAME_WALLMOUNTED_MASK_INFAMY,Infamous Mask,,Máscara infame,Masque d'Infamie,Berüchtigte Maske,"Maschera ""Infamous""",Máscara infame,恶名昭彰面具
 FURNITURE_DESC_WALLMOUNTED_MASK_INFAMY,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SAFE,Wall Safe,,Caja fuerte de pared,Coffre-fort mural,Wandsafe,Cassaforte a parete,Cofre de parede,墙上保险箱
+FURNITURE_NAME_WALLMOUNTED_SAFE,Wall Safe,,Caja fuerte de pared,Coffre-fort mural,Wandsafe,Cassaforte a parete,Cofre de parede,墙式保险箱
 FURNITURE_DESC_WALLMOUNTED_SAFE,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_BRICKS1,Bricks A,,Ladrillos A,Briques&nbsp;A,Ziegel A,Mattoni A,Tijolos A,砖块 A
 FURNITURE_DESC_WALLMOUNTED_BRICKS1,,,,,,,,
@@ -916,15 +916,15 @@ FURNITURE_NAME_WALLMOUNTED_BRICKS4,Bricks D,,Ladrillos D,Briques&nbsp;D,Ziegel D
 FURNITURE_DESC_WALLMOUNTED_BRICKS4,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_JUNK_PAPER2,Newspapers B,,Periódicos B,Journaux&nbsp;B,Zeitung B,Giornali B,Jornais B,报纸 B
 FURNITURE_DESC_WALLMOUNTED_JUNK_PAPER2,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_CRACK,A Crack,,Grieta,Fissure&nbsp;A,Ein Riss,Una crepa,Rachadura,裂缝
+FURNITURE_NAME_WALLMOUNTED_CRACK,A Crack,,Grieta,Fissure&nbsp;A,Ein Riss,Una crepa,Rachadura,一道裂缝
 FURNITURE_DESC_WALLMOUNTED_CRACK,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_TORCH,Torch,,Antorcha,Torche,Fackel,Torcia,Tocha,火炬
+FURNITURE_NAME_WALLMOUNTED_TORCH,Torch,,Antorcha,Torche,Fackel,Torcia,Tocha,火把
 FURNITURE_DESC_WALLMOUNTED_TORCH,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_SHRUNKINHEAD,Shrunken Cat Head,,Cabeza de gato reducida,Tête réduite de chat,Katzenschrumpfkopf,Testa di gatto rimpicciolita,Cabeça de gato encolhida,缩小的猫头
+FURNITURE_NAME_WALLMOUNTED_SHRUNKINHEAD,Shrunken Cat Head,,Cabeza de gato reducida,Tête réduite de chat,Katzenschrumpfkopf,Testa di gatto rimpicciolita,Cabeça de gato encolhida,干缩猫头
 FURNITURE_DESC_WALLMOUNTED_SHRUNKINHEAD,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_CLOUD,Cloud,,Nube,Nuage,Wolke,Nuvola,Nuvem,云
+FURNITURE_NAME_WALLMOUNTED_CLOUD,Cloud,,Nube,Nuage,Wolke,Nuvola,Nuvem,云朵
 FURNITURE_DESC_WALLMOUNTED_CLOUD,,,,,,,,
-FURNITURE_NAME_WALLMOUNTED_BLOCK1,Block,,Bloque,Bloc,Block,Blocco,Bloco,格挡
+FURNITURE_NAME_WALLMOUNTED_BLOCK1,Block,,Bloque,Bloc,Block,Blocco,Bloco,方块
 FURNITURE_DESC_WALLMOUNTED_BLOCK1,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_BLOCK2,Question Block,,Bloque sorpresa,Bloc interrogatif,Fragezeichenblock,Blocco punto interrogativo,Bloco de interrogação,问号方块
 FURNITURE_DESC_WALLMOUNTED_BLOCK2,,,,,,,,
@@ -936,7 +936,7 @@ FURNITURE_NAME_WALLMOUNTED_BALLOON6,Balloon E,,Globo E,Ballon&nbsp;E,Ballon E,Pa
 FURNITURE_DESC_WALLMOUNTED_BALLOON6,,,,,,,,
 FURNITURE_NAME_WALLMOUNTED_BALLOON7,Balloon F,,Globo F,Ballon&nbsp;F,Ballon F,Palloncino F,Balão F,气球 F
 FURNITURE_DESC_WALLMOUNTED_BALLOON7,,,,,,,,
-FURNITURE_NAME_HANGING_FISH,Hanging Air Fouler,,Apestador de techo,Viciateur d'air suspendu,Luftentfrischer,Deodorante sospeso,Apodrecedor de ar suspenso,悬挂式空气污染器
+FURNITURE_NAME_HANGING_FISH,Hanging Air Fouler,,Apestador de techo,Viciateur d'air suspendu,Luftentfrischer,Deodorante sospeso,Apodrecedor de ar suspenso,悬挂式致臭剂
 FURNITURE_DESC_HANGING_FISH,,,,,,,,
 FURNITURE_NAME_HANGING_CATHEAD,Hanging Airfreshener A,,Ambientador de techo A,Désodorisant suspendu&nbsp;A,Lufterfrischer A,Deodorante per ambienti sospeso A,Aromatizador de ar suspenso A,悬挂式空气清新剂 A
 FURNITURE_DESC_HANGING_CATHEAD,,,,,,,,
@@ -946,23 +946,23 @@ FURNITURE_NAME_CEILING_FAN,Ceiling Fan,,Ventilador de techo,Ventilateur de plafo
 FURNITURE_DESC_CEILING_FAN,,,,,,,,
 FURNITURE_NAME_CEILING_DISCOBALL,Disco Ball,,Bola de espejos,Boule à facettes,Discokugel,Palla da discoteca,Globo de discoteca,迪斯科球
 FURNITURE_DESC_CEILING_DISCOBALL,,,,,,,,
-FURNITURE_NAME_CEILING_CAGE,Hanging Cage,,Jaula de techo,Cage suspendue,Hängekäfig,Gabbia sospesa,Gaiola pendurada,悬挂笼
+FURNITURE_NAME_CEILING_CAGE,Hanging Cage,,Jaula de techo,Cage suspendue,Hängekäfig,Gabbia sospesa,Gaiola pendurada,悬笼
 FURNITURE_DESC_CEILING_CAGE,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_BLACK1,Red Candle A,,Vela roja A,Bougie rouge&nbsp;A,Rote Kerze A,Candela rossa A,Vela vermelha A,红色蜡烛 A
+FURNITURE_NAME_SMALL_CANDLE_BLACK1,Red Candle A,,Vela roja A,Bougie rouge&nbsp;A,Rote Kerze A,Candela rossa A,Vela vermelha A,红蜡烛 A
 FURNITURE_DESC_SMALL_CANDLE_BLACK1,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_BLACK2,Red Candle B,,Vela roja B,Bougie rouge&nbsp;B,Rote Kerze B,Candela rossa B,Vela vermelha B,红色蜡烛 B
+FURNITURE_NAME_SMALL_CANDLE_BLACK2,Red Candle B,,Vela roja B,Bougie rouge&nbsp;B,Rote Kerze B,Candela rossa B,Vela vermelha B,红蜡烛 B
 FURNITURE_DESC_SMALL_CANDLE_BLACK2,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_BLACK3,Small Red Candle A,,Vela roja pequeña A,Petite bougie rouge&nbsp;A,Kleine rote Kerze A,Candela rossa piccola A,Vela vermelha pequena A,小红色蜡烛 A
+FURNITURE_NAME_SMALL_CANDLE_BLACK3,Small Red Candle A,,Vela roja pequeña A,Petite bougie rouge&nbsp;A,Kleine rote Kerze A,Candela rossa piccola A,Vela vermelha pequena A,小红蜡烛 A
 FURNITURE_DESC_SMALL_CANDLE_BLACK3,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_BLACK4,Small Red Candle B,,Vela roja pequeña B,Petite bougie rouge&nbsp;B,Kleine rote Kerze B,Candela rossa piccola B,Vela vermelha pequena B,小红色蜡烛 B
+FURNITURE_NAME_SMALL_CANDLE_BLACK4,Small Red Candle B,,Vela roja pequeña B,Petite bougie rouge&nbsp;B,Kleine rote Kerze B,Candela rossa piccola B,Vela vermelha pequena B,小红蜡烛 B
 FURNITURE_DESC_SMALL_CANDLE_BLACK4,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_WHITE1,Small White Candle A,,Vela blanca pequeña A,Petite bougie blanche&nbsp;A,Kleine weiße Kerze A,Candela bianca piccola A,Vela branca pequena A,小白色蜡烛 A
+FURNITURE_NAME_SMALL_CANDLE_WHITE1,Small White Candle A,,Vela blanca pequeña A,Petite bougie blanche&nbsp;A,Kleine weiße Kerze A,Candela bianca piccola A,Vela branca pequena A,小白蜡烛 A
 FURNITURE_DESC_SMALL_CANDLE_WHITE1,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_WHITE2,Small White Candle B,,Vela blanca pequeña B,Petite bougie blanche&nbsp;B,Kleine weiße Kerze B,Candela bianca piccola B,Vela branca pequena B,小白色蜡烛 B
+FURNITURE_NAME_SMALL_CANDLE_WHITE2,Small White Candle B,,Vela blanca pequeña B,Petite bougie blanche&nbsp;B,Kleine weiße Kerze B,Candela bianca piccola B,Vela branca pequena B,小白蜡烛 B
 FURNITURE_DESC_SMALL_CANDLE_WHITE2,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_WHITE3,White Candle A,,Vela blanca A,Bougie blanche&nbsp;A,Weiße Kerze A,Candela bianca A,Vela branca A,白色蜡烛 A
+FURNITURE_NAME_SMALL_CANDLE_WHITE3,White Candle A,,Vela blanca A,Bougie blanche&nbsp;A,Weiße Kerze A,Candela bianca A,Vela branca A,白蜡烛 A
 FURNITURE_DESC_SMALL_CANDLE_WHITE3,,,,,,,,
-FURNITURE_NAME_SMALL_CANDLE_WHITE4,White Candle B,,Vela blanca B,Bougie blanche&nbsp;B,Weiße Kerze B,Candela bianca B,Vela branca B,白色蜡烛 B
+FURNITURE_NAME_SMALL_CANDLE_WHITE4,White Candle B,,Vela blanca B,Bougie blanche&nbsp;B,Weiße Kerze B,Candela bianca B,Vela branca B,白蜡烛 B
 FURNITURE_DESC_SMALL_CANDLE_WHITE4,,,,,,,,
 FURNITURE_NAME_SMALL_VASE1,Small Vase A,,Jarrón pequeño A,Petit vase&nbsp;A,Kleine Vase A,Vaso piccolo A,Vaso pequeno A,小花瓶 A
 FURNITURE_DESC_SMALL_VASE1,,,,,,,,
@@ -980,13 +980,13 @@ FURNITURE_NAME_SMALL_TRASH_BANANA,Banana Peel,,Piel de plátano,Peau de banane,B
 FURNITURE_DESC_SMALL_TRASH_BANANA,,,,,,,,
 FURNITURE_NAME_SMALL_TRASH_CANS,Soda Cans,,Latas de refresco,Cannettes de soda,Limodosen,Lattine di bibite gassate,Latas de refrigerante,汽水罐
 FURNITURE_DESC_SMALL_TRASH_CANS,,,,,,,,
-FURNITURE_NAME_SMALL_TRASH_BREAD,Old Toast,,Tostada vieja,Vieille tartine,Alter Toast,Toast vecchio,Torrada velha,陈旧吐司
+FURNITURE_NAME_SMALL_TRASH_BREAD,Old Toast,,Tostada vieja,Vieille tartine,Alter Toast,Toast vecchio,Torrada velha,旧吐司
 FURNITURE_DESC_SMALL_TRASH_BREAD,,,,,,,,
 FURNITURE_NAME_SMALL_TRASH_CUP,Soup Cup,,Envase de sopa,Soupe instantanée,Suppenbecher,Bicchiere di zuppa,Sopa,汤杯
 FURNITURE_DESC_SMALL_TRASH_CUP,,,,,,,,
 FURNITURE_NAME_SMALL_TRASH_CHEESE,Cheese,,Queso,Fromage,Käse,Formaggio,Queijo,奶酪
 FURNITURE_DESC_SMALL_TRASH_CHEESE,,,,,,,,
-FURNITURE_NAME_SMALL_TRASH_BROKENBOTTLE,Small Broken Bottle,,Botella pequeña rota,Petite bouteille cassée,Kleine kaputte Flasche,Bottiglia rotta piccola,Garrafa quebrada pequena,小破瓶
+FURNITURE_NAME_SMALL_TRASH_BROKENBOTTLE,Small Broken Bottle,,Botella pequeña rota,Petite bouteille cassée,Kleine kaputte Flasche,Bottiglia rotta piccola,Garrafa quebrada pequena,小碎瓶子
 FURNITURE_DESC_SMALL_TRASH_BROKENBOTTLE,,,,,,,,
 FURNITURE_NAME_SMALL_TRASH_MILK,Empty Milk Carton,,Cartón de leche vacío,Brique de lait vide,Leere Milchpackung,Cartone del latte vuoto,Caixa de leite vazia,空牛奶盒
 FURNITURE_DESC_SMALL_TRASH_MILK,,,,,,,,
@@ -998,7 +998,7 @@ FURNITURE_NAME_SMALL_MEDS_COUGHSYRUP,Cough Syrup,,Jarabe antitusivo,Sirop pour l
 FURNITURE_DESC_SMALL_MEDS_COUGHSYRUP,,,,,,,,
 FURNITURE_NAME_SMALL_MEDS_PILLS1,Pill Bottle,,Bote de pastillas,Flacon de pilules,Pillendose,Flacone di pillole,Frasco de pílulas,药瓶
 FURNITURE_DESC_SMALL_MEDS_PILLS1,,,,,,,,
-FURNITURE_NAME_SMALL_MEDS_PILLS2,Small Pill Bottle,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino di pillole,Frasco de pílulas pequena,小药丸瓶
+FURNITURE_NAME_SMALL_MEDS_PILLS2,Small Pill Bottle,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino di pillole,Frasco de pílulas pequena,小药瓶
 FURNITURE_DESC_SMALL_MEDS_PILLS2,,,,,,,,
 FURNITURE_NAME_SMALL_MEDS_MYSTERY2,Mystery Medicine,,Medicina misteriosa,Médicament mystère,Mysteriöse Medizin,Medicina misteriosa,Remédio misterioso,神秘药物
 FURNITURE_DESC_SMALL_MEDS_MYSTERY2,,,,,,,,
@@ -1006,49 +1006,49 @@ FURNITURE_NAME_SMALL_MEDS_FISHOIL,Fish Oil,,Aceite de pescado,Huile de poisson,F
 FURNITURE_DESC_SMALL_MEDS_FISHOIL,,,,,,,,
 FURNITURE_NAME_SMALL_MEDS_CATHEARTS,Can of Cat Hearts,,Lata de corazones de gato,Boîte de cœurs de chat,Dose mit Katzenherzen,Lattina di cuori di gatto,Lata de corações de gato,猫心罐头
 FURNITURE_DESC_SMALL_MEDS_CATHEARTS,,,,,,,,
-FURNITURE_NAME_SMALL_BOTTLE_EMPTY,Empty Bottle,,Botella vacía,Bouteille vide,Leere Flasche,Bottiglia vuota,Garrafa vazia,空瓶子
+FURNITURE_NAME_SMALL_BOTTLE_EMPTY,Empty Bottle,,Botella vacía,Bouteille vide,Leere Flasche,Bottiglia vuota,Garrafa vazia,空瓶
 FURNITURE_DESC_SMALL_BOTTLE_EMPTY,,,,,,,,
 FURNITURE_NAME_SMALL_BOTTLE_FULL,Bottle,,Botella,Bouteille,Flasche,Bottiglia,Garrafa,瓶子
 FURNITURE_DESC_SMALL_BOTTLE_FULL,,,,,,,,
-FURNITURE_NAME_SMALL_BOTTLE_2BOTTLES,Glowing Bottle,,Botella resplandeciente,Bouteille lumineuse,Leuchtende Flasche,Bottiglia luminescente,Garrafa brilhante,发光的瓶子
+FURNITURE_NAME_SMALL_BOTTLE_2BOTTLES,Glowing Bottle,,Botella resplandeciente,Bouteille lumineuse,Leuchtende Flasche,Bottiglia luminescente,Garrafa brilhante,发光瓶子
 FURNITURE_DESC_SMALL_BOTTLE_2BOTTLES,,,,,,,,
 FURNITURE_NAME_SMALL_BOBBLE_DARKCAT,Basic Cat Bobble,,Muñeco de gato básico,Figurine bobble chat de base,Katzenwackelkopf,Bobblehead gatto base,Bobblehead de gato básico,基础猫咪摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_DARKCAT,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_GUPPY,Guppy Cat Bobble,,Muñeco de Guppy,Figurine bobble chat guppy,Guppy Katzenwackelkopf,Bobblehead gatto Guppy,Bobblehead de gato guppy,古比猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_GUPPY,Guppy Cat Bobble,,Muñeco de Guppy,Figurine bobble chat guppy,Guppy Katzenwackelkopf,Bobblehead gatto Guppy,Bobblehead de gato guppy,嗝屁猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_GUPPY,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_MAD,Angry Cat Bobble,,Muñeco de gato enfadado,Figurine bobble chat fâché,Wütender Katzenwackelkopf,Bobblehead gatto arrabbiato,Bobblehead de gato irritado,愤怒猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_MAD,Angry Cat Bobble,,Muñeco de gato enfadado,Figurine bobble chat fâché,Wütender Katzenwackelkopf,Bobblehead gatto arrabbiato,Bobblehead de gato irritado,愤怒猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_MAD,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_MONEY,Lucky Cat Bobble,,Muñeco de gato afortunado,Figurine bobble chat chanceux,Glücklicher Katzenwackelkopf,Bobblehead gatto fortunato,Bobblehead de gato da sorte,幸运猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_MONEY,Lucky Cat Bobble,,Muñeco de gato afortunado,Figurine bobble chat chanceux,Glücklicher Katzenwackelkopf,Bobblehead gatto fortunato,Bobblehead de gato da sorte,招财猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_MONEY,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_HAPPY,Happy Cat Bobble,,Muñeco de gato feliz,Figurine bobble chat heureux,Fröhlicher Katzenwackelkopf,Bobblehead gatto felice,Bobblehead de gato feliz,快乐猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_HAPPY,Happy Cat Bobble,,Muñeco de gato feliz,Figurine bobble chat heureux,Fröhlicher Katzenwackelkopf,Bobblehead gatto felice,Bobblehead de gato feliz,快乐猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_HAPPY,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_DAN,Synj Cat Bobble,,Muñeco de Synj,Figurine bobble chat Synj,Synj-Wackelkopf,Bobblehead gatto Synj,Bobblehead de gato synj,Synj猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_DAN,Synj Cat Bobble,,Muñeco de Synj,Figurine bobble chat Synj,Synj-Wackelkopf,Bobblehead gatto Synj,Bobblehead de gato synj,辛吉猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_DAN,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_ZOMBIE,Zombie Cat Bobble,,Muñeco de gatozombi,Figurine bobble chat zombie,Zombie-Katzenwackelkopf,Bobblehead gatto zombie,Bobblehead de gato zumbi,僵尸猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_ZOMBIE,Zombie Cat Bobble,,Muñeco de gatozombi,Figurine bobble chat zombie,Zombie-Katzenwackelkopf,Bobblehead gatto zombie,Bobblehead de gato zumbi,僵尸猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_ZOMBIE,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_GRUMP,Irritable Cat Bobble,,Muñeco gato irascible,Figurine bobble chat grognon,Genervter Katzenwackelkopf,Bobblehead gatto irritabile,Bobblehead de gato irritável,易怒猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_GRUMP,Irritable Cat Bobble,,Muñeco gato irascible,Figurine bobble chat grognon,Genervter Katzenwackelkopf,Bobblehead gatto irritabile,Bobblehead de gato irritável,暴躁猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_GRUMP,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_ALONE,Lonely Cat Bobble,,Muñeco de gato solitario,Figurine bobble chat solitaire,Einsame Katze Wackelkopf,Bobblehead gatto solitario,Bobblehead de gato solitário,孤独猫咪摇头娃娃
+FURNITURE_NAME_SMALL_BOBBLE_ALONE,Lonely Cat Bobble,,Muñeco de gato solitario,Figurine bobble chat solitaire,Einsame Katze Wackelkopf,Bobblehead gatto solitario,Bobblehead de gato solitário,孤独猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_ALONE,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_SPOTS,Spotty Cat Bobble,,Muñeco de gato moteado,Figurine bobble chat à pois,Gefleckter Katzenwackelkopf,Bobblehead gatto maculato,Bobblehead de gato pintado,斑点猫手办
+FURNITURE_NAME_SMALL_BOBBLE_SPOTS,Spotty Cat Bobble,,Muñeco de gato moteado,Figurine bobble chat à pois,Gefleckter Katzenwackelkopf,Bobblehead gatto maculato,Bobblehead de gato pintado,斑点猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_SPOTS,,,,,,,,
-FURNITURE_NAME_SMALL_BOBBLE_DEVIL,Devil Cat Bobble,,Muñeco de gato diabólico,Figurine bobble chat démoniaque,Teufel-Katzenwackelkopf,Bobblehead gatto demone,Bobblehead de gato demoníaco,恶魔猫手办
+FURNITURE_NAME_SMALL_BOBBLE_DEVIL,Devil Cat Bobble,,Muñeco de gato diabólico,Figurine bobble chat démoniaque,Teufel-Katzenwackelkopf,Bobblehead gatto demone,Bobblehead de gato demoníaco,恶魔猫摇头娃娃
 FURNITURE_DESC_SMALL_BOBBLE_DEVIL,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_TANK1,Lab Tank A,,Tanque de laboratorio A,Réservoir de labo&nbsp;A,Labortank A,Serbatoio da laboratorio A,Tanque de laboratório A,实验室坦克 A
+FURNITURE_NAME_SMALL_LAB_TANK1,Lab Tank A,,Tanque de laboratorio A,Réservoir de labo&nbsp;A,Labortank A,Serbatoio da laboratorio A,Tanque de laboratório A,实验室储槽 A
 FURNITURE_DESC_SMALL_LAB_TANK1,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_TANK2,Lab Tank B,,Tanque de laboratorio B,Réservoir de labo&nbsp;B,Labortank B,Serbatoio da laboratorio B,Tanque de laboratório B,实验室坦克 B
+FURNITURE_NAME_SMALL_LAB_TANK2,Lab Tank B,,Tanque de laboratorio B,Réservoir de labo&nbsp;B,Labortank B,Serbatoio da laboratorio B,Tanque de laboratório B,实验室储槽 B
 FURNITURE_DESC_SMALL_LAB_TANK2,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_JUG1,Lab Jug A,,Frasco de laboratorio A,Pot de labo&nbsp;A,Laborkrug A,Brocca da laboratorio A,Vidro de laboratório A,实验室壶 A
+FURNITURE_NAME_SMALL_LAB_JUG1,Lab Jug A,,Frasco de laboratorio A,Pot de labo&nbsp;A,Laborkrug A,Brocca da laboratorio A,Vidro de laboratório A,实验室罐 A
 FURNITURE_DESC_SMALL_LAB_JUG1,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_JUG2,Lab Jug B,,Frasco de laboratorio B,Pot de labo&nbsp;B,Laborkrug B,Brocca da laboratorio B,Vidro de laboratório B,实验室壶 B
+FURNITURE_NAME_SMALL_LAB_JUG2,Lab Jug B,,Frasco de laboratorio B,Pot de labo&nbsp;B,Laborkrug B,Brocca da laboratorio B,Vidro de laboratório B,实验室罐 B
 FURNITURE_DESC_SMALL_LAB_JUG2,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_JUG3,Bleach Jug,,Bote de lejía,Bouteille de javel,Krug mit Bleiche,Brocca di candeggina,Vidro de água sanitária,漂白壶
+FURNITURE_NAME_SMALL_LAB_JUG3,Bleach Jug,,Bote de lejía,Bouteille de javel,Krug mit Bleiche,Brocca di candeggina,Vidro de água sanitária,漂白剂罐
 FURNITURE_DESC_SMALL_LAB_JUG3,,,,,,,,
 FURNITURE_NAME_SMALL_LAB_TESTTUBE,Test Tube,,Tubo de ensayo,Tube à essai,Reagenzglas,Provetta,Tubo de ensaio,试管
 FURNITURE_DESC_SMALL_LAB_TESTTUBE,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_TESTTUBE2,Test Tubes,,Tubos de ensayo,Tubes à essai,Reagenzgläser,Provette,Tubos de ensaio,试管们
+FURNITURE_NAME_SMALL_LAB_TESTTUBE2,Test Tubes,,Tubos de ensayo,Tubes à essai,Reagenzgläser,Provette,Tubos de ensaio,试管组
 FURNITURE_DESC_SMALL_LAB_TESTTUBE2,,,,,,,,
-FURNITURE_NAME_SMALL_LAB_FLASK,Boiling Flask,,Matraz de bola,Ballon d'ébullition,Kochkolben,Beuta da ebollizione,Balão de ebulição,沸腾烧瓶
+FURNITURE_NAME_SMALL_LAB_FLASK,Boiling Flask,,Matraz de bola,Ballon d'ébullition,Kochkolben,Beuta da ebollizione,Balão de ebulição,烧瓶
 FURNITURE_DESC_SMALL_LAB_FLASK,,,,,,,,
 FURNITURE_NAME_SMALL_LAB_FLASK2,Erlenmeyer Flask,,Matraz Erlenmeyer,Vase d'Erlenmeyer,Erlenmeyerkolben,Beuta di Erlenmeyer,Frasco Erlenmeyer,锥形瓶
 FURNITURE_DESC_SMALL_LAB_FLASK2,,,,,,,,
@@ -1068,7 +1068,7 @@ FURNITURE_NAME_SMALL_FOOD_ONION,Onion,,Cebolla,Oignon,Zwiebel,Cipolla,Cebola,洋
 FURNITURE_DESC_SMALL_FOOD_ONION,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_APPLE,Apple,,Manzana,Pomme,Apfel,Mela,Maçã,苹果
 FURNITURE_DESC_SMALL_FOOD_APPLE,,,,,,,,
-FURNITURE_NAME_SMALL_FOOD_SQUASH,Squash,,Calabacín,Courge,Kürbis,Zucca,Jerimum,南瓜
+FURNITURE_NAME_SMALL_FOOD_SQUASH,Squash,,Calabacín,Courge,Kürbis,Zucca,Jerimum,倭瓜
 FURNITURE_DESC_SMALL_FOOD_SQUASH,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_EGGPLANT,Eggplant,,Berenjena,Aubergine,Aubergine,Melanzana,Beringela,茄子
 FURNITURE_DESC_SMALL_FOOD_EGGPLANT,,,,,,,,
@@ -1080,33 +1080,33 @@ FURNITURE_NAME_SMALL_FOOD_PINEAPPLE,Pineapple,,Piña,Ananas,Ananas,Ananas,Abacax
 FURNITURE_DESC_SMALL_FOOD_PINEAPPLE,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_POTATO,Potato,,Patata,Pomme de terre,Kartoffel,Patata,Batata,土豆
 FURNITURE_DESC_SMALL_FOOD_POTATO,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_STACY,Stacy Plush,,Peluche de Stacy,Peluche Stacy,Stacy-Plüschtier,Peluche di Stacy,Pelúcia Stacy,Stacy 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_STACY,Stacy Plush,,Peluche de Stacy,Peluche Stacy,Stacy-Plüschtier,Peluche di Stacy,Pelúcia Stacy,斯泰西毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_STACY,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_AETHER,Aether Plush,,Peluche etéreo,Peluche Aether,Aether-Plüschtier,Peluche di Aether,Pelúcia Aether,Aether 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_AETHER,Aether Plush,,Peluche etéreo,Peluche Aether,Aether-Plüschtier,Peluche di Aether,Pelúcia Aether,以太毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_AETHER,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_DUKE,Duke of Flies Plush,,Peluche del duque de las moscas,Peluche Duc des Mouches,Herzog der Fliegen-Plüschtier,Peluche del Duca delle Mosche,Pelúcia Duque das Moscas,Duke of Flies 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_DUKE,Duke of Flies Plush,,Peluche del duque de las moscas,Peluche Duc des Mouches,Herzog der Fliegen-Plüschtier,Peluche del Duca delle Mosche,Pelúcia Duque das Moscas,苍蝇公爵毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_DUKE,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_GUPPY,Guppy Plush,,Peluche de Guppy,Peluche Guppy,Guppy-Plüschtier,Peluche di Guppy,Pelúcia Guppy,Guppy 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_GUPPY,Guppy Plush,,Peluche de Guppy,Peluche Guppy,Guppy-Plüschtier,Peluche di Guppy,Pelúcia Guppy,嗝屁猫毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_GUPPY,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_GISH,Gish Plush,,Peluche de Gish,Peluche Gish,Gish-Plüschtier,Peluche di Gish,Pelúcia Gish,Gish 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_GISH,Gish Plush,,Peluche de Gish,Peluche Gish,Gish-Plüschtier,Peluche di Gish,Pelúcia Gish,Gish毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_GISH,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_ISAAC,Isaac Plush,,Peluche de Isaac,Peluche Isaac,Isaac-Plüschtier,Peluche di Isaac,Pelúcia Isaac,Isaac 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_ISAAC,Isaac Plush,,Peluche de Isaac,Peluche Isaac,Isaac-Plüschtier,Peluche di Isaac,Pelúcia Isaac,以撒毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_ISAAC,,,,,,,,
-FURNITURE_NAME_SMALL_DOLL_STEVEN,Steven Plush,,Peluche de Steven,Peluche Steven,Steven-Plüschtier,Peluche di Steven,Pelúcia Steven,Steven 毛绒玩具
+FURNITURE_NAME_SMALL_DOLL_STEVEN,Steven Plush,,Peluche de Steven,Peluche Steven,Steven-Plüschtier,Peluche di Steven,Pelúcia Steven,史蒂文毛绒玩具
 FURNITURE_DESC_SMALL_DOLL_STEVEN,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_GAMESYSTEM,Game System,,Videoconsola,Console de jeu,Spielkonsole,Console di gioco,Console,游戏系统
+FURNITURE_NAME_SMALL_ELECTRONICS_GAMESYSTEM,Game System,,Videoconsola,Console de jeu,Spielkonsole,Console di gioco,Console,游戏机
 FURNITURE_DESC_SMALL_ELECTRONICS_GAMESYSTEM,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_GAMEPAD,Gamepad,,Mando,Manette,Controller,Controller,Controle,游戏手柄
+FURNITURE_NAME_SMALL_ELECTRONICS_GAMEPAD,Gamepad,,Mando,Manette,Controller,Controller,Controle,手柄
 FURNITURE_DESC_SMALL_ELECTRONICS_GAMEPAD,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_SPEAKER,Small Speaker,,Altavoz pequeño,Petite enceinte,Kleiner Lautsprecher,Altoparlante piccolo,Alto-falante pequeno,小扬声器
+FURNITURE_NAME_SMALL_ELECTRONICS_SPEAKER,Small Speaker,,Altavoz pequeño,Petite enceinte,Kleiner Lautsprecher,Altoparlante piccolo,Alto-falante pequeno,小音箱
 FURNITURE_DESC_SMALL_ELECTRONICS_SPEAKER,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_MOUSE,Mouse,,Ratón,Souris,Maus,Mouse,Mouse,鼠标
 FURNITURE_DESC_SMALL_ELECTRONICS_MOUSE,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_PHONE1,Retro Phone A,,Teléfono retro A,Téléphone rétro&nbsp;A,Retrotelefon A,Telefono rétro A,Telefone retrô A,复古电话 A
 FURNITURE_DESC_SMALL_ELECTRONICS_PHONE1,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_PHONE2,Rotary Phone B,,Teléfono con disco B,Téléphone à cadran&nbsp;B,Drehscheibentelefon B,Telefono a disco B,Telefone de disco B,旋转电话 B
+FURNITURE_NAME_SMALL_ELECTRONICS_PHONE2,Rotary Phone B,,Teléfono con disco B,Téléphone à cadran&nbsp;B,Drehscheibentelefon B,Telefono a disco B,Telefone de disco B,拨盘电话 B
 FURNITURE_DESC_SMALL_ELECTRONICS_PHONE2,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_PHONE3,Rotary Phone C,,Teléfono con disco C,Téléphone à cadran&nbsp;C,Drehscheibentelefon C,Telefono a disco C,Telefone de disco C,旋转电话 C
+FURNITURE_NAME_SMALL_ELECTRONICS_PHONE3,Rotary Phone C,,Teléfono con disco C,Téléphone à cadran&nbsp;C,Drehscheibentelefon C,Telefono a disco C,Telefone de disco C,拨盘电话 C
 FURNITURE_DESC_SMALL_ELECTRONICS_PHONE3,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE,Antique Phone A,,Teléfono antiguo A,Téléphone antique&nbsp;A,Antikes Telefon A,Telefono antico A,Telefone antigo A,古董电话 A
 FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE,,,,,,,,
@@ -1114,25 +1114,25 @@ FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE2,Antique Phone B,,Teléfono antiguo B,
 FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE2,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_OLDPHONE3,Antique Phone C,,Teléfono antiguo C,Téléphone antique&nbsp;C,Antikes Telefon C,Telefono antico C,Telefone antigo C,古董电话 C
 FURNITURE_DESC_SMALL_ELECTRONICS_OLDPHONE3,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_LIPPHONE,Lips Phone,,Teléfono de labios,Téléphone lèvres,Lippentelefon,Telefono a forma di labbra,Telefone de lábios,嘴唇电话
+FURNITURE_NAME_SMALL_ELECTRONICS_LIPPHONE,Lips Phone,,Teléfono de labios,Téléphone lèvres,Lippentelefon,Telefono a forma di labbra,Telefone de lábios,红唇电话
 FURNITURE_DESC_SMALL_ELECTRONICS_LIPPHONE,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_DUCKPHONE,Duck Phone,,Teléfono de pato,Téléphone canard,Ententelefon,Telefono a forma di anatra,Telefone de pato,鸭子电话
 FURNITURE_DESC_SMALL_ELECTRONICS_DUCKPHONE,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_CELLPHONE,90s Cell Phone,,Móvil noventero,Portable des années&nbsp;90,90er-Handy,Cellulare anni '90,Celular dos anos 90,90年代手机
 FURNITURE_DESC_SMALL_ELECTRONICS_CELLPHONE,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO,Retro Hand Radio,,Transistor retro,Radio portative rétro,Retro-Handradio,Radio portatile rétro,Rádio portátil retrô,复古手持无线电
+FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO,Retro Hand Radio,,Transistor retro,Radio portative rétro,Retro-Handradio,Radio portatile rétro,Rádio portátil retrô,复古手提收音机
 FURNITURE_DESC_SMALL_ELECTRONICS_HANDRADIO,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO2,Antique Hand Radio,,Transistor antiguo,Radio portative antique,Antikes Handradio,Radio portatile antica,Rádio portátil antigo,古董手持无线电
+FURNITURE_NAME_SMALL_ELECTRONICS_HANDRADIO2,Antique Hand Radio,,Transistor antiguo,Radio portative antique,Antikes Handradio,Radio portatile antica,Rádio portátil antigo,古董手提收音机
 FURNITURE_DESC_SMALL_ELECTRONICS_HANDRADIO2,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_WALKYTALKY,Walky-Talkie,,Walkie-talkie,Talkie-walkie,Walkie-Talkie,Walkie-talkie,Walkie-Talkie,对讲机
 FURNITURE_DESC_SMALL_ELECTRONICS_WALKYTALKY,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_BRAIN,Brain of Glorg,,Sesos de Glorg,Cerveau de Glorg,Glorgs Gehirn,Cervello di Glorg,Cérebro de Glorg,格洛格的大脑
 FURNITURE_DESC_SMALL_ELECTRONICS_BRAIN,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_MYSTERIOUSSKULL,Ethereal Skull,,Calavera etérea,Crâne éthéré,Ätherischer Schädel,Teschio etereo,Crânio etéreo,虚无骷髅
+FURNITURE_NAME_SMALL_ELECTRONICS_MYSTERIOUSSKULL,Ethereal Skull,,Calavera etérea,Crâne éthéré,Ätherischer Schädel,Teschio etereo,Crânio etéreo,虚灵头骨
 FURNITURE_DESC_SMALL_ELECTRONICS_MYSTERIOUSSKULL,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_MOON,Small Asteroid,,Asteroide pequeño,Petit astéroïde,Kleiner Asteroid,Asteroide piccolo,Asteroide pequeno,小小行星
+FURNITURE_NAME_SMALL_ELECTRONICS_MOON,Small Asteroid,,Asteroide pequeño,Petit astéroïde,Kleiner Asteroid,Asteroide piccolo,Asteroide pequeno,小行星
 FURNITURE_DESC_SMALL_ELECTRONICS_MOON,,,,,,,,
-FURNITURE_NAME_SMALL_ELECTRONICS_OOZE,Ooze Canister,,Tubo de cieno,Récipient de boue visqueuse,Schleimkanne,Contenitore di melma,Recipiente de exsudação,黏液罐
+FURNITURE_NAME_SMALL_ELECTRONICS_OOZE,Ooze Canister,,Tubo de cieno,Récipient de boue visqueuse,Schleimkanne,Contenitore di melma,Recipiente de exsudação,软泥罐
 FURNITURE_DESC_SMALL_ELECTRONICS_OOZE,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_DISEASES,Jar of Diseases,,Tarro con virus,Bocal de maladies,Glas voller Krankheitserreger,Barattolo di malattie,Pote de doenças,疾病罐
 FURNITURE_DESC_SMALL_JAR_DISEASES,,,,,,,,
@@ -1140,23 +1140,23 @@ FURNITURE_NAME_SMALL_JAR_EYEBALLS,Jar of Eyeballs,,Tarro con ojos,Bocal de globe
 FURNITURE_DESC_SMALL_JAR_EYEBALLS,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_HEART,Heart in a Jar,,Corazón en un tarro,Cœur en bocal,Herz im Glas,Cuore in barattolo,Coração no pote,罐中心脏
 FURNITURE_DESC_SMALL_JAR_HEART,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_SPIDER,Daddy Long Legs,,Araña patilarga,Bocal d'araignées,Weberknecht,Daddy Long Legs,Aranhiço,长腿蜘蛛
+FURNITURE_NAME_SMALL_JAR_SPIDER,Daddy Long Legs,,Araña patilarga,Bocal d'araignées,Weberknecht,Daddy Long Legs,Aranhiço,长腿叔叔
 FURNITURE_DESC_SMALL_JAR_SPIDER,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_FISH,Jar of Guppies,,Tarro con pececillos,Bocal de guppys,Glas mit Guppies,Barattolo di Guppy,Pote de guppies,孔雀鱼罐
+FURNITURE_NAME_SMALL_JAR_FISH,Jar of Guppies,,Tarro con pececillos,Bocal de guppys,Glas mit Guppies,Barattolo di Guppy,Pote de guppies,古比鱼罐
 FURNITURE_DESC_SMALL_JAR_FISH,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_FLYS,Jar of Flies,,Tarro con moscas,Bocal de mouches,Glas mit Fliegen,Barattolo di mosche,Pote de moscas,苍蝇罐
 FURNITURE_DESC_SMALL_JAR_FLYS,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_FAIRY,Fairy in a Jar,,Hada en un tarro,Fée en bocal,Fee im Glas,Fata in barattolo,Fada no pote,罐中精灵
+FURNITURE_NAME_SMALL_JAR_FAIRY,Fairy in a Jar,,Hada en un tarro,Fée en bocal,Fee im Glas,Fata in barattolo,Fada no pote,罐中仙子
 FURNITURE_DESC_SMALL_JAR_FAIRY,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_COINS,Jar of Pennies,,Tarro con peniques,Bocal de centimes,Glas mit Münzen,Barattolo di penny,Pote de moedas,便士罐
 FURNITURE_DESC_SMALL_JAR_COINS,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_NAILS,Jar of Nails,,Tarro con clavos,Bocal d'ongles,Glas mit Nägeln,Barattolo di chiodi,Pote de pregos,钉罐
+FURNITURE_NAME_SMALL_JAR_NAILS,Jar of Nails,,Tarro con clavos,Bocal d'ongles,Glas mit Nägeln,Barattolo di chiodi,Pote de pregos,钉子罐
 FURNITURE_DESC_SMALL_JAR_NAILS,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_GHOST,Inky,,Oscurita,Inky,Inky,Inchiostrello,Inky,墨水
+FURNITURE_NAME_SMALL_JAR_GHOST,Inky,,Oscurita,Inky,Inky,Inchiostrello,Inky,因基
 FURNITURE_DESC_SMALL_JAR_GHOST,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_EMPTY,Mason Jar,,Tarro de conserva,Bocal de conserve,Einmachglas,Barattolo per cibo,Pote de construção,梅森罐
 FURNITURE_DESC_SMALL_JAR_EMPTY,,,,,,,,
-FURNITURE_NAME_SMALL_JAR_EMPTY2,Medical Jar,,Tarro médico,Bocal médical,Medizinglas,Barattolo medico,Pote médico,医疗罐
+FURNITURE_NAME_SMALL_JAR_EMPTY2,Medical Jar,,Tarro médico,Bocal médical,Medizinglas,Barattolo medico,Pote médico,医用罐
 FURNITURE_DESC_SMALL_JAR_EMPTY2,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_EMPTY3,Pint Jar,,Tarro de cristal,Pinte,Großes Glas,Barattolo di vetro,Pote de meio litro,品脱罐
 FURNITURE_DESC_SMALL_JAR_EMPTY3,,,,,,,,
@@ -1166,17 +1166,17 @@ FURNITURE_NAME_SMALL_LOTION,Lotion,,Loción,Lotion,Creme,Lozione,Loção,乳液
 FURNITURE_DESC_SMALL_LOTION,,,,,,,,
 FURNITURE_NAME_SMALL_TISSUES,Tissues,,Pañuelos,Mouchoirs,Taschentücher,Fazzoletti,Lenços,纸巾
 FURNITURE_DESC_SMALL_TISSUES,,,,,,,,
-FURNITURE_NAME_SMALL_PICTURE_SPOON,Small Picture Frame A,,Marco pequeño A,Petit cadre photo&nbsp;A,Kleiner Bilderrahmen A,Cornice piccola A,Moldura pequena A,小画框 A
+FURNITURE_NAME_SMALL_PICTURE_SPOON,Small Picture Frame A,,Marco pequeño A,Petit cadre photo&nbsp;A,Kleiner Bilderrahmen A,Cornice piccola A,Moldura pequena A,小相框 A
 FURNITURE_DESC_SMALL_PICTURE_SPOON,,,,,,,,
-FURNITURE_NAME_SMALL_PICTURE_CAT,Small Picture Frame B,,Marco pequeño B,Petit cadre photo&nbsp;B,Kleiner Bilderrahmen B,Cornice piccola B,Moldura pequena B,小画框 B
+FURNITURE_NAME_SMALL_PICTURE_CAT,Small Picture Frame B,,Marco pequeño B,Petit cadre photo&nbsp;B,Kleiner Bilderrahmen B,Cornice piccola B,Moldura pequena B,小相框 B
 FURNITURE_DESC_SMALL_PICTURE_CAT,,,,,,,,
-FURNITURE_NAME_SMALL_PICTURE_CAN,Small Picture Frame C,,Marco pequeño C,Petit cadre photo&nbsp;C,Kleiner Bilderrahmen C,Cornice piccola C,Moldura pequena C,小画框 C
+FURNITURE_NAME_SMALL_PICTURE_CAN,Small Picture Frame C,,Marco pequeño C,Petit cadre photo&nbsp;C,Kleiner Bilderrahmen C,Cornice piccola C,Moldura pequena C,小相框 C
 FURNITURE_DESC_SMALL_PICTURE_CAN,,,,,,,,
 FURNITURE_NAME_SMALL_ALARMCLOCK1,Digital Alarm Clock,,Despertador digital,Réveil électronique,Digitaler Wecker,Sveglia digitale,Rádio-relógio digital,数字闹钟
 FURNITURE_DESC_SMALL_ALARMCLOCK1,,,,,,,,
 FURNITURE_NAME_SMALL_ALARMCLOCK2,Alarm Clock,,Despertador,Réveil,Wecker,Sveglia,Rádio-relógio,闹钟
 FURNITURE_DESC_SMALL_ALARMCLOCK2,,,,,,,,
-FURNITURE_NAME_SMALL_PILLBOTTLE,Small Pill Bottle,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino per pillole,Frasco de pílulas pequeno,小药丸瓶
+FURNITURE_NAME_SMALL_PILLBOTTLE,Small Pill Bottle,,Bote pequeño de pastillas,Petit flacon de pilules,Kleine Pillendose,Flaconcino per pillole,Frasco de pílulas pequeno,小药瓶
 FURNITURE_DESC_SMALL_PILLBOTTLE,,,,,,,,
 FURNITURE_NAME_SMALL_WATERBOTTLE,Water Bottle,,Botella de agua,Bouteille d'eau,Wasserflasche,Bottiglia d'acqua,Garrafa de água,水瓶
 FURNITURE_DESC_SMALL_WATERBOTTLE,,,,,,,,
@@ -1190,13 +1190,13 @@ FURNITURE_NAME_SMALL_PIN,Bowling Pin,,Bolo,Quille de bowling,Bowlingpin,Birillo 
 FURNITURE_DESC_SMALL_PIN,,,,,,,,
 FURNITURE_NAME_SMALL_MUG,Mug,,Taza,Mug,Becher,Tazza,Caneca,马克杯
 FURNITURE_DESC_SMALL_MUG,,,,,,,,
-FURNITURE_NAME_SMALL_PENCUP,Pen Cup,,Portalápices,Tasse de stylos,Stiftebecher,Portapenne,Caneca de canetas,笔杯
+FURNITURE_NAME_SMALL_PENCUP,Pen Cup,,Portalápices,Tasse de stylos,Stiftebecher,Portapenne,Caneca de canetas,笔筒
 FURNITURE_DESC_SMALL_PENCUP,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_SAUSAGE,Sausage,,Salchicha,Saucisse,Wurst,Salsiccia,Salsicha,香肠
 FURNITURE_DESC_SMALL_FOOD_SAUSAGE,,,,,,,,
 FURNITURE_NAME_SMALL_DEADRAT,Dead Rat,,Rata muerta,Rat mort,Tote Ratte,Ratto morto,Rato morto,死老鼠
 FURNITURE_DESC_SMALL_DEADRAT,,,,,,,,
-FURNITURE_NAME_SMALL_BLACKBOX,Black Box,,Caja negra,Boîte noire,Schwarze Box,Scatola nera,Caixa preta,黑盒子
+FURNITURE_NAME_SMALL_BLACKBOX,Black Box,,Caja negra,Boîte noire,Schwarze Box,Scatola nera,Caixa preta,黑匣子
 FURNITURE_DESC_SMALL_BLACKBOX,,,,,,,,
 FURNITURE_NAME_SMALL_EYEBALL,Eyeball,,Ojo,Globe oculaire,Augapfel,Bulbo oculare,Globo ocular,眼球
 FURNITURE_DESC_SMALL_EYEBALL,,,,,,,,
@@ -1204,7 +1204,7 @@ FURNITURE_NAME_SMALL_PERFUME,Perfume,,Perfume,Parfum,Parfüm,Profumo,Perfume,香
 FURNITURE_DESC_SMALL_PERFUME,,,,,,,,
 FURNITURE_NAME_SMALL_JAR_TADPOLE,Tadpole in a Jar,,Renacuajo en un tarro,Têtard en bocal,Kaulquappe im Glas,Girino in barattolo,Girino no pote,罐中蝌蚪
 FURNITURE_DESC_SMALL_JAR_TADPOLE,,,,,,,,
-FURNITURE_NAME_SMALL_JUG,Jug,,Jarra,Carafe,Krug,Brocca,Jarro,水壶
+FURNITURE_NAME_SMALL_JUG,Jug,,Jarra,Carafe,Krug,Brocca,Jarro,大罐
 FURNITURE_DESC_SMALL_JUG,,,,,,,,
 FURNITURE_NAME_SMALL_COUCH,Toy Couch,,Sofá de juguete,Canapé jouet,Spielzeugsofa,Divano giocattolo,Sofá de brinquedo,玩具沙发
 FURNITURE_DESC_SMALL_COUCH,,,,,,,,
@@ -1214,31 +1214,31 @@ FURNITURE_NAME_SMALL_SINK,Toy Sink,,Lavabo de juguete,Évier jouet,Spielzeugwasc
 FURNITURE_DESC_SMALL_SINK,,,,,,,,
 FURNITURE_NAME_SMALL_STOVE,Toy Stove,,Hornillo de juguete,Cuisinière jouet,Spielzeugofen,Stufa giocattolo,Fogão de brinquedo,玩具炉灶
 FURNITURE_DESC_SMALL_STOVE,,,,,,,,
-FURNITURE_NAME_SMALL_CRATE,Toy Crate,,Caja de juguete,Caisse jouet,Spielzeugkiste,Cassa giocattolo,Caixa de brinquedo,玩具箱子
+FURNITURE_NAME_SMALL_CRATE,Toy Crate,,Caja de juguete,Caisse jouet,Spielzeugkiste,Cassa giocattolo,Caixa de brinquedo,玩具木箱
 FURNITURE_DESC_SMALL_CRATE,,,,,,,,
 FURNITURE_NAME_SMALL_BED,Toy Bed,,Cama de juguete,Lit jouet,Spielzeugbett,Letto giocattolo,Cama de brinquedo,玩具床
 FURNITURE_DESC_SMALL_BED,,,,,,,,
-FURNITURE_NAME_SMALL_SIDETABLE,Toy Table,,Mesa de juguete,Table jouet,Spielzeugtisch,Tavolo giocattolo,Mesa de brinquedo,玩具桌子
+FURNITURE_NAME_SMALL_SIDETABLE,Toy Table,,Mesa de juguete,Table jouet,Spielzeugtisch,Tavolo giocattolo,Mesa de brinquedo,玩具桌
 FURNITURE_DESC_SMALL_SIDETABLE,,,,,,,,
-FURNITURE_NAME_SMALL_SHELF,Toy Shelf,,Estante de juguete,Étagère jouet,Spielzeugregal,Scaffale giocattolo,Estante de brinquedo,玩具书架
+FURNITURE_NAME_SMALL_SHELF,Toy Shelf,,Estante de juguete,Étagère jouet,Spielzeugregal,Scaffale giocattolo,Estante de brinquedo,玩具架
 FURNITURE_DESC_SMALL_SHELF,,,,,,,,
-FURNITURE_NAME_SMALL_PIGGYBANK,Piggy Bank,,Hucha,Tirelire cochon,Sparschwein,Salvadanaio,Porquinho,储蓄罐
+FURNITURE_NAME_SMALL_PIGGYBANK,Piggy Bank,,Hucha,Tirelire cochon,Sparschwein,Salvadanaio,Porquinho,存钱罐
 FURNITURE_DESC_SMALL_PIGGYBANK,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_CUPCAKE,Cupcake,,Magdalena,Cupcake,Cupcake,Cupcake,Cupcake,纸杯蛋糕
 FURNITURE_DESC_SMALL_FOOD_CUPCAKE,,,,,,,,
 FURNITURE_NAME_SMALL_FOOD_CUPCAKE2,Chocolate Cupcake,,Magdalena de chocolate,Cupcake au chocolat,Schokocupcake,Cupcake al cioccolato,Cupcake de chocolate,巧克力纸杯蛋糕
 FURNITURE_DESC_SMALL_FOOD_CUPCAKE2,,,,,,,,
-FURNITURE_NAME_SMALL_MUG2,Tall Mug,,Taza larga,Grand mug,Großer Becher,Tazza grande,Caneca alta,高杯马克杯
+FURNITURE_NAME_SMALL_MUG2,Tall Mug,,Taza larga,Grand mug,Großer Becher,Tazza grande,Caneca alta,高马克杯
 FURNITURE_DESC_SMALL_MUG2,,,,,,,,
 FURNITURE_NAME_SMALL_ELECTRONICS_JOYSTICK,Joystick,,Joystick,Joystick,Joystick,Joystick,Joystick,摇杆
 FURNITURE_DESC_SMALL_ELECTRONICS_JOYSTICK,,,,,,,,
-FURNITURE_NAME_SMALL_BELL,Ring Bell,,Timbre,Sonnette,Glöckchen,Campanello,Sino de campainha,敲铃
+FURNITURE_NAME_SMALL_BELL,Ring Bell,,Timbre,Sonnette,Glöckchen,Campanello,Sino de campainha,按铃
 FURNITURE_DESC_SMALL_BELL,,,,,,,,
-FURNITURE_NAME_SMALL_IRON,Iron,,Plancha,Fer,Bügeleisen,Ferro da stiro,Ferro de passar,铁
+FURNITURE_NAME_SMALL_IRON,Iron,,Plancha,Fer,Bügeleisen,Ferro da stiro,Ferro de passar,熨斗
 FURNITURE_DESC_SMALL_IRON,,,,,,,,
-FURNITURE_NAME_SMALL_SNOWGLOBE,Small Snowglobe,,Bola de nieve pequeña,Petite boule à neige,Kleine Schneekugel,Palla di neve piccola,Globo de neve pequeno,小雪球
+FURNITURE_NAME_SMALL_SNOWGLOBE,Small Snowglobe,,Bola de nieve pequeña,Petite boule à neige,Kleine Schneekugel,Palla di neve piccola,Globo de neve pequeno,小雪花球
 FURNITURE_DESC_SMALL_SNOWGLOBE,,,,,,,,
-FURNITURE_NAME_SMALL_SHELL,Conch Shell,,Concha,Conque,Schneckenmuschel,Conchiglia,Concha,海螺
+FURNITURE_NAME_SMALL_SHELL,Conch Shell,,Concha,Conque,Schneckenmuschel,Conchiglia,Concha,海螺壳
 FURNITURE_DESC_SMALL_SHELL,,,,,,,,
 FURNITURE_NAME_SMALL_BIGEGG,Big Egg,,Huevo grande,Gros œuf,Großes Ei,Uovo grande,Ovo grande,大蛋
 FURNITURE_DESC_SMALL_BIGEGG,,,,,,,,
@@ -1266,5 +1266,5 @@ FURNITURE_NAME_SMALL_90SPHONE,90s Phone A,,Teléfono noventero A,Téléphone des
 FURNITURE_DESC_SMALL_90SPHONE,,,,,,,,
 FURNITURE_NAME_SMALL_90SPHONE2,90s Phone B,,Teléfono noventero B,Téléphone des années&nbsp;90&nbsp;B,90er-Telefon B,Telefono anni '90 B,Telefone dos anos 90 B,90年代电话 B
 FURNITURE_DESC_SMALL_90SPHONE2,,,,,,,,
-FURNITURE_NAME_SMALL_KNOCKER,Knocker,,Péndulo,Pendule de Newton,,Battente,Aldrava,敲门器
+FURNITURE_NAME_SMALL_KNOCKER,Knocker,,Péndulo,Pendule de Newton,,Battente,Aldrava,门环
 FURNITURE_DESC_SMALL_KNOCKER,,,,,,,,

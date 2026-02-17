@@ -1,8 +1,8 @@
 ﻿KEY,en,notes,sp,fr,de,it,pt-br,zh
-HOUSE_BUTTON_DEFEND,Defend!,,Defender,Défendre !,Verteidigen!,Difendi!,Defender!,防御！
-ENDING_CUTSCENE_FIN,The End?,,¿El fin?,Fin ?,Ende?,La fine?,Fim?,结束？
+HOUSE_BUTTON_DEFEND,Defend!,,Defender,Défendre !,Verteidigen!,Difendi!,Defender!,防守！
+ENDING_CUTSCENE_FIN,The End?,,¿El fin?,Fin ?,Ende?,La fine?,Fim?,剧终？
 LEVELUP_OPTION_STATUP,Stat Up!,,¡Aumento de atributo!,Stat+ !,Attribut hoch!,Statistica +!,Atributo +!,属性提升！
-ITEM_UI_NEW,NEW,,NUEVO,NOUVEAU,NEU,NUOVO,NOVO,新
-ITEM_UI_WORN_INDICATOR,w,,d,p,a,ind,g,穿戴指示器
-CAT_UI_BOX_SHORTCUT_LABEL,BOX,,CAJA,BOÎTE,BOX,SCATOLA,CAIXA,盒子
-KEYWORD_PERMABLIND_DESC,30% miss chance.,,30 % de probabilidad de fallo.,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.,30% 概率攻击Miss。
+ITEM_UI_NEW,NEW,,NUEVO,NOUVEAU,NEU,NUOVO,NOVO,[s:.65]新[/s]
+ITEM_UI_WORN_INDICATOR,w,,d,p,a,ind,g,[s:.65]损[/s]
+CAT_UI_BOX_SHORTCUT_LABEL,BOX,,CAJA,BOÎTE,BOX,SCATOLA,CAIXA,箱子
+KEYWORD_PERMABLIND_DESC,30% miss chance.,,30 % de probabilidad de fallo.,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.,30% 未命中率。

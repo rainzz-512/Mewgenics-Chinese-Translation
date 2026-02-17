@@ -14,28 +14,28 @@ PRONOUN_SHE_LOWER,she,replaces {he} in other strings,ella,elle,sie,lei,ela,她
 PRONOUN_SHE_UPPER,She,replaces {He} in other strings,Ella,Elle,Sie,Lei,Ela,她
 PRONOUN_SHE_S_LOWER,she's,replaces {he's} in other strings,ella,,sie ist,lei è,ela está,她是
 PRONOUN_SHE_S_UPPER,She's,replaces {He's} in other strings,Ella,,Sie ist,Lei è,Ela está,她是
-PRONOUN_HER_POSSESSIVE_LOWER,her,replaces {his} in other strings,su,,ihr,suo,dela,她
-PRONOUN_HER_POSSESSIVE_UPPER,Her,replaces {His} in other strings,Su,,Ihr,suo,Dela,她
+PRONOUN_HER_POSSESSIVE_LOWER,her,replaces {his} in other strings,su,,ihr,suo,dela,她的
+PRONOUN_HER_POSSESSIVE_UPPER,Her,replaces {His} in other strings,Su,,Ihr,suo,Dela,她的
 PRONOUN_HER_LOWER,her,replaces {him} in other strings,su,elle,sie,lei,dela,她
 PRONOUN_HER_UPPER,Her,replaces {Him} in other strings,Su,Elle,Sie,lei,Dela,她
 PRONOUN_HERSELF_LOWER,herself,replaces {himself} in other strings,ella,,sie selbst,se stessa,si mesma,她自己
 PRONOUN_HERSELF_UPPER,Herself,replaces {Himself} in other strings,Ella,,Sie selbst,Se stessa,Si mesma,她自己
 ,,,,,,,,
-PRONOUN_THEY_LOWER,they,replaces {he} in other strings,él,iel,er,loro,eles,他们
-PRONOUN_THEY_UPPER,They,replaces {He} in other strings,Él,Iel,Er,Loro,Eles,他们
-PRONOUN_THEYRE_LOWER,they're,replaces {he's} in other strings,él,,er ist,loro sono,eles estão,他们是
-PRONOUN_THEYRE_UPPER,They're,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão,他们是
-PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,él,,sein,loro,deles,他们的
-PRONOUN_THEIR_UPPER,Their,replaces {His} in other strings,Él,,Sein,loro,Deles,他们的
-PRONOUN_THEM_LOWER,them,replaces {him} in other strings,él,ellui,ihn,loro,a eles,他们
-PRONOUN_THEM_UPPER,Them,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles,他们
-PRONOUN_THEMSELF_LOWER,themself,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos,他们自己
-PRONOUN_THEMSELF_UPPER,Themself,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos,他们自己
+PRONOUN_THEY_LOWER,they,replaces {he} in other strings,él,iel,er,loro,eles,它
+PRONOUN_THEY_UPPER,They,replaces {He} in other strings,Él,Iel,Er,Loro,Eles,它
+PRONOUN_THEYRE_LOWER,they're,replaces {he's} in other strings,él,,er ist,loro sono,eles estão,它是
+PRONOUN_THEYRE_UPPER,They're,replaces {He's} in other strings,Él,,Er ist,Loro sono,Eles estão,它是
+PRONOUN_THEIR_LOWER,their,replaces {his} in other strings,él,,sein,loro,deles,它的
+PRONOUN_THEIR_UPPER,Their,replaces {His} in other strings,Él,,Sein,loro,Deles,它的
+PRONOUN_THEM_LOWER,them,replaces {him} in other strings,él,ellui,ihn,loro,a eles,它
+PRONOUN_THEM_UPPER,Them,replaces {Him} in other strings,Él,Ellui,Ihn,loro,A eles,它
+PRONOUN_THEMSELF_LOWER,themself,replaces {himself} in other strings,él,,er selbst,loro stessi,eles mesmos,它自己
+PRONOUN_THEMSELF_UPPER,Themself,replaces {Himself} in other strings,Él,,Er selbst,Loro stessi,Eles mesmos,它自己
 ,,,,,,,,
 CATNAME_UNKNOWN_NAME,Unknown,replaces {Catname} in other strings if there was no cat specified (usually an error message),Desconocido,Inconnu,Unbekannt,Sconosciuto,Desconhecido,未知
 CATNAME_UNKNOWN_NAME_POSSESSIVE,Unknown's,replaces {Catname's} in other strings if there was no cat specified (usually an error message),Desconocido,d'Inconnu,Unbekannts,Sconosciuto,de desconhecido,未知的
 ,,,,,,,,
-CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname},{Catname} 的
+CATNAME_POSSESSIVE_FORMAT,{Catname}'s,"(adds an 's onto catname in english, can do whatever in other languages)",{Catname},,{Catname}s,{Catname},de {Catname},{Catname}的
 CATNAME_POSSESSIVE_FORMAT_M,,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_F,,,,,,,,
 CATNAME_POSSESSIVE_FORMAT_N,,,,,,,,
