@@ -361,7 +361,7 @@ Untot.","Lancia le unità che riesce a raggiungere.
 Alla fine del suo turno si avventa in una direzione casuale.
 Non morto.","Lança unidades que consegue alcançar.
 Realiza uma investida em uma direção aleatória no final de seu turno.
-Morto-vivo.","会投掷它能触及的单位。
+Morto-vivo.","会投掷它能接触的单位。
 回合结束时随机方向突进。
 不死族。"
 ENEMY_GRAVEWORM_NAME,Grave Worm,,Lombriz sepulcral,Ver sépulcral,Grabwurm,Verme della Tomba,Verme de Tumba,坟墓虫
@@ -409,7 +409,7 @@ Se il suo corpo non viene distrutto, risorge!
 Non morto.","Lança unidades que consegue alcançar.
 Realiza uma investida em uma direção aleatória no final de seu turno.
 Volta dos mortos se seu corpo não for destruído!
-Morto-vivo.","会投掷它能触及的单位。
+Morto-vivo.","会投掷它能接触的单位。
 回合结束时随机方向突进。
 如果身体未被摧毁，会复活！"
 ENEMY_SKELESHAMBLERDEAD_NAME,Skeleton Shambler,,Tambaleante esquelético,Molosse squelettique,Skelettschlurfer,Scheletro Barcollatore,Esqueleto Cambaleante,骷髅蹒跚者
