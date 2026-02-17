@@ -3729,7 +3729,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-获得永久+2 [img:con] 并在破损时恢复10生命值。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 ARMOR_CACTUSHAT_NAME,Cactus Hat,,Sombrero de cactus,Chapeau cactus,Kaktushut,Cappello del Cactus,Chapéu de Cacto,仙人掌帽
 ARMOR_CACTUSHAT_DESC,"+3 Thorns, Brittle.
@@ -3739,7 +3739,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-获得永久+2 [img:con] 并在破损时恢复10生命值。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 ARMOR_CACTUSNECKLACE_NAME,Cactus Necklace,,Gargantilla de cactus,Collier cactus,Kaktushalskette,Collana del Cactus,Colar de Cacto,仙人掌项链
 ARMOR_CACTUSNECKLACE_DESC,"+3 Thorns, Brittle.
@@ -3749,7 +3749,7 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
 Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
-获得永久+2 [img:con] 并在破损时恢复10生命值。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 SETBONUS_CACTUS_NAME,Cactus Set Bonus!,,¡Bonificación de conjunto de cactus!,Bonus d'ensemble&nbsp;: cactus&nbsp;!,Setbonus: Kaktus!,Bonus Set: Cactus!,Bônus de Conjunto de Cacto!,仙人掌套装加成！
 SETBONUS_CACTUS_DESC,"+2 Thorns.
