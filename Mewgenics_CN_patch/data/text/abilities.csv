@@ -6894,14 +6894,14 @@ ABILITY_CARRIONSHOT_DESC,"Deal 1 damage and inflict Leech 1.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 1 di danno e Sanguisuga 1.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 1 de dano e aplique sanguessuga 1.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成1点伤害并施加1层生命汲取。
-[s:.7]此技能更强且倒地时可施放。[/s]"
+[s:.7]此技能倒地时可施放并且更强[/s]"
 ABILITY_CARRIONSHOT2_DESC,"Deal 2 damage and inflict Leech 2.
 [s:.7]This spell is stronger and castable while you're downed.[/s]",,"Inflige 2 de daño y 2 de sanguijuela.
 [s:.7](Este hechizo es más fuerte y se puede lanzar cuando la unidad está abatida).[/s]",Dégâts&nbsp;+2&nbsp;et Sangsue&nbsp;+2. [s:.7]Sort plus puissant si vous êtes K.O.[/s],"Verursache 2&nbsp;Schaden und Blutegel&nbsp;2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist.[/s]","Infliggi 2 di danno e Sanguisuga 2.
 [s:.7]Quest'incantesimo è più potente e può essere lanciato in stato di KO.[/s]","Cause 2 de dano e aplique sanguessuga 2.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente.[/s]","造成2点伤害并施加2层生命汲取。
-[s:.7]此技能更强且倒地时可施放。[/s]"
+[s:.7]此技能倒地时可施放并且更强[/s]"
 ABILITY_LIFEDRAIN_NAME,Lifedrain,,Drenaje vital,Vol de vie,Leben absaugen,Drenaggio Vitale,Dreno de Vida,生命吸取
 ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
 [s:.7]This spell is much stronger and castable while you're downed. If this kills a unit, revive with 50% hp.[/s]",,"Resta 2 PS en un alcance cuerpo a cuerpo.
@@ -6909,7 +6909,7 @@ ABILITY_LIFEDRAIN_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit 50&nbsp;% LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il 50% dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com 50% de saúde.[/s]","近战范围吸取2点生命值。
-[s:.7]此技能更强很多且倒地时可施放。
+[s:.7]此技能倒地时可施放并且更强
 
 若此技能击杀单位，
 则以50%生命值复活。[/s]"
@@ -6919,7 +6919,7 @@ ABILITY_LIFEDRAIN2_DESC,"Drain 2 HP at melee range.
 [s:.7]Dieser Zauber ist viel stärker, wenn du ohnmächtig bist. Tötet er eine Einheit, wirst du mit max. LP wiederbelebt.[/s]","Assorbi 2 PS a distanza in mischia.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Se uccidi un'unità, resusciti con il massimo dei PS.[/s]","Drene 2 PV em alcance corpo-a-corpo.
 [s:.7]É possível lançar este encantamento e ele fica muito mais forte quando você está inconsciente. Se isto matar uma unidade, reviva com saúde completa.[/s]","近战范围吸取2点生命值。
-[s:.7]此技能更强很多且倒地时可施放。
+[s:.7]此技能倒地时可施放并且更强
 
 若此技能击杀单位，则以满生命值复活。
 [/s]"
@@ -6930,7 +6930,7 @@ ABILITY_COFFINFLOP_DESC,"Jump to an open tile in range 2.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist. Wenn du ohnmächtig bist, verursachst du Schaden und Wahnsinn bei Einheiten, auf denen du landest.[/s]","Salti su una casella libera nel raggio d'azione di 2.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Quando sei in tale stato, puoi atterrare su delle unità infliggendo danno e Follia.[/s]","Pule até um espaço aberto em alcance 2.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente. Enquanto você está inconsciente, é possível cair sobre unidades em qualquer lugar, causando dano e aplicando insanidade.[/s]","跳至范围2内的空地格。
-[s:.7]此技能更强且倒地时可施放。
+[s:.7]此技能倒地时可施放并且更强
 倒地时可跳至单位上，
 对其造成伤害并施加疯狂。 [/s]"
 ABILITY_COFFINFLOP2_DESC,"Jump to an open tile in range 3.
@@ -6939,7 +6939,7 @@ ABILITY_COFFINFLOP2_DESC,"Jump to an open tile in range 3.
 [s:.7]Dieser Zauber ist stärker, wenn du ohnmächtig bist. Wenn du ohnmächtig bist, verursachst du Schaden und Wahnsinn bei Einheiten, auf denen du landest.[/s]","Salti su una casella libera nel raggio d'azione di 3.
 [s:.7]Quest'incantesimo è molto più potente e può essere lanciato in stato di KO. Quando sei in tale stato, puoi atterrare su delle unità infliggendo danno e Follia 2.[/s]","Pule até um espaço aberto em alcance 3.
 [s:.7]É possível lançar este encantamento e ele fica mais forte quando você está inconsciente. Enquanto você está inconsciente, é possível cair sobre unidades em qualquer lugar, causando dano e aplicando insanidade 2.[/s]","跳至范围3内的空地格。
-[s:.7]此技能更强且倒地时可施放。
+[s:.7]此技能倒地时可施放并且更强
 倒地时可跳至任意单位上，
 对其造成伤害并施加2层疯狂。
  [/s]"
