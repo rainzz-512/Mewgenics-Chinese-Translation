@@ -2726,7 +2726,7 @@ ABILITY_FORMOFTHERACCOON2_DESC,"Enter Raccoon Form, gaining +2 [img:int], and +2
 ABILITY_PILFER_NAME,Pilfer,,Robo,Chapardage,Stibitzen,Scippo,Afanar,偷窃
 ABILITY_PILFER_DESC,A melee attack that scatters two random pickups when it hits.,,Un ataque cuerpo a cuerpo que reparte 2 recogibles al azar cuando golpea.,Une attaque au corps-à-corps qui éparpille 2&nbsp;ressources aléatoires en touchant sa cible.,"Ein Nahkampfangriff, der zwei zufällige Gegenstände erscheinen lässt, wenn er trifft.","Un attacco corpo a corpo che, quando colpisce, disperde due raccoglibili casuali.",Um ataque corpo-a-corpo que espalha dois coletáveis aleatórios ao acertar um alvo.,"一次近战攻击，
 命中时会散落两个随机拾取物。"
-ABILITY_SCAVENGE_NAME,Scavenge,,Rebuscamiento,Récup',Plündern,Razzia,Vasculhar,抢夺
+ABILITY_SCAVENGE_NAME,Scavenge,,Rebuscamiento,Récup',Plündern,Razzia,Vasculhar,拾荒
 ABILITY_SCAVENGE_DESC,Run to any pickup and collect it.,,Corre hacia cualquier recogible y lo recolecta.,Courez jusqu'à une ressource et ramassez-la.,Renne zu einem beliebigen Gegenstand und nimm ihn auf.,Corri verso un raccoglibile qualsiasi e lo prendi.,Corra até qualquer coletável e o pegue.,跑向任何拾取物并收集它。
 ABILITY_SCAVENGE2_DESC,Run to any pickup and collect it. The effects of that pickup are doubled.,,Corre hacia cualquier recogible y lo recolecta. Los efectos de ese recogible se duplican.,Courez jusqu'à une ressource et ramassez-la. Les effets de cette ressource sont doublés.,Renne zu einem beliebigen Gegenstand und nimm ihn auf. Die Wirkung des Gegenstands wird verdoppelt.,Corri verso un raccoglibile qualsiasi e lo prendi. Gli effetti di quel raccoglibile sono raddoppiati.,Corra até qualquer coletável e o pegue. Os efeitos do coletável são dobrados.,"跑向任何拾取物并收集它。
 该拾取物的效果加倍。"
@@ -6413,10 +6413,10 @@ ABILITY_UNRELIABLEMISSILE2_DESC,"Shoot an explosive homing missile at a random e
 [s:.7](此技能消耗更少。)[/s]"
 ABILITY_SPAREPARTS_NAME,Spare Parts,,Piezas sueltas,Pièces détachées,Ersatzteile,Pezzi di Ricambio,Peças Sobressalentes,备用零件
 ABILITY_SPAREPARTS_DESC,"Destroy your weapon and gain one of the following: +2 [img:shield], +4 Charge, +1 Thorns, or 1 coin.",,"Destruye su arma y obtiene una de las siguientes mejoras: +2 [img:shield], +4 de carga, +1 de espinas o 1 moneda.","Vous détruisez votre arme et recevez l'un des bonus suivants&nbsp;: [img:shield]&nbsp;+2, Charge&nbsp;+4, Épines&nbsp;1&nbsp;ou 1&nbsp;pièce.","Zerstöre deine Waffe und erhalte einen der folgenden Boni: +2&nbsp;[img:shield], +4&nbsp;Ladung, +1&nbsp;Dornen oder 1&nbsp;Münze.","Distruggi la tua arma e ottieni uno dei seguenti effetti: +2 allo [img:shield], +4 Carica, +1 Spine o 1 moneta.","Destrua sua arma e obtenha um dos seguintes efeitos: +2 de [img:shield], +4 cargas, +1 de espinhos ou 1 moeda.","摧毁你的武器并获得以下之一：
-+2 [img:shield]、+4蓄力、+1荆棘，
++2 [img:shield]、+4充能、+1荆棘，
 或1个硬币。"
 ABILITY_SPAREPARTS2_DESC,"Destroy your weapon and gain one of the following: +4 [img:shield], +8 Charge, +2 Thorns, or 2 coins.",,"Destruye su arma y obtiene una de las siguientes mejoras: +4 [img:shield], +8 de carga, +2 de espinas o 2 monedas.","Vous détruisez votre arme et recevez l'un des bonus suivants&nbsp;: [img:shield]&nbsp;+4, Charge&nbsp;+8, Épines&nbsp;2&nbsp;ou 2&nbsp;pièces.","Zerstöre deine Waffe und erhalte einen der folgenden Boni: +4&nbsp;[img:shield], +8&nbsp;Ladung, +2&nbsp;Dornen oder 2&nbsp;Münze.","Distruggi la tua arma e ottieni uno dei seguenti effetti: +4 allo [img:shield], +8 Carica, +2 Spine o 2 monete.","Destrua sua arma e obtenha um dos seguintes efeitos: +4 de [img:shield], +8 cargas, +2 de espinhos ou 2 moedas.","摧毁你的武器并获得以下之一：
-+4 [img:shield]、+8蓄力、+2荆棘，
++4 [img:shield]、+8充能、+2荆棘，
 或2个硬币。"
 ABILITY_SPLITTHEATOM_NAME,Split the Atom,,División de átomo,Fission d'atome,Kernspaltung,Scissione dell'Atomo,Divisão de Átomo,裂变原子
 ABILITY_SPLITTHEATOM_DESC,"Deal 50 damage to and inflict Burn 10 on all enemies. You can pay for this spell over multiple turns.

@@ -114,10 +114,10 @@ abilities.csv,2066,ABILITY_MOVEONETILE_DESC,placeholder_mismatch,,,{he} go,移�
 abilities.csv,2071,ABILITY_MAXTELEPORT_DESC,placeholder_mismatch,,,{he} teleport,传送
 abilities.csv,2076,ABILITY_FLOAT_DESC,placeholder_mismatch,,,{he} go,移动
 abilities.csv,2204,ABILITY_SPAREPARTS_DESC,missing_expected_zh,Charge,充能,"Destroy your weapon and gain one of the following: +2 [img:shield], +4 Charge, +1 Thorns, or 1 coin.","摧毁你的武器并获得以下之一：
-\n+2 [img:shield]、+4蓄力、+1荆棘，
+\n+2 [img:shield]、+4充能、+1荆棘，
 \n或1个硬币。"
 abilities.csv,2205,ABILITY_SPAREPARTS2_DESC,missing_expected_zh,Charge,充能,"Destroy your weapon and gain one of the following: +4 [img:shield], +8 Charge, +2 Thorns, or 2 coins.","摧毁你的武器并获得以下之一：
-\n+4 [img:shield]、+8蓄力、+2荆棘，
+\n+4 [img:shield]、+8充能、+2荆棘，
 \n或2个硬币。"
 abilities.csv,2317,ABILITY_SOULTRANSFER2_DESC,missing_expected_zh,Charmed,被迷惑,"Give a unit +1 [img:con] and heal it 4 HP. You gain -1 [img:con] and lose 4 health.
 \nThis spell can revive units. If the unit revived was an enemy it gets charmed for the battle.","给予一个单位+1 [img:con] 并治疗其4点生命值。
