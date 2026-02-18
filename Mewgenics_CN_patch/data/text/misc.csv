@@ -168,7 +168,7 @@ WORLDEVENT_LOSE_1_FOOD,{Catname} stored 1 food!,,¡{Catname} ha almacenado 1 de 
 WORLDEVENT_LOSE_1_FOOD_M,,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_F,,,,,,,,
 WORLDEVENT_LOSE_1_FOOD_N,,,,,,,,
-WORLDEVENT_INJURY_PREVENTED,"{Catname} should have suffered an injury, but was immune!",,"{Catname} debería haber sufrido una lesión, pero ¡es inmune!",{Catname} a évité une blessure grâce à son immunité&nbsp;!,"{Catname} wäre eigentlich verletzt worden, ist aber immun!","{Catname} avrebbe dovuto subire una ferita, ma era immune!","{Catname} deveria ter sofrido um ferimento, mas estava imune!",{Catname} 本该遭受伤势，但免疫了！
+WORLDEVENT_INJURY_PREVENTED,"{Catname} should have suffered an injury, but was immune!",,"{Catname} debería haber sufrido una lesión, pero ¡es inmune!",{Catname} a évité une blessure grâce à son immunité&nbsp;!,"{Catname} wäre eigentlich verletzt worden, ist aber immun!","{Catname} avrebbe dovuto subire una ferita, ma era immune!","{Catname} deveria ter sofrido um ferimento, mas estava imune!",{Catname} 本该遭受创伤，但免疫了！
 WORLDEVENT_INJURY_PREVENTED_M,,,,,,,,
 WORLDEVENT_INJURY_PREVENTED_F,,,,,,,,
 WORLDEVENT_INJURY_PREVENTED_N,,,,,,,,

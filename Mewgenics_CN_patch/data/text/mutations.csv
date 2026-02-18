@@ -145,7 +145,7 @@ MUTATION_EYES_345_DESC,Inflict a random debuff on units who contact you.,,Inflig
 MUTATION_EYES_346_DESC,Spawn a rock when damaged. ,,Genera una roca al sufrir daño. ,"Quand vous subissez des dégâts, un caillou apparaît. ","Lasse einen Stein erscheinen, wenn du Schaden erleidest. ",Generi una roccia quando subisci danno.,Gere uma pedra ao sofrer dano.,受到伤害时生成一块岩石。
 MUTATION_EYES_347_DESC,Your basic attack has a 15% chance to inflict Confusion 2.,,El ataque básico tiene un 15 % de probabilidad de infligir 2 de confusión.,Votre attaque de base a 15&nbsp;% de chances d'infliger Confusion +2.,"Dein Grundangriff hat eine 15%ige Wahrscheinlichkeit, Verwirrung&nbsp;2 zu verursachen.",Il tuo attacco base ha un 15% di probabilità di infliggere Confusione 2.,Seu ataque básico possui 15% de chance de aplicar confusão 2.,"你的基础攻击有 15% 的
 几率造成 2 层混乱。"
-MUTATION_EYES_348_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1 Reichweite für Nah- und Fernkampfangriffe.,"+1 al raggio d'azione, +1 alla portata.",+1 de alcance. +1 de envergadura.,+1 射程，+1 延伸。
+MUTATION_EYES_348_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1 Reichweite für Nah- und Fernkampfangriffe.,"+1 al raggio d'azione, +1 alla portata.",+1 de alcance. +1 de envergadura.,+1 射程，+1 移动距离。
 MUTATION_EYES_349_DESC,Emit 4 Sparkles each time you cast 8 spells.,,Emite 4 destellos cada vez que lanza 8 hechizos.,"Chaque fois que vous lancez 8&nbsp;sorts, vous émettez 4&nbsp;étincelles.","Versprühe jedes Mal, wenn du 8&nbsp;Zauber wirkst, 4&nbsp;Funken.",Emetti 4 Scintille ogni volta che lanci 8 incantesimi.,Emite 4 fagulhas a cada vez que você lança 8 encantamentos.,"每当你施放 8 个法术，
 发出 4 道火花。"
 MUTATION_EYES_351_DESC,Your bonus ability is a different random spell each battle.,,La habilidad de bonificación es un hechizo al azar en cada combate.,Votre compétence bonus est un sort aléatoire différent à chaque combat.,Deine Bonusfähigkeit ist in jedem Kampf ein anderer zufälliger Zauber.,La tua abilità bonus è un incantesimo casuale diverso in ogni battaglia.,Sua habilidade bônus é um encantamento aleatório diferente a cada batalha.,"每场战斗你的额外技能会是一个不同的随机法术。"
@@ -192,7 +192,7 @@ I tuoi incantesimi costano 1 mana in meno.","20% de chance de errar.
 Seus encantamentos custam 1 a menos de mana.","20% 未命中率。
 你的法术法力消耗减少 1 点。"
 MUTATION_HEAD_706_DESC,Brace 1.,,1 de refuerzo.,Garde +1.,Wappnen&nbsp;1.,Guardia 1,Preparação 1.,护甲 1。
-MUTATION_HEAD_900_DESC,+1 range. +1 reach.,,+1 de alcance. +1 de extensión.,"Portée +1, Allonge +1.",+1 Reichweite für Nah- und Fernkampfangriffe.,+1 al raggio d'azione. +1 alla portata.,+1 de alcance. +1 de envergadura.,+1 射程。+1 延伸。
+MUTATION_HEAD_900_DESC,+1 range. +1 reach.,,+1 de alcance. +1 de extensión.,"Portée +1, Allonge +1.",+1 Reichweite für Nah- und Fernkampfangriffe.,+1 al raggio d'azione. +1 alla portata.,+1 de alcance. +1 de envergadura.,+1 射程。+1 移动距离。
 MUTATION_HEAD_750_DESC,+1 Thorns.,,+1 de espinas.,Épines +1.,+1&nbsp;Dornen.,+1 Spine.,+1 de espinhos.,+1 荆棘。
 MUTATION_HEAD_753_DESC,You are immune to ice.,,Es inmune al hielo.,Immunité à la glace.,Du bist immun gegen Eis.,Sei immune al ghiaccio.,Você é imune a gelo.,你对冰霜免疫。
 MUTATION_HEAD_759_DESC,Take an extra turn at the start of the battle.,,Juega un turno extra al inicio del combate.,Vous jouez 1&nbsp;tour bonus en début de combat.,Am Anfang des Kampfes erhältst du einen zusätzlichen Zug.,Effettui un turno aggiuntivo all'inizio della battaglia.,Obtenha um turno adicional no início da batalha.,战斗开始时获得一个额外回合。

@@ -474,8 +474,8 @@ PASSIVE_TENDERIZE_DESC,Your basic melee attacks inflict Bruise 1.,,El ataque cue
 PASSIVE_TENDERIZE2_DESC,Your basic melee attacks inflict Bruise 1 and have a 15% chance to inflict Stun 1.,,El ataque cuerpo a cuerpo básico inflige 1 de moratón y tiene un 15 % de probabilidad de infligir 1 de aturdimiento.,Vos attaques de base au corps-à-corps infligent Contusion&nbsp;+1&nbsp;et ont 15&nbsp;% de chances d'infliger Étourdissement&nbsp;+1.,Dein Nahkampf-Grundangriff verursacht Beulen&nbsp;1 und mit 15%iger Wahrscheinlichkeit Betäubung&nbsp;1.,I tuoi attacchi base corpo a corpo infliggono Livido 1 e hanno il 15% di probabilità di infliggere Stordimento 1.,Seu ataque básico aplica contusão 1 e possui uma chance de 15% de aplicar atordoamento 1.,"你的基础近战攻击施加 1 层淤伤，
 并有 15% 的几率施加 1 层晕眩。"
 PASSIVE_LONGARMS_NAME,Long Arms,,Brazos largos,Longues pattes,Lange Arme,Braccia Lunghe,Braços Longos,长臂
-PASSIVE_LONGARMS_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,+1 射程和 +1 延伸。
-PASSIVE_LONGARMS2_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,+1 射程和 +1 延伸。
+PASSIVE_LONGARMS_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,+1 射程和 +1 移动距离。
+PASSIVE_LONGARMS2_DESC,+1 Range and +1 Reach.,,+1 de alcance y +1 de extensión.,Portée&nbsp;+1&nbsp;et Allonge&nbsp;+1.,+1 Reichweite.,+1 al Raggio d'Azione e +1 alla Portata.,+1 de alcance e +1 de envergadura.,+1 射程和 +1 移动距离。
 PASSIVE_SPREADTHEPAIN_NAME,Spread the Pain,,Difusión del dolor,Douleur vive,Schmerz verbreiten,Dolore Diffuso,Dor Compartilhada,痛苦扩散
 PASSIVE_SPREADTHEPAIN_DESC,Deal 2 extra damage the first time you damage each unit each turn.,,Inflige 2 de daño extra la primera vez que inflige daño a cada unidad en cada turno.,"Ajoute Dégâts&nbsp;+2&nbsp;à la première attaque portée à chaque unité, chaque tour.",Dein erster Schaden pro Zug ist um 2 erhöht.,Infliggi 2 di danno aggiuntivo la prima volta che infliggi danno a ogni unità in ciascun turno.,Cause 2 de dano adicional na primeira vez em que você causar dano com uma unidade a cada turno.,"每回合当你首次对
 每个单位造成伤害时，
@@ -670,7 +670,7 @@ Trample damage you deal has Cleave.",,"Pisotea y obtiene +2 de bonificación de 
 El daño infligido con el pisotón tiene Incisión.",Vous disposez de Piétinement et de 2&nbsp;déplacements bonus. Vos dégâts de Piétinement bénéficient de l'effet Fendoir.,"Du trampelst und hast +2 Bonusbewegungen.
 Trampelschaden, den du verursachst, kann schlachten.","Hai Calpestamento e +2 Movimenti Bonus.
 Il danno da calpestamento che infliggi ha Fendente.","Você possui atropelamento e 2 movimentos adicionais.
-O dano de atropelamento que você causa possui cisão.","你拥有践踏和 +2 奖励移动。
+O dano de atropelamento que você causa possui cisão.","你拥有践踏和 +2 额外移动次数。
 你造成的践踏伤害具有切割。"
 PASSIVE_BARBED_NAME,Barbed,,Espinoso,Barbelés,Widerhaken,Spinato,Farpado,倒钩
 PASSIVE_BARBED_DESC,Your hook deals +1 damage and inflicts Bleed.,,El gancho inflige +1 de daño y hemorragia.,Votre crochet inflige Dégâts&nbsp;+1&nbsp;et Saignement.,Dein Haken verursacht +1&nbsp;Schaden und Blutung.,Il tuo gancio infligge +1 di danno e provoca Sanguinamento.,Seu gancho causa +1 de dano e aplica sangramento.,"你的钩爪造成 +1 伤害并施加流血。"
@@ -982,7 +982,7 @@ You get +3 [img:shield] for each concussion you have. This caps at 30 [img:shiel
 Obtiene +3 [img:shield] por cada conmoción. El límite está en 30 [img:shield].",Toutes les Blessures subies sont des Commotions. [img:shield]&nbsp;+3&nbsp;pour chaque Commotion subie (max.&nbsp;: [img:shield]&nbsp;+30).,"Alle Verletzungen, die du erleidest, sind Gehirnerschütterungen.
 Du erhältst +3&nbsp;[img:shield] für jede Gehirnerschütterung. Max. 30&nbsp;[img:shield].","Tutte le ferite che subisci sono Concussioni.
 Ottieni +3 allo [img:shield] per ogni concussione che subisci. Il valore massimo raggiungibile dallo [img:shield] è 30.","Todos os ferimentos que você sofre são concussões.
-Você obtém +3 de [img:shield] para cada concussão que possui. Limite de 30 de [img:shield].","你受到的所有伤势都会变为脑震荡。
+Você obtém +3 de [img:shield] para cada concussão que possui. Limite de 30 de [img:shield].","你受到的所有创伤都会变为脑震荡。
 每拥有一层脑震荡，你获得 +3 [img:shield]。
 上限为 30 [img:shield]。"
 PASSIVE_THICKSKULL2_DESC,"All injuries you get are Concussions.
@@ -990,7 +990,7 @@ You get +3 [img:shield] and +1 [img:str] for each concussion you have. This caps
 Obtiene +3 [img:shield] y +1 [img:str] por cada conmoción. El límite está en 30 [img:shield] y 10 [img:str].",Toutes les Blessures subies sont des Commotions. [img:shield]&nbsp;+3&nbsp;et [img:str]&nbsp;+1&nbsp;pour chaque Commotion subie (max.&nbsp;: [img:shield]&nbsp;+30&nbsp;et [img:str]&nbsp;+10).,"Alle Verletzungen, die du erleidest, sind Gehirnerschütterungen.
 Du erhältst +3&nbsp;[img:shield] und +1&nbsp;[img:str] für jede Gehirnerschütterung. Max. 30&nbsp;[img:shield] und 10&nbsp;[img:str].","Tutte le ferite che subisci sono Concussioni.
 Ottieni +3 allo [img:shield] e +1 alla [img:str] per ogni concussione che subisci. Il valore massimo raggiungibile dallo [img:shield] è 30 e quello della [img:str] è 10.","Todos os ferimentos que você sofre são concussões.
-Você obtém +3 de [img:shield] e +1 de [img:str] para cada concussão que possui. Limite de 30 de [img:shield] e 10 de [img:str].","你受到的所有伤势都会变为脑震荡。
+Você obtém +3 de [img:shield] e +1 de [img:str] para cada concussão que possui. Limite de 30 de [img:shield] e 10 de [img:str].","你受到的所有创伤都会变为脑震荡。
 每拥有一层脑震荡，
 你获得 +3 [img:shield] 和 +1 [img:str]。
 上限为 30 [img:shield] 和 10 [img:str]。"
@@ -1483,7 +1483,7 @@ If you have four broken legs, gain +4 Thorns, Trample, and adjacent allies have 
 Si tiene 4 patas rotas, obtiene +4 de espinas y pisotón; además, los aliados adyacentes obtienen Lanzamiento como habilidad de bonificación.","Toutes vos blessures subies sont Patte cassée. Si vous avez 4&nbsp;pattes cassées, gagnez Épines&nbsp;+4&nbsp;et Piétinement, et les unités alliées adjacentes obtiennent Lancer comme compétence bonus.","Wenn du verletzt wirst, brichst du dir immer ein Bein.
 Wenn du vier gebrochene Beine hast, erhältst du +4&nbsp;Dornen, Trampel und benachbarte Verbündete erhalten Wurf als Bonusfähigkeit.","Tutte le ferite che subisci sono Gambe Rotte.
 Se hai quattro gambe rotte, ottieni +4 Spine, Calpestamento e gli alleati adiacenti hanno Lancio come abilità bonus.","Todos os ferimentos que você sofre são pernas quebradas.
-Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有伤势都是断腿。
+Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有创伤都是断腿。
 如果你有四条断腿，获得 +4 荆棘、
 践踏，且邻近盟友获得投掷作为奖励技能。"
 PASSIVE_MYLEG2_DESC,"All injuries you get are Broken Legs.
@@ -1491,7 +1491,7 @@ If you have four broken legs, gain +4 Thorns, +4 Brace, Trample, and adjacent al
 Si tiene 4 patas rotas, obtiene +4 de espinas, +4 de refuerzo y pisotón; además, los aliados adyacentes obtienen Lanzamiento como habilidad de bonificación.","Toutes vos blessures subies sont Patte cassée. Si vous avez 4&nbsp;pattes cassées, gagnez Épines&nbsp;+4, Garde&nbsp;+4&nbsp;et Piétinement, et les unités alliées adjacentes obtiennent Lancer comme compétence bonus.","Wenn du verletzt wirst, brichst du dir immer ein Bein.
 Wenn du vier gebrochene Beine hast, erhältst du +4&nbsp;Dornen, +4&nbsp;Wappnen, Trampel und benachbarte Verbündete erhalten Wurf als Bonusfähigkeit.","Tutte le ferite che subisci sono Gambe Rotte.
 Se hai quattro gambe rotte, ottieni +4 Spine, +4 Guardia, Calpestamento e gli alleati adiacenti hanno Lancio come abilità bonus.","Todos os ferimentos que você sofre são pernas quebradas.
-Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, +4 de preparação, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有伤势都是断腿。
+Se você estiver com 4 pernas quebradas, obtenha +4 de espinhos, +4 de preparação, atropelamento, e aliados adjacentes obtêm Lançamento como habilidade bônus.","你受到的所有创伤都是断腿。
 如果你有四条断腿，获得 +4 荆棘、
 +4 护甲、践踏，
 且邻近盟友获得投掷作为奖励技能。"
@@ -1622,7 +1622,7 @@ Non puoi subire ferite.","Ao ficar inconsciente, aliados obtêm todos os atribut
 Você não pode sofrer ferimentos.","当你倒地时，
 盟友获得全属性提升
 并额外行动一回合。
-你不会受到伤势。"
+你不会受到创伤。"
 PASSIVE_SERVUSMORTEM_NAME,Servus Mortem,,Servus mortem,Servus Mortem,Servus Mortem,Servus Mortem,Servus Mortem,死亡仆从
 PASSIVE_SERVUSMORTEM_DESC,Destroy a random non-boss enemy at the start of each battle.,,Destruye a un enemigo que no sea jefe al azar al inicio de cada combate.,Détruisez un ennemi (sauf les Boss) au début de chaque combat.,Zerstöre am Anfang jedes Kampfes einen zufälligen regulären Gegner.,Distruggi un nemico casuale che non sia un boss all'inizio di ogni battaglia.,Destrua um inimigo aleatório (exceto chefes) no início de cada batalha.,"每场战斗开始时
 消灭一个随机非Boss敌人。"
@@ -1721,7 +1721,7 @@ Ao ficar inconsciente, aliados obtêm +1 de [img:lck] para cada ferimento de mau
 当你的队伍赢得战斗时，
 如果你处于倒地状态，则治疗至满血。
 你的身体不可摧毁。当你倒地时，
-你每有一个厄运缠身伤势，
+你每有一个厄运缠身创伤，
 盟友获得 +1 [img:lck]。"
 PASSIVE_TORPOR_NAME,Torpor,,Letargo,Torpeur,Torpor,Torpore,Torpor,蛰伏
 PASSIVE_TORPOR_DESC,"While you're downed, your basic attack is Haunt. Your body gains +6 corpse HP.",,"Al ser abatida, el ataque básico es Aparición. El cuerpo obtiene +6 PS de cadáver.","Quand vous êtes K.O., votre attaque de base devient Tourment. Votre corps gagne +6&nbsp;PV de cadavre.","Während du ohnmächtig bist, ist dein Grundangriff Heimsuchen. Du erhältst +6&nbsp;Leichenlebenspunkte.","Mentre sei KO, il tuo attacco base è Infestazione Spettrale. Il tuo corpo ottiene +6 salute cadavere.","Ao ficar inconsciente, seu ataque básico se torna Assombrar. Seu corpo obtém +6 de saúde de cadáver.","当你处于倒地状态时，
@@ -2501,9 +2501,9 @@ Inicie cada batalha com saúde completa.","你的治疗效果增加 4 点。
 每场战斗开始时生命值全满。"
 PASSIVE_ETERNAL_NAME,Eternal,,Eternidad,Éternité,Ewig,Eternità,Eternidade,永恒
 PASSIVE_ETERNAL_DESC,"When you are downed for the 1st time each battle, take no injuries and revive with half HP.",,"Cuando esta unidad está abatida por primera vez en cada combate, no sufre lesiones y resucita con la mitad de sus PS.","Lorsque vous êtes K.O. pour la première fois en combat, vous ne recevez aucune blessure et vous récupérez la moitié de vos PV.","Wenn du zum ersten Mal im Kampf in Ohnmacht fällst, erleidest du keine Verletzungen und wirst mit der Hälfte deiner LP wiederbelebt.","Quando vai KO per la prima volta in ogni battaglia, non subisci ferite e resusciti con metà dei tuoi PS.","Ao ficar inconsciente pela primeira vez em cada batalha, não sofra ferimentos e reviva com saúde pela metade.","每场战斗中当你首次倒地时，
-不承受伤势并以一半生命值复活。"
+不承受创伤并以一半生命值复活。"
 PASSIVE_ETERNAL2_DESC,"When you are downed for the 1st time each battle, take no injuries and revive with half HP, All Stats Up 2, and immediately take an extra turn.",,"Cuando esta unidad está abatida por primera vez en cada combate, no sufre lesiones y resucita con la mitad de sus PS y 2 de aumento total, y juega un turno extra inmediatamente.","Lorsque vous êtes K.O. pour la première fois en combat, vous ne recevez aucune blessure, vous récupérez la moitié de vos PV, vous gagnez Hausse de stats&nbsp;+2&nbsp;et vous jouez immédiatement 1&nbsp;tour supplémentaire.","Wenn du zum ersten Mal im Kampf in Ohnmacht fällst, erleidest du keine Verletzungen und wirst mit der Hälfte deiner LP und einem Bonus von 2 auf alle Attribute wiederbelebt und erhältst sofort einen zusätzlichen Zug.","Quando vai KO per la prima volta in ogni battaglia, non subisci ferite e resusciti con metà dei tuoi PS, Aumento delle Statistiche 2 ed effettui immediatamente un turno aggiuntivo.","Ao ficar inconsciente pela primeira vez em cada batalha, não sofra ferimentos e reviva com saúde pela metade, todos os atributos aumentados 2 e obtenha um turno adicional imediatamente.","每场战斗中当你首次倒地时，
-不承受伤势并以一半生命值复活，
+不承受创伤并以一半生命值复活，
 获得 2 层全属性提升，
 并立即获得额外一个回合。"
 PASSIVE_BLESSED_NAME,Blessed,,Bendición,Faveur,Gesegnet,Benedizione,Benção,受祝福
@@ -3056,7 +3056,7 @@ Während du 0 oder weniger [img:cha] hast, kannst du ein zusätzliches Mal pro Z
 Quando hai il mana pieno, la tua azione base infligge Follia.
 Finché hai 0 o meno di [img:cha], puoi attaccare una volta aggiuntiva per turno.","Todos os ferimentos que você sofre são desfiguramento.
 Enquanto estiver com a mana completa, sua ação básica aplica insanidade.
-Enquanto possuir 0 ou menos de [img:cha], você pode atacar uma vez adicional por turno.","你受到的所有伤势都是毁容。
+Enquanto possuir 0 ou menos de [img:cha], você pode atacar uma vez adicional por turno.","你受到的所有创伤都是毁容。
 法力全满时，你的基础行动施加疯狂。
 当你的 [img:cha] 为 0 或更低时，
 你每回合可以额外攻击一次。"
@@ -3075,7 +3075,7 @@ Quando hai il mana pieno, la tua azione base infligge Follia.
 Finché hai 0 o meno di [img:cha], puoi attaccare 2 volte aggiuntive per turno.","Todos os ferimentos que você sofre são desfiguramento.
 Unidades que atacarem ou entrarem em contato com você obtêm insanidade.
 Enquanto estiver com a mana completa, sua ação básica aplica insanidade.
-Enquanto possuir 0 ou menos de [img:cha], você pode atacar 2 vezes adicionais por turno.","你受到的所有伤势都是毁容。
+Enquanto possuir 0 ou menos de [img:cha], você pode atacar 2 vezes adicionais por turno.","你受到的所有创伤都是毁容。
 接触或攻击你的单位会获得疯狂。
 法力全满时，你的基础攻击施加疯狂。
 当你的 [img:cha] 为 0 时，
@@ -3377,7 +3377,7 @@ Wenn du Schaden erleidest, erleidest du eine zufällige Verletzung.","Tutto il d
 Quando subisci danno, subisci una ferita casuale.","Todo o dano que você sofre é reduzido a 1.
 Ao sofrer dano, sofra também um ferimento aleatório.","你受到的所有伤害减少至 1 点。
 当你受到伤害时，
-遭受一种随机随机伤势。"
+遭受一种随机随机创伤。"
 DISORDER_BADGAS_NAME,Bad Gas,,Pedo peregrino,Aérophagie,Heftige Blähungen,Gas Nocivo,Pum Fedido,坏屁
 DISORDER_BADGAS_DESC,"On the first round, take your turn last. At the start of that turn, do a Mega Fart attack that inflicts Poison 2. ",,"En la primera ronda, juega el turno en último lugar. Al inicio de ese turno, realiza un ataque de Megapedo que inflige 2 de veneno. ","Lors de la première manche, vous jouez en dernier. Au début de votre tour, vous lancez Méga pet qui inflige Poison&nbsp;+2.","In der ersten Runde bist du als letztes am Zug. Am Anfang dieses Zuges führst du einen Megafurz aus, der Gift&nbsp;2 verursacht. ","Nel primo round, effettui il tuo turno per ultimo. All'inizio di quel turno, esegui un attacco Mega Peto che infligge Veleno 2.","Na primeira rodada, use seu turno por último. No início desse turno, realize um ataque de mega pum que aplica veneno 2.","在第一回合，
 你的回合最后行动。

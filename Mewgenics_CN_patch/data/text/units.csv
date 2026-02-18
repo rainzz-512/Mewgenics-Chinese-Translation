@@ -354,7 +354,7 @@ Untot.","Lancia le unità che riesce a raggiungere.
 Alla fine del suo turno si avventa in una direzione casuale.
 Non morto.","Lança unidades que consegue alcançar.
 Realiza uma investida em uma direção aleatória no final de seu turno.
-Morto-vivo.","会投掷它能够到的单位。
+Morto-vivo.","会投掷它能触及的单位。
 在回合结束时向随机方向突刺。
 亡灵。"
 ENEMY_GRAVEWORM_NAME,Grave Worm,,Lombriz sepulcral,Ver sépulcral,Grabwurm,Verme della Tomba,Verme de Tumba,墓穴虫
@@ -402,7 +402,7 @@ Se il suo corpo non viene distrutto, risorge!
 Non morto.","Lança unidades que consegue alcançar.
 Realiza uma investida em uma direção aleatória no final de seu turno.
 Volta dos mortos se seu corpo não for destruído!
-Morto-vivo.","会投掷它能够到的单位。
+Morto-vivo.","会投掷它能触及的单位。
 在回合结束时向随机方向突刺。
 如果身体未被摧毁，会死而复生！
 亡灵。"
@@ -978,7 +978,7 @@ Il suo attacco corpo a corpo infligge ferite.
 Può ululare per infliggere Immobilizzazione alle unità.","Gera gatinhos.
 Seu ataque corpo-a-corpo aplica ferimentos.
 Pode uivar para imobilizar unidades.","生成小猫。
-其近战攻击造成伤势。
+其近战攻击造成创伤。
 可以嚎叫以定身单位。"
 ENEMY_HUMANCAT_NAME,Half-Human δ,,Medio humano δ,Mi-humain δ,Halbmensch δ,Mezzo-Umano δ,Meio-Humano δ,半身人 δ
 ENEMY_HUMANCAT_DESC,Melee attacker that Immobilizes. May dodge attacks unless attacked from the human side.,,Este atacante cuerpo a cuerpo inmoviliza a las unidades. Esquiva los ataques que no provengan del costado humano.,Attaque au corps-à-corps qui inflige Immobilisation. Esquive les attaques excepté si elles viennent du côté humain.,"Nahkämpfer, der Einheiten bewegungsunfähig macht. Kann Angriffen ausweichen, es sei denn, seine menschliche Seite wird angegriffen.","Specialista del corpo a corpo che infligge Immobilizzazione. Può schivare gli attacchi, a meno che l'attacco non venga portato dal lato della sua parte umana.",Agressor corpo-a-corpo que imobiliza. Pode se esquivar de ataques se não for atacado pelo lado humano.,"造成定身的近战攻击者。
@@ -2368,7 +2368,7 @@ Imune contra fogo.","受伤时从颈部喷射熔岩。
 被从背后击中时会激怒。
 免疫火焰。"
 ENEMY_ASTROZOMBIE_NAME,Abandoned One,,Abandonado,Le Délaissé,Verstoßener,L'Abbandonato,O Abandonado,被遗弃者
-ENEMY_ASTROZOMBIE_DESC,Its melee attacks inflict random injuries.,,Sus ataques cuerpo a cuerpo infligen lesiones al azar.,Ses attaques au corps-à-corps infligent des blessures aléatoires.,Sein Nahkampfangriff verursacht zufällige Verletzungen.,I suoi attacchi corpo a corpo infliggono ferite casuali.,Seu ataque corpo-a-corpo aplica ferimentos aleatórios.,它的近战攻击施加随机伤势。
+ENEMY_ASTROZOMBIE_DESC,Its melee attacks inflict random injuries.,,Sus ataques cuerpo a cuerpo infligen lesiones al azar.,Ses attaques au corps-à-corps infligent des blessures aléatoires.,Sein Nahkampfangriff verursacht zufällige Verletzungen.,I suoi attacchi corpo a corpo infliggono ferite casuali.,Seu ataque corpo-a-corpo aplica ferimentos aleatórios.,它的近战攻击施加随机创伤。
 ENEMY_ASTROZOMBIEHEAD_DESC,"Its melee attack inflicts Burn.
 Its scream will inflict Fear.",,"Su ataque cuerpo a cuerpo inflige quemadura.
 Su grito inflige miedo.","Ses attaques au corps-à-corps infligent Brûlure.

@@ -1551,9 +1551,9 @@ Coroa: perca 5 moedas.","使用：掷硬币。
 ITEM_D6_NAME,D6,,D6,D6,Sechsseitiger Würfel,D6,D6,D6
 ITEM_D6_DESC,You can reroll your options when you level up.,,Se pueden cambiar al azar las opciones al subir de nivel.,Vous pouvez tirer de nouvelles options quand vous montez de niveau.,"Du kannst deine Auswahlmöglichkeiten neu generieren, wenn du ein Level aufsteigst.",Puoi modificare le tue opzioni quando sali di livello.,Você pode rolar novamente suas opções ao subir de nível.,你可以在升级时重掷你的选项。
 ITEM_DREAMCATCHER_NAME,Dream Catcher,,Atrapasueños,Attrape-rêves,Traumfänger,Acchiappasogni,Apanhador de Sonhos,捕梦网
-ITEM_DREAMCATCHER_DESC,"Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury.",,"Cuando esta unidad se queda dormida, obtiene aumento total, recupera todo el maná y se cura una lesión al azar.","Chaque fois que vous vous endormez&nbsp;: Hausse de stats, mana entièrement restauré, une blessure aléatoire est soignée.","Immer, wenn du einschläfst, erhältst du einen Bonus auf alle Attribute, stellst dein Mana vollständig wieder her und heilst eine zufällige Verletzung.","Ogni volta che ti addormenti, ottieni Aumento delle Statistiche, recuperi tutto il tuo mana e guarisci da una ferita casuale.","Sempre que você adormece, obtenha todos os atributos aumentados, restaure toda a sua mana e cure um ferimento aleatório.","每当你睡着时，获得全属性提升，
-恢复所有法力值，并治愈随机伤势。
-"
+ITEM_DREAMCATCHER_DESC,"Whenever you fall asleep, gain All Stats Up, restore all your mana, and heal a random injury.",,"Cuando esta unidad se queda dormida, obtiene aumento total, recupera todo el maná y se cura una lesión al azar.","Chaque fois que vous vous endormez&nbsp;: Hausse de stats, mana entièrement restauré, une blessure aléatoire est soignée.","Immer, wenn du einschläfst, erhältst du einen Bonus auf alle Attribute, stellst dein Mana vollständig wieder her und heilst eine zufällige Verletzung.","Ogni volta che ti addormenti, ottieni Aumento delle Statistiche, recuperi tutto il tuo mana e guarisci da una ferita casuale.","Sempre que você adormece, obtenha todos os atributos aumentados, restaure toda a sua mana e cure um ferimento aleatório.","每当你入睡时，
+获得全属性提升，恢复所有法力值，
+并治疗一处随机创伤。"
 ITEM_DRUIDSWHISTLE_NAME,Druid's Whistle,,Silbato de druida,Sifflet du druide,Druidenpfeife,Fischietto del Druido,Apito de Druida,德鲁伊哨子
 ITEM_DRUIDSWHISTLE_DESC,"Use: Spawn a random animal familiar on an adjacent tile.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Genera un familiar animal al azar en una casilla adyacente.
@@ -2470,7 +2470,7 @@ ITEM_STEVENSCONSUMABLE2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂�
 ITEM_STEVENSCONSUMABLE2_DESC,Use: Spawn a controllable copy of yourself.,,Uso: Genera una copia controlable de esta unidad.,Utilisation&nbsp;: invoque un double de vous-même contrôlable.,Benutzen: Erstelle eine steuerbare Kopie deiner selbst.,Uso: Generi una tua copia controllabile.,Uso: gere uma cópia controlável de si.,"使用：生成一个可控制的复制体。
 "
 ITEM_SUPERBANDAGE_NAME,Super Bandage,,Supervendaje,Super pansement,Superbandage,Super Benda,Super Bandagem,超级绷带
-ITEM_SUPERBANDAGE_DESC,Use: Cure a random injury.,,Uso: Cura una lesión al azar.,Utilisation&nbsp;: soigne une blessure aléatoire.,Benutzen: Heile eine zufällige Verletzung.,Uso: Curi una ferita casuale.,Uso: cure um ferimento aleatório.,使用：治愈一个随机伤势。
+ITEM_SUPERBANDAGE_DESC,Use: Cure a random injury.,,Uso: Cura una lesión al azar.,Utilisation&nbsp;: soigne une blessure aléatoire.,Benutzen: Heile eine zufällige Verletzung.,Uso: Curi una ferita casuale.,Uso: cure um ferimento aleatório.,使用：治愈一个随机创伤。
 ITEM_TANKSEAL_NAME,Tank Seal,,Sello de tanque,Sceau du tank,Tanksiegel,Sigillo del Corazzato,Selo de Tanque,坦克印章
 ITEM_TANKSEAL_DESC,Use: Permanently turn into a Tank.,,Uso: Se transforma para siempre en tanque.,Utilisation&nbsp;: vous change en tank de façon permanente.,Benutzen: Werde dauerhaft zu einem Tank.,Uso: Ti trasformi permanentemente in un Corazzato.,Uso: torne-se um tanque permanentemente.,使用：永久变为坦克。
 ITEM_THIEFSEAL_NAME,Thief Seal,,Sello de ladrón,Sceau du fourbe,Diebessiegel,Sigillo del Ladro,Selo de Ladrão,盗贼印章
@@ -2755,8 +2755,8 @@ Você possui imunidade contra explosões.","你的爆炸范围大大大大增加
 你拥有爆炸免疫。"
 ARMOR_STEVENHAT2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,史蒂文
 ARMOR_STEVENHAT2_DESC,"Each time you cast a spell, gain +1 range and +1 reach until the end of the turn.",,"Cada vez que lanza un hechizo, esta unidad obtiene +1 de alcance y +1 de extensión hasta el final del turno.","Quand vous lancez un sort, vous confère Portée +1&nbsp;et Allonge +1&nbsp;jusqu'à la fin du tour.","Jedes Mal, wenn du einen Zauber wirkst, erhältst du +1&nbsp;Reichweite bis zum Ende des Zuges.","Ogni volta che lanci un incantesimo, ottieni +1 al raggio d'azione e +1 alla portata fino alla fine del turno.","A cada vez que você lança um encantamento, obtenha +1 de alcance e +1 de envergadura até o final do turno.","每次施放法术时，
-获得 +1 射程和 +1 延伸，
-直到回合结束。"
+获得 +1 攻击范围和 +1 移动范围，
+直到本回合结束。"
 ARMOR_STEVENSHAT_NAME,Steven's Hat,,Sombrero de Steven,Chapeau de Steven,Stevens Hut,Cappello di Steven,Chapéu de Steven,史蒂文的帽子
 ARMOR_STEVENSHAT_DESC,Your spells cost 0. You can only cast each of your spells once per turn.,,Sus hechizos cuestan 0. Solo puede lanzar cada hechizo una vez por turno.,Vos sorts coûtent 0&nbsp;mana. Vous ne pouvez lancer qu'un sort de chaque type par tour.,Deine Zauber kosten 0&nbsp;Mana. Du kannst nur einen Zauber pro Zug wirken.,I tuoi incantesimi costano 0. Puoi lanciare ciascuno dei tuoi incantesimi solo una volta per turno.,Seus encantamentos custam 0. Só é possível lançar cada um de seus encantamentos uma vez por turno.,"你的法术消耗为 0。
 你每回合只能施放每个法术各一次。
@@ -2851,7 +2851,7 @@ Você possui imunidade contra efeitos de espaço.","+1 荆棘。当你的回合�
 ARMOR_BROKENWINDOW_NAME,Broken Window,,Ventana rota,Fenêtre cassée,Zerbrochenes Fenster,Finestra Rotta,Janela Quebrada,破窗
 ARMOR_BROKENWINDOW_DESC,+3 Bleed Thorns. Bleed 1.,,+3 de espinas hemorrágicas. 1 de hemorragia.,Épines sanglantes +3. Saignement +1.,+3&nbsp;Blutige Dornen. Blutung&nbsp;1.,+3 Spine Insanguinate. Sanguinamento 1.,+3 de espinhos de sangramento. Sangramento 1.,+3 流血荆棘。1 层流血。
 ARMOR_BULLETPROOFVEST_NAME,Bulletproof Vest,,Chaleco antibalas,Gillet pare-balles,Schusssichere Weste,Giubbotto Antiproiettile,Colete à Prova de Balas,防弹背心
-ARMOR_BULLETPROOFVEST_DESC,Injury immunity.,,Otorga inmunidad a las lesiones.,Immunité aux blessures.,Immun gegen Verletzungen.,Immunità alle ferite.,Imunidade contra ferimentos.,伤势免疫。
+ARMOR_BULLETPROOFVEST_DESC,Injury immunity.,,Otorga inmunidad a las lesiones.,Immunité aux blessures.,Immun gegen Verletzungen.,Immunità alle ferite.,Imunidade contra ferimentos.,免疫创伤。
 ARMOR_CHEFSAPRON_NAME,Chef's Apron,,Delantal del chef,Tablier de chef,Schürze,Grembiule da Chef,Avental de Chef,厨师围裙
 ARMOR_CHEFSAPRON_DESC,"At the end of each turn, gain +1 [img:con] and spawn a random food pickup within 2 tiles.",,"Al final de cada turno, obtiene +1 [img:con] y genera un recogible de comida al azar en un radio de 2 casillas.","À la fin de chaque tour, [img:con] +1&nbsp;et de la nourriture aléatoire apparaît dans un rayon de 2&nbsp;cases.",Erhalte am Ende jedes Zuges +1&nbsp;[img:con] und lasse einen zufälligen Essensgegenstand innerhalb von 2&nbsp;Feldern erscheinen.,"Alla fine di ogni turno, ottieni +1 alla [img:con] e generi un raccoglibile Cibo casuale entro 2 caselle.","No final de cada turno, obtenha +1 de [img:con] e gere um coletável de comida aleatório dentro de 2 espaços de distância.","在每回合结束时，
 获得 +1 [img:con] 并在 2 格内
@@ -3238,7 +3238,7 @@ Deine Bewegungsaktion ist Sprung.","Non puoi subire ferite.
 Quando sei a terra, ti rianimi alla fine del round.
 La tua azione di movimento è Salto.","Você não pode sofrer ferimentos.
 Ao ficar inconsciente, reviva no final da rodada.
-Sua ação de movimento é um salto.","你不会受到伤势。
+Sua ação de movimento é um salto.","你不会受到创伤。
 当你[b]倒地[/b]时，在回合结束时复活。
 你的移动行动变为跳跃。"
 ARMOR_FLOWER_NAME,Flower,,Flor,Fleur,Blume,Fiore,Flor,花朵
@@ -3322,9 +3322,9 @@ Inmunidad al veneno.","Portée +1, Allonge +1.
 Immunité au Poison.","+1&nbsp;Reichweite.
 Immun gegen Gift.","+1 al raggio d'azione, +1 alla portata.
 Immunità al Veleno.","+1 de alcance. +1 de envergadura.
-Imunidade contra veneno.","+1 射程，+1 延伸。
-毒素免疫。"
-ARMOR_MINERSBEARD_NAME,Miner's Beard,,Barba de minero,Barbe de mineur,Zwergenbart,Barba del Minatore,Barba de Mineiro,矿工胡须
+Imunidade contra veneno.","+1 射程，+1 移动范围。
+免疫中毒。"
+ARMOR_MINERSBEARD_NAME,Miner's Beard,,Barba de minero,Barbe de mineur,Zwergenbart,Barba del Minatore,Barba de Mineiro,矿工之须
 ARMOR_MINERSBEARD_DESC,"When you take damage, spawn scrap.
 When you end turn, spawn a coin on a random tile.",,"Al sufrir daño, genera chatarra.
 Al terminar el turno, genera una moneda en una casilla al azar.","Quand vous subissez des dégâts, un morceau de ferraille apparaît.
@@ -3657,9 +3657,8 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
-Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆裂。
-当此物品破碎时，
-永久获得 +2 [img:con] 并治疗 10 点生命值。
+Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 ARMOR_CACTUSHAT_NAME,Cactus Hat,,Sombrero de cactus,Chapeau cactus,Kaktushut,Cappello del Cactus,Chapéu de Cacto,仙人掌帽
 ARMOR_CACTUSHAT_DESC,"+3 Thorns, Brittle.
@@ -3668,9 +3667,8 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
-Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆裂。
-当此物品破碎时，
-永久获得 +2 [img:con] 并治疗 10 点生命值。
+Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 ARMOR_CACTUSNECKLACE_NAME,Cactus Necklace,,Gargantilla de cactus,Collier cactus,Kaktushalskette,Collana del Cactus,Colar de Cacto,仙人掌项链
 ARMOR_CACTUSNECKLACE_DESC,"+3 Thorns, Brittle.
@@ -3679,9 +3677,8 @@ Obtiene +2 [img:con] para siempre y recupera 10 PS al romperse.","Épines +3, Ca
 [img:con] +2&nbsp;de façon permanente, rend 10&nbsp;PV quand brisé.","+3&nbsp;Dornen, Spröde.
 Erhalte dauerhaft +2&nbsp;[img:con] und heile 10&nbsp;LP, wenn dieser Gegenstand kaputtgeht.","+3 Spine, Friabile.
 Ottieni +2 alla [img:con] permanentemente e rigeneri 10 PS quando si rompe.","+3 de espinhos. Quebradiço.
-Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆裂。
-当此物品破碎时，
-永久获得 +2 [img:con] 并治疗 10 点生命值。
+Obtenha +2 de [img:con] permanentemente e cure 10 PV quando este item se quebrar.","+3 荆棘，脆弱。
+破损时获得永久+2 [img:con] 并恢复10生命值。
 "
 SETBONUS_CACTUS_NAME,Cactus Set Bonus!,,¡Bonificación de conjunto de cactus!,Bonus d'ensemble&nbsp;: cactus&nbsp;!,Setbonus: Kaktus!,Bonus Set: Cactus!,Bônus de Conjunto de Cacto!,仙人掌套装加成！
 SETBONUS_CACTUS_DESC,"+2 Thorns.
@@ -3841,7 +3838,7 @@ ARMOR_CYBORGHAT_DESC,10% chance to teleport to a neighboring tile when targeted 
 有 10% 几率传送到相邻地块。
 "
 ARMOR_CYBORGMASK_NAME,Optic Nerve Implant,,Implante de nervio óptico,Implant du nerf optique,Sehnervenimplantat,Impianto del Nervo Ottico,Implante de Nervo Ótico,视神经植入物
-ARMOR_CYBORGMASK_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1&nbsp;Reichweite.,"+1 al raggio d'azione, +1 alla portata.","+1 de alcance, +1 de envergadura.",+1 射程，+1 延伸。
+ARMOR_CYBORGMASK_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1&nbsp;Reichweite.,"+1 al raggio d'azione, +1 alla portata.","+1 de alcance, +1 de envergadura.",+1 射程，+1 移动距离。
 ARMOR_CYBORGARMOR_NAME,Cerebellum Implant,,Implante de cerebelo,Implant du cervelet,Kleinhirnimplantat,Impianto del Cervelletto,Implante de Cerebelo,小脑植入物
 ARMOR_CYBORGARMOR_DESC,+10% Crit Chance.,,+10 % de probabilidad de crítico.,Chances de coup critique +10&nbsp;%.,+10&nbsp;% kritische Trefferchance.,+10% di probabilità di colpo critico.,+10% de chance de crítico.,+10% 暴击率。
 SETBONUS_CYBORG_NAME,Cyborg Set Bonus!,,¡Bonificación de conjunto de cíborg!,Bonus d'ensemble&nbsp;: cyborg&nbsp;!,Setbonus: Cyborg!,Bonus Set: Cyborg!,Bônus de Conjunto de Ciborgue!,改造人套装加成！

@@ -25580,7 +25580,7 @@ QEVENT_THROBBINGARTERY_REW2,"{catname} bites into the throbbing artery and is ba
 ",,"{catname} morde a artéria pulsante e seu corpo é banhado por um líquido quente, contorcendo-se enquanto uma estranha sensação toma conta e cura seus ferimentos, porém também o deixando mutilado para sempre...","{catname}咬入搏动的动脉，
 全身沐浴在温暖的液体中。
 当一种奇怪的感觉席卷全身时，
-{catname}的身体发生了扭曲，治愈了{his}的伤势，
+{catname}的身体发生了扭曲，治愈了{his}的创伤，
 但让{him}永远毁容了……
 "
 QEVENT_THROBBINGARTERY_REW2_M,,,,,,"{catname} morde l'arteria pulsante e viene inondato da un liquido caldo. Il suo corpo si contorce mentre una strana sensazione attraversa {catname}, curando le sue ferite ma lasciandogli mutilazioni permanenti...",,

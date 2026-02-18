@@ -1104,9 +1104,9 @@ ABIITY_FRIENDORFOE2_DESC,An infinitely ranged spell that heals allies and damage
 治疗盟友并伤害敌人。"
 ABILITY_REVIVE_NAME,Revive,,Resucitación,Résurrection,Wiederbeleben,Rianimazione,Ressurreição,复活
 ABILITY_REVIVE_DESC,Revive a body to 50% HP and cure one of its injuries.,,Resucita un cadáver con el 50 % de PS y cura una de sus lesiones.,Réanime un cadavre avec 50&nbsp;% de ses PV et soigne une de ses blessures.,Belebe eine Einheit mit 50&nbsp;% LP wieder und heile eine ihrer Verletzungen.,Riporti un corpo al 50% di PS e curi una delle sue ferite.,Reviva um corpo com 50% de saúde e cure um de seus ferimentos.,"将一具尸体复活至 50% 生命值，
-并治愈其一处伤势。"
+并治愈其一处创伤。"
 ABILITY_REVIVE2_DESC,"Revive a body to 100% HP and cure one of its injuries. If it was an enemy, it gets charmed.",,"Resucita un cadáver con el 100 % de PS y cura una de sus lesiones. Si era un enemigo, sufre embrujo.","Réanime un cadavre avec 100&nbsp;% de ses PV et soigne une de ses blessures. Si c'était un ennemi, il subit Envoûtement.","Belebe eine Einheit mit 100&nbsp;% LP wieder und heile eine ihrer Verletzungen. Wenn es sich um einen Gegner handelt, verursache Charme.","Riporti un corpo al 100% di PS e curi una delle sue ferite. Se era un nemico, subisce Fascino.","Reviva um corpo com 100% de saúde e cure um de seus ferimentos. Caso seja um inimigo, ele é enfeitiçado.","将一具尸体复活至 100% 生命值，
-并治愈其一处伤势。如果它是敌人，
+并治愈其一处创伤。如果它是敌人，
 则会被魅惑。"
 ABILITY_HOLYLIGHT_NAME,Holy Light,,Luz sagrada,Lumière sainte,Heiliges Licht,Luce Sacra,Luz Divina,圣光
 ABILITY_HOLYLIGHT_DESC,Heal allies and damage enemies in an area. This spell has half effect outside its center.,,Cura a los aliados y daña a los enemigos en un área. Este hechizo tiene la mitad de efecto fuera de su centro.,Soigne les alliés et inflige des dégâts aux ennemis dans une zone. L'effet de ce sort est réduit de moitié en dehors de son centre.,Heile Verbündete und verursache Schaden bei Gegnern in einem bestimmten Bereich. Außerhalb seiner Mitte ist der Effekt dieses Zaubers halbiert.,Curi gli alleati e infliggi danno ai nemici in un'area. Quest'incantesimo ha efficacia dimezzata fuori dal suo centro.,Cure aliados e cause dano a inimigos em uma área. Este encantamento possui efeito pela metade fora de seu centro.,"治疗区域内的盟友并伤害敌人。
@@ -1619,12 +1619,12 @@ ABILITY_ANNEAL2_DESC,"Gain +1 [img:shield]. This spell costs 0 mana the first ti
 此法术消耗 0 法力。"
 ABILITY_DEEPDIVE_NAME,Deep Dive,,Buceo de profundidad,Roupillon,Abtauchen,Immersione Profonda,Mergulho Profundo,深潜
 ABILITY_DEEPDIVE_DESC,"Become downed. You don't get injured. At the end of the next round, you're revived with 1 HP, 15 [img:shield], and All Stats Up.",,"Esta unidad se abate, pero no sufre lesiones. Al final de la siguiente ronda, resucita con 1 PS, 15 [img:shield] y aumento total.","Vous tombez K.O. sans subir de blessure. À la fin de la prochaine manche, vous vous relevez avec 1&nbsp;PV, [img:shield]&nbsp;+15&nbsp;et Hausse de stats&nbsp;+1.","Du fällst in Ohnmacht, ohne verletzt zu werden. Am Ende der nächsten Runde wirst du mit 1&nbsp;LP, 15&nbsp;[img:shield] und einem Bonus auf alle Attribute wiederbelebt.","Vai in KO. Non subisci ferite. Alla fine del round successivo, ti rianimi con 1 PS, 15 allo [img:shield] e Aumento delle Statistiche.","Fique inconsciente. Você não sofre ferimentos. No final da próxima rodada, você revive com 1 PV, 15 de [img:shield] e todos os atributos aumentados.","进入倒地状态。
-你不会受到伤势。
+你不会受到创伤。
 在下一回合结束时，
 你将以 1 点生命值、
 15 [img:shield] 和全属性提升状态复活。"
 ABILITY_DEEPDIVE2_DESC,"Become downed. You don't get injured. At the end of the next round, you're revived with 50% HP, 20 [img:shield], 2 [img:divineshield], and All Stats Up 2.",,"Esta unidad se abate, pero no sufre lesiones. Al final de la siguiente ronda, resucita con el 50 % de los PS, 20 [img:shield], 2 [img:divineshield] y 2 de aumento total.","Vous tombez K.O. sans subir de blessure. À la fin de la prochaine manche, vous vous relevez avec 50&nbsp;% de vos PV, [img:shield]&nbsp;+20, [img:divineshield]&nbsp;+2&nbsp;et Hausse de stats&nbsp;+2.","Du fällst in Ohnmacht, ohne verletzt zu werden. Am Ende der nächsten Runde wirst du mit 50&nbsp;%&nbsp;LP, 20&nbsp;[img:shield], 2&nbsp;[img:divineshield] und einem Bonus von 2 auf alle Attribute wiederbelebt.","Vai in KO. Non subisci ferite. Alla fine del round successivo, ti rianimi con il 50% dei PS, 20 allo [img:shield], 2 allo [img:divineshield], e Aumento delle Statistiche 2.","Fique inconsciente. Você não sofre ferimentos. No final da próxima rodada, você revive com 50% de saúde, 20 de [img:shield], 2 de [img:divineshield] e todos os atributos aumentados 2.","进入倒地状态。
-你不会受到伤势。
+你不会受到创伤。
 在下一回合结束时，
 你将以 50% 生命值、20 [img:shield]、2 [img:divineshield] 
 和 2 层全属性提升状态复活。"
@@ -6011,7 +6011,7 @@ ABILITY_RANGEDHEAL_NAME,Ranged Attack / Heal,,Ataque/Curación a distancia,Attaq
 ABILITY_RANGEDHEAL_DESC,Heals allies but damages enemies.,,Cura a los aliados y daña a los enemigos.,"Soigne les unités alliées, mais inflige des dégâts aux ennemis.",Heilt Verbündete und verursacht Schaden bei Gegnern.,Cura gli alleati ma infligge danno ai nemici.,Cura aliados e causa dano a inimigos.,治疗盟友但伤害敌人。
 ABILITY_PUSHATTACK_NAME,Push Attack,,Ataque de empuje,Bousculade,Stoßangriff,Attacco a Spinta,Ataque de Empurrão,推击
 ABILITY_PUSHATTACK_DESC,"Dash forward one space, then melee attack with Knockback.",,Se lanza hacia delante 1 casilla y luego realiza un ataque cuerpo a cuerpo con retroceso.,"Vous foncez en avant sur 1&nbsp;case, puis effectuez une attaque au corps-à-corps avec Recul.",Stürme ein Feld vorwärts und greif mit Rückstoß an.,"Scatti in avanti di uno spazio, poi attacchi corpo a corpo con Contraccolpo.","Dê um impulso de 1 espaço para frente, e então realize um ataque corpo-a-corpo com empurrão.","向前冲刺一格，
-然后进行带有击退的近战攻击。"
+然后用带有击退的近战攻击。"
 ABILITY_MONKMELEE_NAME,Melee Attack,,Ataque cuerpo a cuerpo,Attaque au corps-à-corps,Nahkampfangriff,Attacco Corpo a Corpo,Ataque Corpo-a-Corpo,近战攻击
 ABILITY_MONKMELEE_DESC,Attack an adjacent unit.,,Ataca a una unidad adyacente.,Vous attaquez une unité adjacente.,Greif eine benachbarte Einheit an.,Attacchi un'unità adiacente.,Ataque uma unidade adjacente.,攻击一个相邻单位。
 ABILITY_MONKLOBBED_NAME,Lobbed Shot,,Tiro en arco,Tir en cloche,Lupfer,Tiro a Parabola,Tiro em Arco,抛射
@@ -6982,14 +6982,14 @@ ABILITY_SEANCE2_DESC,"Spawn a ghost Familiar that fades after its second turn.
 ABILITY_GOLIMP_NAME,Go Limp,,Pata coja,Cahin-caha,Erschlaffen,In Scioltezza,Fingir de Morto,瘫软
 ABILITY_GOLIMP_DESC,"Until your next turn, you won't get injured if you're downed.",,"Hasta el próximo turno, no sufre lesiones si es abatida.",Vous ne recevez pas de blessure si vous êtes K.O. jusqu'à votre prochain tour.,"Bis zu deinem nächsten Zug erleidest du keine Verletzungen, falls du in Ohnmacht fällst.","Fino al turno successivo, non subirai ferite se sei in stato di inattività.","Até seu próximo turno, você não sofre ferimentos se estiver inconsciente.","直到你的下回合，
 若你处于倒地状态，
-不会受到伤势。"
+不会受到创伤。"
 ABILITY_GOLIMP2_DESC,"Until your next turn, you won't get injured if you're downed.
 When downed, inflict Confusion 10 on the unit that downed you.",,"Hasta el próximo turno, no sufre lesiones si es abatida.
 Si es abatida, inflige 10 de confusión a la unidad que la ha abatido.","Vous ne recevez pas de blessure si vous êtes K.O. jusqu'à votre prochain tour. Si vous êtes K.O., Confusion&nbsp;+10&nbsp;à l'unité qui vous a mis K.O.","Bis zu deinem nächsten Zug erleidest du keine Verletzungen, falls du in Ohnmacht fällst.
 Wenn du in Ohnmacht fällst, verursachst du bei der Einheit, die dich besiegt hat, Verwirrung&nbsp;10.","Fino al turno successivo, non subirai ferite se sei in stato di KO.
 Quando sei in stato di KO, infliggi Confusione 10 all'unità che ti ha inflitto lo stato.","Até seu próximo turno, você não sofre ferimentos se estiver inconsciente.
 Ao ficar inconsciente, aplique confusão 10 na unidade que causou isso.","直到你的下回合，若你处于倒地状态，
-不会受到伤势。
+不会受到创伤。
 当倒地时，对击倒你的单位施加 10 层混乱。"
 ABILITY_DEMONICPACT_NAME,Demonic Pact,,Pacto demoníaco,Pacte démoniaque,Dämonischer Pakt,Patto Demoniaco,Pacto Demoníaco,恶魔契约
 ABILITY_DEMONICPACT_DESC,"Injure yourself and take an extra turn.
@@ -6997,14 +6997,14 @@ ABILITY_DEMONICPACT_DESC,"Injure yourself and take an extra turn.
 [s:.7](Este hechizo no se puede lanzar en turnos extras).[/s]",Vous vous blessez et jouez un tour supplémentaire. [s:.7](Non disponible lors des tours supplémentaires.)[/s],"Erleide eine Verletzung und erhalte einen zusätzlichen Zug.
 [s:.7](Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Ti ferisci per ottenere un turno aggiuntivo.
 [s:.7](Quest'incantesimo non può essere lanciato nei turni aggiuntivi.)[/s]","Cause um ferimento a si para obter um turno adicional.
-[s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","使自己受到伤势并获得额外回合。
+[s:.7](Este encantamento não pode ser lançado em turnos extras.)[/s]","使自己受到创伤并获得额外回合。
 [s:.7]（此法术无法在额外回合中施放。）[/s]"
 ABILITY_DEMONICPACT2_DESC,"Injure yourself and take an extra turn.
 [s:.7](This spell costs less. This spell can't be cast on extra turns.)[/s]",,"Se autoinflige una lesión y juega un turno extra.
 [s:.7](Este hechizo cuesta menos. Este hechizo no se puede lanzar en turnos extras).[/s]",Vous vous blessez et jouez un tour supplémentaire. [s:.7](Coût réduit. Non disponible lors des tours supplémentaires.)[/s],"Erleide eine Verletzung und erhalte einen zusätzlichen Zug.
 [s:.7](Dieser Zauber kostet weniger. Kann nicht in einem zusätzlichen Zug verwendet werden.)[/s]","Ti ferisci per ottenere un turno aggiuntivo.
 [s:.7](Quest'incantesimo costa meno. Non può essere lanciato nei turni aggiuntivi.)[/s]","Cause um ferimento a si para obter um turno adicional.
-[s:.7](Este encantamento possui custo reduzido e não pode ser lançado em turnos extras.)[/s]","使自己受到伤势并获得额外回合。
+[s:.7](Este encantamento possui custo reduzido e não pode ser lançado em turnos extras.)[/s]","使自己受到创伤并获得额外回合。
 [s:.7]（此法术消耗更少。
 此法术无法在额外回合中施放。）[/s]"
 ABILITY_CURSE_NAME,Curse,,Maldición,Malédiction,Fluch,Maledizione,Maldição,诅咒
@@ -7098,7 +7098,7 @@ ABILITY_TRADELIFE_DESC,"Swap HP with an ally in range 3.
 [s:.7]É possível lançar este encantamento quando você está inconsciente. Se este encantamento deixar você ou seu aliado inconscientes, nenhum dos dois sofre ferimentos.[/s]","与 3 格范围内的一个盟友交换生命值。
 [s:.7]倒地时可施放。
 若此法术导致你或盟友倒地，
-双方都不会受到伤势。[/s]"
+双方都不会受到创伤。[/s]"
 ABILITY_TRADELIFE2_DESC,"Swap HP with any ally.
 [s:.7]Castable while you're downed. If this spell downs you or the ally, neither are injured.[/s]",,"Intercambia los PS con cualquier aliado.
 [s:.7](Se puede lanzar cuando la unidad está abatida. Si el hechizo abate a esta unidad o a un aliado, ninguna sufre lesiones).[/s]","Vous échangez vos PV avec ceux d'une unité alliée. [s:.7]Disponible même K.O. Si ce sort vous met K.O. ou met K.O. l'unité alliée, personne n'est blessé.[/s]","Tausche die LP mit einem Verbündeten.
@@ -7107,7 +7107,7 @@ ABILITY_TRADELIFE2_DESC,"Swap HP with any ally.
 [s:.7]É possível lançar este encantamento quando você está inconsciente. Se este encantamento deixar você ou seu aliado inconscientes, nenhum dos dois sofre ferimentos.[/s]","与任意盟友交换生命值。
 [s:.7]倒地时可施放。
 若此法术导致你或盟友倒地，
-双方都不会受到伤势。[/s]"
+双方都不会受到创伤。[/s]"
 ABILITY_ABSORBSOUL_NAME,Absorb Soul,,Absorción de alma,Absorption d'âme,Seele absorbieren,Assorbimento dell'Anima,Absorver Alma,吸收灵魂
 ABILITY_ABSORBSOUL_DESC,"Down an ally in range 5 and steal their mana. It doesn't get injured.
 [s:.7](Castable once per turn.)[/s]",,"Abate a un aliado en un alcance de 5 casillas y le roba el maná. No sufre lesiones.
@@ -7116,7 +7116,7 @@ ABILITY_ABSORBSOUL_DESC,"Down an ally in range 5 and steal their mana. It doesn'
 [s:.7](Lanciabile una volta per turno.)[/s]","Deixe um aliado em alcance 5 inconsciente e roube sua mana. Ele não sofre ferimentos.
 [s:.7](Um lançamento por turno.)[/s]","击倒 5 格范围内的
 一个盟友并偷取其法力值。
-该盟友不会受到伤势。
+该盟友不会受到创伤。
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_ABSORBSOUL2_DESC,"Down any ally and steal their mana. It doesn't get injured.
 [s:.7](Castable once per turn.)[/s]",,"Abate a cualquier aliado y le roba el maná. No sufre lesiones.
@@ -7124,7 +7124,7 @@ ABILITY_ABSORBSOUL2_DESC,"Down any ally and steal their mana. It doesn't get inj
 [s:.7](Einmal pro Zug verwendbar.)[/s]","Mandi in stato di KO un qualsiasi alleato e gli rubi il mana. Quell'alleato non viene ferito.
 [s:.7](Lanciabile una volta per turno.)[/s]","Deixe um aliado inconsciente e roube sua mana. Ele não sofre ferimentos.
 [s:.7](Um lançamento por turno.)[/s]","击倒任意盟友并偷取其法力值。
-该盟友不会受到伤势。
+该盟友不会受到创伤。
 [s:.7]（每回合限施放一次。）[/s]"
 ABILITY_GRAVECRAWL_NAME,Gravecrawl,,Búsqueda en tumba,Tombe ouverte,Totengräber,Profanazione Strisciante,Rastejar do Túmulo,墓穴爬行
 ABILITY_GRAVECRAWL_DESC,Dig to any tile and unearth a body.,,Excava a cualquier casilla y desentierra 1 cadáver.,Vous creusez sur une case et exhumez un cadavre.,Grab dich auf ein beliebiges Feld und entdecke eine Leiche.,Scavi fino a una casella qualsiasi e dissotterri un corpo.,Vá por debaixo da terra até qualquer espaço e desenterre um corpo.,"挖掘至任意地块并掘出一具尸体。"
