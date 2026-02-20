@@ -17081,7 +17081,7 @@
     },
     {
         "original": "Book Of Belial",
-        "translation": "贝利亚之书",
+        "translation": "彼列之书",
         "type": "Item",
         "source_key": "ITEM_BOOKOFBELIAL_NAME",
         "notes": ""
@@ -18656,7 +18656,7 @@
     },
     {
         "original": "Fetus in a Jar",
-        "translation": "罐中胎儿",
+        "translation": "胎儿博士",
         "type": "Item",
         "source_key": "ITEM_FETUSINAJAR_NAME",
         "notes": ""
@@ -20203,7 +20203,7 @@
     },
     {
         "original": "Dunce Cap",
-        "translation": "笨蛋帽",
+        "translation": "蠢巫帽",
         "type": "Item",
         "source_key": "ARMOR_DUNCECAP_NAME",
         "notes": ""
@@ -20805,7 +20805,7 @@
     },
     {
         "original": "Lost Soul",
-        "translation": "迷失之魂",
+        "translation": "迷失游魂",
         "type": "Item",
         "source_key": "ARMOR_LOSTSOUL_NAME",
         "notes": ""
@@ -21288,7 +21288,7 @@
     },
     {
         "original": "Flesh Kid",
-        "translation": "血肉孩童",
+        "translation": "食肉男孩",
         "type": "Item",
         "source_key": "ARMOR_FLESHKID_NAME",
         "notes": ""
@@ -21386,7 +21386,7 @@
     },
     {
         "original": "Poison Immunity",
-        "translation": "中毒免疫",
+        "translation": "毒素免疫",
         "type": "Status",
         "source_key": "ARMOR_MINERIMPLANT_DESC",
         "notes": ""
@@ -23906,7 +23906,7 @@
     },
     {
         "original": "Rune of Jera",
-        "translation": "耶拉符文",
+        "translation": "收获符文",
         "type": "Item",
         "source_key": "ARMOR_RUNEOFJERA_NAME",
         "notes": ""
@@ -23920,14 +23920,14 @@
     },
     {
         "original": "Rune of Hagalaz",
-        "translation": "哈加拉兹符文",
+        "translation": "冰雹符文",
         "type": "Item",
         "source_key": "ARMOR_RUNEOFHAGALAZ_NAME",
         "notes": ""
     },
     {
         "original": "Rune of Perthro",
-        "translation": "佩伊洛符文",
+        "translation": "签筒符文",
         "type": "Item",
         "source_key": "ARMOR_RUNEOFPERTHRO_NAME",
         "notes": ""
@@ -28379,7 +28379,7 @@
     },
     {
         "original": "Fetus in a Jar",
-        "translation": "罐中胎儿",
+        "translation": "胎儿博士",
         "type": "Furniture",
         "source_key": "FURNITURE_NAME_OBJECT_JAR_FETUS",
         "notes": ""

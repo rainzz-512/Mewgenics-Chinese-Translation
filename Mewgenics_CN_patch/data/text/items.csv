@@ -222,7 +222,7 @@ Geht nach Benutzung mit 15%iger Wahrscheinlichkeit kaputt.","Uso: Un attacco cor
 Quest'arma ha un 15% di probabilità di rompersi ogni volta che viene usata.","Uso: um ataque corpo-a-corpo.
 Esta arma possui uma chance de 15% de quebrar a cada vez que é utilizada.","使用：近战攻击。
 此武器每次使用有 15% 几率损坏。"
-ITEM_BOOKOFBELIAL_NAME,Book Of Belial,,Libro de Belial,Livre de Bélial,Buch des Belial,Libro di Belial,Livro de Belial,贝利亚之书
+ITEM_BOOKOFBELIAL_NAME,Book Of Belial,,Libro de Belial,Livre de Bélial,Buch des Belial,Libro di Belial,Livro de Belial,彼列之书
 ITEM_BOOKOFBELIAL_DESC,"Use: Gain +3 Damage.
 RELOAD: Kill an enemy.",,"Uso: Obtiene +3 de daño.
 RECARGA: Mata a un enemigo.","Utilisation&nbsp;: Dégâts +3.
@@ -1538,7 +1538,7 @@ ITEM_FEATHER_NAME,Feather,,Pluma,Plume,Feder,Piuma,Pena,羽毛
 ITEM_FEATHER_DESC,Take your turn earlier.,,Esta unidad juega el turno antes.,Vous jouez votre tour plus tôt.,Du bist früher am Zug.,Effettui prima il tuo turno.,Use seu turno mais cedo.,你的回合提前。
 ITEM_FEEDBAG_NAME,Feed Bag,,Bolsa de pienso,Sac de vivres,Futtertasche,Sacco di Mangime,Saco de Alimentação,饲料袋
 ITEM_FEEDBAG_DESC,Familiars you spawn gain +2 max HP.,,Los familiares generados obtienen +2 de PS máximos.,Les familiers que vous invoquez gagnent PV max. +2.,"Begleiter, die du erscheinen lässt, erhalten +2&nbsp;max. LP.",I famigli che generi ottengono +2 ai PS massimi.,Familiares gerados por você obtêm +2 de saúde máxima.,"你生成的使魔获得 +2 最大生命值。"
-ITEM_FETUSINAJAR_NAME,Fetus in a Jar,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in Barattolo,Feto no Pote,罐中胎儿
+ITEM_FETUSINAJAR_NAME,Fetus in a Jar,,Feto en un tarro,Fœtus en bocal,Fötus im Glas,Feto in Barattolo,Feto no Pote,胎儿博士
 ITEM_FETUSINAJAR_DESC,"At the the start of each battle, equip a temporary Bomb if your weapon slot is open.
 At the end of each turn, if you didn't use your basic attack, equip another Bomb.",,"Al inicio de cada combate, se equipa con una bomba temporal si el espacio de arma está abierto.
 Si esta unidad no ha lanzado el ataque básico al final de cada turno, se equipa con otra bomba.","Au début de chaque combat, vous arme d'une bombe temporaire si votre emplacement d'arme est libre.
@@ -2413,7 +2413,7 @@ ARMOR_CROWNOFTHORNS_DESC,+1 Thorns. Gain +1 Thorns whenever you take damage.,,+1
 获得 +1 荆棘。"
 ARMOR_DEATHSHROUD_NAME,Death Shroud,,Sudario de la muerte,Voile de mort,Todesschleier,Sudario della Morte,Manto da Morte,死亡裹尸布
 ARMOR_DEATHSHROUD_DESC,"When you're downed, permanently gain +1 to a random stat.",,"Cuando esta unidad ha sido abatida, obtiene para siempre +1 en un atributo al azar.","K.O., confère +1&nbsp;à une stat aléatoire de façon permanente.","Wenn du in Ohnmacht fällst, erhältst du dauerhaft +1 auf ein zufälliges Attribut.","Quando sei KO, ottieni permanentemente +1 a una statistica casuale.","Ao ficar inconsciente, obtenha permanentemente +1 em um atributo aleatório.","当你倒地时，永久获得 +1 随机属性。"
-ARMOR_DUNCECAP_NAME,Dunce Cap,,Capirote,Bonnet d'âne,Deppenkappe,Cappello da Somaro,Chapéu de Burro,笨蛋帽
+ARMOR_DUNCECAP_NAME,Dunce Cap,,Capirote,Bonnet d'âne,Deppenkappe,Cappello da Somaro,Chapéu de Burro,蠢巫帽
 ARMOR_DUNCECAP_DESC,Your spells cost -1 mana.,,Sus hechizos cuestan -1 de maná.,Vos sorts coûtent -1&nbsp;mana.,Deine Zauber kosten -1&nbsp;Mana.,I tuoi incantesimi costano -1 mana.,Seus encantamentos custam -1 de mana.,你的法术法力消耗 -1。
 ARMOR_DUSTDEVILSHORN_NAME,Dust Devil's Horn,,Cuerno del Demonio de Arena,Corne tourbillon,Horn des Staubteufels,Corno del Diavolo della Sabbia,Chifre de Pé-de-Vento,尘魔之角
 ARMOR_DUSTDEVILSHORN_DESC,"+1 Thorns. After you use your basic attack, do a dash attack that leaves a tornado behind.",,"+1 de espinas. Tras lanzar el ataque básico, realiza un ataque relámpago que deja un tornado a su paso.","Épines +1. Après avoir utilisé votre attaque de base, vous effectuez une attaque impulsée qui laisse une tornade derrière vous.","+1&nbsp;Dornen. Nach deinem Grundangriff führst du einen Ansturmangriff, der einen Wirbelsturm hinterlässt.","+1 Spine. Dopo aver usato il tuo attacco base, esegui un attacco in scatto che lascia un tornado dietro di te.","+1 de espinhos. Após utilizar seu ataque básico, realize um ataque de impulso que deixa um tornado pelo caminho.","+1 荆棘。使用基础攻击后，
@@ -2774,7 +2774,7 @@ ARMOR_LEATHERJACKET_DESC,"If you would take exactly 1 damage, take 0 instead.",,
 则改为受到 0 点。"
 ARMOR_LIONMANE_NAME,Lion Mane,,Melena de león,Hydne hérisson,Löwenmähne,Criniera di Leone,Juba de Leão,狮鬃
 ARMOR_LIONMANE_DESC,,,,,,,,
-ARMOR_LOSTSOUL_NAME,Lost Soul,,Alma perdida,Âme égarée,Verlorene Seele,Anima Perduta,Alma Perdida,迷失之魂
+ARMOR_LOSTSOUL_NAME,Lost Soul,,Alma perdida,Âme égarée,Verlorene Seele,Anima Perduta,Alma Perdida,迷失游魂
 ARMOR_LOSTSOUL_DESC,"The first time you are downed each battle, revive to full HP.",,"La primera vez que esta unidad cae abatida en cada combate, resucita con todos los PS.","La première fois que vous êtes mis K.O. durant chaque combat, vous êtes réanimé avec tous vos PV.","Das erste Mal, dass du in einem Kampf in Ohnmacht fallen würdest, wirst du stattdessen mit vollen LP wiederbelebt.","La prima volta che vai KO in ogni battaglia, ti rianimi fino a raggiungere il massimo dei PS.","Na primeira vez em que você fica inconsciente em cada batalha, reviva com a saúde completa.","每场战斗第一次[b]倒地[/b]时，
 复活并恢复满生命值。"
 ARMOR_LUCKYTOE_NAME,Lucky Toe,,Dedo de la suerte,Orteil porte-bonheur,Glückszeh,Dito Fortunato,Dedão da Sorte,幸运脚趾
@@ -3001,7 +3001,7 @@ ARMOR_FACECOVERING_NAME,Face Covering,,Mascarilla,Masque médical,Gesichtsbedeck
 ARMOR_FACECOVERING_DESC,,,,,,,,
 ARMOR_FEATHEREDMASK_NAME,Feathered Mask,,Máscara emplumada,Masque de plumes,Federmaske,Maschera Piumata,Máscara de Penas,羽毛面具
 ARMOR_FEATHEREDMASK_DESC,+10% Dodge Chance.,,+10 % de probabilidad de esquiva.,Chances d'esquive +10&nbsp;%.,+10&nbsp;% Ausweichchance.,+10% di probabilità di schivata.,+10% de chance de esquiva.,+10% [img:dodge] 闪避率。
-ARMOR_FLESHKID_NAME,Flesh Kid,,Chaval en carne viva,Enfant de chair,Fleischkind,Giovanotto di Carne,Criança Carnuda,血肉孩童
+ARMOR_FLESHKID_NAME,Flesh Kid,,Chaval en carne viva,Enfant de chair,Fleischkind,Giovanotto di Carne,Criança Carnuda,食肉男孩
 ARMOR_FLESHKID_DESC,"You can't get injuries.
 When you're downed, revive at the end of the round.
 Your movement action is Jump.",,"Esta unidad nunca sufre lesiones.
@@ -4620,11 +4620,11 @@ ARMOR_RUBBERARMOR_DESC,Units that contact you are knocked back 2 tiles.,,Las uni
 SETBONUS_RUBBER_NAME,Rubber Set Bonus!,,¡Bonificación de conjunto de caucho!,Bonus d'ensemble&nbsp;: caoutchouc&nbsp;!,Setbonus: Gummirüstung!,Bonus Set: Gomma!,Bônus de Conjunto de Borracha!,橡胶套装加成！
 SETBONUS_RUBBER_DESC,+3 Knockback damage.,,+3 de daño de retroceso.,Dégâts de recul +3.,+3&nbsp;Rückstoßschaden.,+3 danno da Contraccolpo.,+3 de dano de empurrão.,+3 击退伤害。
 ,,,,,,,,
-ARMOR_RUNEOFJERA_NAME,Rune of Jera,,Runa de jera,Rune de Jera,Jera-Rune,Runa di Jera,Runa de Jera,耶拉符文
+ARMOR_RUNEOFJERA_NAME,Rune of Jera,,Runa de jera,Rune de Jera,Jera-Rune,Runa di Jera,Runa de Jera,收获符文
 ARMOR_RUNEOFJERA_DESC,Your trinket effects are doubled.,,Se duplican los efectos de la baratija.,Les effets de votre babiole sont doublés.,Die Effekte deines Zubehörs werden verdoppelt.,Gli effetti dei tuoi ciondoli sono raddoppiati.,Seus efeitos de acessório são dobrados.,你的饰品效果翻倍。
-ARMOR_RUNEOFHAGALAZ_NAME,Rune of Hagalaz,,Runa de hagalaz,Rune de Hagalaz,Hagalaz-Rune,Runa di Hagalaz,Runa de Hagalaz,哈加拉兹符文
+ARMOR_RUNEOFHAGALAZ_NAME,Rune of Hagalaz,,Runa de hagalaz,Rune de Hagalaz,Hagalaz-Rune,Runa di Hagalaz,Runa de Hagalaz,冰雹符文
 ARMOR_RUNEOFHAGALAZ_DESC,Your Weapons hit twice.,,Las armas golpean dos veces.,Vos armes frappent deux fois.,Deine Waffe trifft zweimal.,Le tue armi colpiscono due volte.,Suas armas golpeiam duas vezes.,你的武器命中两次。
-ARMOR_RUNEOFPERTHRO_NAME,Rune of Perthro,,Runa de perthro,Rune de Perthro,Perthro-Rune,Runa di Perthro,Runa de Perthro,佩伊洛符文
+ARMOR_RUNEOFPERTHRO_NAME,Rune of Perthro,,Runa de perthro,Rune de Perthro,Perthro-Rune,Runa di Perthro,Runa de Perthro,签筒符文
 ARMOR_RUNEOFPERTHRO_DESC,This item counts for all item sets.,,Este objeto cuenta para todos los conjuntos.,Cet objet est compatible avec tous les ensembles.,Dieser Gegenstand zählt als Teil eines beliebigen Sets.,Quest'oggetto vale per tutti i set di oggetti.,Este item conta para todos os conjuntos de itens.,此物品计入所有物品套装。
 SETBONUS_RUNE_NAME,Rune Set Bonus!,,¡Bonificación de conjunto rúnico!,Bonus d'ensemble&nbsp;: runes&nbsp;!,Setbonus: Runen!,Bonus Set: Rune!,Bônus de Conjunto Rúnico!,符文套装加成！
 SETBONUS_RUNE_DESC,,,,,,,,
