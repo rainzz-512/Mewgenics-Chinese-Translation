@@ -21386,7 +21386,7 @@
     },
     {
         "original": "Poison Immunity",
-        "translation": "毒素免疫",
+        "translation": "中毒免疫",
         "type": "Status",
         "source_key": "ARMOR_MINERIMPLANT_DESC",
         "notes": ""
