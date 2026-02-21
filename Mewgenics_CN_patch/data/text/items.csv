@@ -130,11 +130,11 @@ Passivo: suas curas são 1 PV mais efetivas.",,,,"使用：
 的一层随机减益效果。
 被动：你的治疗效果 +1。"
 ITEM_BIGGESTSTICK_NAME,Biggest Stick,,Palo grandísimo,Gigabâton,Der größte Stock,Bastone Enorme,Graveto Enorme,,,,最大号的木棍
-ITEM_BIGGESTSTICK_DESC,Use: A melee attack with +3 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +3 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +3.,Benutzen: Ein Nahkampfangriff mit +3&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +3.,Uso: um ataque corpo-a-corpo com +3 de envergadura.,,,,使用：近战攻击，+3 延伸。
+ITEM_BIGGESTSTICK_DESC,Use: A melee attack with +3 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +3 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +3.,Benutzen: Ein Nahkampfangriff mit +3&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +3.,Uso: um ataque corpo-a-corpo com +3 de envergadura.,,,,使用：近战攻击，+3 近战范围。
 ITEM_BIGSPRING_NAME,Big Spring,,Muelle grande,Gros ressort,Große Feder,Molla Gigante,Mola Grande,,,,大弹簧
 ITEM_BIGSPRING_DESC,Use: Throw an adjacent unit to a tile.,,Uso: Lanza a una unidad adyacente hacia otra casilla.,Utilisation&nbsp;: propulse une unité adjacente sur une case.,Benutzen: Wirf eine benachbarte Einheit auf ein beliebiges Feld.,Uso: Lanci un'unità adiacente su una casella.,Uso: lance uma unidade adjacente em um espaço.,,,,使用：将相邻单位投掷到一个地块上。
 ITEM_BIGSTICK_NAME,Big Stick,,Palo grande,Gros bâton,Großer Stock,Bastone Grande,Graveto Grande,,,,大木棍
-ITEM_BIGSTICK_DESC,Use: A melee attack with +2 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +2 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +2.,Benutzen: Ein Nahkampfangriff mit +2&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +2.,Uso: um ataque corpo-a-corpo com +2 de envergadura.,,,,使用：近战攻击，+2 延伸。
+ITEM_BIGSTICK_DESC,Use: A melee attack with +2 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +2 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +2.,Benutzen: Ein Nahkampfangriff mit +2&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con portata +2.,Uso: um ataque corpo-a-corpo com +2 de envergadura.,,,,使用：近战攻击，+2 近战范围。
 ITEM_BLACKJACK_NAME,Blackjack,,Cachiporra,Matraque,Schlagstock,Manganello,Cassetete,,,,短棍
 ITEM_BLACKJACK_DESC,"Use: A melee attack with a 5% chance to Stun.
 Automatically use this when you stop next to an enemy or an enemy stops next to you.",,"Uso: Lanza un ataque cuerpo a cuerpo con un 5 % de probabilidad de aturdir.
@@ -207,7 +207,7 @@ Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1.","+1&nbsp;Lebe
 Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite.","+1 Rigenerazione Salute.
 Uso: Un attacco corpo a corpo con portata +1.","+1 de regeneração de saúde.
 Uso: um ataque corpo-a-corpo com +1 de envergadura.",,,,"+1 生命恢复。
-使用：近战攻击，+1 延伸。"
+使用：近战攻击，+1 近战范围。"
 ITEM_BO_NAME,Bo,,Bo,Bô,Bo,Bo,Bo,,,,长棍
 ITEM_BO_DESC,"Use: A melee attack. On hit, jump forward 2 tiles.",,"Uso: Lanza un ataque cuerpo a cuerpo. Al golpear, salta 2 casillas hacia delante.","Utilisation&nbsp;: une attaque au corps-à-corps. Exécutée avec réussite, vous sautez de 2&nbsp;cases vers l'avant.","Benutzen: Ein Nahkampfangriff. Spring 2&nbsp;Felder vorwärts, wenn du triffst.","Uso: Un attacco corpo a corpo. In caso vada a segno, salti in avanti di 2 caselle.","Uso: um ataque corpo-a-corpo. Ao golpear, salte 2 espaços para frente.",,,,"使用：近战攻击。命中时，
 向前跳跃 2 格。"
@@ -730,7 +730,7 @@ ITEM_KANDARIAN_NAME,The Kandarian,,Daga kandariana,Le Kandarien,Der Kandarianer,
 ITEM_KANDARIAN_DESC,Use: A melee attack that always crits and inflicts Bleed 10.,,Uso: Lanza un ataque cuerpo a cuerpo que siempre asesta un golpe crítico e inflige 10 de hemorragia.,Utilisation&nbsp;: une attaque au corps-à-corps toujours critique qui inflige Saignement +10.,"Benutzen: Ein Nahkampfangriff, der immer kritisch trifft und Blutung&nbsp;10 verursacht.",Uso: Un attacco corpo a corpo che è sempre critico e infligge Sanguinamento 10.,Uso: um ataque corpo-a-corpo que é sempre crítico e aplica sangramento 10.,,,,"使用：
 必定暴击并施加 10 层流血的近战攻击。"
 ITEM_KEBAB_NAME,Kebab,,Pincho moruno,Broche à kebab,Dönerspieß,Kebab,Kebab,,,,烤肉串
-ITEM_KEBAB_DESC,Use: A melee attack with +1 reach that penetrates through units.,,Uso: Lanza un ataque cuerpo a cuerpo con +1 de extensión que perfora a las unidades.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1&nbsp;qui traverse les unités.,"Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite, der Einheiten durchbohrt.",Uso: Un attacco corpo a corpo con portata +1 che penetra attraverso le unità.,Uso: um ataque corpo-a-corpo com +1 de envergadura que atravessa unidades.,,,,使用：+1 延伸并穿透单位的近战攻击。
+ITEM_KEBAB_DESC,Use: A melee attack with +1 reach that penetrates through units.,,Uso: Lanza un ataque cuerpo a cuerpo con +1 de extensión que perfora a las unidades.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1&nbsp;qui traverse les unités.,"Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite, der Einheiten durchbohrt.",Uso: Un attacco corpo a corpo con portata +1 che penetra attraverso le unità.,Uso: um ataque corpo-a-corpo com +1 de envergadura que atravessa unidades.,,,,使用：+1 近战范围并穿透单位的近战攻击。
 ITEM_LACEDNEEDLE_NAME,Laced Needle,,Aguja emponzoñada,Aiguille empoisonnée,Dreckige Nadel,Ago Avvelenato,Agulha Envenenada,,,,涂毒针
 ITEM_LACEDNEEDLE_DESC,"Use: A melee attack that inflicts Poison 1.
 Can be used 3 times per turn.",,"Uso: Lanza un ataque cuerpo a cuerpo que inflige 1 de veneno.
@@ -1142,7 +1142,7 @@ RECHARGE&nbsp;: collecter une ressource bénie ou subir un sort sacré.","Benutz
 NACHLADEN: Sammle einen gesegneten Gegenstand ein oder lass dich von einem heiligen Zauber treffen.","Uso: Un attacco corpo a corpo con +1 di portata che penetra attraverso le unità.
 RICARICA: Prendi un raccoglibile Benedizione o ti colpisce un incantesimo di Elemento Sacro.","Uso: um ataque corpo-a-corpo com +1 de envergadura que atravessa unidades.
 RECARREGAMENTO: colete um coletável de benção ou sofra um golpe de um encantamento do elemento sagrado.",,,,"使用：一次近战攻击，
-+1 延伸并穿透单位。
++1 近战范围并穿透单位。
 装填：
 收集一个祝福掉落物或被神圣元素法术击中。"
 ITEM_SPINNERETS_NAME,Spinnerets,,Hileras,Lance-toile,Spinnerett,Filatrici,Fiandeiras,,,,吐丝器
@@ -1237,7 +1237,7 @@ RICARICA: Uccidi una roccia.","Uso: um ataque em arco que aplica petrificação.
 RECARREGAMENTO: mate uma pedra.",,,,"使用：一次抛射攻击，造成石化。
 装填：击碎一块岩石。"
 ITEM_STICK_NAME,Stick,,Palo,Bâton,Stock,Bastone,Graveto,,,,木棍
-ITEM_STICK_DESC,Use: A melee attack with +1 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +1 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1.,Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con +1 di portata.,Uso: um ataque corpo-a-corpo com +1 de envergadura.,,,,使用：一次近战攻击，+1 延伸。
+ITEM_STICK_DESC,Use: A melee attack with +1 reach.,,Uso: Lanza un ataque cuerpo a cuerpo con +1 de extensión.,Utilisation&nbsp;: une attaque au corps-à-corps avec Allonge +1.,Benutzen: Ein Nahkampfangriff mit +1&nbsp;Reichweite.,Uso: Un attacco corpo a corpo con +1 di portata.,Uso: um ataque corpo-a-corpo com +1 de envergadura.,,,,使用：一次近战攻击，+1 近战范围。
 ITEM_STRONGMAGNET_NAME,Strong Magnet,,Imán potente,Aimant surpuissant,Starker Magnet,Magnete Potente,Ímã Forte,,,,强力磁铁
 ITEM_STRONGMAGNET_DESC,Use: Pull a unit 2 tiles toward you.,,Uso: Atrae a una unidad 2 casillas.,Utilisation&nbsp;: attire une unité de 2&nbsp;cases vers vous.,Benutzen: Zieh eine Einheit 2&nbsp;Felder an dich heran.,Uso: Attiri un'unità di 2 caselle verso di te.,Uso: puxe uma unidade 2 espaços na sua direção.,,,,使用：将单位向你拉近 2 格。
 ITEM_STUNGUN_NAME,Stun Gun,,Pistola aturdidora,Pistolet étourdissant,Elektroschocker,Pistola Stordente,Arma de Atordoamento,,,,眩晕枪
@@ -3155,7 +3155,7 @@ Encontre um item comum ao ficar inconsciente.",,,,"当你受到伤害时，获�
 ARMOR_RHINESTONESTICKERS_NAME,Rhinestone Stickers,,Adhesivos de diamante falso,Strass collants,Strasssticker,Adesivi con Strass,Adesivos de Strass,,,,水钻贴纸
 ARMOR_RHINESTONESTICKERS_DESC,Emit 4 Sparkles at the start of each battle.,,Emite 4 destellos al inicio de cada combate.,Émet 4&nbsp;étincelles au début de chaque combat.,Versprühe am Anfang jedes Kampfes 4&nbsp;Funken.,Emetti 4 Scintille all'inizio di ogni battaglia.,Emita 4 fagulhas no início de cada batalha.,,,,每场战斗开始时发出 4 个火花。
 ARMOR_RUBBERBAND_NAME,Rubber Band,,Goma elástica,Bracelet en caoutchouc,Gummiband,Elastico,Elástico,,,,橡皮筋
-ARMOR_RUBBERBAND_DESC,+1 reach.,,+1 de extensión.,Allonge +1.,+1&nbsp;Reichweite.,+1 alla portata.,+1 de alcance.,,,,+1 延伸。
+ARMOR_RUBBERBAND_DESC,+1 reach.,,+1 de extensión.,Allonge +1.,+1&nbsp;Reichweite.,+1 alla portata.,+1 de alcance.,,,,+1 近战范围。
 ARMOR_STEVENMASK1_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,,,,史蒂文
 ARMOR_STEVENMASK1_DESC,Your musical abilities are always double cast.,,Las habilidades musicales siempre se duplican.,Vos compétences musicales sont toujours lancées deux fois.,Deine Musikfähigkeiten werden immer zweimal gewirkt.,Le tue abilità musicali vengono sempre lanciate due volte.,Suas habilidade musicais são sempre lançadas duas vezes.,,,,你的音乐技能总是双重施法。
 ARMOR_STEVENMASK2_NAME,Steven,,Steven,Steven,Steven,Steven,Steven,,,,史蒂文
@@ -3575,7 +3575,7 @@ ARMOR_CYBORGHAT_NAME,Frontal Lobe Implant,,Implante de lóbulo frontal,Implant d
 ARMOR_CYBORGHAT_DESC,10% chance to teleport to a neighboring tile when targeted by an enemy.,,10 % de probabilidad de teletransportarse a una casilla contigua cuando un enemigo apunta a esta unidad.,10&nbsp;% de chances de vous téléporter sur une case voisine quand vous êtes pris pour cible par un ennemi.,"10%ige Wahrscheinlichkeit, dich auf ein benachbartes Feld zu teleportieren, wenn du von einem Gegner anvisiert wirst.",10% di probabilità di teletrasportarti in una casella adiacente quando ti prende di mira un nemico.,10% de chance de se teletransportar para um espaço vizinho ao entrar na minha de um inimigo.,,,,"被敌人作为目标时，
 有 10% 几率传送到相邻地块。"
 ARMOR_CYBORGMASK_NAME,Optic Nerve Implant,,Implante de nervio óptico,Implant du nerf optique,Sehnervenimplantat,Impianto del Nervo Ottico,Implante de Nervo Ótico,,,,视神经植入物
-ARMOR_CYBORGMASK_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1&nbsp;Reichweite.,"+1 al raggio d'azione, +1 alla portata.","+1 de alcance, +1 de envergadura.",,,,+1 射程，+1 移动距离。
+ARMOR_CYBORGMASK_DESC,"+1 range, +1 reach.",,"+1 de alcance, +1 de extensión.","Portée +1, Allonge +1.",+1&nbsp;Reichweite.,"+1 al raggio d'azione, +1 alla portata.","+1 de alcance, +1 de envergadura.",,,,+1 射程，+1 近战范围。
 ARMOR_CYBORGARMOR_NAME,Cerebellum Implant,,Implante de cerebelo,Implant du cervelet,Kleinhirnimplantat,Impianto del Cervelletto,Implante de Cerebelo,,,,小脑植入物
 ARMOR_CYBORGARMOR_DESC,+10% Crit Chance.,,+10 % de probabilidad de crítico.,Chances de coup critique +10&nbsp;%.,+10&nbsp;% kritische Trefferchance.,+10% di probabilità di colpo critico.,+10% de chance de crítico.,,,,+10% 暴击率。
 SETBONUS_CYBORG_NAME,Cyborg Set Bonus!,,¡Bonificación de conjunto de cíborg!,Bonus d'ensemble&nbsp;: cyborg&nbsp;!,Setbonus: Cyborg!,Bonus Set: Cyborg!,Bônus de Conjunto de Ciborgue!,,,,改造人套装加成！

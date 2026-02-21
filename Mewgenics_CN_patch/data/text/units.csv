@@ -2660,7 +2660,7 @@ Wird zu einem verbuggten Feld, wenn er stirbt.","Specialista del corpo a corpo.
 Diventa una casella glitch quando muore.","Agressor corpo-a-corpo.
 Torna-se um espaço de glitch ao morrer.",,,,"近战攻击者。
 死亡时变成故障地块。"
-ENEMY_CHAOS_NAME,Soahc,"""Chaos"" backwards, he has a backwards theme",Soac,Soahc,Soahc,Soac,Soac,,,,索阿克
+ENEMY_CHAOS_NAME,Soahc,"""Chaos"" backwards, he has a backwards theme",Soac,Soahc,Soahc,Soac,Soac,,,,沌混
 ENEMY_CHAOS_DESC,Stropelet eh emit hcae egnahc seitiliba sih.,"""His abilities change each time he teleports."" backwards",Atropsnartelet es euq zev adac naibmac sedadilibah sus.,Etropélét es li'uq siof euqahc tnegnahc secnetépmoc ses.,"Treitropelet hcis re nnew, laM sedej hcis nrednä netiekgihäF enies.",Atropsartelet is ehc atlov ingo onaibmac àtiliba eus el.,Atropsnartelet es ele euq zev adac a macifidom es sedadilibah saus.,,,,。变改会都力能的他时送传次每
 ENEMY_TERMINATOR1_NAME,C-800,,C-800,C-800,C-800,C-800,G-800,,,,C-800
 ENEMY_TERMINATOR1_DESC,Primary objective: Destroy all cats.,,Objetivo prioritario: aniquilar a todos los gatos.,Objectif principal&nbsp;: détruire tous les chats.,Primärziel: Alle Katzen zerstören.,Obiettivo primario: distruggere tutti i gatti.,Objetivo primário: destruir todos os gatos.,,,,首要目标：消灭所有猫咪。
