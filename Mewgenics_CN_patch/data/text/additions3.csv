@@ -6,5 +6,5 @@ ITEM_UI_NEW,NEW,,NUEVO,NOUVEAU,NEU,NUOVO,NOVO,,,,[s:.65]新[/s]
 ITEM_UI_WORN_INDICATOR,w,,d,u,a,ind,g,,,,[s:.65]损[/s]
 CAT_UI_BOX_SHORTCUT_LABEL,BOX,,CAJA,BOÎTE,BOX,SCATOLA,CAIXA,,,,箱子
 KEYWORD_PERMABLIND_DESC,30% miss chance.,,30 % de probabilidad de fallo.,Risques d'échec +30&nbsp;%,"30%ige Wahrscheinlichkeit, dass Angriffe verfehlen.",30% di possibilità di mancare.,30% de chance de errar.,,,,30% 未命中率。
-SETTINGS_MAXFRAMERATE_LABEL,Limit Framerate,,Límite de fps,Images par seconde,Bildrate begrenzen,Limite Framerate,Limitar taxa de quadros,,프레임 제한,,
-SETTINGS_MAXFRAMERATE_OPT_UNCAPPED,Uncapped,,Ilimitado,Illimitées,Unbegrenzt,Illimitato,Ilimitado,,제한 해제,,
+SETTINGS_MAXFRAMERATE_LABEL,Limit Framerate,,Límite de fps,Images par seconde,Bildrate begrenzen,Limite Framerate,Limitar taxa de quadros,,프레임 제한,,帧数限制
+SETTINGS_MAXFRAMERATE_OPT_UNCAPPED,Uncapped,,Ilimitado,Illimitées,Unbegrenzt,Illimitato,Ilimitado,,제한 해제,,无限制
