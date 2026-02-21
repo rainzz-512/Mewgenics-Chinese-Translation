@@ -3498,7 +3498,7 @@ Todos os atributos diminuídos 2.","每场战斗开始时，
 要么获得 +5 [img:int]、+5 [img:cha] 和 +5 [img:spd]，
 要么获得 2 层全属性下降。"
 DISORDER_SOULLESS_NAME,Soulless,,Sin alma,Sans âme,Seelenlos,Senz'Anima,Desalmado,无魂
-DISORDER_SOULLESS_DESC,"You are immune to buffs and debuffs. When you die, you don't leave a corpse.",,"Es inmune a las ventajas y las desventajas. Al morir, no deja cadáver.","Ni les bonus ni les malus ne vous affectent. Lorsque vous mourrez, vous n'avez pas de cadavre.","Du bist immun gegen Stärkungen und Schwächungen. Wenn du stirbst, hinterlässt du keine Leiche.","Sei immune a bonus e malus. Quando muori, non lasci un cadavere.","Você é imune contra fortalecimentos e enfraquecimentos. Ao morrer, você não deixa um corpo para trás.","你免疫[buffs]和减益效果。
+DISORDER_SOULLESS_DESC,"You are immune to buffs and debuffs. When you die, you don't leave a corpse.",,"Es inmune a las ventajas y las desventajas. Al morir, no deja cadáver.","Ni les bonus ni les malus ne vous affectent. Lorsque vous mourrez, vous n'avez pas de cadavre.","Du bist immun gegen Stärkungen und Schwächungen. Wenn du stirbst, hinterlässt du keine Leiche.","Sei immune a bonus e malus. Quando muori, non lasci un cadavere.","Você é imune contra fortalecimentos e enfraquecimentos. Ao morrer, você não deixa um corpo para trás.","你免疫增益和减益效果。
 当你死亡时，不会留下尸体。"
 DISORDER_THESHINING_NAME,The Shining,,El resplandor,Shining,Das Shining,La Luccicanza,O Iluminado,闪灵
 DISORDER_THESHINING_DESC,"Your attacks can't miss.
@@ -3688,7 +3688,7 @@ Du kannst dich in jedem Zug ein zusätzliches Mal bewegen. Deine Erschöpfung be
 Puoi muoverti una volta in più ogni turno. La spossatezza subentra al terzo round.","Você não pode adormecer.
 Você pode se mover uma vez adicional a cada turno. A exaustão se instala na rodada 3.","你无法入睡。
 每回合可以额外移动一次。
-第 3 回合出现[Exhaustion]。"
+第 3 回合出现疲劳。"
 DISORDER_PHONY_NAME,Phony,,Hipocresía,Bidon,Heuchler,Falsità,Hipocrisia,冒牌
 DISORDER_PHONY_DESC,"Start each battle with full mana.
 You can't regenerate mana.",,"Empieza cada combate con todo el maná.
@@ -3735,7 +3735,7 @@ Ao ficar inconsciente, você obtém um ferimento adicional.","+2 淤伤、
 +2 流血荆棘 和 +2 荆棘。
 当你倒地时，你会额外受到一次伤害。"
 DISORDER_GARGANTUAN_NAME,Gargantuan,,Pantagruélico,Gargantuesque,Gigantisch,Gargantuismo,Gigantesco,庞然大物
-DISORDER_GARGANTUAN_DESC,You are permanently immobile.,,Esta unidad permanece inmóvil para siempre.,Vous êtes immobile de façon permanente.,Du bist dauerhaft unbeweglich.,Sei permanentemente immobile.,Você fica permanentemente imóvel.,你永久[Immobile]。
+DISORDER_GARGANTUAN_DESC,You are permanently immobile.,,Esta unidad permanece inmóvil para siempre.,Vous êtes immobile de façon permanente.,Du bist dauerhaft unbeweglich.,Sei permanentemente immobile.,Você fica permanentemente imóvel.,你永久定身。
 DISORDER_BRAINDEAD_NAME,Brain Dead,,Muerte cerebral,Mort cérébrale,Hirntot,Morte Cerebrale,Morte Cerebral,脑死亡
 DISORDER_BRAINDEAD_DESC,Gain twice as many stats when you level up. +1 Reroll when leveling up.,,Obtiene el doble de atributos cuando sube de nivel. +1 de cambio al azar al subir de nivel.,"Lorsque vous gagnez un niveau, vous gagnez le double de stats. Options&nbsp;+1&nbsp;lorsque vous gagnez un niveau.","Wenn du ein Level aufsteigst, erhältst du doppelt so viele Attribute. Du kannst deine Auswahlmöglichkeiten einmal neu generieren, wenn du ein Level aufsteigst.",Ottieni il doppio delle statistiche quando sali di livello. +1 possibilità di modifica quando sali di livello.,Obtenha duas vezes mais atributos ao subir de nível. +1 chance de rolar novamente ao subir de nível.,"升级时获得双倍属性。
 升级时 +1 重掷。"
