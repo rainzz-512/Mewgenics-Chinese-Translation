@@ -428,7 +428,7 @@ ITEM_FREYEDWIRES_DESC,"Use: An electric melee attack that can chain through adja
 [s:.7](Um uso por batalha.)[/s]",,,,"使用：电击近战攻击，
 可在相邻单位间连锁。
 [s:.7](每场战斗限用一次。)[/s]"
-ITEM_GAMBITSDICE_NAME,Gambit's Dice,,Dados de gambito,Dés de Chasard,Glückswürfel,Dadi di Azzardolo,Dados da Sorte,,,,甘比特的骰子
+ITEM_GAMBITSDICE_NAME,Gambit's Dice,,Dados de gambito,Dés de Chasard,Glückswürfel,Dadi di Azzardolo,Dados da Sorte,,,,赌徒的骰子
 ITEM_GAMBITSDICE_DESC,"Use: Throw a projectile that deals 1-6 damage at random.
 RELOAD: Cast a spell that costs exactly 6 mana.",,"Uso: Lanza un proyectil que inflige 1-6 de daño al azar.
 RECARGA: Lanza un hechizo que cuesta 6 de maná.","Utilisation&nbsp;: lance un projectile qui inflige 1&nbsp;à 6&nbsp;Dégâts.

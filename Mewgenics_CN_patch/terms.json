@@ -3634,7 +3634,7 @@
     },
     {
         "original": "Gambit",
-        "translation": "甘比特",
+        "translation": "赌徒",
         "type": "Character",
         "source_key": "ENEMY_GAMBIT_NAME",
         "notes": "Name transliteration, also references 'Gambit' concept"
@@ -3669,10 +3669,10 @@
     },
     {
         "original": "Cerberubs",
-        "translation": "三头智天使",
+        "translation": "刻耳柏洛斯残躯",
         "type": "Character",
         "source_key": "ENEMY_CERBERUBS_NAME",
-        "notes": "Portmanteau of Cerberus (three-headed dog) + Cherubs (angels)"
+        "notes": "Based on French name `Cerbère moignon(Cerberus Stump)`"
     },
     {
         "original": "Abandoned One",
@@ -16556,7 +16556,7 @@
     },
     {
         "original": "Cerberub Flub",
-        "translation": "三头智天使失误",
+        "translation": "刻耳柏洛斯失误",
         "type": "Skill",
         "source_key": "EABILITY_CERBERUBFLUB_NAME",
         "notes": ""
@@ -17347,7 +17347,7 @@
     },
     {
         "original": "Gambit's Dice",
-        "translation": "甘比特的骰子",
+        "translation": "赌徒的骰子",
         "type": "Item",
         "source_key": "ITEM_GAMBITSDICE_NAME",
         "notes": "Gambit是角色名"

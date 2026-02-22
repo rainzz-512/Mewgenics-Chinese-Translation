@@ -2276,7 +2276,7 @@ Divide-se em 4 geleias pequenas ao morrer.",,,,"近战攻击者。
 死亡时分裂成 4 个小型史莱姆。"
 ENEMY_SMALLSLIME_NAME,Small Slime,,Baba pequeña,Petit vasard,Kleiner Schleim,Gelatina Piccola,Geleia Pequena,,,,小型史莱姆
 ENEMY_SMALLSLIME_DESC,Melee attacker.,,Atacante cuerpo a cuerpo.,Attaque au corps-à-corps.,Nahkämpfer.,Specialista del corpo a corpo.,Agressor corpo-a-corpo.,,,,近战攻击者。
-ENEMY_GAMBIT_NAME,Gambit,,Gambito,Chasard,Gambit,Azzardolo,Gambit,,,,甘比特
+ENEMY_GAMBIT_NAME,Gambit,,Gambito,Chasard,Gambit,Azzardolo,Gambit,,,,赌徒
 ENEMY_GAMBIT_DESC,Has 6 special moves tied to the number on its dice! Higher numbers are more deadly.,,"Tiene 6 movimientos especiales vinculados con el número de los dados. Cuanto más alto sea el número, más letal.","Dispose de 6&nbsp;attaques spéciales correspondant aux chiffres de son dé&nbsp;! Plus ils sont élevés, plus elles sont redoutables.","Hat 6&nbsp;Spezialangriffe, die von seinem Würfelwurf abhängen! Höhere Zahlen sind tödlicher.",Ha 6 mosse speciali legate al numero che tira coi dadi! I numeri più alti sono più letali.,Possui 6 movimentos especiais ligados ao número de seu dado! Números mais altos são mais mortais.,,,,"拥有 6 种与其骰子点数绑定的特殊招式！
 点数越高越致命。"
 ENEMY_FLUSHMASTER_NAME,Flushmaster,,Cisternario,Chassedo,Spülmeister,Mastro Sciacquone,Descargueiro,,,,冲水大师
@@ -2304,7 +2304,7 @@ Hat begrenzte Munition.","Spara a tutto ciò che si muove!
 Munizioni limitate.","Dispara contra qualquer coisa que se mova!
 Munição limitada.",,,,"会射击任何移动的东西！
 弹药有限。"
-ENEMY_CERBERUBS_NAME,Cerberubs,,Cerberino,Cerbère moignon,Zerbussi,Cerberino,Cerberubs,,,,三头智天使
+ENEMY_CERBERUBS_NAME,Cerberubs,,Cerberino,Cerbère moignon,Zerbussi,Cerberino,Cerberubs,,,,刻耳柏洛斯残躯
 ENEMY_CERBERUBS_DESC,"Shoots Lava from its necks when damaged.
 Becomes enraged when hit from behind.
 Immune to Fire.",,"Dispara lava de los cuellos al sufrir daño.
