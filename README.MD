@@ -13,6 +13,13 @@
 本补丁采用 **AI 辅助翻译 + 游戏内测试校对** 的方式制作，后续版本将持续优化翻译质量与术语统一。  
 欢迎提交反馈和修正建议。
 
+### v0.6 更新内容
+- 根据官方 Patch Notes 1.0.20738，本地化 CSV 已由原先约 20 个拆分文件合并为单一文件 `data/text/combined.csv`
+- 本仓库已同步调整结构：`data/text` 目录仅保留 `combined.csv` 作为当前维护入口
+- 旧拆分 CSV 已迁移到仓库根目录下的 `_archived_csv`，用于回溯与比对，不再作为当前版本主编辑目标
+- 修复了个别文本翻译与措辞问题，提升局部语句准确性与可读性
+- 新增了一批中文猫名（含公猫、母猫与中性）
+
 ### v0.5 更新内容
 - 针对《以撒的结合》等联动物品，手工调整对应术语与原游戏一致（如 `Guppy` 统一译为“嗝屁猫”；以撒联动道具优先沿用以撒社区常见译法，如神性套装三个部件译为“肉体”“思想”“灵魂”）  
 - 对 `events` 与 `npc_dialog` 进行了大幅文本更新与本地化优化，显著提升语句自然度与上下文连贯性  
@@ -51,7 +58,7 @@
    - 恶意引战、攻击性、侮辱性词汇
 
 ### 致谢
-- 感谢 [infinityedge01](https://github.com/infinityedge01)、[elmagnificogi](https://github.com/elmagnificogi)、[Supuritto](https://github.com/Supuritto)、[TeddyHuang-00](https://github.com/TeddyHuang-00)、[Xsakura1314](https://github.com/Xsakura1314)、[Claude-yuliu](https://github.com/Claude-yuliu) 在补丁开发期间提供贡献与支持  
+- 感谢 [infinityedge01](https://github.com/infinityedge01)、[elmagnificogi](https://github.com/elmagnificogi)、[Supuritto](https://github.com/Supuritto)、[TeddyHuang-00](https://github.com/TeddyHuang-00)、[Xsakura1314](https://github.com/Xsakura1314)、[Claude-yuliu](https://github.com/Claude-yuliu)、[tuwary](https://github.com/tuwary) 在补丁开发期间提供贡献与支持  
 - 感谢 [DR9K69AI79](https://github.com/DR9K69AI79) 提供字体更改支持
 
 ### 安装方法
@@ -107,6 +114,13 @@ This project provides a **Chinese translation patch for Mewgenics**, covering mo
 The translation is created using **AI-assisted translation and in-game testing**, and future updates will continue to improve translation quality and terminology consistency.  
 Feedback and correction suggestions are welcome.
 
+### v0.6 Changes
+- Synced with official Patch Notes 1.0.20738: localization CSVs were merged from ~20 split files into a single `data/text/combined.csv`
+- Repository structure has been updated accordingly: `data/text` now keeps only `combined.csv` as the active maintenance target
+- Legacy split CSV files were moved to `_archived_csv` at repository root for reference/diffing, and are no longer the primary editing target for current versions
+- Fixed a small number of translation issues and wording inconsistencies to improve local text accuracy and readability
+- Added more Chinese cat names (male/female/neutral)
+
 ### v0.5 Changes
 - Manually aligned crossover item terminology (especially for *The Binding of Isaac* references) with established in-game naming conventions (e.g., `Guppy` -> “嗝屁猫”; Isaac crossover terms follow Isaac-localization conventions, including “肉体 / 思想 / 灵魂” for the Godhead set components)  
 - Performed major text updates and localization optimization for `events` and `npc_dialog`, significantly improving fluency and contextual coherence  
@@ -145,7 +159,7 @@ Feedback and correction suggestions are welcome.
    - Provocative, abusive, or harassment-oriented naming
 
 ### Acknowledgements
-- Thanks to [infinityedge01](https://github.com/infinityedge01), [elmagnificogi](https://github.com/elmagnificogi), [Supuritto](https://github.com/Supuritto), [TeddyHuang-00](https://github.com/TeddyHuang-00), [Xsakura1314](https://github.com/Xsakura1314), and [Claude-yuliu](https://github.com/Claude-yuliu) for contributions and support during patch development  
+- Thanks to [infinityedge01](https://github.com/infinityedge01), [elmagnificogi](https://github.com/elmagnificogi), [Supuritto](https://github.com/Supuritto), [TeddyHuang-00](https://github.com/TeddyHuang-00), [Xsakura1314](https://github.com/Xsakura1314), [Claude-yuliu](https://github.com/Claude-yuliu), and [tuwary](https://github.com/tuwary) for contributions and support during patch development  
 - Thanks to [DR9K69AI79](https://github.com/DR9K69AI79) for font modification support
 
 ### Installation
