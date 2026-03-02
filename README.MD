@@ -58,7 +58,7 @@
    - 恶意引战、攻击性、侮辱性词汇
 
 ### 致谢
-- 感谢 [infinityedge01](https://github.com/infinityedge01)、[elmagnificogi](https://github.com/elmagnificogi)、[Supuritto](https://github.com/Supuritto)、[TeddyHuang-00](https://github.com/TeddyHuang-00)、[Xsakura1314](https://github.com/Xsakura1314)、[Claude-yuliu](https://github.com/Claude-yuliu)、[tuwary](https://github.com/tuwary) 在补丁开发期间提供贡献与支持  
+- 感谢 [infinityedge01](https://github.com/infinityedge01)、[elmagnificogi](https://github.com/elmagnificogi)、[Supuritto](https://github.com/Supuritto)、[TeddyHuang-00](https://github.com/TeddyHuang-00)、[Xsakura1314](https://github.com/Xsakura1314)、[Claude-yuliu](https://github.com/Claude-yuliu)、[tuwary](https://github.com/tuwary)、[MnFeN](https://github.com/MnFeN)、[mewcodex](https://github.com/mewcodex) 在补丁开发期间提供贡献与支持  
 - 感谢 [DR9K69AI79](https://github.com/DR9K69AI79) 提供字体更改支持
 
 ### 安装方法
@@ -159,7 +159,7 @@ Feedback and correction suggestions are welcome.
    - Provocative, abusive, or harassment-oriented naming
 
 ### Acknowledgements
-- Thanks to [infinityedge01](https://github.com/infinityedge01), [elmagnificogi](https://github.com/elmagnificogi), [Supuritto](https://github.com/Supuritto), [TeddyHuang-00](https://github.com/TeddyHuang-00), [Xsakura1314](https://github.com/Xsakura1314), [Claude-yuliu](https://github.com/Claude-yuliu), and [tuwary](https://github.com/tuwary) for contributions and support during patch development  
+- Thanks to [infinityedge01](https://github.com/infinityedge01), [elmagnificogi](https://github.com/elmagnificogi), [Supuritto](https://github.com/Supuritto), [TeddyHuang-00](https://github.com/TeddyHuang-00), [Xsakura1314](https://github.com/Xsakura1314), [Claude-yuliu](https://github.com/Claude-yuliu), [tuwary](https://github.com/tuwary), [MnFeN](https://github.com/MnFeN), and [mewcodex](https://github.com/mewcodex) for contributions and support during patch development  
 - Thanks to [DR9K69AI79](https://github.com/DR9K69AI79) for font modification support
 
 ### Installation
