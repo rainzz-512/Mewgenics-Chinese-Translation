@@ -79,13 +79,16 @@
 
 **方式二：DIY 替换为任意字体**
 1. 安装 [JPEXS FFDec](https://github.com/jindrapetrik/jpexs-decompiler)  
-2. 在 JPEXS FFDec 安装目录下运行以下命令（以补丁自带的 `swfs/unicodefont.swf` 为基础）：
+2. 下载本仓库的 `Mewgenics_CN_patch/swfs/unicodefont.swf` ，并将其和自定义字体文件放置在 JPEXS FFDec 的安装目录内
+3. 将自定义字体文件名中的所有**空格**删去。以 `我 的 字 体.ttf` 为例，则它应该被重命名为 `我的字体.ttf`  
+4. 打开命令提示符。将命令提示符的[当前目录设为 JPEXS FFDec 的安装目录](https://zhuanlan.zhihu.com/p/701111923)
+5. 在命令提示符中，运行以下命令（将命令中的 `我的字体.ttf` 替换为重命名后的字体文件名）：
    ```
-   ffdec-cli.exe -replace unicodefont.swf unicodefont_custom.swf 1 你的字体.ttf
+   ffdec-cli.exe -replace unicodefont.swf unicodefont_custom.swf 1 我的字体.ttf
    ```
-3. 将生成的 `unicodefont_custom.swf` 重命名为 `unicodefont.swf`，放入游戏目录的 `swfs/` 文件夹
+6. 一个名为 `unicodefont_custom.swf` 的文件会生成在 JPEXS FFDec 的安装目录内。在**游戏根目录**下创建 `swfs\` 文件夹，将此文件放入该文件夹中，然后重命名为 `unicodefont.swf`，
 
-> 注意：字体文件放在游戏根目录的 `swfs/` 文件夹下（不是 `data/swfs/`）。
+> 注意：最终的 `.swf` 文件要放在**游戏根目录**的 `swfs\` 文件夹内（不是 JPEXS FFDec 的安装目录，也不是 `data\` 下的 `swfs` 文件夹内）。
 
 **恢复默认字体：** 删除游戏目录下的 `swfs/` 文件夹即可。
 
@@ -180,13 +183,16 @@ The game uses Noto Sans CJK TC as the fallback font option for Chinese text. You
 
 **Option 2: DIY with any font**
 1. Install [JPEXS FFDec](https://github.com/jindrapetrik/jpexs-decompiler)  
-2. Run the following command in the JPEXS FFDec installation directory (using the bundled `swfs/unicodefont.swf` as base):
+2. Download `Mewgenics_CN_patch/swfs/unicodefont.swf` from this repository and place it along with your custom font file in the JPEXS FFDec installation directory
+3. Remove all **spaces** from the custom font filename. For example, if the file is named `My Font.ttf`, it should be renamed to `MyFont.ttf`  
+4. Open the Command Prompt. [Set the current directory to the JPEXS FFDec installation directory](https://www.geeksforgeeks.org/techtips/change-directories-in-command-prompt/)
+5. In the Command Prompt, run the following command (replace `MyFont.ttf` in the command with the renamed font filename):
    ```
-   ffdec-cli.exe -replace unicodefont.swf unicodefont_custom.swf 1 your_font.ttf
+   ffdec-cli.exe -replace unicodefont.swf unicodefont_custom.swf 1 MyFont.ttf
    ```
-3. Rename the output to `unicodefont.swf` and place it in the `swfs/` folder in the game directory
+6. A file named `unicodefont_custom.swf` will be generated in the JPEXS FFDec installation directory. Create a `swfs\` folder in the **game root directory**, place this file in that folder, and then rename it to `unicodefont.swf`,
 
-> Note: The font file goes in the `swfs/` folder at game root (NOT `data/swfs/`).
+> Note: The final `.swf` file goes in the `swfs/` folder at **game root** (NOT in the JPEXS FFDec installation directory, nor under `data\`).
 
 **Restore default font:** Simply delete the `swfs/` folder in the game directory.
 
