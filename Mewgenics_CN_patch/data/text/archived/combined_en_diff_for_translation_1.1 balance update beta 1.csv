@@ -1,0 +1,282 @@
+﻿status,KEY,repo_en,new_en,zh
+changed_en,ABILITY_OPENWOUNDS_DESC,"An attack that deals more damage the less health the target unit has.
+[s:.7](based on their health percent)[/s]","A spell that deals more damage the less health the target unit has.
+[s:.7](based on their health percent)[/s]","目标单位生命值越低，
+造成的伤害越高的一次法术。
+[s:.7](基于其生命值百分比)[/s]"
+changed_en,ABILITY_OPENWOUNDS2_DESC,"An attack that deals even more damage the less health the target unit has.
+[s:.7](based on their health percent)[/s]","A spell that deals even more damage the less health the target unit has.
+[s:.7](based on their health percent)[/s]","目标单位生命值越低，
+造成的伤害更高的一次法术。
+[s:.7](基于其生命值百分比)[/s]"
+changed_en,ABILITY_CLEANSE_DESC,Remove all debuffs from units in an area.,Remove all debuffs from a unit.,"移除一个单位的
+所有减益效果。"
+changed_en,ABILITY_CLEANSE2_DESC,Remove all debuffs from units in an area. Those units get +1 [img:divineshield] for each debuff removed.,Remove all debuffs from units in an area.,"移除区域内单位的
+所有减益效果。"
+changed_en,ABILITY_FISTOFFATE2_DESC,"Teleport next to a random enemy, then switch to melee stance and automatically attack it. This has a chance to repeat multiple times.","Teleport next to a random enemy, then switch to melee stance and automatically attack it. This has a chance to repeat multiple times on different targets.","传送至随机敌人身旁，
+切换至近战架势并自动攻击它。
+这有几率对不同目标重复多次。"
+changed_en,ABILITY_BLIZZARD_DESC,Deal ice damage in a wide line with Knockback 1 that inflicts Slow and has a 15% chance to freeze.,Deal ice damage in a wide line with Knockback 1 that inflicts Freeze.,"在宽直线范围内
+造成冰霜伤害，
+造成击退 1，并施加冻结。"
+changed_en,ABILITY_BLIZZARD2_DESC,Deal more ice damage in a wide line with Knockback 10 that inflicts Slow and has a 25% chance to freeze.,Deal more ice damage in a wide line with Knockback 10 that inflicts Freeze.,"在宽直线范围内
+造成更高冰霜伤害，
+造成击退 10，并施加冻结。"
+changed_en,ABILITY_INFERNO_DESC,Deal fire damage and inflict Burn 3 to all units in a large circle around you.,Deal fire damage and inflict Burn 8 to all units in a large circle around you.,"对你周围大圆范围内的
+所有单位造成火焰伤害
+并施加 8 层燃烧。"
+changed_en,ABILITY_INFERNO2_DESC,Deal more fire damage and inflict Burn 5 to all units in a large circle around you.,Deal more fire damage and inflict Burn 10 to all units in a large circle around you.,"对你周围大圆范围内的
+所有单位造成更高火焰伤害
+并施加 10 层燃烧。"
+changed_en,ABILITY_THUNDERBURST_DESC,Shoot lightning bolts in eight directions with a 15% chance to Stun.,Shoot lightning bolts in eight directions with a 50% chance to Stun.,"向八个方向发射闪电，
+有 50% 几率造成晕眩。"
+changed_en,ABILITY_THUNDERBURST2_DESC,Shoot stronger lightning bolts in eight directions with a 25% chance to Stun.,Shoot stronger lightning bolts in eight directions with a 100% chance to Stun.,"向八个方向发射更强的闪电，
+有 100% 几率造成晕眩。"
+changed_en,ABILITY_FORBIDDENFLAME_DESC,"Damage all enemies and burn the entire map. There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","Damage and inflict Burn 7 on all enemies and light the map on fire. There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","伤害并对所有敌人施加 7 层燃烧，同时点燃整张地图。
+施放此法术将会有永久性后果…
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,ABILITY_FORBIDDENFLAME2_DESC,"Heavily damage all enemies and burn the entire map. There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","Heavily damage and inflict Burn 10 on all enemies and light the map on fire. There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","重创并对所有敌人施加 10 层燃烧，同时点燃整张地图。
+施放此法术将会有永久性后果…
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,ABILITY_FORBIDDENFROST_DESC,"Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
+Deal 5 Damage to enemies and heal each ally 5 HP.
+There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
+Deal 10 Damage to enemies and heal each ally 10 HP.
+There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","对除你自己和另一个选定单位
+以外的每个单位施加冻结 2。
+对敌人造成 10 点伤害，
+并治疗每个盟友 10 点生命值。
+施放此法术将会有永久性后果…
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,ABILITY_FORBIDDENFROST2_DESC,"Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
+Deal 10 Damage to enemies and fully heal each ally.
+There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","Apply Freeze 2 to each unit except for yourself and 1 other chosen unit.
+Deal 15 Damage to enemies and fully heal each ally.
+There will be permanent consequences for casting this spell…
+[s:.7](Castable once per battle.)[/s]","对除你自己和另一个选定单位
+以外的每个单位施加冻结 2。
+对敌人造成 15 点伤害，
+并完全治疗每个盟友。
+施放此法术将会有永久性后果…
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,ABILITY_ASSBLAST_DESC,Knock back units in an area near you 2 tiles.,Knock back units in an area near you 4 tiles.,"将你附近某个区域内
+的单位击退 4 格。"
+changed_en,ABILITY_POISONGAS_DESC,Inflict Poison 1 on all units adjacent to you.,Inflict Poison 2 on all units adjacent to you.,对所有相邻单位施加 2 层中毒。
+changed_en,ABILITY_POISONGAS2_DESC,Inflict Poison 2 on all units adjacent to you (even diagonally).,Inflict Poison 4 on all units adjacent to you (even diagonally).,"对所有相邻单位（包括对角线）
+施加 4 层中毒。"
+changed_en,ABILITY_CALTROPS_DESC,"Move up to 3 tiles, spreading glass shards on the tiles you walk through.","Move up to 4 tiles, spreading glass shards on the tiles you walk through.","移动最多 4 格，
+在经过的地块上撒布玻璃碎片。"
+changed_en,ABILITY_CALTROPS2_DESC,"Move up to 5 tiles, spreading glass shards on the tiles you walk through.","Move up to 10 tiles, spreading glass shards on the tiles you walk through.","移动最多 10 格，
+在经过的地块上撒布玻璃碎片。"
+changed_en,ABILITY_HEAVYSHOT_DESC,Shoot a high damage shot with a 70% chance to miss.,Shoot a high damage shot with a 50% chance to miss.,"进行一次高伤害射击，
+有 50% 几率未命中。"
+changed_en,ABILITY_HEAVYSHOT2_DESC,"Shoot a high damage shot with a 70% chance to miss and a 50% chance to crit.
+[s:.7](This spell has increased range.)[/s]","Shoot a high damage shot with a 50% chance to miss and a 50% chance to crit.
+[s:.7](This spell has increased range.)[/s]","进行一次高伤害射击，
+有 50% 几率未命中，
+50% 几率暴击。
+[s:.7](此法术射程增加。)[/s]"
+changed_en,ABILITY_MATH_DESC,Deal 1 damage to a unit for each unique divisor in its current HP value.,"Deal 1 damage to a unit for each unique divisor in its current HP value. If its HP was a prime number, stun it.","单位的当前生命值
+每有一个唯一因数，
+就对其造成 1 点伤害。
+如果其生命值是质数，就晕眩它。"
+changed_en,ABILITY_MATH2_DESC,"Deal 1 damage to a unit for each unique divisor in its current HP value. If its HP was a prime number, gain 5 mana.","Deal 1 damage to a unit for each unique divisor in its current HP value. If its HP was a prime number, stun it and gain +1 Tech.","单位的当前生命值
+每有一个唯一因数，
+就对其造成 1 点伤害。
+如果其生命值是质数，
+就晕眩它并获得 +1 科技。"
+changed_en,ABILITY_FLESHGOLEM_DESC,"You and all allies lose 10 HP. Summon a flesh golem with one random spell from each of those units.
+[s:.7](Castable once per battle.)[/s]","You and all allies lose 7 HP. Summon a flesh golem with one random spell from each of those units.
+[s:.7](Castable once per battle.)[/s]","你和所有盟友失去 7 点生命值。
+召唤一个血肉魔像，
+它拥有来自这些单位各一个随机法术。
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,ABILITY_FLESHGOLEM2_DESC,"You and all allies lose 10 HP. Summon a flesh golem with one random spell and random passives from each of those units.
+[s:.7](Castable once per battle.)[/s]","You and all allies lose 7 HP. Summon a flesh golem with one random spell and random passives from each of those units.
+[s:.7](Castable once per battle.)[/s]","你和所有盟友失去 7 点生命值。
+召唤一个血肉魔像，
+它拥有来自这些单位
+各一个随机法术和随机被动。
+[s:.7]（每场战斗限施放一次。）[/s]"
+changed_en,EVENT_BROKENCANISTER_REW6,"{catname} tastes the liquid... it is delicious!
+
+{He} gobbles it up as {his} body mutates!","{catname} tastes the liquid... it is delicious!
+
+{He} gobbles it up as {his} body mutates!","{catname} 尝了尝这种液体……真好喝！
+
+{He}在大口吞咽的同时，身体也发生了突变！
+"
+changed_en,ITEM_ROBOTICARM_DESC,Use: A melee attack with a chance to repeat. Gains 1 damage for the rest of the battle each time it's used.,Use: A melee attack with a chance to repeat. Gains 1 damage for the rest of the battle each time it's used. Refreshes when affected by Electric element.,"使用：有几率重复的近战攻击。
+每次使用后，
+在本场战斗剩余时间内获得 1 点伤害。
+当受到电击元素影响时刷新。"
+changed_en,ARMOR_MALARIA_DESC,"At the end of each battle, all of your stats are permanently reduced by 1.
+Spawn 2 Charmed Fly Swarms when you're downed.
+If your [img:con] is 0 or less, start each battle downed.","At the end of each battle, all your [img:con] is permanently reduced by 1.
+Spawn 2 Charmed Fly Swarms when you're downed.
+If your [img:con] is 0 or less, start each battle downed.","每场战斗结束时，
+你的 [img:con] 降低 1 点。
+当你倒地时，生成 2 群魅惑蝇群。
+如果你的 [img:con] 为 0 或更低，
+每场战斗开始时处于倒地状态。"
+changed_en,ARMOR_NAEGLERIAFOWLERI_DESC,"Brace {aux}.
+Gain -1 [img:int] at the end of each battle, permanently.
+This gains +2 [img:shield] and +1 Brace at the end of each battle. 
+If your [img:int] is 0 or less, start each battle downed.","Brace {aux}.
+Gain -1 [img:int] at the end of each battle, permanently.
+This gains +2 [img:shield] and +1 Brace at the end of each battle. 
+If your [img:int] is 0 or less, you are uncontrollable.","护甲 {aux}。
+每场战斗结束时，永久获得 -1 [img:int]。
+此物品在每场战斗结束时获得 
++2 [img:shield] 和 +1 护甲。
+如果你的 [img:int] 为 0 或更低，
+你将无法被操控。"
+changed_en,NPC_TRACY_TRACY_FOODSTORAGE4_7,"[m:happy]If it was me I'd pose as dog of some kind, just kinda lay there and wait.","[m:happy]If it was me I'd pose as a dog of some kind, just kinda lay there and wait.","[m:happy]如果是我的话，我会伪装成某种狗，
+就那样躺在那等着。"
+changed_en,PASSIVE_MERCILESS_DESC,"When you deal 10 or more damage in a single hit, gain +2 [img:shield] and refresh your movement action.","When you deal 10 or more damage in a single hit, gain +2 [img:shield] and refresh your movement action.
+[s:.7](This doesn't trigger during your movement action.)[/s]","当你单次攻击造成 10 点或更多伤害时，
+获得 +2 [img:shield] 并刷新你的移动行动。
+[s:.7](这不会在你的移动行动期间触发。)[/s]"
+changed_en,PASSIVE_MERCILESS2_DESC,"When you deal 10 or more damage in a single hit, gain +2 [img:shield], All Stats Up, and refresh your movement action.","When you deal 10 or more damage in a single hit, gain +2 [img:shield], All Stats Up, and refresh your movement action.
+[s:.7](This doesn't trigger during your movement action.)[/s]","当你单次攻击造成 10 点或更多伤害时，
+获得 +2 [img:shield]、全属性提升，
+并刷新你的移动行动。
+[s:.7](这不会在你的移动行动期间触发。)[/s]"
+changed_en,PASSIVE_HUNTERSBOON_DESC,"When you kill an enemy, gain 5 mana.","The first time you kill a unit each turn, gain 5 mana.","当你首次杀死敌人时，
+获得 5 点法力值。"
+changed_en,PASSIVE_HUNTERSBOON2_DESC,"When you kill an enemy, restore all your mana.","The first time you kill a unit each turn, restore all your mana.","每回合你首次杀死敌人时，
+恢复所有法力值。"
+changed_en,PASSIVE_SURVIVALIST_DESC,"4 healing consumables and a full water bottle are added to your inventory.
+You can use consumables on allies.
+Store +2 food at the end of each battle.","6 healing consumables and a full water bottle are added to your inventory.
+You can use consumables on allies.
+Store +2 food at the end of each battle.","6 个治疗消耗品和一个装满的
+水瓶添加到你的库存中。
+你可以对盟友使用消耗品。
+每场战斗结束时多储存 2 份食物。"
+changed_en,PASSIVE_EMP_DESC,"Your explosions are Electric element and deal +1 damage.
+Instead of knockback, explosions have a chance to inflict Stun.","Your explosions are Electric element and deal +2 damage.
+Instead of knockback, explosions have a chance to inflict Stun.
++2 Blast Resistance.","你的爆炸变为电击元素
+并造成 +2 伤害。
+爆炸不再造成击退，
+而是有几率造成晕眩。
++2 爆炸抗性。"
+changed_en,PASSIVE_EMP2_DESC,"Your explosions are Electric element and deal +1 damage.
+Instead of knockback, explosions have a chance to inflict Stun. Your explosions don't affect allies.","Your explosions are Electric element and deal +4 damage.
+Instead of knockback, explosions have a chance to inflict Stun. Your explosions don't affect allies.
++4 Blast Resistance.","你的爆炸变为电击元素
+并造成 +4 伤害。
+爆炸不再造成击退，
+而是有几率造成晕眩。
+你的爆炸不会波及友军。
++4 爆炸抗性。"
+changed_en,PASSIVE_MRMEGA_DESC,Your explosions are larger and deal +1 damage.,"Your explosions are larger and deal +3 damage.
++3 Blast Resistance.","你的爆炸范围更大
+并造成 +3 伤害。
++3 爆炸抗性。"
+changed_en,PASSIVE_MRMEGA2_DESC,"Your explosions are larger and deal +2 damage.
+You have explosion immunity.","Your explosions are larger and deal +6 damage.
+You have explosion immunity.","你的爆炸范围更大
+并造成 +6 伤害。
+你拥有爆炸免疫。"
+changed_en,PASSIVE_LIGHTNINGROD_DESC,"You have Electric immunity.
+Electric damage you deal is increased by 1. Gain 1 charge when you are hit with electric damage.","You have Electric immunity and are conductive.
+Electric damage you deal is increased by 1. Gain 1 Tech when you are hit with electric damage.","你拥有电击免疫。
+你造成的电击伤害增加 1 点。
+当你受到电击伤害时，
+获得 1 点科技。"
+changed_en,PASSIVE_LIGHTNINGROD2_DESC,"You have Electric immunity.
+Electric damage you deal is increased by 2. Gain 1 charge for each damage prevented when you are hit with electric damage.","You have Electric immunity and are conductive.
+Electric damage you deal is increased by 2. Gain 1 Tech and become Energized when you are hit with electric damage.","你拥有电击免疫。
+你造成的电击伤害增加 2 点。
+当你受到电击伤害时，
+变得精力充沛
+并获得 1 点科技。"
+changed_en,PASSIVE_DEMOMAN_DESC,Always craft a bomb at Tech 1 or less.,"Always craft a bomb at Tech 1 or less.
++2 Blast Resistance.","在科技等级 1 或以下时，
+总是制作炸弹。
+你获得 +2 爆炸抗性。"
+changed_en,PASSIVE_DEMOMAN2_DESC,Always craft a bomb at Tech 1 or less. You can use your basic action an additional time on each of your turns.,"Always craft a bomb at Tech 1 or less. You can use your basic action an additional time on each of your turns.
++3 Blast Resistance.","在科技等级 1 或以下时，
+总是制作炸弹。
+你每回合可以额外使用一次基础行动。
+你获得 +3 爆炸抗性。"
+changed_en,PASSIVE_CONDUCTOR_DESC,Electric damage you deal is increased by 2 for each piece of metal armor you have equipped.,"Electric damage you deal is increased by 2 for each piece of metal armor you have equipped.
+If you are wearing metal, your weapon deals electric damage.","你装备的每件金属护甲使你造成的
+电击伤害增加 2 点。
+如果你穿着金属装备，你的武器造成电击伤害。"
+changed_en,PASSIVE_CONDUCTOR2_DESC,Electric damage you deal is increased by 2 for each piece of metal armor you have equipped. You have +2 Mana Regeneration for each piece of metal armor.,"Electric damage you deal is increased by 2 for each piece of metal armor you have equipped. You have +2 Mana Regeneration for each piece of metal armor.
+If you are wearing metal, your weapon deals electric damage.","你装备的每件金属护甲使你造成的
+电击伤害增加 2 点。
+你装备的
+每件金属护甲使你拥有 +2 法力恢复。
+如果你穿着金属装备，你的武器造成电击伤害。"
+changed_en,PASSIVE_NAPALM_DESC,Your explosions inflict Burn 1 and light tiles on fire.,"Your explosions inflict Burn 3 and light tiles on fire.
++2 Blast Resistance.","你的爆炸造成 3 层燃烧
+并点燃地块。
++2 爆炸抗性。"
+changed_en,PASSIVE_NAPALM2_DESC,Your explosions inflict Burn 3 and light tiles on fire.,"Your explosions inflict Burn 6 and light tiles on fire.
++3 Blast Resistance.","你的爆炸造成 6 层燃烧
+并点燃地块。
++3 爆炸抗性。"
+changed_en,PASSIVE_BURNINGPAWS_DESC,Your basic action inflicts Burn 1.,Your basic action inflicts Burn 2.,你的基础行动施加 2 层燃烧。
+changed_en,PASSIVE_BURNINGPAWS2_DESC,Your basic action inflicts Burn 3.,Your basic action inflicts Burn 5.,你的基础行动施加 5 层燃烧。
+changed_en,PASSIVE_LIGHTNINGPAWS_DESC,Your basic attack deals +1 Electric Damage and has a 10% chance to Stun.,Your basic attack deals +2 Electric Damage and has a 15% chance to Stun.,"你的基础攻击造成 +2 电击伤害，
+并有 10% 的几率造成晕眩。"
+changed_en,PASSIVE_LIGHTNINGPAWS2_DESC,Your basic attack deals +2 Electric Damage and has a 33% chance to Stun.,Your basic attack deals +4 Electric Damage and has a 40% chance to Stun.,"你的基础攻击造成 +4 电击伤害，
+并有 40% 的几率造成晕眩。"
+changed_en,PASSIVE_ICEPAWS_DESC,"Your basic attack deals Ice Damage, inflicts Slow 1, and has a 15% chance to Freeze.","Your basic attack deals Ice Damage, inflicts Slow 2, and has a 20% chance to Freeze. You can damage frozen units.","你的基础攻击造成冰霜伤害，
+施加 2 层减速，
+并有 20% 的几率造成冻结。"
+changed_en,PASSIVE_ICEPAWS2_DESC,"Your basic attack deals Ice Damage, inflicts Slow 2, and has a 50% chance to Freeze.","Your basic attack deals Ice Damage, inflicts Slow 5, and has a 50% chance to Freeze. You can damage frozen units.","你的基础攻击造成冰霜伤害，
+施加 5 层减速，
+并有 50% 的几率造成冻结。"
+changed_en,PASSIVE_OVERLOAD_DESC,"When you cast a spell, deal 1 random elemental damage to adjacent tiles.","When you cast a spell, deal 3 random elemental damage to adjacent tiles.","当你施放法术时，
+对相邻地块造成 3 点随机元素伤害。"
+changed_en,PASSIVE_OVERLOAD2_DESC,"When you cast a spell, deal 2 tri-elemental damage to adjacent tiles.","When you cast a spell, deal 6 tri-elemental damage to adjacent tiles.","当你施放法术时，
+对相邻地块造成 6 点三元素伤害。"
+changed_en,PASSIVE_LONGCAST_DESC,Tile-targeted spells gain +3 Range.,Tile-targeted spells gain +5 Range.,地块目标法术获得 +5 射程。
+changed_en,PASSIVE_LONGCAST2_DESC,+1 Magic Damage. Tile-targeted spells gain +5 Range.,+2 Magic Damage. Tile-targeted spells gain +10 Range.,"+2 魔法伤害。
+地块目标法术获得 +10 射程。"
+changed_en,PASSIVE_LIGHTUPTHESTAGE_DESC,"At the end of your turn, Emit a Sparkle for each turn you've taken.","At the end of your turn, emit 2 Sparkles for each turn you've taken.","在你的回合结束时，
+每经过一个你的回合，
+发射两个火花。"
+changed_en,PASSIVE_LIGHTUPTHESTAGE2_DESC,"At the end of your turn, emit a Sparkle for each turn you've taken and gain +1 Kinetic Spikes . ","At the end of your turn, emit 4 Sparkles for each turn you've taken and gain +1 Kinetic Spikes . ","在你的回合结束时，
+每经过一个你的回合，
+发射四个火花，
+并获得 +1 动能尖刺。"
+changed_en,PASSIVE_FIVE_DESC,"When you end your turn with exactly 5 mana, gain +5 [img:shield] and temporarily gain +5 Kinetic Spikes until the end of your next turn . ","When you end your turn with exactly 5 mana or HP, gain +5 [img:shield] and temporarily gain +5 Kinetic Spikes until the end of your next turn . ","当你以刚好 5 点法力或生命值结束回合时，
+获得 +5 [img:shield] 
+并临时获得 +5 动能尖刺，
+持续直到你的下回合结束。"
+changed_en,PASSIVE_FIVE2_DESC,"When you end your turn with exactly 5 mana, gain +5 [img:shield], heal 5 HP and temporarily gain +5 Kinetic Spikes and +5 Damage until the end of your next turn. ","When you end your turn with exactly 5 mana or HP, gain +5 [img:shield], heal 5 HP and temporarily gain +5 Kinetic Spikes and +5 Damage until the end of your next turn. ","当你以刚好 5 点法力或生命值结束回合时，
+获得 +5 [img:shield]，治疗 5 点生命值，
+并临时获得 +5 动能尖刺和 +5 伤害，
+持续直到你的下回合结束。"
+changed_en,PASSIVE_FOUR_DESC,"When you end your turn, if you have exactly 4 mana, gain +1 [img:int] and +1 Magic Damage.","When you end your turn with exactly 4 mana or HP, gain +1 [img:int] and +1 Magic Damage.","当你结束回合时，
+如果你刚好有 4 点法力或生命值，
+获得 +1 [img:int] 和 +1 魔法伤害。"
+changed_en,PASSIVE_FOUR2_DESC,"When you end your turn, if you have exactly 4 mana, gain +1 [img:int], +1 Magic Damage, +1 Kinetic Spikes, and +1 Holy Shield.","When you end your turn with exactly 4 mana or HP, gain +1 [img:int], +1 Magic Damage, +1 Kinetic Spikes, and +1 Holy Shield.","当你结束回合时，
+如果你刚好有 4 点法力或生命值，
+获得 +1 [img:int]、+1 魔法伤害、
++1 动能尖刺和 +1 圣盾。"
+changed_en,DISORDER_SCHRODINGERDISORDER_DESC,"50% chance to start each battle dead, or alive with max hp and all stats up.","50% chance to start each battle dead, or alive with max hp and All Stats Up 2 and an extra turn at the start of the battle.","在每次战斗开始时，
+有 50% 的几率死亡，
+或者以最大生命值和
+2 全属性提升状态存活。
+在战斗开始时获得一个额外回合。"
+changed_en,ENEMY_HALFRAT_DESC,Does a chaining dash attack.,Does a chaining dash attack with a chance to spread diseases.,进行有几率扩散疾病的连锁冲刺攻击。
+changed_en,WEATHER_INFESTATION_DESC,All non-tiny units explode into maggots or flies when they die.,All non-tiny units explode into a charmed maggot when they die.,所有非微型单位死亡时会爆炸生成魅惑蛆虫。
+new_key,KEYWORD_BLASTRESISTANCE_NAME,,Blast Resistance,爆炸抗性
+new_key,KEYWORD_BLASTRESISTANCE_DESC,,Takes {stacks} less damage from explosions.,从爆炸中受到的伤害减少 {stacks} 点。
+new_key,KEYWORD_BLASTRESISTANCE_DESC_STACKLESS,,Reduces damage taken from explosions.,减少从爆炸中受到的伤害。
+new_key,ABC_SORT_ORDER_LOCALE,,en_US.UTF-8,
+new_key,FAMILIAR_RIFTKITTEN_DESC,,Thank you for releasing me!,谢谢你把我放出来！
