@@ -1535,7 +1535,7 @@ ABILITY_HEALINGSALVE2_DESC,You or an adjacent unit gains +2 Health Regeneration.
 ABILITY_HEATHENS_NAME,Heathens!,,¡Paganos!,Sauvage&nbsp;!,Heiden!,Miserabili!,Paganismo!,,,,异教徒！
 //monk,,,,,,,,,,,
 ABILITY_WAYOFTHEHARE_NAME,Way of the Hare,,Senda de la liebre,Voie du lièvre,Der Weg des Hasen,Percorso della Lepre,Caminho da Lebre,,,,野兔之道
-ABILITY_WAYOFTHEHARE_DESC,"For the rest of the battle, you can move an extra time each turn.",,"Durante el resto del combate, puedes moverte otra vez cada turno.","Pour le reste du combat, vous obtenez une action de déplacement bonus à chaque tour.",Für den Rest des Kampfes kannst du dich in jedem Zug ein zusätzliches Mal bewegen.,"Per il resto della battaglia, puoi effettuare un movimento aggiuntivo ogni turno.","Pelo resto da batalha, você pode se mover uma vez adicional a cada turno.",,,,"在战斗余下的时间内，
+ABILITY_WAYOFTHEHARE_DESC,"For the rest of the battle, you can move an extra time each turn.",,"Durante el resto del combate, puedes moverte otra vez cada turno.","Pour le reste du combat, vous obtenez une action de déplacement bonus à chaque tour.",Für den Rest des Kampfes kannst du dich in jedem Zug ein zusätzliches Mal bewegen.,"Per il resto della battaglia, puoi effettuare un movimento aggiuntivo ogni turno.","Pelo resto da batalha, você pode se mover uma vez adicional a cada turno.",,,,"在本场战斗中，
 你每回合可以额外移动一次。"
 ABILITY_WAYOFTHEHARE2_DESC,"For the rest of the battle, you can move an extra time each turn.
 [s:.7](This spell costs less.)[/s]",,"Durante el resto del combate, puedes moverte otra vez cada turno.
@@ -1543,7 +1543,7 @@ ABILITY_WAYOFTHEHARE2_DESC,"For the rest of the battle, you can move an extra ti
 [s:.7](Coût réduit.)[/s]","Für den Rest des Kampfes kannst du dich in jedem Zug ein zusätzliches Mal bewegen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Per il resto della battaglia, puoi effettuare un movimento aggiuntivo ogni turno.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pelo resto da batalha, você pode se mover uma vez adicional a cada turno.
-[s:.7](Este encantamento custa menos.)[/s]",,,,"在战斗余下的时间内，
+[s:.7](Este encantamento custa menos.)[/s]",,,,"在本场战斗中，
 你每回合可以额外移动一次。
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_PROPELL_NAME,Propel,,Propulsión,Propulsion,Antrieb,Propulsione,Propulsão,,,,推进
@@ -1698,7 +1698,7 @@ ABILITY_POGO2_DESC,"Jump to a tile. Bounce off any unit you land on, damaging an
 若落在单位上则弹开，
 对其造成伤害并施加淤伤。"
 ABILITY_WAYOFTHEMANTIS_NAME,Way of the Mantis,,Senda de la mantis,Voie de la mante religieuse,Der Weg der Gottesanbeterin,Percorso della Mantide,Caminho do Louva-Deus,,,,螳螂之道
-ABILITY_WAYOFTHEMANTIS_DESC,"For the rest of the battle, you can attack an extra time each turn.",,"Durante el resto del combate, puedes atacar otra vez cada turno.","Pour le reste du combat, attaquez une fois de plus chaque tour.",Für den Rest des Kampfes kannst du in jedem Zug ein zusätzliches Mal angreifen.,Puoi attaccare una volta in più in ogni turno per il resto della battaglia.,"Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.",,,,"在剩余战斗中，
+ABILITY_WAYOFTHEMANTIS_DESC,"For the rest of the battle, you can attack an extra time each turn.",,"Durante el resto del combate, puedes atacar otra vez cada turno.","Pour le reste du combat, attaquez une fois de plus chaque tour.",Für den Rest des Kampfes kannst du in jedem Zug ein zusätzliches Mal angreifen.,Puoi attaccare una volta in più in ogni turno per il resto della battaglia.,"Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.",,,,"在本场战斗中，
 你每回合可以额外攻击一次。"
 ABILITY_WAYOFTHEMANTIS2_DESC,"For the rest of the battle, you can attack an extra time each turn.
 [s:.7](This spell costs less.)[/s]",,"Durante el resto del combate, puedes atacar otra vez cada turno.
@@ -1706,7 +1706,7 @@ ABILITY_WAYOFTHEMANTIS2_DESC,"For the rest of the battle, you can attack an extr
 [s:.7](Coût réduit.)[/s]","Für den Rest des Kampfes kannst du in jedem Zug ein zusätzliches Mal angreifen.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Puoi attaccare una volta in più ogni turno per il resto della battaglia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.
-[s:.7](Este encantamento custa menos.)[/s]",,,,"在剩余战斗中，
+[s:.7](Este encantamento custa menos.)[/s]",,,,"在本场战斗中，
 你每回合可以额外攻击一次。
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_PORCUPINE_NAME,Porcupine,,Puercoespín,Porc-épic,Stachelschwein,Porcospino,Porco Espinho,,,,豪猪
@@ -1747,7 +1747,7 @@ ABILITY_HOPNBLOCK2_DESC,"Jump to any tile, then gain +2 [img:shield] for each en
 与你落地的地块相邻，
 便获得 +2 [img:shield]。"
 ABILITY_WAYOFTHEOWL_NAME,Way of the Owl,,Senda del búho,Voie de la chouette,Der Weg der Eule,Percorso del Gufo,Caminho da Coruja,,,,猫头鹰之道
-ABILITY_WAYOFTHEOWL_DESC,"For the rest of the battle, the first spell you cast each turn is cast twice.",,"Durante el resto del combate, se duplica el primer hechizo que se lance cada turno.","Pour le reste du combat, le premier sort que vous lancez à chaque tour se lance deux fois.","Für den Rest des Kampfes wird der erste Zauber, den du in einem Zug wirkst, zweimal gewirkt.",Il primo incantesimo che lanci in ogni turno viene lanciato due volte per il resto della battaglia.,"Pelo resto da batalha, o primeiro encantamento que você lança em cada turno é lançado duas vezes.",,,,"在剩余战斗中，
+ABILITY_WAYOFTHEOWL_DESC,"For the rest of the battle, the first spell you cast each turn is cast twice.",,"Durante el resto del combate, se duplica el primer hechizo que se lance cada turno.","Pour le reste du combat, le premier sort que vous lancez à chaque tour se lance deux fois.","Für den Rest des Kampfes wird der erste Zauber, den du in einem Zug wirkst, zweimal gewirkt.",Il primo incantesimo che lanci in ogni turno viene lanciato due volte per il resto della battaglia.,"Pelo resto da batalha, o primeiro encantamento que você lança em cada turno é lançado duas vezes.",,,,"在本场战斗中，
 你每回合施放的
 第一个法术会施放两次。"
 ABILITY_WAYOFTHEOWL2_DESC,"For the rest of the battle, the first spell you cast each turn is cast twice.
@@ -1756,7 +1756,7 @@ ABILITY_WAYOFTHEOWL2_DESC,"For the rest of the battle, the first spell you cast 
 [s:.7](Coût réduit.)[/s]","Für den Rest des Kampfes wird der erste Zauber, den du in einem Zug wirkst, zweimal gewirkt.
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Il primo incantesimo che lanci in ogni turno viene lanciato due volte per il resto della battaglia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Pelo resto da batalha, o primeiro encantamento que você lança em cada turno é lançado duas vezes.
-[s:.7](Este encantamento custa menos.)[/s]",,,,"在剩余战斗中，
+[s:.7](Este encantamento custa menos.)[/s]",,,,"在本场战斗中，
 你每回合施放的
 第一个法术会施放两次。
 [s:.7](此法术消耗更低。)[/s]"
@@ -2072,7 +2072,7 @@ For the rest of the battle, whenever you kill an enemy, take an extra turn.",,"N
  Durante el resto del combate, cuando esta unidad mata a un enemigo, juega un turno extra.","Vous ne pouvez plus lancer de sorts jusqu'à la fin du combat. Pour le reste du combat, quand vous tuez un ennemi, jouez un tour supplémentaire.","Für den Rest des Kampfes kannst du keine Zauber wirken.
 Für den Rest des Kampfes erhältst du jedes Mal einen zusätzlichen Zug, wenn du einen Gegner tötest.","Non puoi lanciare incantesimi per il resto della battaglia.
 Per il resto della battaglia, ogni volta che uccidi un nemico, ottieni un turno aggiuntivo.","Você não pode lançar encantamentos pelo resto da batalha.
-Pelo resto da batalha, sempre que você matar um inimigo, obtenha um turno adicional.",,,,"你在本场战斗的剩余时间内
+Pelo resto da batalha, sempre que você matar um inimigo, obtenha um turno adicional.",,,,"你在本场战斗中
 无法施放法术。
 在本场战斗的剩余时间内，
 每当你击杀一名敌人，
@@ -2087,7 +2087,7 @@ Erhalte einen zusätzlichen Zug, wenn du diesen Zauber wirkst.","Non puoi lancia
 Per il resto della battaglia, ogni volta che uccidi un nemico, ottieni un turno aggiuntivo.
 Ottieni un turno aggiuntivo quando la lanci.","Você não pode lançar encantamentos pelo resto da batalha.
 Pelo resto da batalha, sempre que você matar um inimigo, obtenha um turno adicional.
-Obtenha um turno adicional ao lançar isto.",,,,"你在本场战斗的剩余时间内
+Obtenha um turno adicional ao lançar isto.",,,,"你在本场战斗中
 无法施放法术。
 在本场战斗的剩余时间内，
 每当你击杀一名敌人，
@@ -2517,7 +2517,7 @@ ABILITY_DIVIDE_DESC,"Lose Damage equal to half of your basic attack's damage, ro
 [s:.7](Non può essere lanciato se il danno del tuo attacco base è pari o inferiore a 1.)[/s]","Perca dano equivalente à metade do dano do seu ataque básico, arredondado para cima. Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.
 [s:.7](Impossível lançar se o dano do seu ataque básico for igual ou menor a 1.)[/s]",,,,"失去等于你基础攻击
 伤害一半的伤害（向上取整）。
-在战斗剩余时间内，
+在本场战斗中，
 你每回合可以额外攻击一次。
 [s:.7]（如果你的基础攻击伤害为 
 1 或更低，则无法施放。）[/s]"
@@ -2529,7 +2529,7 @@ ABILITY_DIVIDE2_DESC,"Lose Damage equal to 1/3rd of your basic attack's damage, 
 [s:.7](Non può essere lanciato se il danno del tuo attacco base è pari o inferiore a 1.)[/s]","Perca dano equivalente à um terço do dano do seu ataque básico, arredondado para cima. Pelo resto da batalha, você pode atacar uma vez adicional a cada turno.
 [s:.7](Impossível lançar se o dano do seu ataque básico for igual ou menor a 1.)[/s]",,,,"失去等于你基础攻击伤害 
 1/3 的伤害（向上取整）。
-在战斗剩余时间内，
+在本场战斗中，
 你每回合可以额外攻击一次。
 [s:.7]（如果你的基础攻击伤害为 
 1 或更低，则无法施放。）[/s]"
@@ -3513,10 +3513,10 @@ ABILITY_TRACK_NAME,Track,,Rastreo,Idéfix,Verfolgen,Traccia,Rastrear,,,,追踪
 ABILITY_TRACK_DESC,Trample one tile toward the nearest food pickup.,,Pisotea 1 casilla hacia el recogible de comida más cercano.,Piétinement sur 1&nbsp;case vers la case de nourriture la plus proche.,Trampel ein Feld in die Richtung des nächsten Essensgegenstands.,Calpesti una casella verso il raccoglibile cibo più vicino.,Atropele por um espaço na direção do coletável de comida mais próximo.,,,,向最近的食物掉落物践踏一格。
 ABILITY_TRACK2_DESC,Trample two tiles toward the nearest food pickup.,,Pisotea 2 casillas hacia el recogible de comida más cercano.,Piétinement sur 2&nbsp;cases vers la case de nourriture la plus proche.,Trampel zwei Felder in die Richtung des nächsten Essensgegenstands.,Calpesti due caselle verso il raccoglibile cibo più vicino.,Atropele por dois espaços na direção do coletável de comida mais próximo.,,,,向最近的食物掉落物践踏两格。
 ABILITY_SHARPEN_NAME,Sharpen,,Afilador,Aiguisage,Schärfen,Affilatura,Afiar,,,,磨砺
-ABILITY_SHARPEN_DESC,Your weapon gains +1 damage for the rest of the battle.,,El arma obtiene +1 de daño durante el resto del combate.,Vos armes gagnent Dégâts&nbsp;+1&nbsp;pendant le reste du combat.,Deine Waffe erhält für den Rest des Kampfes +1&nbsp;Schaden.,La tua arma ottiene +1 di danno per il resto della battaglia.,Sua arma obtém +1 de dano pelo resto da batalha.,,,,"你的武器在剩余战斗中
-获得 +1 伤害。"
-ABILITY_SHARPEN2_DESC,Your weapon gains +1 damage for the rest of the battle and you gain +1 Damage.,,El arma obtiene +1 de daño durante el resto del combate y esta unidad obtiene +1 de daño.,Vos armes gagnent Dégâts&nbsp;+1&nbsp;pendant le reste du combat. Dégâts&nbsp;+1&nbsp;pour vous.,Deine Waffe erhält für den Rest des Kampfes +1&nbsp;Schaden. Du erhältst +1&nbsp;Schaden.,La tua arma ottiene +1 di danno per il resto della battaglia e tu ottieni +1 al Danno.,Sua arma obtém +1 de dano pelo resto da batalha e você obtém +1 de dano.,,,,"你的武器在剩余战斗中
-获得 +1 伤害，
+ABILITY_SHARPEN_DESC,Your weapon gains +1 damage for the rest of the battle.,,El arma obtiene +1 de daño durante el resto del combate.,Vos armes gagnent Dégâts&nbsp;+1&nbsp;pendant le reste du combat.,Deine Waffe erhält für den Rest des Kampfes +1&nbsp;Schaden.,La tua arma ottiene +1 di danno per il resto della battaglia.,Sua arma obtém +1 de dano pelo resto da batalha.,,,,"你的武器获得 +1 伤害，
+持续到战斗结束。"
+ABILITY_SHARPEN2_DESC,Your weapon gains +1 damage for the rest of the battle and you gain +1 Damage.,,El arma obtiene +1 de daño durante el resto del combate y esta unidad obtiene +1 de daño.,Vos armes gagnent Dégâts&nbsp;+1&nbsp;pendant le reste du combat. Dégâts&nbsp;+1&nbsp;pour vous.,Deine Waffe erhält für den Rest des Kampfes +1&nbsp;Schaden. Du erhältst +1&nbsp;Schaden.,La tua arma ottiene +1 di danno per il resto della battaglia e tu ottieni +1 al Danno.,Sua arma obtém +1 de dano pelo resto da batalha e você obtém +1 de dano.,,,,"你的武器获得 +1 伤害，
+持续到战斗结束。
 并且你获得 +1 伤害。"
 ABILITY_FIREFART_NAME,Fire Fart,,Pedo de fuego,Pet de feu,Feuerfurz,Scoreggia di Fuoco,Pum Quentinho,,,,火焰屁
 ABILITY_FIREFART_DESC,Inflict Poison 2 and Burn 2 on a unit in melee range.,,Inflige 2 de veneno y 2 de quemadura a una unidad en un alcance cuerpo a cuerpo.,Vous infligez Poison&nbsp;+2&nbsp;et Brûlure&nbsp;+2&nbsp;à une unité au corps-à-corps.,Verursache Gift&nbsp;2 und Verbrennung&nbsp;2 bei einer Einheit in Nahkampfreichweite.,Infliggi Veleno 2 e Bruciatura 2 a un'unità in mischia.,Aplique veneno 2 e queimadura 2 em uma unidade dentro do seu alcance corpo-a-corpo.,,,,"对近战范围内的一个单位
@@ -3555,12 +3555,12 @@ ABILITY_REHOOK2_DESC,Refresh your weapon and movement action.,,Restaura las acci
 ABILITY_CONTAMINATE_NAME,Contaminate,,Contaminación,Contamination,Kontaminieren,Contaminazione,Contaminar,,,,污染
 ABILITY_CONTAMINATE_DESC,"Collect an adjacent pickup. Instead of that pickup's normal effects, add Poison 1 to your weapon for the rest of the battle.",,"Recolecta un recogible adyacente. En vez de los efectos normales de ese recogible, añade 1 de veneno al arma durante el resto del combate.","Vous récupérez une ressource adjacente. Au lieu d'obtenir les effets habituels, Poison&nbsp;+1&nbsp;à votre arme pendant le reste du combat.",Sammle einen benachbarten Gegenstand ein. Statt seiner ursprünglichen Effekte verleihst du deiner Waffe für den Rest des Kampfes Gift&nbsp;1.,"Prendi un raccoglibile adiacente. Invece dei normali effetti di quel raccoglibile, aggiungi Veleno 1 alla tua arma per il resto della battaglia.","Pegue um coletável adjacente. Ao invés de receber os efeitos normais do coletável, adicione veneno 1 à sua arma pelo resto da batalha.",,,,"收集一个相邻的掉落物。
 代替该掉落物的正常效果，
-在战斗剩余时间内为
-你的武器附加 1 层中毒。"
+为你的武器附加 1 层中毒
+持续到战斗结束。"
 ABILITY_CONTAMINATE2_DESC,"Collect a pickup in range 5. Instead of that pickup's normal effects, add Poison 1 to your weapon for the rest of the battle.",,"Recolecta un recogible en un alcance de 5 casillas. En vez de los efectos normales de ese recogible, añade 1 de veneno al arma durante el resto del combate.","Vous récupérez une ressource dans un rayon de 5&nbsp;cases. Au lieu d'obtenir les effets habituels, Poison&nbsp;+1&nbsp;à votre arme pendant le reste du combat.",Sammle einen Gegenstand innerhalb von 5&nbsp;Feldern ein. Statt seiner ursprünglichen Effekte verleihst du deiner Waffe für den Rest des Kampfes Gift&nbsp;1.,"Prendi un raccoglibile in un raggio d'azione 5. Invece dei normali effetti di quel raccoglibile, aggiungi Veleno 1 alla tua arma per il resto della battaglia.","Pegue um coletável em alcance 5. Ao invés de receber os efeitos normais do coletável, adicione veneno 1 à sua arma pelo resto da batalha.",,,,"收集射程 5 内的一个掉落物。
 代替该掉落物的正常效果，
-在战斗剩余时间内为
-你的武器附加 1 层中毒。"
+为你的武器附加 1 层中毒
+持续到战斗结束。"
 ABILITY_LODGEHOOK_NAME,Lodge Hook,,Enganche de garfio,Crochet sanglant,Haken befestigen,Gancio Conficcato,Gancho Permanente,,,,嵌入钩爪
 ABILITY_LODGEHOOK_DESC,"Inflict Bleed 10 on an adjacent unit. You can't use your weapon for the rest of the battle.
 [s:.7](Castable once per battle.)[/s]",,"Inflige 10 de hemorragia a una unidad adyacente. No puede usar el arma durante el resto del combate.
@@ -3570,7 +3570,7 @@ ABILITY_LODGEHOOK_DESC,"Inflict Bleed 10 on an adjacent unit. You can't use your
 [s:.7](Lanciabile una volta per battaglia.)[/s]","Aplique sangramento 10 em uma unidade adjacente. Você não pode mais usar sua arma pelo resto da batalha.
 [s:.7](Um lançamento por batalha.)[/s]",,,,"对一个相邻单位
 造成 10 层流血。
-战斗剩余时间内
+本场战斗中
 你无法使用武器。
 [s:.7](每场战斗限用一次。)[/s]"
 ABILITY_LODGEHOOK2_DESC,"Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adjacent unit. You can't use your weapon for the rest of the battle.
@@ -3582,7 +3582,7 @@ ABILITY_LODGEHOOK2_DESC,"Inflict Bleed 10, Immobilize 2, and Bruise 2 on an adja
 [s:.7](Um lançamento por batalha.)[/s]",,,,"对一个相邻单位
 造成 10 层流血、
 2 层定身和 2 层淤伤。
-战斗剩余时间内
+本场战斗中
 你无法使用武器。
 [s:.7](每场战斗限用一次。)[/s]"
 ABILITY_BUTCHER_NAME,Butcher,,Descuartizamiento,Boucherie,Schlachter,Macellaio,Açougueiro,,,,屠宰
@@ -3677,9 +3677,9 @@ ABILITY_SUGGESTION2_DESC,Cause enemies in a target area within your line of sigh
 各攻击另一个敌人（如果可以）。"
 ABILITY_MINDCONTROL_NAME,Mind Control,,Control mental,Manipulation mentale,Gedankenkontrolle,Controllo Mentale,Controle Mental,,,,精神控制
 ABILITY_MINDCONTROL_DESC,Charm an enemy within your line of sight for the rest of the battle.,,Inflige embrujo a un enemigo en el campo visual de esta unidad durante el resto del combate.,Vous envoûtez un ennemi dans votre ligne de mire pendant le reste du combat.,Verursache für den Rest des Kampfes Charme bei einem Gegner in deiner Sichtlinie.,Affascini un nemico all'interno del tuo campo visivo per il resto della battaglia.,Enfeitice um inimigo dentro do seu campo de visão pelo resto da batalha.,,,,"魅惑你视线内的一个敌人，
-持续至战斗结束。"
+持续到战斗结束。"
 ABILITY_MINDCONTROL2_DESC,Charm an enemy within your line of sight for the rest of the battle. That unit immediately takes an extra turn.,,Inflige embrujo a un enemigo en el campo visual de esta unidad durante el resto del combate. Esa unidad juega un turno extra inmediatamente.,Vous envoûtez un ennemi dans votre ligne de mire pendant le reste du combat. Cette unité joue immédiatement un tour supplémentaire.,Verursache für den Rest des Kampfes Charme bei einem Gegner in deiner Sichtlinie. Diese Einheit führt sofort einen zusätzlichen Zug aus.,Affascini un nemico all'interno del tuo campo visivo per il resto della battaglia. Quell'unità ottiene immediatamente un turno aggiuntivo.,Enfeitice um inimigo dentro do seu campo de visão pelo resto da batalha. Essa unidade obtém um turno adicional imediatamente.,,,,"魅惑你视线内的一个敌人，
-持续至战斗结束。
+持续到战斗结束。
 该单位立即获得一个额外回合。"
 ABILITY_MEGAGRAV_NAME,Mega Grav,,Megagravitación,Méga lancer,Megagravitation,Mega Gravità,Mega Gravidade,,,,超重力
 ABILITY_MEGAGRAV_DESC,Damage and throw each unit near you to random tiles.,,Inflige daño a cada unidad cerca de esta y las lanza a casillas al azar.,Vous infligez des dégâts aux unités à proximité et les lancez sur des cases au hasard.,Verursache bei Einheiten in deiner Nähe Schaden und schleudere sie auf zufällige Felder.,Infliggi danno e lanci ogni unità vicina a te su delle caselle casuali.,Cause dano e jogue qualquer unidade próxima em espaços aleatórios.,,,,"对你附近的每个单位
@@ -3825,12 +3825,12 @@ ABILITY_ORDER2_DESC,Give a unit within your line of sight All Stats Up and force
 ABILITY_TEMPORALSHARDS_NAME,Temporal Shards,,Fragmentos temporales,Éclats temporaires,Zeitsplitter,Frammenti Temporali,Fragmentos Temporais,,,,时间碎片
 ABILITY_TEMPORALSHARDS_DESC,Give a unit within your line of sight +3 temporary Bleed Thorns until the end of its turn.,,Otorga a una unidad en su campo visual +3 de espinas hemorrágicas temporales hasta el final del turno.,Épines sanglantes temporaires&nbsp;+3&nbsp;à une unité dans votre ligne de mire jusqu'à la fin de son tour.,Verursache bei einer Einheit in deiner Sichtlinie +3&nbsp;vorübergehende Blutige Dornen bis zum Ende ihres Zuges.,Fornisci a un'unità all'interno del tuo campo visivo +3 Spine Insanguinate temporanee fino alla fine del suo turno.,Conceda a uma unidade dentro do seu campo de visão +3 de espinhos de sangramento temporários até o final de seu turno.,,,,"给予你视线内的一个单位 
 +3 临时流血荆棘，
-持续直到其回合结束。"
+持续到其回合结束。"
 ABILITY_TEMPORALSHARDS2_DESC,"Give a unit within your line of sight +3 temporary Bleed Thorns until the end of its turn. If its was an ally, the bleed thorns last for the rest of the battle.",,"Otorga a una unidad en su campo visual +3 de espinas hemorrágicas temporales hasta el final del turno. Si se trataba de un aliado, las espinas hemorrágicas duran el resto del combate.","Épines sanglantes temporaires&nbsp;+3&nbsp;à une unité dans votre ligne de mire jusqu'à la fin de son tour. Si c'était une unité alliée, Épines sanglantes dure jusqu'à la fin du combat.","Verursache bei einer Einheit in deiner Sichtlinie +3&nbsp;vorübergehende Blutige Dornen bis zum Ende ihres Zuges. Handelt es sich um eine verbündete Einheit, dauern die Blutigen Dornen bis zum Ende des Kampfes an.","Fornisci a un'unità all'interno del tuo campo visivo +3 Spine Insanguinate temporanee fino alla fine del suo turno. Se era un'unità alleata, le spine insanguinate durano per il resto della battaglia.","Conceda a uma unidade dentro do seu campo de visão +3 de espinhos de sangramento temporários até o final de seu turno. Caso seja um aliado, os espinhos de sangramento duram até o fim da batalha.",,,,"给予你视线内的一个单位 
 +3 临时流血荆棘，
-持续直到其回合结束。
+持续到其回合结束。
 如果目标是盟友，
-流血荆棘持续至战斗结束。"
+流血荆棘持续到战斗结束。"
 ABILITY_REALITYSCRAMBLE_NAME,Reality Scramble,,Desorden de realidad,Réalité brouillée,Wirklichkeit verrühren,Realtà in Subbuglio,Embaralhamento da Realidade,,,,现实扰乱
 ABILITY_REALITYSCRAMBLE_DESC,Randomize the positions of all units. Enemies get Confused.,,Coloca al azar a todas las unidades. Los enemigos sufren confusión.,Vous mélangez les positions de toutes les unités. Confusion pour les ennemis.,Die Positionen aller Einheiten werden zufällig verändert. Gegner werden verwirrt.,Rendi casuali le posizioni di tutte le unità. I ​​nemici subiscono Confusione.,Embaralhe as posições de todas as unidades. Inimigos ficam confusos.,,,,"随机打乱所有单位的位置。
 敌人会陷入混乱。"
@@ -3889,14 +3889,14 @@ ABILITY_FASTFORWARD2_DESC,Every ally that hasn't taken their turn yet takes thei
 这些单位获得 +4 临时 [img:spd]。
 你将在下一回合率先行动。"
 ABILITY_ANCESTRALRECALL_NAME,Ancestral Recall,,Recuerdo ancestral,Appel ancestral,Ruf der Urahnen,Richiamo Ancestrale,Chamado Ancestral,,,,先祖召还
-ABILITY_ANCESTRALRECALL_DESC,Upgrade one of your spells at random for the rest of the battle.,,Mejora uno de sus hechizos al azar durante el resto del combate.,L'un de vos sorts au hasard est amélioré pendant le reste du combat.,Werte zufällig einen deiner Zauber für den Rest des Kampfes auf.,Potenzi uno dei tuoi incantesimi (scelto a caso) per il resto della battaglia.,Aprimore aleatoriamente um dos seus encantamentos pelo resto da batalha.,,,,"在本场战斗的剩余时间内，
-随机升级你的一个法术。"
+ABILITY_ANCESTRALRECALL_DESC,Upgrade one of your spells at random for the rest of the battle.,,Mejora uno de sus hechizos al azar durante el resto del combate.,L'un de vos sorts au hasard est amélioré pendant le reste du combat.,Werte zufällig einen deiner Zauber für den Rest des Kampfes auf.,Potenzi uno dei tuoi incantesimi (scelto a caso) per il resto della battaglia.,Aprimore aleatoriamente um dos seus encantamentos pelo resto da batalha.,,,,"随机升级你的一个法术，
+持续到战斗结束。"
 ABILITY_ANCESTRALRECALL2_DESC,Target yourself or a unit within your line of sight and upgrade one of their spells at random for the rest of the battle.,,Marca como objetivo a una unidad en su campo visual (o bien a sí misma) y mejora uno de sus hechizos al azar durante el resto del combate.,Soit vous vous ciblez soit vous ciblez une unité dans votre ligne de mire. L'un de vos sorts ou de ses sorts au hasard est amélioré pendant le reste du combat.,Werte zufällig einen deiner Zauber oder den einer Einheit in deiner Sichtlinie für den Rest des Kampfes auf.,Prendi te o un'unità nel tuo campo visivo come bersaglio e potenzi uno degli incantesimi (scelto a caso) per il resto della battaglia.,Mire em si ou em uma unidade dentro do seu campo de visão e Aprimore aleatoriamente um de seus encantamentos pelo resto da batalha.,,,,"以你自己或视线内的一名单位为目标，
-在本场战斗的剩余时间内，
-随机升级其一个法术。"
+随机升级其一个法术，
+持续到战斗结束。"
 ABILITY_CUMULATIVEBLAST_NAME,Cumulative Blast,,Explosión acumulativa,Explosion cumulée,Kumulative Explosion,Esplosione Cumulativa,Explosão Cumulativa,,,,累积爆破
 ABILITY_CUMULATIVEBLAST_DESC,"Deal damage to a unit in your line of sight, then increase this spell's damage by 1 for the rest of the battle.",,"Inflige daño a una unidad en su campo visual. Luego, aumenta en 1 el daño de este hechizo durante el resto del combate.","Vous infligez des dégâts à une unité dans votre ligne de mire, puis Dégâts&nbsp;+1&nbsp;à ce sort pendant le reste du combat.",Verursache Schaden bei einer Einheit in deiner Sichtlinie und erhöhe den Schaden dieses Zaubers für den Rest des Kampfes um 1.,"Infliggi danno a un'unità nel tuo campo visivo, poi aumenti il danno di quest'incantesimo di 1 per il resto della battaglia.","Cause dano a uma unidade dentro do seu campo de visão, e então aumente o dano deste encantamento em 1 pelo resto da batalha.",,,,"对视线内的一名单位造成伤害，
-并在本场战斗的剩余时间内，
+在本场战斗中，
 使此法术的伤害增加 1 点。"
 ABILITY_CUMULATIVEBLAST2_DESC,"Deal damage to a unit in your line of sight, then increase this spell's damage by 1 for the rest of the battle.
 [s:.7](This spell costs less.)[/s]",,"Inflige daño a una unidad en su campo visual. Luego, aumenta en 1 el daño de este hechizo durante el resto del combate.
@@ -3905,7 +3905,7 @@ ABILITY_CUMULATIVEBLAST2_DESC,"Deal damage to a unit in your line of sight, then
 [s:.7](Dieser Zauber kostet weniger.)[/s]","Infliggi danno a un'unità nel tuo campo visivo, poi aumenti il danno di questo incantesimo di 1 per il resto della battaglia.
 [s:.7](Quest'incantesimo costa meno.)[/s]","Cause dano a uma unidade dentro do seu campo de visão, e então aumente o dano deste encantamento em 1 pelo resto da batalha.
 [s:.7](Este encantamento custa menos.)[/s]",,,,"对视线内的一名单位造成伤害，
-并在本场战斗的剩余时间内，
+在本场战斗中，
 使此法术的伤害增加 1 点。
 [s:.7](此法术消耗更低。)[/s]"
 ABILITY_HALLUCINATE_NAME,Hallucinate,,Alucinación,Hallucination,Halluzinieren,Allucinazione,Alucinação,,,,致幻
@@ -4978,7 +4978,7 @@ Cette compétence devient PLUS BEAUCOUP EN COLÈRE&nbsp;!!!","Deine [img:int] wi
 Diese Fähigkeit wird zu MEHR WÜTENDER!!!","La tua [img:int] diventa 0. Puoi attaccare una volta in più ogni turno per il resto della battaglia.
 Quest'abilità diventa FURENTE!!!","Sua [img:int] se torna 0. Você pode atacar uma vez adicional a cada turno pelo resto da batalha.
 Esta habilidade se torna MAIS RAIVA!!!.",,,,"你的 [img:int] 变为 0。
-在战斗剩余时间内，
+在本场战斗中，
 你每回合可以额外攻击一次。
 此能力变为更生气！！！"
 ABILITY_STOOPZERK2_DESC,"Your [img:int] becomes 0. You can attack an extra time each turn for the rest of the battle.
@@ -4987,7 +4987,7 @@ This ability becomes MORE ANGRIER!!!+",,"El [img:int] se convierte en 0. Puede a
 Diese Fähigkeit wird zu MEHR WÜTENDER!!!+","La tua [img:int] diventa 0. Puoi attaccare una volta in più ogni turno per il resto della battaglia.
 Quest'abilità diventa FURENTE!!!+","Sua [img:int] se torna 0. Você pode atacar uma vez adicional a cada turno pelo resto da batalha.
 Esta habilidade se torna MAIS RAIVA!!!+.",,,,"你的 [img:int] 变为 0。
-在战斗剩余时间内，
+在本场战斗中，
 你每回合可以额外攻击一次。
 此能力变为更生气！！！+"
 ABILITY_MOREANGRIER_NAME,MORE ANGRIER!!!,,Más enfado,PLUS BEAUCOUP EN COLÈRE&nbsp;!!!,MEHR WÜTENDER!!!,FURENTE!!!,MAIS RAIVA!!!,,,,更生气！！！
@@ -6941,9 +6941,9 @@ ABILITY_SPARKS2_DESC,Shoot electric bolts at up to 5 random enemies or robots.,,
 或机器人发射电击弹。"
 ABILITY_HONE_NAME,Hone,,Pulimento,Perfectionnement,Verfeinern,Affilatura,Amolar,,,,打磨
 ABILITY_HONE_DESC,Repair 1 use to your weapon and give it +1 damage for the rest of the battle.,,Repara 1 uso del arma y le otorga +1 de daño durante el resto del combate.,Répare 1&nbsp;utilisation de votre arme. Elle gagne Dégâts&nbsp;+1&nbsp;pour le reste du combat.,Stelle 1&nbsp;Anwendung deiner Waffe wieder her. Sie erhält für den Rest des Kampfes +1&nbsp;Schaden.,Ripari un utilizzo della tua arma e le fornisci +1 di danno per il resto della battaglia.,Repare 1 uso de sua arma e ela obtém +1 de dano pelo resto da batalha.,,,,"修复你武器的 1 次使用次数，
-并使其在剩余战斗中 +1 伤害。"
+并使其在本场战斗中 +1 伤害。"
 ABILITY_HONE2_DESC,Repair 1 use to your weapon and give it +1 damage for the rest of the battle. Refresh your weapon action.,,Repara 1 uso del arma y le otorga +1 de daño durante el resto del combate. Restaura la acción de arma.,Répare 1&nbsp;utilisation de votre arme. Elle gagne Dégâts&nbsp;+1&nbsp;pour le reste du combat. Votre action d'arme est rechargée.,Stelle 1&nbsp;Anwendung deiner Waffe wieder her. Sie erhält für den Rest des Kampfes +1&nbsp;Schaden. Frische deine Waffenaktion auf.,Ripari un utilizzo della tua arma e le fornisci +1 di danno per il resto della battaglia. Ricarichi l'azione della tua arma.,Repare 1 uso de sua arma e ela obtém +1 de dano pelo resto da batalha. Reinicie sua ação de arma.,,,,"修复你武器的 1 次使用次数，
-并使其在剩余战斗中 +1 伤害。
+并使其在本场战斗中 +1 伤害。
 刷新你的武器行动。"
 //context,,,,,,,,,,,
 ABILITY_BREAKWEB_NAME,Break Free,,Liberación,Libération,Befreien,Libertà,Libertar-se,,,,挣脱
@@ -7389,9 +7389,9 @@ ABILITY_LEECHSWARM2_DESC,"Inflict Leech 1 on each allied unit and Leech 3 on all
 并对除你自己外的
 所有其他单位施加 3 层水蛭。"
 ABILITY_FEED_NAME,Feed,,Alimento,Alimentation,Leichenschmaus,Nutrimento,Alimentar,,,,进食
-ABILITY_FEED_DESC,Destroy an adjacent body. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver adyacente. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre adjacent. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre eine benachbarte Leiche. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo adiacente. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo adjacente. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,,,,"销毁一具相邻的尸体。在剩余战斗中，
+ABILITY_FEED_DESC,Destroy an adjacent body. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver adyacente. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre adjacent. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre eine benachbarte Leiche. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo adiacente. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo adjacente. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,,,,"销毁一具相邻的尸体。在本场战斗中，
 你的基础攻击施加 +1 水蛭。"
-ABILITY_FEED2_DESC,Destroy a body at range. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver dentro de su radio de alcance. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre dans un rayon. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre Leiche innerhalb deiner Reichweite. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo a distanza. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo dentro do alcance. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,,,,"销毁一具远程尸体。在剩余战斗中，
+ABILITY_FEED2_DESC,Destroy a body at range. Your basic attack inflicts +1 Leech for the rest of the battle.,,Destruye un cadáver dentro de su radio de alcance. El ataque básico inflige +1 de sanguijuela durante el resto del combate.,Vous détruisez un cadavre dans un rayon. Votre attaque de base inflige Sangsue&nbsp;+1&nbsp;pendant le reste du combat.,Zerstöre Leiche innerhalb deiner Reichweite. Dein Grundangriff verursacht für den Rest des Kampfes +1&nbsp;Blutegel.,Distruggi un corpo a distanza. Il tuo attacco base infligge +1 Sanguisuga per il resto della battaglia.,Destrua um corpo dentro do alcance. Seu ataque básico aplica +1 sanguessuga pelo resto da batalha.,,,,"销毁一具射程范围内的尸体。在本场战斗中，
 你的基础攻击施加 +1 水蛭。"
 ABILITY_HUSH_NAME,Hush,,Silenciamiento,Chut,Totschweigen,Silenzio,Silenciar,,,,噤声
 ABILITY_HUSH_DESC,Inflict Sleep 1 on an adjacent unit.,,Inflige 1 de sueño a una unidad adyacente.,Sommeil&nbsp;+1&nbsp;à une unité adjacente.,Verursache Schlaf&nbsp;1 bei einer benachbarten Einheit.,Infliggi Sonno 1 a un'unità adiacente.,Aplique sono 1 em uma unidade adjacente.,,,,对一个相邻单位施加 1 层睡眠。
@@ -37020,7 +37020,7 @@ ITEM_22RIFLE_NAME,.22 Rifle,,Fusil calibre 22,Carabine .22,Kleinkaliber,Fucile .
 ITEM_22RIFLE_DESC,Use: Fire a shot anywhere within your line of sight.,,Uso: Dispara un proyectil a cualquier parte del campo visual.,Utilisation&nbsp;: tire sur n'importe quelle cible dans votre ligne de mire.,Benutzen: Schieße auf ein Ziel in deiner Sichtlinie.,Uso: Spari un colpo in qualsiasi punto entro il tuo campo visivo.,Uso: realize um disparo em qualquer lugar dentro do seu campo de visão.,,,,使用：向视线内的任意位置射击。
 ITEM_ALIENBLASTER_NAME,Alien Blaster,,Desintegrador extraterrestre,Flingue extraterrestre,Alienblaster,Blaster Alieno,Blaster Alienígena,,,,外星爆能枪
 ITEM_ALIENBLASTER_DESC,Use: A laser attack. Gains +1 damage for the rest of the battle each time it's used.,,Uso: Lanza un ataque láser. Obtiene +1 de daño durante el resto del combate cada vez que se dispara.,Utilisation&nbsp;: une attaque laser. Dégâts +1&nbsp;à chaque utilisation durant ce combat.,"Benutzen: Ein Laserangriff. Erhält für den Rest des Kampfes jedes Mal +1&nbsp;Schaden, wenn er benutzt wird.",Uso: Un attacco laser. Ottieni +1 al Danno per il resto della battaglia ogni volta che viene utilizzato.,Uso: um ataque a laser. Obtém +1 de dano pelo resto da batalha a cada vez que for usada.,,,,"使用：激光攻击。每次使用后，
-在本场战斗剩余时间内伤害 +1。"
+在本场战斗中 +1 伤害。"
 ITEM_ALIENTECH_NAME,Alien Tech,,Tecnología extraterrestre,Technologie extraterrestre,Alientechnologie,Tecnologia Aliena,Tecnologia Alienígena,,,,外星科技
 ITEM_ALIENTECH_DESC,"Use: Target an area. Unleash a hyper beam attack in that area at the start of your next turn.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Marca como objetivo una zona y lanza un ataque con hiperrayo al inicio del siguiente turno.
@@ -37817,7 +37817,7 @@ Vous subissez 5&nbsp;dégâts à l'utilisation.","Benutzen: Ein Laserangriff. Er
 Erleide bei Benutzung 5&nbsp;Schaden.","Uso: Un attacco laser. Ottieni +5 al danno per il resto della battaglia ogni volta che viene utilizzato.
 Subisci 5 di danno quando viene utilizzato.","Uso: um ataque a laser. Obtém +5 de dano pelo resto da batalha a cada vez que é utilizado.
 Sofra 5 de dano ao utilizá-lo.",,,,"使用：激光攻击。每次使用后，
-在本场战斗剩余时间内 +5 伤害。
+在本场战斗中 +5 伤害。
 使用时受到 5 点伤害。"
 ITEM_MELONBALLER_NAME,Melon Baller,,Cuchara para bolas,Cuillère parisienne,Eislöffel,Scavapalline,Boleadeira de Melão,,,,挖球勺
 ITEM_MELONBALLER_DESC,Use: A melee attack that inflicts Blind 3 and gives you a random eye trinket if you don't have a trinket equipped.,,Uso: Lanza un ataque cuerpo a cuerpo que inflige 3 de ceguera y otorga al azar una baratija para el ojo si esta unidad no tiene ninguna equipada.,Utilisation&nbsp;: une attaque au corps-à-corps qui inflige Cécité +3&nbsp;et vous confère une babiole oculaire aléatoire si vous n'en avez pas équipé.,"Benutzen: Ein Nahkampfangriff, der Blindheit&nbsp;3 verursacht und dir ein zufälliges Zubehör für die Augen gibt, wenn kein Zubehör ausgerüstet ist.",Uso: Un attacco corpo a corpo che infligge Accecamento 3 e ti fornisce un ciondolo per occhio casuale se non hai un ciondolo equipaggiato.,"Uso: um ataque corpo-a-corpo que aplica cegueira 3 e concede um acessório de olho aleatório, caso você não possua um acessório equipado.",,,,"使用：施加 3 层致盲的近战攻击，
@@ -38053,7 +38053,7 @@ ITEM_REVOLVER_DESC,Use: Fire a shot in a straight line that instakills units and
 ITEM_ROBOTICARM_NAME,Robotic Arm,,Brazo robótico,Bras robotique,Roboterarm,Braccio Robotico,Braço Robótico,,,,机械臂
 ITEM_ROBOTICARM_DESC,Use: A melee attack with a chance to repeat. Gains 1 damage for the rest of the battle each time it's used. Refreshes when affected by Electric element.,,Uso: Lanza un ataque cuerpo a cuerpo que puede repetirse. Obtiene 1 de daño durante el resto del combate cada vez que se usa. Se restaura con los efectos de la electricidad.,Utilisation&nbsp;: une attaque au corps-à-corps avec une chance de se répéter. Dégâts +1&nbsp;pour le reste du combat à chaque utilisation. Se réinitialise si de l'électricité vous affecte.,"Benutzen: Ein Nahkampfangriff, der mit einer gewissen Wahrscheinlichkeit wiederholt wird. Erhält für den Rest des Kampfes jedes Mal 1&nbsp;Schaden, wenn er benutzt wird. Wird aufgefrischt, wenn er mit Elektrizität getroffen wird.","Uso: Un attacco corpo a corpo con possibilità di ripetersi. Ogni volta che lo usi, ottieni 1 al danno per il resto della battaglia. Si ricarica quando entra in contatto con l'elemento Elettrico.",Uso: um ataque corpo-a-corpo com uma chance de se repetir. Obtém 1 de dano pelo resto da batalha a cada vez que é utilizado. É reiniciado ao ser afetado pelo elemento elétrico.,,,,"使用：有几率重复的近战攻击。
 每次使用后，
-在本场战斗剩余时间内获得 1 点伤害。
+在本场战斗中获得 1 点伤害。
 当受到电击元素影响时刷新。"
 ITEM_ROCKETLAUNCHER_NAME,Rocket Launcher,,Lanzacohetes,Lance-roquettes,Raketenwerfer,Lanciarazzi,Lança-Foguetes,,,,火箭发射器
 ITEM_ROCKETLAUNCHER_DESC,Use: Fire a rocket anywhere that explodes.,,Uso: Dispara un cohete que estalla en cualquier parte.,Utilisation&nbsp;: tire une roquette explosive n'importe où.,"Benutzen: Feuert eine Rakete, die explodiert.","Uso: Spari un razzo in qualsiasi punto, che poi esplode.",Uso: dispare um foguete explosivo em qualquer lugar.,,,,使用：向任意位置发射一枚火箭并引爆。
@@ -38268,7 +38268,7 @@ ITEM_TESLACANNON_DESC,Use: Fire a ranged electric shot that passes through units
 沿直线穿过单位，
 有 50% 的几率造成晕眩。"
 ITEM_TEXTBOOK_NAME,Textbook,,Libro de texto,Manuel scolaire,Textbuch,Libro di Testo,Livro Didático,,,,教科书
-ITEM_TEXTBOOK_DESC,Use: Gain +1 [img:int] for the rest of the battle.,,Uso: Obtiene +1 [img:int] durante el resto del combate.,Utilisation&nbsp;: [img:int] +1&nbsp;pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +1&nbsp;[img:int].,Uso: Ottieni +1 all'[img:int] per il resto della battaglia.,Uso: obtenha +1 de [img:int] pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +1 [img:int]。
+ITEM_TEXTBOOK_DESC,Use: Gain +1 [img:int] for the rest of the battle.,,Uso: Obtiene +1 [img:int] durante el resto del combate.,Utilisation&nbsp;: [img:int] +1&nbsp;pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +1&nbsp;[img:int].,Uso: Ottieni +1 all'[img:int] per il resto della battaglia.,Uso: obtenha +1 de [img:int] pelo resto da batalha.,,,,使用：获得 +1 [img:int]，持续到战斗结束。
 ITEM_TINASLARYNX_NAME,Tina's Larynx,,Laringe de Tina,Larynx de Tina,Tinas Kehlkopf,Laringe di Tina,Laringe de Tina,,,,蒂娜的喉头
 ITEM_TINASLARYNX_DESC,"Use: Inflict Fear on all enemies.
 [s:.7](Usable once per battle.)[/s]",,"Uso: Inflige miedo a todos los enemigos.
@@ -38330,7 +38330,7 @@ Passivo: +2 de preparação enquanto esta arma puder ser utilizada.",,,,"使用�
 ITEM_UZI_NAME,Submachine Gun,,Subfusil,Mitrailleuse,Maschinenpistole,Mitragliatrice,Submetralhadora,,,,冲锋枪
 ITEM_UZI_DESC,Use: Fire 5 shots in a straight line.,,Uso: Dispara 5 proyectiles en línea recta.,Utilisation&nbsp;: tire 5&nbsp;projectiles en ligne droite.,Benutzen: Feuere 5&nbsp;Schüsse in einer geraden Linie.,Uso: Spari 5 colpi in linea retta.,Uso: realize 5 disparos em linha reta.,,,,使用：沿直线发射 5 发子弹。
 ITEM_WHETSTONE_NAME,Whetstone,,Piedra de afilar,Pierre à aiguiser,Schleifstein,Pietra per Affilare,Pedra de Amolar,,,,磨刀石
-ITEM_WHETSTONE_DESC,Use: Gain +1 Damage for the rest of the battle.,,Uso: Obtiene +1 de daño durante el resto del combate.,Utilisation&nbsp;: Dégâts +1&nbsp;pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +1&nbsp;Schaden.,Uso: Ottieni +1 al Danno per il resto della battaglia.,Uso: obtenha +1 de dano pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +1 伤害。
+ITEM_WHETSTONE_DESC,Use: Gain +1 Damage for the rest of the battle.,,Uso: Obtiene +1 de daño durante el resto del combate.,Utilisation&nbsp;: Dégâts +1&nbsp;pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +1&nbsp;Schaden.,Uso: Ottieni +1 al Danno per il resto della battaglia.,Uso: obtenha +1 de dano pelo resto da batalha.,,,,使用：获得 +1 伤害，持续到战斗结束。
 ITEM_ZODIACSSIXSHOOTER_NAME,Zodiac's Six Shooter,,Revólver de Zodiaco,Revolver du Zodiaque,Zodiacs Revolver,Sei Colpi dello Zodiaco,Revólver do Zodíaco,,,,佐迪亚克的六发左轮
 ITEM_ZODIACSSIXSHOOTER_DESC,"Use: Fire a shot anywhere within your line of sight.
 Automatically use this whenever an enemy ends movement within your line of sight.
@@ -38350,7 +38350,7 @@ Recarrega-se no final de cada batalha.",,,,"使用：向视线内的任意位置
 每场战斗结束时装填。"
 ITEM_THEPACT_NAME,The Pact,,El Pacto,Le Pacte,Der Pakt,Il Patto,O Pacto,,,,契约
 ITEM_THEPACT_DESC,"Use: Permanently lose 1 [img:con] to gain +1 [img:str], +2 [img:dex] and +2 [img:spd] for the rest of the battle.",,"Uso: Pierde para siempre 1 [img:con] para obtener +1 [img:str], +2 [img:dex] y +2 [img:spd] durante el resto del combate.","Utilisation&nbsp;: [img:con] -1&nbsp;définitivement, [img:str] +1, [img:dex] +2&nbsp;et [img:spd] +2&nbsp;pour le reste du combat.","Benutzen: Verliere dauerhaft 1&nbsp;[img:con], um +1&nbsp;[img:str], +2&nbsp;[img:dex] und +2&nbsp;[img:spd] für den Rest des Kampfes zu erhalten.","Uso: Perdi permanentemente 1 alla [img:con] per ottenere +1 alla [img:str], +2 alla [img:dex] e +2 alla [img:spd] per il resto della battaglia.","Uso: perca permanentemente 1 de [img:con] para ganhar +1 de [img:str], +2 de [img:dex] e +2 de [img:spd] pelo resto da batalha.",,,,"使用：永久失去 1 [img:con]，
-以在战斗剩余时间内获得 +1 [img:str]、
+以在本场战斗中获得 +1 [img:str]、
 +2 [img:dex] 和 +2 [img:spd]。"
 ITEM_PROBE_NAME,Probe,,Sonda,Sonde,Sonde,Sonda,Sonda,,,,探针
 ITEM_PROBE_DESC,Use: Inflict Charm 3. Can only hit from behind.,,Uso: Inflige 3 de embrujo. Solo puede golpear por la espalda.,Utilisation&nbsp;: inflige Envoûtement +3. Ne s'effectue que par derrière.,Benutzen: Verursache Charme&nbsp;3. Kann nur von hinten treffen.,Uso: Infliggi Fascino 3. Puoi colpire solo alle spalle.,Uso: aplique feitiço 3. Só pode golpear por trás.,,,,"使用：施加 3 层魅惑。
@@ -39182,14 +39182,14 @@ ITEM_CATFOOD_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;
 ITEM_CLERICSEAL_NAME,Cleric Seal,,Sello de clérigo,Sceau du sage,Klerikersiegel,Sigillo del Chierico,Selo de Clérigo,,,,牧师印章
 ITEM_CLERICSEAL_DESC,Use: Permanently turn into a Cleric.,,Uso: Se transforma para siempre en clérigo.,Utilisation&nbsp;: vous change en sage de façon permanente.,Benutzen: Werde dauerhaft zu einem Kleriker.,Uso: Ti trasformi permanentemente in un Chierico.,Uso: torne-se um clérigo permanentemente.,,,,使用：永久变为牧师。
 ITEM_CLOVER_NAME,Clover,,Trébol,Placebo,Kleeblatt,Trifoglio,Trevo,,,,三叶草
-ITEM_CLOVER_DESC,Use: Gain +{aux} [img:lck] for the rest of the battle.,,Uso: Obtiene +{aux} [img:lck] durante el resto del combate.,Utilisation&nbsp;: [img:lck] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:lck].,Uso: Ottieni +{aux} alla [img:lck] per il resto della battaglia.,Uso: obtenha +{aux} de [img:lck] pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +{aux} [img:lck] 。
+ITEM_CLOVER_DESC,Use: Gain +{aux} [img:lck] for the rest of the battle.,,Uso: Obtiene +{aux} [img:lck] durante el resto del combate.,Utilisation&nbsp;: [img:lck] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:lck].,Uso: Ottieni +{aux} alla [img:lck] per il resto della battaglia.,Uso: obtenha +{aux} de [img:lck] pelo resto da batalha.,,,,使用：获得 +{aux} [img:lck] ，持续到战斗结束。
 ITEM_COLORLESSSEAL_NAME,Void Seal,,Sello del vacío,Sceau du vide,Leerensiegel,Sigillo del Vuoto,Selo do Vazio,,,,虚空印章
 ITEM_COLORLESSSEAL_DESC,Use: Permanently turn into a Collarless cat.,,Uso: Se transforma para siempre en gato sin collar.,Utilisation&nbsp;: vous change en chat sans collier de façon permanente.,Benutzen: Werde dauerhaft zu einer klassenlosen Katze.,Uso: Ti trasformi permanentemente in un gatto Senza Collare.,Uso: torne-se permanentemente um gato sem coleira.,,,,使用：永久变为无项圈猫。
 ITEM_DEADHUMMINGBIRD_NAME,Dead Hummingbird,,Colibrí muerto,Colibri mort,Toter Kolibri,Colibrì Morto,Beija-Flor Morto,,,,死蜂鸟
 ITEM_DEADHUMMINGBIRD_DESC,Use: Gain +20 [img:spd] and +50% Dodge Chance.,,Uso: Obtiene +20 [img:spd] y +50 % de probabilidad de esquiva.,Utilisation&nbsp;: [img:spd] +20&nbsp;et Chances d'esquive +50&nbsp;%.,Benutzen: Erhalte +20&nbsp;[img:spd] and +50&nbsp;% Ausweichchance.,Uso: Ottieni +20 alla [img:spd] e un +50% di probabilità di schivata.,Uso: obtenha +20 de [img:spd] e +50% de chance de esquiva.,,,,使用：获得 +20 [img:spd] 和 +50% 闪避率。
 ITEM_DISCOBISCUIT_NAME,Disco Biscuit,,Pirula,Biscuit disco,Disco-D,Disco Biscotto,Biscoito Disco,,,,迪斯科饼干
 ITEM_DISCOBISCUIT_DESC,Use: Gain +{aux} [img:cha] for the rest of the battle and gain 6 mana.,,Uso: Obtiene +{aux} [img:cha] durante el resto del combate y recibe 6 de maná.,"Utilisation&nbsp;: [img:cha] +{aux} pour le reste du combat, Mana +6.",Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:cha] und erhalte 6&nbsp;Mana.,Uso: Ottieni +{aux} al [img:cha] per il resto della battaglia e ottieni 6 mana.,Uso: obtenha +{aux} de [img:cha] pelo resto da batalha e 6 de mana.,,,,"使用：
-在战斗剩余时间内获得 +{aux} [img:cha] 
+获得 +{aux} [img:cha] 持续到战斗结束，
 并获得 6 点法力值。"
 ITEM_DRUIDSEAL_NAME,Druid Seal,,Sello de druida,Sceau du druide,Druidensiegel,Sigillo del Druido,Selo de Druida,,,,德鲁伊印章
 ITEM_DRUIDSEAL_DESC,Use: Permanently turn into a Druid.,,Uso: Se transforma para siempre en druida.,Utilisation&nbsp;: vous change en druide de façon permanente.,Benutzen: Werde dauerhaft zu einem Druiden.,Uso: Ti trasformi permanentemente in un Druido.,Uso: torne-se um druida permanentemente.,,,,使用：永久变为德鲁伊。
@@ -39280,7 +39280,7 @@ Ha un 10% di probabilità alla fine di ogni turno di rompersi ed evocare un Gatt
 在每回合结束时有 10% 的
 几率破裂并召唤一只被魅惑的迅猛龙小猫。"
 ITEM_ROIDRAGE_NAME,Roid Rage,,Rabia esteroidea,Furioxane,Steroidwut,Rabbia da Steroidi,Roid Rage,,,,类固醇暴怒
-ITEM_ROIDRAGE_DESC,Use: Gain +{aux} [img:str] for the rest of the battle.,,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +{aux} [img:str] 。
+ITEM_ROIDRAGE_DESC,Use: Gain +{aux} [img:str] for the rest of the battle.,,Uso: Obtiene +{aux} [img:str] durante el resto del combate.,Utilisation&nbsp;: [img:str] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:str].,Uso: Ottieni +{aux} alla [img:str] per il resto della battaglia.,Uso: obtenha +{aux} de [img:str] pelo resto da batalha.,,,,使用：获得 +{aux} [img:str] ，持续到战斗结束。
 ITEM_ROTISSERIECHICKEN_NAME,Rotisserie Chicken,,Pollo asado,Poulet rôti,Brathähnchen,Pollo allo Spiedo,Galinha de Rotisserie,,,,烤鸡
 ITEM_ROTISSERIECHICKEN_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,,,,使用：恢复 {aux} 点生命值。
 ITEM_ROTTENMEAT_NAME,Rotten Meat,,Carne putrefacta,Viande rôtie,Verdorbenes Fleisch,Carne Marcia,Carne Podre,,,,腐肉
@@ -39321,7 +39321,7 @@ Este item é usado automaticamente se você estiver inconsciente no final da rod
 当你在回合结束时处于倒地状态，
 会自动对自己使用。"
 ITEM_SPEEDBALL_NAME,Speedball,,Anfeta,Caféine,Speedball,Anfetamina,Speedball,,,,速球
-ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +{aux} [img:dex] 。
+ITEM_SPEEDBALL_DESC,Use: Gain +{aux} [img:dex] for the rest of the battle.,,Uso: Obtiene +{aux} [img:dex] durante el resto del combate.,Utilisation&nbsp;: [img:dex] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:dex].,Uso: Ottieni +{aux} alla [img:dex] per il resto della battaglia.,Uso: obtenha +{aux} de [img:dex] pelo resto da batalha.,,,,使用：获得 +{aux} [img:dex] ，持续到战斗结束。
 ITEM_STAR_NAME,Star,,Estrella,Étoile,Stern,Stella,Estrela,,,,星星
 ITEM_STAR_DESC,"Use: Gain Invincibility, +10 Thorns, and Trample until the start of your next turn. Refresh your movement action.",,"Uso: Obtiene invencibilidad, +10 de espinas y pisotón hasta el próximo turno. Restaura la acción de movimiento.","Utilisation&nbsp;: vous confère Invincibilité, Épines +10, et Piétinement jusqu'au début de votre prochain tour. Réinitialise votre action de déplacement.","Benutzen: Erhalte bis zum Anfang deines nächsten Zuges Unverwundbarkeit, +10&nbsp;Dornen und Trampel. Frische deine Bewegungsaktion auf.","Uso: Ottieni Invincibilità, +10 Spine e Calpestamento fino all'inizio del tuo prossimo turno. Ricarichi la tua azione di movimento.","Uso: obtenha invencibilidade, +10 de espinhos e atropelamento até o início do próximo turno. Reinicie sua ação de movimento.",,,,"使用：获得无敌、+10 荆棘和践踏，
 直到你的下个回合开始。
@@ -39344,7 +39344,7 @@ ITEM_TINKERERSEAL_DESC,Use: Permanently turn into a Tinkerer.,,Uso: Se transform
 ITEM_TURKEY_NAME,Whole Turkey,,Pavo entero,Dinde entière,Ganzer Truthahn,Tacchino Intero,Peru Inteiro,,,,整只火鸡
 ITEM_TURKEY_DESC,Use: Heal {aux} HP.,,Uso: Devuelve {aux} PS.,Utilisation&nbsp;: rend {aux} PV.,Benutzen: Heile {aux}&nbsp;LP.,Uso: Recuperi {aux} PS.,Uso: cure {aux} PV.,,,,使用：恢复 {aux} 点生命值。
 ITEM_UPPER_NAME,Upper,,Estimulante,Stimulant,Upper,Stimolante,Upper,,,,兴奋剂
-ITEM_UPPER_DESC,Use: Gain +{aux} [img:spd] for the rest of the battle.,,Uso: Obtiene +{aux} [img:spd] durante el resto del combate.,Utilisation&nbsp;: [img:spd] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:spd].,Uso: Ottieni +{aux} alla [img:spd] per il resto della battaglia.,Uso: obtenha +{aux} de [img:spd] pelo resto da batalha.,,,,使用：在战斗剩余时间内获得 +{aux} [img:spd] 。
+ITEM_UPPER_DESC,Use: Gain +{aux} [img:spd] for the rest of the battle.,,Uso: Obtiene +{aux} [img:spd] durante el resto del combate.,Utilisation&nbsp;: [img:spd] +{aux} pour le reste du combat.,Benutzen: Erhalte für den Rest des Kampfes +{aux}&nbsp;[img:spd].,Uso: Ottieni +{aux} alla [img:spd] per il resto della battaglia.,Uso: obtenha +{aux} de [img:spd] pelo resto da batalha.,,,,使用：获得 +{aux} [img:spd] ，持续到战斗结束。
 ITEM_VIPERBOTTLE_NAME,Viper Bottle,,Botella de Víbora,Fiole de venin,Viper-Flasche,Bottiglia di Vipera,Garrafa de Víbora,,,,毒蛇瓶
 ITEM_VIPERBOTTLE_DESC,"Use: Take 5 damage and gain +1 to a random stat permanently.
 May have side effects...",wip,"Uso: Sufre 5 de daño y obtiene +1 en un atributo al azar para siempre.
@@ -40366,8 +40366,8 @@ Erhalte +1&nbsp;[img:int] und +3&nbsp;Lebensregeneration für den Rest des Kampf
 Quando si rompe, ottieni +1 all'[img:int] e +3 a Rigenerazione Salute per il resto della battaglia.","Quebra quando se [img:shield] se esgota.
 Quando este item se quebra, você obtém +1 de [img:int] e +3 de regeneração de saúde pelo resto da batalha.",,,,"[img:shield] 耗尽时破碎。
 破碎时，
-本场战斗剩余时间内获得 +1
- [img:int] 和 +3 生命恢复。"
+获得 +1 [img:int] 和 +3 生命恢复，
+持续到战斗结束。"
 ARMOR_BONESMASK_NAME,Jawbone,,Mandíbula,Mâchoire,Kieferknochen,Mandibola,Mandíbula,,,,下颚骨
 ARMOR_BONESMASK_DESC,"Breaks when [img:shield] is depleted.
 When it breaks, gain +1 [img:str] and +3 Health Regen for the rest of the battle.",,"Se rompe al agotarse [img:shield].
@@ -40377,8 +40377,8 @@ Erhalte +1&nbsp;[img:str] und +3&nbsp;Lebensregeneration für den Rest des Kampf
 Quando si rompe, ottieni +1 alla [img:str] e +3 a Rigenerazione Salute per il resto della battaglia.","Quebra quando se [img:shield] se esgota.
 Quando este item se quebra, você obtém +1 de [img:str] e +3 de regeneração de saúde pelo resto da batalha.",,,,"[img:shield] 耗尽时破碎。
 破碎时，
-本场战斗剩余时间内获得 +1
- [img:str] 和 +3 生命恢复。"
+获得 +1 [img:str] 和 +3 生命恢复，
+持续到战斗结束。"
 ARMOR_BONESARMOR_NAME,Bone Necklace,,Gargantilla de hueso,Collier d'os,Knochenkette,Collana d'Ossa,Colar de Osso,,,,骨项链
 ARMOR_BONESARMOR_DESC,"Breaks when [img:shield] is depleted.
 When it breaks, gain +1 [img:dex] and +3 Health Regen for the rest of the battle.",,"Se rompe al agotarse [img:shield].
@@ -40388,8 +40388,8 @@ Erhalte +1&nbsp;[img:dex] und +3&nbsp;Lebensregeneration für den Rest des Kampf
 Quando si rompe, ottieni +1 alla [img:dex] e +3 a Rigenerazione Salute per il resto della battaglia.","Quebra quando se [img:shield] se esgota.
 Quando este item se quebra, você obtém +1 de [img:dex] e +3 de regeneração de saúde pelo resto da batalha.",,,,"[img:shield] 耗尽时破碎。
 破碎时，
-本场战斗剩余时间内获得 +1
- [img:dex] 和 +3 生命恢复。"
+获得 +1 [img:dex] 和 +3 生命恢复，
+持续到战斗结束。"
 SETBONUS_BONE_NAME,Bone Set Bonus!,,¡Bonificación de conjunto óseo!,Bonus d'ensemble&nbsp;: os&nbsp;!,Setbonus: Knochenrüstung!,Bonus Set: Ossa!,Bônus de Conjunto de Ossos!,,,,骨头套装加成！
 SETBONUS_BONE_DESC,Find a random common bone item at the end of each battle.,,Encuentra un objeto de hueso común al azar al final de cada combate.,Vous trouvez un objet commun en os aléatoire à la fin de chaque combat.,Finde am Ende jedes Kampfes einen zufälligen gewöhnlichen Knochengegenstand.,Trovi un oggetto d'ossa comune casuale alla fine di ogni battaglia.,Encontre um item de osso comum aleatório no final de cada batalha.,,,,"每场战斗结束时，
 发现一个随机的普通骨头物品。"
@@ -42319,7 +42319,7 @@ I tuoi incantesimi costano -2 mana. Ogni volta che tu o un altro gatto lanciate 
 Seus encantamentos custam -2 de mana. Sempre que você ou outro gato lançar um encantamento, embaralhe esse encantamento pelo resto da batalha.",,,,"将它放置在遥远的未来。
 你的法术消耗减少 2 点法力。
 每次你或其他猫咪施放法术时，
-该法术在剩余战斗中会变得错乱。"
+该法术在本场战斗中会变得错乱。"
 ARMOR_ULTRAVISION3000_NAME,Ultra Vision 3000,,Ultravisión 3000,Ultra Vision 3&nbsp;000,Ultravision 3000,Ultra Vision 3000,Ultra Visão 3000,,,,超视觉 3000
 ARMOR_ULTRAVISION3000_DESC,Side Quest Item. Events are harder. All normal events trigger 2 extra events.,,Objeto de misión secundaria. Los eventos son más difíciles. Todos los eventos normales activan 2 eventos extras.,Objet de quête secondaire. La difficulté des événements se corse. Les événements normaux déclenchent 2&nbsp;événements bonus.,Nebenquestgegenstand. Ereignisse sind schwerer. Alle normalen Ereignisse lösen 2&nbsp;zusätzliche Ereignisse aus.,Oggetto per missione secondaria. Gli eventi sono più difficili. Tutti gli eventi normali attivano 2 eventi aggiuntivi.,Item de missão secundária. Eventos são mais difíceis. Todos os eventos normais ativam 2 eventos adicionais.,,,,"支线任务物品。事件变得更难。
 所有普通事件会触发 2 个额外事件。"
@@ -42654,7 +42654,7 @@ Se esta arma deixar um aliado inconsciente, ela se torna carregada pelo resto da
 随机获得其一个法术
 放入你的额外技能栏位。
 如果此武器击倒了盟友，
-它将在剩余战斗中变得充能。"
+它将在本场战斗中变得充能。"
 ITEM_SOULDAGGERCHARGED_NAME,Charged Soul Dagger,,Daga de alma cargada,Dague spirituelle chargée,Aufgeladener Seelendolch,Pugnale dell'Anima Carico,Adaga da Alma Carregada,,,,充能灵魂匕首
 ITEM_SOULDAGGERCHARGED_DESC,"Use: A melee attack with Lifesteal. If this weapon damages an allied cat, gain one of their spells at random in your bonus ability slot.
 Loses its charge at the end of the battle.",,"Uso: Lanza un ataque cuerpo a cuerpo con robavida. Si esta arma daña a un aliado, la unidad obtiene uno de sus hechizos al azar en el espacio de habilidad de bonificación.
@@ -55657,7 +55657,7 @@ PASSIVE_LIGHTUPTHESTAGE2_DESC,"At the end of your turn, emit 4 Sparkles for each
 并获得 +1 动能尖刺。"
 PASSIVE_ELEMENTALATTUNEMENT_NAME,Elemental Attunement,,Ajuste elemental,Harmonie des éléments,Elementare Einstimmung,Sintonizzazione Elementale,Sintonização Elemental,,,,元素调和
 PASSIVE_ELEMENTALATTUNEMENT_DESC,Casting elemental spells imbues your basic attack with those elements and relevant effects for the rest of the battle.,,"Al lanzar hechizos elementales, el ataque básico obtiene esos elementos y los efectos relevantes durante el resto del combate.",Lancer des sorts élémentaires imprègne votre attaque de base de ces éléments et des effets liés pendant le reste du combat.,"Wenn du einen Elementarzauber wirkst, verleihst du deinem Grundangriff für den Rest des Kampfes das jeweilige Element und alle seine Effekte.",Lanciare incantesimi elementali infonde il tuo attacco base con quegli elementi e i relativi effetti per il resto della battaglia.,Lançar encantamentos elementais infunde seu ataque básico com esses elementos e efeitos relevantes pelo resto da batalha.,,,,"施放元素法术会使你的
-基础攻击在战斗剩余时间内附带
+基础攻击在本场战斗中附带
 这些元素及相关效果。"
 PASSIVE_ELEMENTALATTUNEMENT2_DESC,"Casting elemental spells imbues your basic attack with those elements and relevant effects for the rest of the battle.
 Elemental spells cost -2 mana.",,"Al lanzar hechizos elementales, el ataque básico obtiene esos elementos y los efectos relevantes durante el resto del combate.
@@ -55665,7 +55665,7 @@ Elemental spells cost -2 mana.",,"Al lanzar hechizos elementales, el ataque bás
 Elementarzauber kosten -2&nbsp;Mana.","Lanciare incantesimi elementali infonde il tuo attacco base con quegli elementi e i relativi effetti per il resto della battaglia.
 Gli incantesimi elementali costano -2 mana.","Lançar encantamentos elementais infunde seu ataque básico com esses elementos e efeitos relevantes pelo resto da batalha.
 Encantamentos elementais custam -2 de mana.",,,,"施放元素法术会使你的
-基础攻击在战斗剩余时间内附带
+基础攻击在本场战斗中附带
 这些元素及相关效果。
 元素法术消耗减少 2 点法力。"
 PASSIVE_LATENTENERGY_NAME,Latent Energy,,Energía latente,Énergie latente,Latente Energie,Energia Latente,Energia Latente,,,,潜在能量
